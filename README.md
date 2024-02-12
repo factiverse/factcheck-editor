@@ -11,7 +11,7 @@
 * Contact Factiverse for obtaining the values for 
 
 ## Evaluate claim detection
-    - First run claim detection predictions using `python -m code.claim_detection/claim_detection`
+    - First run claim detection predictions using `python -m code.claim_detection.claim_detection`
     - Then run the plotting script `python -m scripts.claim_detection_plots`
 
 ## Evaluate veracity prediction

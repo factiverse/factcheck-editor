@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# test files
+data/claim_detection/af_test.json
+data/claim_detection/af_test_pred.json
+data/claim_detection/en_test_pred.json
+data/claim_detection/f1_scores.tsv
+data/claim_detection_test_macro.pdf
+data/claim_detection_test_micro.pdf
+data/veracity_prediction/af_test.json
