@@ -5,20 +5,17 @@ import os
 from typing import Dict
 
 
-def get_access_token(client_id: str, client_secret: str, token_url: str) -> str:
+def get_access_token() -> str:
     """Get access token from Factiverse API.
 
-    Args:
-        client_id: Client ID.
-        client_secret: Client secret.
-        token_url: Token URL.
-
-    Raises:
-        Exception: If token request fails.
+    Exception: If token request fails.
 
     Returns:
         Access token.
     """
+    client_id = os.getenv("AUTH0_CLIENT_ID")
+    client_secret = os.getenv("AUTH0_SECRET")
+    token_url = os.getenv("AUTH0_TOKEN_URL")
     payload = {
         "grant_type": "client_credentials",
         "client_id": client_id,

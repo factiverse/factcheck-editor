@@ -3,28 +3,23 @@ import json
 import os
 from sklearn.metrics import f1_score
 
-from src.search.llm_question_generator import LLMQuestionGenerator
-
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from code.utils.utils import load_lang_codes
 
 if __name__ == "__main__":
-    ISO639_FILE = {}
-    with open("code/utils/lang_codes.json", "r") as iso639_file:
-        ISO639_FILE = json.load(iso639_file)
-
-    import pandas as pd
-    import matplotlib.pyplot as plt
-    import numpy as np
+    lang_codes = load_lang_codes()
 
     # Load data from a JSON file into a pandas DataFrame
-    query_type = "expanded"
+    split = "test"
     data = pd.read_csv(
-        f"src/search/nli_data/dev.{query_type}.jsonl_f1.tsv", delimiter="\t"
+        f"data/veracity_prediction/{split}.jsonl_f1.tsv", delimiter="\t"
     )
-    print(data)
     # Assuming the JSON structure directly maps to the DataFrame structure
     # No need for transformation if the JSON structure matches the DataFrame exactly
     lang_names = {
-        lang: ISO639_FILE[lang]["name"] for lang in ISO639_FILE.keys()
+        lang: lang_codes[lang]["name"] for lang in lang_codes.keys()
     }
     print(lang_names)
     # Sort the DataFrame by gpt3_Micro_F1
@@ -90,7 +85,7 @@ if __name__ == "__main__":
     plt.tight_layout()
 
     # Save the plot to a PNG file
-    plt.savefig(f"nli_{query_type}_test_micro.pdf", format="pdf")
+    plt.savefig(f"nli_{split}_test_micro.pdf", format="pdf")
     data_sorted = data.sort_values(by="FV_Macro_F1")
     fig, ax = plt.subplots(figsize=(20, 10))
     bar_width = 0.2
@@ -142,7 +137,7 @@ if __name__ == "__main__":
     plt.tight_layout()
 
     # Save the plot to a PNG file
-    plt.savefig(f"nli_{query_type}_test_macro.pdf", format="pdf")
+    plt.savefig(f"nli_{split}_test_macro.pdf", format="pdf")
 
     average_gpt3_Micro_F1 = data["gpt3_Micro_F1"].mean()
     average_gpt3_Macro_F1 = data["gpt3_Macro_F1"].mean()

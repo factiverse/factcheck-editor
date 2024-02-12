@@ -14,8 +14,6 @@ from code.utils.utils import get_access_token, load_json
 
 
 load_dotenv()
-api_endpoint = os.getenv("SERVER_ENDPOINT")
-claim_detection_api_endpoint = f"{api_endpoint}/claim_detection"
 logger = logging.getLogger(__name__)
 
 def predict_check_worthiness_using_ollama(text: str, lang: str) -> str:
@@ -95,6 +93,9 @@ def claim_detection(
     Returns:
         Response object.
     """
+    
+    api_endpoint = os.getenv("SERVER_ENDPOINT")
+    claim_detection_api_endpoint = f"{api_endpoint}/claim_detection"
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {access_token}",
@@ -125,9 +126,6 @@ def predict_checkworthiness_using_factiverse(claim: str) -> int:
         return 0
 
 if __name__ == "__main__":
-    client_id = os.getenv("AUTH0_CLIENT_ID")
-    client_secret = os.getenv("AUTH0_SECRET")
-    token_url = os.getenv("AUTH0_TOKEN_URL")
     lang_codes = {}
     with open("code/utils/lang_codes.json", "r") as f:
         lang_codes = json.load(f)
@@ -193,8 +191,6 @@ if __name__ == "__main__":
                 new_row["checkworthy"] = row["checkworthy"]
                 new_row["facti_pred"] = predicted_labels[-1]
                 claim_preds.append(new_row)
-                if len(predicted_labels) >= 10:
-                    break
             json.dump(claim_preds, out_json_file, indent=4)
         intent_macro_f1 = f1_score(
             groundtruth_labels, predicted_labels, average="macro"

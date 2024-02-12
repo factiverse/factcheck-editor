@@ -3,7 +3,7 @@ import json
 import os
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
 import math
-
+from code.utils.utils import load_lang_codes
 
 def load_json(file_path):
     with open(file_path, "r") as f:
@@ -197,39 +197,28 @@ def fix_labels(csv_file, json_file):
 
 
 if __name__ == "__main__":
-    # data = load_json("data/x-fact-including-en/train.all_500+.tsv_fv.json")
-    # data = load_json("data/x-fact/test.all.factiverse.json")
 
-    ISO639_FILE = {}
-    query_type = "expanded"
-    with open("code/utils/lang_codes.json", "r") as iso639_file:
-        ISO639_FILE = json.load(iso639_file)
+    lang_codes = load_lang_codes()
+    split = "test"
+
     with open(
-        f"src/search/nli_data/dev.{query_type}.jsonl_f1.tsv",
+        f"data/veracity_prediction/{split}.jsonl_f1.tsv",
         "w",
         encoding="utf-8",
     ) as f:
         f.write(
             f"Lang\tFV_Macro_F1\tFV_Micro_F1\tOllama_Macro_F1\tOllama_Micro_F1\tgpt3_Macro_F1\tgpt3_Micro_F1\tgpt4_Macro_F1\tgpt4_Micro_F1\n"
         )
-        for lang in ISO639_FILE.keys():
-            print(lang)
+        for lang in lang_codes.keys():
             try:
                 if not os.path.exists(
-                    f"src/search/nli_data/{lang}_{query_type}_nli_pred.json"
+                    f"data/veracity_prediction/{lang}_{split}_nli_pred.json"
                 ):
                     print("No data file for lang: ", lang)
                     continue
                 data = load_json(
-                    f"src/search/nli_data/{lang}_{query_type}_nli_pred.json"
+                    f"data/veracity_prediction/{lang}_{split}_nli_pred.json"
                 )
-                # print(lang, data)
-                # data = fix_labels("data/factisearch/hf_test_data_ollama_non-en.json_da_fv_full.tsv", "data/factisearch/hf_test_data_ollama_non-en.json_da_fv_full.json")
-                # for item in data:
-                #     if "label" not in item:
-                #         print(item)
-                #         break
-
                 print(len(data))
                 if len(data) == 0:
                     print("No data for lang: ", lang)
@@ -247,16 +236,6 @@ if __name__ == "__main__":
                 conf_mat, gpt4_macro_f1, gpt4_micro_f1 = compute_metrics(
                     data, "gpt4"
                 )
-                # print(conf_mat, macro_f1, weighted_f1)
-                # aggregate_scores(data)
-                # conf_mat, macro_f1, weighted_f1 = compute_aggregated_metrics(data)
-                # print(conf_mat, macro_f1, weighted_f1)
-                # print(compute_metrics_majority(data))
-                # conf_mat, macro_f1, weighted_f1, acc_score = compute_metrics_lang(data, lang)
-                # print(lang, macro_f1, weighted_f1, acc_score)
-                # conf_mat, macro_f1, weighted_f1 = compute_aggregated_metrics_lang(data, lang)
-                # print(lang, macro_f1, weighted_f1)
-                # print(f"{lang}\t{macro_f1}\t{weighted_f1}\t{acc_score}\n")
                 print(
                     fv_macro_f1, ollama_macro_f1, gpt3_macro_f1, gpt4_macro_f1
                 )
@@ -273,7 +252,3 @@ if __name__ == "__main__":
                 print("Failed to process lang: ", lang)
                 print(e)
                 continue
-        # print(lang, compute_aggregated_metrics_lang_majority(data, lang))
-
-    # conf_mat, macro_f1, weighted_f1 = compute_aggregated_metrics_majority(data)
-    # print(conf_mat, macro_f1, weighted_f1)
