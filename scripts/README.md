@@ -1,3 +1,3 @@
 # Scripts
 
-Additional scripts used e.g., for data processing and preparation, are stored here.
+Contains scripts to translate data and also generate plots.

@@ -5,3 +5,5 @@ mypy
 docformatter
 pre-commit
 pydocstyle==6.1.1
+openai==0.27.8
+deep_translator>=1.11.4

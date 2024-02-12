@@ -1,0 +1,154 @@
+[
+    {
+        "claim": "Makeup with sunscreen is all you need to protect your face",
+        "label": 0
+    },
+    {
+        "claim": "Analysis of human remains suggests that men and women had identical diets, spent around the same amount of time indoors and outdoors, and did similar kinds of work.",
+        "label": 1
+    },
+    {
+        "claim": "When you crack your knuckles, you\u2019re pulling your joints apart.",
+        "label": 1
+    },
+    {
+        "claim": "The FDA, which regulates vaccines, must also approve them",
+        "label": 1
+    },
+    {
+        "claim": "Fat makes you fat.",
+        "label": 0
+    },
+    {
+        "claim": "The virus that causes Covid, it is almost certain, once came from bats.",
+        "label": 1
+    },
+    {
+        "claim": "humans apply deodorant to the very outer layer of skin, not to individual exposed kidney cells.",
+        "label": 1
+    },
+    {
+        "claim": "Your joints are surrounded by a synovial membrane, which contains synovial fluid that lubricates them and prevents them from grinding together.",
+        "label": 1
+    },
+    {
+        "claim": "A world-leading virologist and immunologist, Prof Gao is now vice-president of the National Natural Science Foundation of China after retiring from the CDC last year. ",
+        "label": 1
+    },
+    {
+        "claim": "Before the pandemic, the airline flew more than 17 million passengers every year, with 3,400 flights per week.",
+        "label": 1
+    },
+    {
+        "claim": "Researchers have found that certain nighttime exercises like yoga or weightliftingmay have no impact whatsoever on your sleep quality,",
+        "label": 1
+    },
+    {
+        "claim": "Also, while the vaccine may prevent you from getting sick, it is unknown at this time if you can still carry and transmit the virus to others",
+        "label": 1
+    },
+    {
+        "claim": "Scientists in the UK are developing peas that don't taste like peas.",
+        "label": 0
+    },
+    {
+        "claim": "Dirty toilet seats can transmit STDs.",
+        "label": 0
+    },
+    {
+        "claim": "Fat gets such a bad rap that we often forget there are such things as healthy fats, such as those found in nuts, olive oil, salmon, and avocados, says Nicole Ferring Holovach.",
+        "label": 1
+    },
+    {
+        "claim": "Babies sleep better and longer if you give them formula before bed.",
+        "label": 0
+    },
+    {
+        "claim": "studies show that dietary cholesterol (the cholesterol in the food you eat) does not necessarily impact serum cholesterol (the cholesterol in your bloodstream).",
+        "label": 0
+    },
+    {
+        "claim": "This vaccine developed by Pfizer\/BioNTecH has been studied in approximately 43,000 people",
+        "label": 1
+    },
+    {
+        "claim": "However, a 1% mortality rate is 10 times more lethal than the seasonal flu",
+        "label": 0
+    },
+    {
+        "claim": "Resistance training and exercises in which you use your body weight as resistance, such as yoga, can lead to a more defined look.",
+        "label": 1
+    },
+    {
+        "claim": "The water stream spans some 9,600km - a distance equivalent to that of flying from the UK to Japan.",
+        "label": 1
+    },
+    {
+        "claim": "Avocados do have a lot of calories and fat, but it's good fat.",
+        "label": 1
+    },
+    {
+        "claim": "Thousands of years later, in cities like ancient Athens, entire cultures had developed around misogynistic myths that women were weak, not to be trusted, and best confined to the home.",
+        "label": 1
+    },
+    {
+        "claim": "Climate change is a future problem",
+        "label": 0
+    },
+    {
+        "claim": "Egg yolks are bad for you.",
+        "label": 0
+    },
+    {
+        "claim": "Turkey has sold Bayraktar TB2 armed drones to Ukraine",
+        "label": 1
+    },
+    {
+        "claim": "People should not get vaccinated if in quarantine after exposure or if they have COVID-19 symptoms",
+        "label": 1
+    },
+    {
+        "claim": "Your body needs juice cleanses",
+        "label": 0
+    },
+    {
+        "claim": "Last year, the world\u2019s leading climate scientists warned we only have 12 years to limit global warming to a maximum of 1.5 C and avoid climate breakdown",
+        "label": 1
+    },
+    {
+        "claim": "Subtle changes in earth\u2019s orbit around the sun were responsible for past ice ages",
+        "label": 1
+    },
+    {
+        "claim": "NASA\u2019s conclusion is even more dramatic; since 1750, the warming driven by greenhouse gases from our burning of fossil fuels is over 50 times greater than the slight extra warming coming from the sun itself over that same time interval",
+        "label": 1
+    },
+    {
+        "claim": "COVID-19 was created in a lab",
+        "label": 0
+    },
+    {
+        "claim": "Eight glasses of water a day is the magic number.",
+        "label": 0
+    },
+    {
+        "claim": "Eating naturally gluten-free foods such as quinoa, sweet potatoes, and millet is great, but gluten-free processed food is not necessarily a healthy choice.",
+        "label": 1
+    },
+    {
+        "claim": "But eating a ton a protein is not going to lead to large muscular development.\u201d",
+        "label": 1
+    },
+    {
+        "claim": "\"The government organised something,\" he says, but adds that it did not involve his own department, the China CDC.",
+        "label": 1
+    },
+    {
+        "claim": "In fact, since they\u2019re high in phytochemicals such as beta carotene and fiber, eating them will actually help lower blood sugar, Omar says.",
+        "label": 1
+    },
+    {
+        "claim": "One 2015 study found that drinking small to moderate amounts doesn\u2019t alter cognitive ability, working memory, or motor skills in young adults.",
+        "label": 1
+    }
+]

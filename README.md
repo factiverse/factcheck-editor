@@ -1,12 +1,19 @@
-# IAI Project Template
+# FactCheck Editor
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+## Translate data
+* To translate data use `translate_data.py`. 
+    - Usage: 
+        - Claim detection test split: `python -m scripts.translate_data --task claim_detection --split test`
+        - Veracity prediction test split: `python -m scripts.translate_data --task veracity_prediction --split test`
 
-This repository serves as a template for software projects.
+## Setup
+* Make a copy of the .env.example file
+* Contact Factiverse for obtaining the values for 
 
-# Testing and GitHub actions
+## Evaluate claim detection
+    - First run claim detection predictions using `python -m code.claim_detection/claim_detection`
+    - Then run the plotting script `python -m scripts.claim_detection_plots`
 
-Using `pre-commit` hooks, `flake8`, `black`, `mypy`, `docformatter`, and `pytest` are locally run on every commit. For more details on how to use `pre-commit` hooks see [here](https://github.com/iai-group/guidelines/tree/main/python#install-pre-commit-hooks).
-
-Similarly, Github actions are used to run `flake8`, `black` and `pytest` on every push and pull request. The `pytest` results are sent to [CodeCov](https://about.codecov.io/) using their API for to get test coverage analysis. Details on Github actions are [here](https://github.com/iai-group/guidelines/blob/main/github/Actions.md).
-
+## Evaluate veracity prediction
+* To plot veracity prediction plots run 
+    - First run the 

@@ -1,0 +1,402 @@
+[
+    {
+        "claim": "Just like with nutrients and calories, basic hydration needs varies for each individual, says Heather Calcote.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "How much water you need to drink daily depends on your exercise and activity level, and even the temperature of where you live.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "A person needs to learn to recognize thirst and drink water both with meals and in between meal times as needed.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "\u201cRemember that things like tea, coffee, soup, and most fruits also contribute to water intake, but be mindful of added sugars, caffeine, and sodium.\u201d",
+        "checkworthy": 0
+    },
+    {
+        "claim": "To lose weight, avoid indulging.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "\u201cHealthy eating and healthy living is all about balance,\u201d says Stephanie Mull, so there\u2019s always room for most foods in one\u2019s diet.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "\u201cPeople who restrict too much create psychological connections to those forbidden foods, causing them to overeat when they do consume them.\u201d",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Eating after 7 PM will make you gain weight.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "\u201cYou don\u2019t magically store more fat after 7 PM,\u201d says Danielle Omar.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "What and how much you eat will determine weight gain or loss.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "To lose weight, try spreading out your calories throughout the day, so you\u2019re not starving in the evening and end up overeating, she suggests.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Carrots are high in sugar, so you should avoid them",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Carrots are more than 85 percent water, and one pound of cooked carrots only has three teaspoons of sugar",
+        "checkworthy": 1
+    },
+    {
+        "claim": "In fact, since they\u2019re high in phytochemicals such as beta carotene and fiber, eating them will actually help lower blood sugar, Omar says.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Babies sleep better and longer if you give them formula before bed.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "It\u2019s an old wives\u2019 tale, says Natker.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "In fact, formula can cause an upset stomach in some babies, which would certainly keep them up at night.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "A good night\u2019s rest really depends on a baby\u2019s size, daily sleep patterns, and temperament.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Eating a product labeled gluten-free is healthy.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Gluten-free is a hot trend in the world of nutrition, but it\u2019s not for everyone, says Museles.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "While those who jump on the gluten-free bandwagon even if they don\u2019t suffer from celiac disease often feel better, it\u2019s most likely because they\u2019ve eliminated processed foods from their diet.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Eating naturally gluten-free foods such as quinoa, sweet potatoes, and millet is great, but gluten-free processed food is not necessarily a healthy choice.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Cracking your fingers causes arthritis.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "To be sure, cracking your fingers is no way to make friends in a quiet library.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "But the habit itself won\u2019t give you arthritis \u2014 at least not according to clinical studies, including one way back in 1990 and one more recently in 2011 specifically focused on addressing this myth.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Arthritis develops when the cartilage within the joint breaks down and allows the bones to rub together.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Your joints are surrounded by a synovial membrane, which contains synovial fluid that lubricates them and prevents them from grinding together.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "When you crack your knuckles, you\u2019re pulling your joints apart.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This stretch causes an air bubble to form in the fluid, which eventually pops, creating that familiar sound.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Cracking your knuckles isn\u2019t necessarily good for you, though.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "While there\u2019s no proven relationship between the habit and arthritis, persistent cracking can wear down your synovial membrane and make it easier for your joints to crack.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "It can also lead to hand swelling and weaken your grip.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Going out with wet hair gets you sick.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This myth is dangerously logical.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "You\u2019ve just scrubbed yourself clean, and you\u2019ve got a head of cold, wet hair \u2014 you\u2019ve never been more exposed to the germs and viruses flying around in the air outside.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "It turns out, though, that leaving the house just after a shower isn\u2019t going to make you sick\u2026 unless you\u2019re already sick, that is.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "In 2005, researchers tested the hypothesis that chilling your body increases your chances of being infected with the common cold virus, also known as acute viral nasopharyngitis.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Their results found that, no, it doesn\u2019t.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "But it can cause the onset of symptoms if the virus is already in your body.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "So if you\u2019re afraid that you might be sick but have a very important meeting tomorrow, you may want to blow-dry your hair before you leave the house.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Dirty toilet seats can transmit STDs.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Unkempt gas station bathrooms might be the site of your worst nightmares, but it\u2019s highly unlikely (though not impossible) that they\u2019ll give you a sexually transmitted disease (STD).",
+        "checkworthy": 1
+    },
+    {
+        "claim": "STDs can be caused by viruses, bacteria, or parasites.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Only parasitic STDs like crabs (pubic lice) or trichomoniasis have any real chance of being transmitted by sitting on a dirty toilet seat.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "And even then, the likelihood is extremely low.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Your genital area would need to come into contact with the toilet seat while the parasite is still on it, and alive \u2014 and toilet seats don\u2019t provide ideal living situations for parasites.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Exercise a little common sense: Use a toilet seat cover, and don\u2019t linger.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Antiperspirants and deodorants can cause cancer.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "It has long been claimed that antiperspirants and deodorants contain harmful, cancer-causing substances, like parabens and aluminum, which can be absorbed by your skin when you use them.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "But the research simply doesn\u2019t back this up.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "The National Cancer Institute says that there is no known evidence that these chemicals can cause cancer, and the Food and Drug AdministrationTrusted Source has similarly dispelled the notion that parabens can affect estrogen levels, and thus lead to cancer.",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Drinking alcohol in any amount dumbs you down.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Alcohol, when misused, can impair your judgment and seriously affect your health.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This is why the U.S. Department of Health and Human Services recommends limiting your intake to just two drinks per day for men, and one drink for women.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "However, alcohol isn\u2019t all bad for the brain, at least according to some research.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "One 2015 study found that drinking small to moderate amounts doesn\u2019t alter cognitive ability, working memory, or motor skills in young adults.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "And among middle-aged adults, older research found that drinking more actually improved some cognitive functions, including vocabulary and accumulated information (although they did ponder whether social factors also played a role).",
+        "checkworthy": 1
+    },
+    {
+        "claim": "The takeaway does appear to be that, so long as you don\u2019t abuse alcohol, it is unlikely to do much damage to your brain.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Myths about climate change",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Solar changes are causing the earth to warm, not us.",
+        "checkworthy": 1
+    },
+    {
+        "claim": "The sun powers life on earth, keeping the planet warm enough for us all to survive",
+        "checkworthy": 1
+    },
+    {
+        "claim": "The sun also influences earth\u2019s climate",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Subtle changes in earth\u2019s orbit around the sun were responsible for past ice ages",
+        "checkworthy": 1
+    },
+    {
+        "claim": "But the global warming we\u2019ve seen over the last few decades is too rapid and dramatic to be linked to changes in earth\u2019s orbit, and too large to be caused by solar activity",
+        "checkworthy": 1
+    },
+    {
+        "claim": "For more than 40 years, satellites have observed the sun's energy output, which has gone up or down by less than 0 percent during that period, while global warming has increased",
+        "checkworthy": 0
+    },
+    {
+        "claim": "The United Nations\u2019 Intergovernmental Panel on Climate Change (IPCC) concluded that warming from increased levels of human-produced greenhouse gases is actually many times stronger than any climate change effects due to the sun",
+        "checkworthy": 1
+    },
+    {
+        "claim": "NASA\u2019s conclusion is even more dramatic; since 1750, the warming driven by greenhouse gases from our burning of fossil fuels is over 50 times greater than the slight extra warming coming from the sun itself over that same time interval",
+        "checkworthy": 1
+    },
+    {
+        "claim": "It is too late to stop climate change",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This is a critical time to take action on climate change",
+        "checkworthy": 1
+    },
+    {
+        "claim": "And it can be done",
+        "checkworthy": 0
+    },
+    {
+        "claim": "We already have the technology and systems to achieve net zero carbon emissions by 2050",
+        "checkworthy": 1
+    },
+    {
+        "claim": "We can halt climate change and create a sustainable future for humans and nature",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Energy companies, industrial and vehicle manufacturers and governments have an essential part to play in achieving net zero",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Climate change is a future problem",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This is no longer an excuse not to act on climate change and push the burden onto future generations",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Last year, the world\u2019s leading climate scientists warned we only have 12 years to limit global warming to a maximum of 1.5 C and avoid climate breakdown",
+        "checkworthy": 1
+    },
+    {
+        "claim": "We\u2019re already seeing the devastating effects of climate change on global food supplies, increasing migration, conflict, disease and global instability, and this will only get worse if we don\u2019t act now",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Man-made climate change is the biggest environmental crisis of our time",
+        "checkworthy": 1
+    },
+    {
+        "claim": "It threatens the future of the planet that we depend on for our survival and we're the last generation that can do something about it",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Renewable energy can only work when it's not cloudy or windy",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Industry is developing new techniques for storing electricity and managing demand at peak times meaning that even if the sun isn't shining or it\u2019s not blowing a gale, it\u2019s still possible to rely on renewable energy sources",
+        "checkworthy": 1
+    },
+    {
+        "claim": "The majority of UK homes get their electricity from the National Grid",
+        "checkworthy": 1
+    },
+    {
+        "claim": "When you switch to a clean supplier, they guarantee that for every unit of electricity you take out of the Grid, they\u2019ll put the same amount of clean energy back in, helping to clean up our energy supply",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Let's set the record straight on some of the myths circulating about COVID-19 vaccines",
+        "checkworthy": 0
+    },
+    {
+        "claim": "The COVID-19 vaccine is not safe because it was rapidly developed and tested",
+        "checkworthy": 1
+    },
+    {
+        "claim": "Many pharmaceutical companies invested significant resources into quickly developing a vaccine for COVID-19 because of the world-wide impact of the pandemic",
+        "checkworthy": 1
+    },
+    {
+        "claim": "The emergency situation warranted an emergency response but that does not mean that companies bypassed safety protocols or didn't perform adequate testing",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Mayo Clinic will recommend the use of those vaccines that we are confident are safe",
+        "checkworthy": 0
+    },
+    {
+        "claim": "While there are many COVID-19 vaccine candidates in development, early interim data are encouraging for the Pfizer vaccine which likely is to be the first authorized for emergency use by the FDA in the late December\/early January timeframe",
+        "checkworthy": 0
+    },
+    {
+        "claim": "This vaccine was created using a novel technology based on the molecular structure of the virus",
+        "checkworthy": 1
+    },
+    {
+        "claim": "The novel methodology to develop a COVID-19 vaccine allows it to be free from materials of animal origin and synthesized by an efficient, cell-free process without preservatives",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This vaccine developed by Pfizer\/BioNTecH has been studied in approximately 43,000 people",
+        "checkworthy": 1
+    },
+    {
+        "claim": "To receive emergency use authorization, the biopharmaceutical manufacturer must have followed at least half of the study participants for at least two months after completing the vaccination series, and the vaccine must be proven safe and effective in that population",
+        "checkworthy": 1
+    },
+    {
+        "claim": "In addition to the safety review by the FDA, the Advisory Committee on Immunization has convened a panel of vaccine safety experts to independently evaluate the safety data from the clinical trial",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Mayo Clinic vaccine experts also will review the available data",
+        "checkworthy": 0
+    },
+    {
+        "claim": "The safety of COVID-19 vaccine will continue to be closely monitored by the Centers for Disease Control and Prevention (CDC) and the FDA",
+        "checkworthy": 0
+    },
+    {
+        "claim": "I already had COVID-19 and I have recovered, so I don't need to get a COVID-19 vaccine when it's available",
+        "checkworthy": 1
+    },
+    {
+        "claim": "There is not enough information currently available to say if or for how long after infection someone is protected from getting COVID-19 again",
+        "checkworthy": 1
+    },
+    {
+        "claim": "This is called natural immunity",
+        "checkworthy": 0
+    },
+    {
+        "claim": "Early evidence suggests natural immunity from COVID-19 may not last very long, but more studies are needed to better understand this",
+        "checkworthy": 1
+    }
+]
