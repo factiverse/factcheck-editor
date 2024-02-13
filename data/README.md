@@ -1,10 +1,8 @@
 # Data
 
-This folder contains data for claim detection and veracity detection tasks.
+This folder contains data for claim detection and veracity detection tasks. Full dataset is coming soon.
 
 * claim_dection
-  - en_train.json
   - en_dev.json
-  - en_test.json
 * veracity_prediction
   - en_test.json
