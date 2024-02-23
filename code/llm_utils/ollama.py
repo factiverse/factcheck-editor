@@ -71,21 +71,3 @@ class Ollama:
         """
         return Options(self._config.get("options", {}))
 
-    def _parse_response(
-        self, api_response: str, search_string: str
-    ) -> List[str]:
-        """Parses the API response to extract relevant for a search string.
-
-        Args:
-            api_response: The raw response from the API as a string.
-            search_string: The string to search for in the response.
-
-        Returns:
-            A list of strings extracted for the search string.
-        """
-        questions = []
-        for line in api_response.split("\n"):
-            if search_string in line:
-                question = line.split(search_string)[1].strip()
-                questions.append(question)
-        return questions
