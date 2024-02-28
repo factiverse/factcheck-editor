@@ -8,7 +8,7 @@ options:
   tfs_z: 0.5
   typical_p: 0.7
   repeat_last_n: 10
-  temperature: 0.0
+  temperature: 0.2
   repeat_penalty: 1.2
   presence_penalty: 1.5
   frequency_penalty: 1.0
