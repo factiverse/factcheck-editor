@@ -1,0 +1,82 @@
+[
+    {
+        "claim": "The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.",
+        "label": 0
+    },
+    {
+        "claim": "More than 50 percent of immigrants from (El Salvador, Guatemala and Honduras) use at least one major welfare program once they get here.",
+        "label": 1
+    },
+    {
+        "claim": "UK government banned Covid vaccine for children age 5-11",
+        "label": 0
+    },
+    {
+        "claim": "[In 2014-2015] coverage for the rotavirus vaccine exceeded the 95% target and the pneumococcal vaccine reached 91.5%.",
+        "label": 1
+    },
+    {
+        "claim": "In September 2021, the U.K. government announced its intention to create a new criminal offense of pet abduction.",
+        "label": 1
+    },
+    {
+        "claim": "Labour took £1.5 million from Just Stop Oil.",
+        "label": 0
+    },
+    {
+        "claim": "McDonald's has announced that everyone who shares this link will receive 2 FREE McFamily box",
+        "label": 0
+    },
+    {
+        "claim": "NASA just announced a 100-foot-wide fissure-crack just opened up Yellowstone volcano in 24 hours.",
+        "label": 0
+    },
+    {
+        "claim": "Photo shows woman watching climate protest outside Ivanka Trump’s house in 2017",
+        "label": 0
+    },
+    {
+        "claim": "The 1974 comedy “Young Frankenstein” directly inspired the title for rock band Aerosmith’s song “Walk This Way.”",
+        "label": 0
+    },
+    {
+        "claim": "A total of 58 peer-reviewed papers published in the first half of 2017 conclude that global warming is a myth.",
+        "label": 0
+    },
+    {
+        "claim": "Senator Clinton tried to spend $1 million on the Woodstock Concert Museum.",
+        "label": 0
+    },
+    {
+        "claim": "When you throw 23 million people off of health insurance -- people with cancer, people with heart disease, people with diabetes -- thousands of people will die. … This is study after study making this point.",
+        "label": 1
+    },
+    {
+        "claim": "Says Arizona, Missouri and Texas residents have a two-pet limit, so the public must \"surrender their third pet to the Humane Society.\"",
+        "label": 1
+    },
+    {
+        "claim": "We have an unemployment (rate of) 1.5 in Boone County, and we can’t find enough workers.",
+        "label": 1
+    },
+    {
+        "claim": "Computer models show Irma destroying New York City on Sept. 10.",
+        "label": 0
+    },
+    {
+        "claim": "Antifa activists announced in August 2017 that they would protest the Sturgis Motorcycle Rally in 2018.",
+        "label": 0
+    },
+    {
+        "claim": "80% of the population continues to occupy less than 10% of South Africa's land",
+        "label": 1
+    },
+    {
+        "claim": "Facebook user 'Mukesh Sharma Fans Club' (archive link) shared the viral post on August 13 and wrote,",
+        "label": 0
+    },
+    {
+        "claim": "“And just like that, your $15/hr doesn’t buy you as much as $7.50/hr did a year ago.”",
+        "label": 0
+    }
+]
