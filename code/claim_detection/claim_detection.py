@@ -130,7 +130,7 @@ if __name__ == "__main__":
     with open("code/utils/lang_codes.json", "r") as f:
         lang_codes = json.load(f)
     split = "test"
-    access_token = get_access_token(client_id, client_secret, token_url)
+    access_token = get_access_token()
     for lang in lang_codes.keys():
         open_ai_utils = OpenAIUtils()
         logger.info("Running claim detection for ", lang)

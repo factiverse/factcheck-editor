@@ -9,3 +9,5 @@ openai==0.27.8
 deep_translator>=1.11.4
 ollama
 python-dotenv
+pandas
+scikit-learn

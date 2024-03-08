@@ -42,5 +42,6 @@ class OpenAIUtils:
             engine=model,
             messages=[{"role": "user", "content": prompt}],
             max_tokens=10,
+            temperature=0.2,
         )
         return response.choices[0].message.content.strip()

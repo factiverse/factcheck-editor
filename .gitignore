@@ -136,3 +136,7 @@ data/claim_detection/f1_scores.tsv
 data/claim_detection_test_macro.pdf
 data/claim_detection_test_micro.pdf
 data/veracity_prediction/af_test.json
+
+*.json
+*.tsv
+*.txt

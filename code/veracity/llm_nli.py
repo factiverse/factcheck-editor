@@ -8,10 +8,10 @@ from code.prompts.prompts import IDENTIFY_STANCE_PROMPT
 import random
 
 
-def predict_stance_ollama(claim, evidence, lang):
+def predict_stance_ollama(claim, evidence, lang, ollama):
     prompt = IDENTIFY_STANCE_PROMPT.format(claim=claim, evidence=evidence, lang=lang)
     # print(prompt)
-    response = Ollama().generate(prompt)
+    response = ollama.generate(prompt)
     return sanitize_response(response)
 
 def predict_stance_openai(claim, lang, evidence, model=None):

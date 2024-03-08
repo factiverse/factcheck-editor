@@ -13,22 +13,24 @@ def get_access_token() -> str:
     Returns:
         Access token.
     """
-    client_id = os.getenv("AUTH0_CLIENT_ID")
-    client_secret = os.getenv("AUTH0_SECRET")
-    token_url = os.getenv("AUTH0_TOKEN_URL")
-    payload = {
-        "grant_type": "client_credentials",
-        "client_id": client_id,
-        "client_secret": client_secret,
-        "audience": os.getenv("AUTH0_AUDIENCE"),
-    }
-    response = requests.post(token_url, data=payload)
-    if response.status_code == 200:
-        return response.json()["access_token"]
-    else:
-        raise Exception(
-            f"Failed to obtain token: {response.status_code} {response.text}"
-        )
+    # print(os.getenv("AUTH0_ACCESS_TOKEN"))
+    return os.getenv("AUTH0_ACCESS_TOKEN")
+    # client_id = os.getenv("AUTH0_CLIENT_ID")
+    # client_secret = os.getenv("AUTH0_SECRET")
+    # token_url = os.getenv("AUTH0_TOKEN_URL")
+    # payload = {
+    #     "grant_type": "client_credentials",
+    #     "client_id": client_id,
+    #     "client_secret": client_secret,
+    #     "audience": os.getenv("AUTH0_AUDIENCE"),
+    # }
+    # response = requests.post(token_url, data=payload)
+    # if response.status_code == 200:
+    #     return response.json()["access_token"]
+    # else:
+    #     raise Exception(
+    #         f"Failed to obtain token: {response.status_code} {response.text}"
+    #     )
 
 
 def load_json(file_name: str):

@@ -9,31 +9,6 @@
     "native": "Аҧсуа",
     "standardized_labels": {}
   },
-  "af": {
-    "name": "Afrikaans",
-    "native": "Afrikaans",
-    "standardized_labels": {
-      "False": "onwaar",
-      "True": "Getrou",
-      "Other": "Ander",
-      "Half True/False": "Half waar/onwaar"
-    }
-  },
-  "ak": {
-    "name": "Akan",
-    "native": "Akana",
-    "standardized_labels": {}
-  },
-  "am": {
-    "name": "Amharic",
-    "native": "አማርኛ",
-    "standardized_labels": {
-      "False": "ሐሰት",
-      "True": "እውነት",
-      "Other": "ሌላ",
-      "Half True/False": "ግማሹ እውነተኛ / ውሸት"
-    }
-  },
   "an": {
     "name": "Aragonese",
     "native": "Aragonés",
@@ -49,55 +24,10 @@
       "Half True/False": "نصف صحيح/خطأ"
     }
   },
-  "as": {
-    "name": "Assamese",
-    "native": "অসমীয়া",
-    "standardized_labels": {}
-  },
-  "av": {
-    "name": "Avar",
-    "native": "Авар",
-    "standardized_labels": {}
-  },
-  "ay": {
-    "name": "Aymara",
-    "native": "Aymar",
-    "standardized_labels": {}
-  },
-  "az": {
-    "name": "Azerbaijani",
-    "native": "Azərbaycanca / آذربايجان",
-    "standardized_labels": {
-      "False": "Yalan",
-      "True": "Doğru",
-      "Other": "Digər",
-      "Half True/False": "Yarım həqiqi / yalan"
-    }
-  },
   "ba": {
     "name": "Bashkir",
     "native": "Башҡорт",
     "standardized_labels": {}
-  },
-  "be": {
-    "name": "Belarusian",
-    "native": "Беларуская",
-    "standardized_labels": {
-      "False": "Памылковы",
-      "True": "Слушны",
-      "Other": "Іншы",
-      "Half True/False": "Палова сапраўднага/ілжыва"
-    }
-  },
-  "bg": {
-    "name": "Bulgarian",
-    "native": "Български",
-    "standardized_labels": {
-      "False": "Невярно",
-      "True": "Вярно",
-      "Other": "Други",
-      "Half True/False": "Наполовина вярно/невярно"
-    }
   },
   "bh": {
     "name": "Bihari",
@@ -108,21 +38,6 @@
     "name": "Bislama",
     "native": "Bislama",
     "standardized_labels": {}
-  },
-  "bm": {
-    "name": "Bambara",
-    "native": "Bamanankan",
-    "standardized_labels": {}
-  },
-  "bn": {
-    "name": "Bengali",
-    "native": "বাংলা",
-    "standardized_labels": {
-      "False": "মিথ্যা",
-      "True": "সত্য",
-      "Other": "অন্য",
-      "Half True/False": "অর্ধেক সত্য/মিথ্যা"
-    }
   },
   "bo": {
     "name": "Tibetan",
@@ -164,16 +79,6 @@
     "native": "Chamoru",
     "standardized_labels": {}
   },
-  "co": {
-    "name": "Corsican",
-    "native": "Corsu",
-    "standardized_labels": {
-      "False": "False",
-      "True": "VERU",
-      "Other": "Altru",
-      "Half True/False": "Meza vera / falsa"
-    }
-  },
   "cr": {
     "name": "Cree",
     "native": "Nehiyaw",
@@ -199,16 +104,6 @@
     "native": "Чăваш",
     "standardized_labels": {}
   },
-  "cy": {
-    "name": "Welsh",
-    "native": "Cymraeg",
-    "standardized_labels": {
-      "False": "Anwir",
-      "True": "Gwir",
-      "Other": "Arall",
-      "Half True/False": "Hanner Gwir/Anghywir"
-    }
-  },
   "da": {
     "name": "Danish",
     "native": "Dansk",
@@ -227,26 +122,6 @@
       "True": "WAHR",
       "Other": "Sonstiges",
       "Half True/False": "Halb wahr/falsch"
-    }
-  },
-  "dv": {
-    "name": "Divehi",
-    "native": "ދިވެހިބަސް",
-    "standardized_labels": {}
-  },
-  "dz": {
-    "name": "Dzongkha",
-    "native": "ཇོང་ཁ",
-    "standardized_labels": {}
-  },
-  "ee": {
-    "name": "Ewe",
-    "native": "Ɛʋɛ",
-    "standardized_labels": {
-      "False": "Vale",
-      "True": "Tõsi",
-      "Other": "Teine",
-      "Half True/False": "Pool tõene/vale"
     }
   },
   "el": {
@@ -269,16 +144,6 @@
       "Half True/False": "Half True/False"
     }
   },
-  "eo": {
-    "name": "Esperanto",
-    "native": "Esperanto",
-    "standardized_labels": {
-      "False": "Falsa",
-      "True": "Vera",
-      "Other": "Alia",
-      "Half True/False": "Duone vera/falsa"
-    }
-  },
   "es": {
     "name": "Spanish",
     "native": "Español",
@@ -297,16 +162,6 @@
       "Half True/False": "Pool tõene/vale"
     }
   },
-  "eu": {
-    "name": "Basque",
-    "native": "Euskara",
-    "standardized_labels": {
-      "False": "Gezurrezko",
-      "True": "Benetako",
-      "Other": "Beste",
-      "Half True/False": "Erdia egia / gezurra"
-    }
-  },
   "fa": {
     "name": "Persian",
     "native": "فارسی",
@@ -316,11 +171,6 @@
       "Other": "دیگر",
       "Half True/False": "نیمه واقعی/نادرست"
     }
-  },
-  "ff": {
-    "name": "Peul",
-    "native": "Fulfulde",
-    "standardized_labels": {}
   },
   "fi": {
     "name": "Finnish",
@@ -332,16 +182,6 @@
       "Half True/False": "Puoli totta/vääriä"
     }
   },
-  "fj": {
-    "name": "Fijian",
-    "native": "Na Vosa Vakaviti",
-    "standardized_labels": {}
-  },
-  "fo": {
-    "name": "Faroese",
-    "native": "Føroyskt",
-    "standardized_labels": {}
-  },
   "fr": {
     "name": "French",
     "native": "Français",
@@ -350,36 +190,6 @@
       "True": "Vrai",
       "Other": "Autre",
       "Half True/False": "À moitié vrai / faux"
-    }
-  },
-  "fy": {
-    "name": "West Frisian",
-    "native": "Frysk",
-    "standardized_labels": {
-      "False": "falsk",
-      "True": "wier",
-      "Other": "Oar",
-      "Half True/False": "Heal wier / falsk"
-    }
-  },
-  "ga": {
-    "name": "Irish",
-    "native": "Gaeilge",
-    "standardized_labels": {
-      "False": "BRÉAD",
-      "True": "Go díreach",
-      "Other": "Eile",
-      "Half True/False": "Leath fíor/bréagach"
-    }
-  },
-  "gd": {
-    "name": "Scottish Gaelic",
-    "native": "Gàidhlig",
-    "standardized_labels": {
-      "False": "FALSE",
-      "True": "Fìor",
-      "Other": "Eile",
-      "Half True/False": "Leth fìor / meallta"
     }
   },
   "gl": {
@@ -392,11 +202,6 @@
       "Half True/False": "Medio verdadeiro/falso"
     }
   },
-  "gn": {
-    "name": "Guarani",
-    "native": "Avañe'ẽ",
-    "standardized_labels": {}
-  },
   "gu": {
     "name": "Gujarati",
     "native": "ગુજરાતી",
@@ -405,31 +210,6 @@
       "True": "સાચું",
       "Other": "બીજું",
       "Half True/False": "અર્ધ સાચું/ખોટું"
-    }
-  },
-  "gv": {
-    "name": "Manx",
-    "native": "Gaelg",
-    "standardized_labels": {}
-  },
-  "ha": {
-    "name": "Hausa",
-    "native": "هَوُسَ",
-    "standardized_labels": {
-      "False": "Na ƙarya",
-      "True": "Na gaskiya",
-      "Other": "Wani dabam",
-      "Half True/False": "Rabin gaske / arya"
-    }
-  },
-  "he": {
-    "name": "Hebrew",
-    "native": "עברית",
-    "standardized_labels": {
-      "False": "שֶׁקֶר",
-      "True": "נָכוֹן",
-      "Other": "אַחֵר",
-      "Half True/False": "חצי נכון/שקר"
     }
   },
   "iw": {
@@ -452,11 +232,6 @@
       "Half True/False": "आधा सच/गलत"
     }
   },
-  "ho": {
-    "name": "Hiri Motu",
-    "native": "Hiri Motu",
-    "standardized_labels": {}
-  },
   "hr": {
     "name": "Croatian",
     "native": "Hrvatski",
@@ -465,16 +240,6 @@
       "True": "Pravi",
       "Other": "Drugi",
       "Half True/False": "Pola istinito/lažno"
-    }
-  },
-  "ht": {
-    "name": "Haitian",
-    "native": "Krèyol ayisyen",
-    "standardized_labels": {
-      "False": "Fo",
-      "True": "Fidèl",
-      "Other": "Lòt",
-      "Half True/False": "Mwatye vre/fo"
     }
   },
   "hu": {
@@ -497,66 +262,6 @@
       "Half True/False": "Կես ճշմարիտ / կեղծ"
     }
   },
-  "hz": {
-    "name": "Herero",
-    "native": "Otsiherero",
-    "standardized_labels": {}
-  },
-  "ia": {
-    "name": "Interlingua",
-    "native": "Interlingua",
-    "standardized_labels": {}
-  },
-  "id": {
-    "name": "Indonesian",
-    "native": "Bahasa Indonesia",
-    "standardized_labels": {
-      "False": "PALSU",
-      "True": "BENAR",
-      "Other": "Lainnya",
-      "Half True/False": "Setengah Benar/Salah"
-    }
-  },
-  "ie": {
-    "name": "Interlingue",
-    "native": "Interlingue",
-    "standardized_labels": {}
-  },
-  "ig": {
-    "name": "Igbo",
-    "native": "Igbo",
-    "standardized_labels": {
-      "False": "Asi",
-      "True": "Ke eziokwu",
-      "Other": "Nke ozo",
-      "Half True/False": "Ọkara / ụgha"
-    }
-  },
-  "ii": {
-    "name": "Sichuan Yi",
-    "native": "ꆇꉙ / 四川彝语",
-    "standardized_labels": {}
-  },
-  "ik": {
-    "name": "Inupiak",
-    "native": "Iñupiak",
-    "standardized_labels": {}
-  },
-  "io": {
-    "name": "Ido",
-    "native": "Ido",
-    "standardized_labels": {}
-  },
-  "is": {
-    "name": "Icelandic",
-    "native": "Íslenska",
-    "standardized_labels": {
-      "False": "Rangt",
-      "True": "Satt",
-      "Other": "Annað",
-      "Half True/False": "Helmingur satt/ósatt"
-    }
-  },
   "it": {
     "name": "Italian",
     "native": "Italiano",
@@ -566,11 +271,6 @@
       "Other": "Altro",
       "Half True/False": "Mezzo Vero/Falso"
     }
-  },
-  "iu": {
-    "name": "Inuktitut",
-    "native": "ᐃᓄᒃᑎᑐᑦ",
-    "standardized_labels": {}
   },
   "ja": {
     "name": "Japanese",
@@ -582,11 +282,6 @@
       "Half True/False": "半分真の/false"
     }
   },
-  "jv": {
-    "name": "Javanese",
-    "native": "Basa Jawa",
-    "standardized_labels": {}
-  },
   "ka": {
     "name": "Georgian",
     "native": "ქართული",
@@ -595,56 +290,6 @@
       "True": "მართალი",
       "Other": "სხვა",
       "Half True/False": "ნახევარი მართალია/ყალბი"
-    }
-  },
-  "kg": {
-    "name": "Kongo",
-    "native": "KiKongo",
-    "standardized_labels": {}
-  },
-  "ki": {
-    "name": "Kikuyu",
-    "native": "Gĩkũyũ",
-    "standardized_labels": {}
-  },
-  "kj": {
-    "name": "Kuanyama",
-    "native": "Kuanyama",
-    "standardized_labels": {}
-  },
-  "kk": {
-    "name": "Kazakh",
-    "native": "Қазақша",
-    "standardized_labels": {
-      "False": "Жалған",
-      "True": "Заңды",
-      "Other": "Өзге",
-      "Half True/False": "Жарты шын / жалған"
-    }
-  },
-  "kl": {
-    "name": "Greenlandic",
-    "native": "Kalaallisut",
-    "standardized_labels": {}
-  },
-  "km": {
-    "name": "Cambodian",
-    "native": "ភាសាខ្មែរ",
-    "standardized_labels": {
-      "False": "មិនបិត",
-      "True": "ផក្ដី",
-      "Other": "ផ្សេងទៀត",
-      "Half True/False": "ពាក់កណ្តាលពិត / មិនពិត"
-    }
-  },
-  "kn": {
-    "name": "Kannada",
-    "native": "ಕನ್ನಡ",
-    "standardized_labels": {
-      "False": "ಸುಳ್ಳು",
-      "True": "ನಿಜವಾದ",
-      "Other": "ಬೇರೆ",
-      "Half True/False": "ಅರ್ಧ ನಿಜ/ತಪ್ಪು"
     }
   },
   "ko": {
@@ -657,16 +302,6 @@
       "Half True/False": "반 참/거짓"
     }
   },
-  "kr": {
-    "name": "Kanuri",
-    "native": "Kanuri",
-    "standardized_labels": {}
-  },
-  "ks": {
-    "name": "Kashmiri",
-    "native": "कश्मीरी / كشميري",
-    "standardized_labels": {}
-  },
   "ku": {
     "name": "Kurdish",
     "native": "Kurdî / كوردی",
@@ -675,71 +310,6 @@
       "True": "rast",
       "Other": "Yên din",
       "Half True/False": "Nîv rast / derewîn"
-    }
-  },
-  "kv": {
-    "name": "Komi",
-    "native": "Коми",
-    "standardized_labels": {}
-  },
-  "kw": {
-    "name": "Cornish",
-    "native": "Kernewek",
-    "standardized_labels": {}
-  },
-  "ky": {
-    "name": "Kirghiz",
-    "native": "Kırgızca / Кыргызча",
-    "standardized_labels": {
-      "False": "Жалган",
-      "True": "Чыныгы",
-      "Other": "Башка",
-      "Half True/False": "Жарым чыныгы / жалган"
-    }
-  },
-  "la": {
-    "name": "Latin",
-    "native": "Latina",
-    "standardized_labels": {
-      "False": "Falsus",
-      "True": "Verus",
-      "Other": "Alius",
-      "Half True/False": "Medium verum / falsum"
-    }
-  },
-  "lb": {
-    "name": "Luxembourgish",
-    "native": "Lëtzebuergesch",
-    "standardized_labels": {
-      "False": "Falsch",
-      "True": "Wouer",
-      "Other": "Aner",
-      "Half True/False": "Hallef richteg / falsch"
-    }
-  },
-  "lg": {
-    "name": "Ganda",
-    "native": "Luganda",
-    "standardized_labels": {}
-  },
-  "li": {
-    "name": "Limburgian",
-    "native": "Limburgs",
-    "standardized_labels": {}
-  },
-  "ln": {
-    "name": "Lingala",
-    "native": "Lingála",
-    "standardized_labels": {}
-  },
-  "lo": {
-    "name": "Laotian",
-    "native": "ລາວ / Pha xa lao",
-    "standardized_labels": {
-      "False": "ຂີ້ດີ",
-      "True": "ສັດ",
-      "Other": "ອື່ນ",
-      "Half True/False": "ເຄິ່ງທີ່ເປັນຄວາມຈິງ / ບໍ່ຖືກຕ້ອງ"
     }
   },
   "lt": {
@@ -752,11 +322,6 @@
       "Half True/False": "Pusė tiesa/klaidinga"
     }
   },
-  "lu": {
-    "name": "Luba-Katanga",
-    "native": "Tshiluba",
-    "standardized_labels": {}
-  },
   "lv": {
     "name": "Latvian",
     "native": "Latviešu",
@@ -765,31 +330,6 @@
       "True": "Patiess",
       "Other": "Cits",
       "Half True/False": "Puse patiess/nepatiess"
-    }
-  },
-  "mg": {
-    "name": "Malagasy",
-    "native": "Malagasy",
-    "standardized_labels": {
-      "False": "DISO",
-      "True": "Marina",
-      "Other": "Hafa",
-      "Half True/False": "Antsasaky ny tena marina / diso"
-    }
-  },
-  "mh": {
-    "name": "Marshallese",
-    "native": "Kajin Majel / Ebon",
-    "standardized_labels": {}
-  },
-  "mi": {
-    "name": "Maori",
-    "native": "Māori",
-    "standardized_labels": {
-      "False": "Hē",
-      "True": "Tika",
-      "Other": "Ētahi atu",
-      "Half True/False": "Haaunga te Tino / Tika"
     }
   },
   "mk": {
@@ -802,16 +342,6 @@
       "Half True/False": "Половина вистинска/неточна"
     }
   },
-  "ml": {
-    "name": "Malayalam",
-    "native": "മലയാളം",
-    "standardized_labels": {
-      "False": "തെറ്റായ",
-      "True": "യഥാര്ത്ഥമായ",
-      "Other": "മറ്റേതായ",
-      "Half True/False": "പകുതി ശരി / തെറ്റ്"
-    }
-  },
   "mn": {
     "name": "Mongolian",
     "native": "Монгол",
@@ -821,11 +351,6 @@
       "Other": "Бусад",
       "Half True/False": "Хагас үнэн / худал"
     }
-  },
-  "mo": {
-    "name": "Moldovan",
-    "native": "Moldovenească",
-    "standardized_labels": {}
   },
   "mr": {
     "name": "Marathi",
@@ -847,16 +372,6 @@
       "Half True/False": "Separuh benar/palsu"
     }
   },
-  "mt": {
-    "name": "Maltese",
-    "native": "bil-Malti",
-    "standardized_labels": {
-      "False": "Falz",
-      "True": "Veru",
-      "Other": "Ieħor",
-      "Half True/False": "Nofs veru / falz"
-    }
-  },
   "my": {
     "name": "Burmese",
     "native": "မြန်မာစာ",
@@ -866,36 +381,6 @@
       "Other": "အခြား",
       "Half True/False": "တစ်ဝက်စစ်မှန်တဲ့ / မှားယွင်းသော"
     }
-  },
-  "na": {
-    "name": "Nauruan",
-    "native": "Dorerin Naoero",
-    "standardized_labels": {}
-  },
-  "nb": {
-    "name": "Norwegian Bokmål",
-    "native": "Norsk bokmål",
-    "standardized_labels": {}
-  },
-  "nd": {
-    "name": "North Ndebele",
-    "native": "Sindebele",
-    "standardized_labels": {}
-  },
-  "ne": {
-    "name": "Nepali",
-    "native": "नेपाली",
-    "standardized_labels": {
-      "False": "मिथ्या",
-      "True": "इमान्दार",
-      "Other": "अरु",
-      "Half True/False": "आधा सही / गलत"
-    }
-  },
-  "ng": {
-    "name": "Ndonga",
-    "native": "Oshiwambo",
-    "standardized_labels": {}
   },
   "nl": {
     "name": "Dutch",
@@ -907,11 +392,6 @@
       "Half True/False": "Half waar/onwaar"
     }
   },
-  "nn": {
-    "name": "Norwegian Nynorsk",
-    "native": "Norsk nynorsk",
-    "standardized_labels": {}
-  },
   "no": {
     "name": "Norwegian",
     "native": "Norsk",
@@ -921,71 +401,6 @@
       "Other": "Annen",
       "Half True/False": "Half True/False"
     }
-  },
-  "nr": {
-    "name": "South Ndebele",
-    "native": "isiNdebele",
-    "standardized_labels": {}
-  },
-  "nv": {
-    "name": "Navajo",
-    "native": "Diné bizaad",
-    "standardized_labels": {}
-  },
-  "ny": {
-    "name": "Chichewa",
-    "native": "Chi-Chewa",
-    "standardized_labels": {
-      "False": "Wabodza",
-      "True": "Zoona",
-      "Other": "Ena",
-      "Half True/False": "Theka loona / labodza"
-    }
-  },
-  "oc": {
-    "name": "Occitan",
-    "native": "Occitan",
-    "standardized_labels": {}
-  },
-  "oj": {
-    "name": "Ojibwa",
-    "native": "ᐊᓂᔑᓈᐯᒧᐎᓐ / Anishinaabemowin",
-    "standardized_labels": {}
-  },
-  "om": {
-    "name": "Oromo",
-    "native": "Oromoo",
-    "standardized_labels": {}
-  },
-  "or": {
-    "name": "Oriya",
-    "native": "ଓଡ଼ିଆ",
-    "standardized_labels": {
-      "False": "ମିଥ୍ୟା",
-      "True": "ସତ୍ୟ",
-      "Other": "ଅନ୍ୟ",
-      "Half True/False": "ଅଧା ସତ୍ୟ / ମିଥ୍ୟା |"
-    }
-  },
-  "os": {
-    "name": "Ossetian / Ossetic",
-    "native": "Иронау",
-    "standardized_labels": {}
-  },
-  "pa": {
-    "name": "Panjabi / Punjabi",
-    "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي",
-    "standardized_labels": {
-      "False": "ਗਲਤ",
-      "True": "ਸੱਚ",
-      "Other": "ਹੋਰ",
-      "Half True/False": "ਅੱਧਾ ਸੱਚਾ / ਗਲਤ"
-    }
-  },
-  "pi": {
-    "name": "Pali",
-    "native": "Pāli / पाऴि",
-    "standardized_labels": {}
   },
   "pl": {
     "name": "Polish",
@@ -997,39 +412,9 @@
       "Half True/False": "W połowie prawdziwy/fałsz"
     }
   },
-  "ps": {
-    "name": "Pashto",
-    "native": "پښتو",
-    "standardized_labels": {
-      "False": "دروغ",
-      "True": "ریښتیا",
-      "Other": "نور",
-      "Half True/False": "نیم ریښتیا / غلط"
-    }
-  },
   "pt": {
     "name": "Portuguese",
     "native": "Português",
-    "standardized_labels": {}
-  },
-  "pt-pt": {
-    "name": "Portuguese",
-    "native": "Português",
-    "standardized_labels": {}
-  },
-  "qu": {
-    "name": "Quechua",
-    "native": "Runa Simi",
-    "standardized_labels": {}
-  },
-  "rm": {
-    "name": "Raeto Romance",
-    "native": "Rumantsch",
-    "standardized_labels": {}
-  },
-  "rn": {
-    "name": "Kirundi",
-    "native": "Kirundi",
     "standardized_labels": {}
   },
   "ro": {
@@ -1057,51 +442,6 @@
     "native": "Kinyarwandi",
     "standardized_labels": {}
   },
-  "sa": {
-    "name": "Sanskrit",
-    "native": "संस्कृतम्",
-    "standardized_labels": {}
-  },
-  "sc": {
-    "name": "Sardinian",
-    "native": "Sardu",
-    "standardized_labels": {}
-  },
-  "sd": {
-    "name": "Sindhi",
-    "native": "सिनधि",
-    "standardized_labels": {
-      "False": "ڪوڙو",
-      "True": "سچ",
-      "Other": "ٻيو",
-      "Half True/False": "اڌ صحيح / غلط"
-    }
-  },
-  "se": {
-    "name": "Northern Sami",
-    "native": "Sámegiella",
-    "standardized_labels": {}
-  },
-  "sg": {
-    "name": "Sango",
-    "native": "Sängö",
-    "standardized_labels": {}
-  },
-  "sh": {
-    "name": "Serbo-Croatian",
-    "native": "Srpskohrvatski / Српскохрватски",
-    "standardized_labels": {}
-  },
-  "si": {
-    "name": "Sinhalese",
-    "native": "සිංහල",
-    "standardized_labels": {
-      "False": "අසත්යය",
-      "True": "සැබෑ",
-      "Other": "වෙනත්",
-      "Half True/False": "අර්ධ සත්ය / අසත්ය"
-    }
-  },
   "sk": {
     "name": "Slovak",
     "native": "Slovenčina",
@@ -1120,36 +460,6 @@
       "True": "Prav",
       "Other": "Drugo",
       "Half True/False": "Napol resnično/false"
-    }
-  },
-  "sm": {
-    "name": "Samoan",
-    "native": "Gagana Samoa",
-    "standardized_labels": {
-      "False": "Sese",
-      "True": "Moni",
-      "Other": "Isi",
-      "Half True/False": "Afa moni / sese"
-    }
-  },
-  "sn": {
-    "name": "Shona",
-    "native": "chiShona",
-    "standardized_labels": {
-      "False": "Nhema",
-      "True": "Ichokwadi",
-      "Other": "Zvimwe",
-      "Half True/False": "Hafu yechokwadi / yenhema"
-    }
-  },
-  "so": {
-    "name": "Somalia",
-    "native": "Soomaaliga",
-    "standardized_labels": {
-      "False": "Been ah",
-      "True": "Daacad ah",
-      "Other": "Kale",
-      "Half True/False": "Kala badh run / been"
     }
   },
   "sq": {
@@ -1171,24 +481,6 @@
       "Other": "Други",
       "Half True/False": "Напола истинито / лажно"
     }
-  },
-  "ss": {
-    "name": "Swati",
-    "native": "SiSwati",
-    "standardized_labels": {}
-  },
-  "st": {
-    "name": "Southern Sotho",
-    "native": "Sesotho",
-    "standardized_labels": {
-      "False": "Leshano",
-      "True": "'NETE"
-    }
-  },
-  "su": {
-    "name": "Sundanese",
-    "native": "Basa Sunda",
-    "standardized_labels": {}
   },
   "sv": {
     "name": "Swedish",
@@ -1359,15 +651,5 @@
   "zu": {
     "name": "Zulu",
     "native": "isiZulu"
-  },
-  "all": {
-    "name": "All Languages",
-    "native": "All Languages",
-    "standardized_labels": {
-      "False": "False",
-      "True": "True",
-      "Other": "Other",
-      "Half True/False": "Half True/False"
-    }
   }
 }

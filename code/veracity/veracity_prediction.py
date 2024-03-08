@@ -7,6 +7,7 @@ import dotenv
 import pandas as pd
 import requests
 from tqdm import tqdm
+from code.llm_utils.ollama import Ollama
 from code.veracity.llm_nli import (
     predict_stance_ollama,
     predict_stance_openai,
@@ -30,26 +31,32 @@ def factiverse_verify(query, lang, access_token):
         "claim": query,  # Your search query "lang": "en", # Language code
         "lang": lang,
     }
-    # print(payload)
-    response = requests.post(api_endpoint, headers=headers, json=payload)
+    try:
+        response = requests.post(api_endpoint, headers=headers, json=payload)
+        response.raise_for_status()  # This will raise for HTTP errors
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
     return response
 
 
 if __name__ == "__main__":
-    input = "data/veracity_prediction/dev.jsonl"
     access_token = get_access_token()
     count = 0
     missing_evidence = 0
     ISO639_FILE = {}
     langs = load_lang_codes()
     split = "test"
+    variation = os.getenv("VARIATION")
     for lang in langs.keys():
+        if lang != "en":
+            continue
         lang_name = langs[lang]["name"]
         fact_checked_data = []
-        data_file = f"data/veracity_prediction/{lang}_{split}.json"
+        data_file = f"data/veracity_prediction/{lang}_{split}_num.json"
         if not os.path.exists(data_file):
             continue
         data = load_json(data_file)
+        ollama = Ollama()
         with open(
             f"data/veracity_prediction/{lang}_{split}_results.tsv",
             mode="w",
@@ -71,9 +78,8 @@ if __name__ == "__main__":
                                     claim=response_data["claim"],
                                     evidence=evidence["snippet"],
                                     lang=lang_name,
+                                    ollama=ollama,
                                 )
-                                ollama_preds.append(ollama_pred)
-                                evidence["ollama_pred"] = ollama_pred
                                 gpt3_pred = predict_stance_openai(
                                     claim=response_data["claim"],
                                     evidence=evidence["snippet"],
@@ -85,9 +91,11 @@ if __name__ == "__main__":
                                     lang=lang_name,
                                     model="gpt-4",
                                 )
+                                ollama_preds.append(ollama_pred)
+                                evidence["ollama_pred"] = ollama_pred
                                 gpt3_preds.append(gpt3_pred)
-                                gpt4_preds.append(gpt4_pred)
                                 evidence["gpt3_pred"] = gpt3_pred
+                                gpt4_preds.append(gpt4_pred)
                                 evidence["gpt4_pred"] = gpt4_pred
                             ollama_count = Counter(ollama_preds)
                             if ollama_count["True"] > ollama_count["False"]:
@@ -160,7 +168,7 @@ if __name__ == "__main__":
                     print("exception", e)
                     continue
         with open(
-            f"data/veracity_prediction/{lang}_{split}_nli_pred.json",
+            f"data/veracity_prediction/{lang}_{split}_{variation}_nli_pred.json",
             mode="w",
             encoding="utf-8",
         ) as f:

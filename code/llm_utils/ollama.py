@@ -21,7 +21,7 @@ class Ollama:
     def __init__(self, config_path: str = "code/llm_utils/mistral.yaml"):
         """Initializes the Ollama client and loads necessary configurations."""
         load_dotenv()
-        self._ollama_client = Client(host=os.environ["OLLAMA_HOST"], timeout=20)
+        self._ollama_client = Client(host=os.environ["OLLAMA_HOST"], timeout=120)
         self._config_path = config_path
         self._config = self._load_config()
         self._stream = self._config.get("stream", False)

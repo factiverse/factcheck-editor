@@ -4,6 +4,8 @@ import os
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
 import math
 from code.utils.utils import load_lang_codes
+import dotenv
+dotenv.load_dotenv()
 
 def load_json(file_path):
     with open(file_path, "r") as f:
@@ -197,12 +199,12 @@ def fix_labels(csv_file, json_file):
 
 
 if __name__ == "__main__":
-
     lang_codes = load_lang_codes()
     split = "test"
-
+    variation = os.getenv("VARIATION")
+    print(variation)
     with open(
-        f"data/veracity_prediction/{split}.jsonl_f1.tsv",
+        f"data/veracity_prediction/{split}_{variation}.jsonl_f1.tsv",
         "w",
         encoding="utf-8",
     ) as f:
@@ -210,14 +212,16 @@ if __name__ == "__main__":
             f"Lang\tFV_Macro_F1\tFV_Micro_F1\tOllama_Macro_F1\tOllama_Micro_F1\tgpt3_Macro_F1\tgpt3_Micro_F1\tgpt4_Macro_F1\tgpt4_Micro_F1\n"
         )
         for lang in lang_codes.keys():
+            if lang != "en":
+                continue
             try:
                 if not os.path.exists(
-                    f"data/veracity_prediction/{lang}_{split}_nli_pred.json"
+                    f"data/veracity_prediction/{lang}_{split}_{variation}_nli_pred.json"
                 ):
                     print("No data file for lang: ", lang)
                     continue
                 data = load_json(
-                    f"data/veracity_prediction/{lang}_{split}_nli_pred.json"
+                    f"data/veracity_prediction/{lang}_{split}_{variation}_nli_pred.json"
                 )
                 print(len(data))
                 if len(data) == 0:
@@ -241,7 +245,7 @@ if __name__ == "__main__":
                 )
                 if not math.isnan(fv_macro_f1):
                     f.write(
-                        f"{lang}\t{fv_macro_f1}\t{fv_micro_f1}\t{ollama_macro_f1}\t{ollama_micro_f1}\t{gpt3_macro_f1}\t{gpt3_micro_f1}\t{gpt4_macro_f1}\t{gpt4_macro_f1}\n"
+                        f"{lang}\t{fv_macro_f1}\t{fv_micro_f1}\t{ollama_macro_f1}\t{ollama_micro_f1}\t{gpt3_macro_f1}\t{gpt3_micro_f1}\t{gpt4_macro_f1}\t{gpt4_micro_f1}\n"
                     )
                     print(
                         (
