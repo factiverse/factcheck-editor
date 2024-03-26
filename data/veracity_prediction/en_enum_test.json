@@ -1,82 +1,402 @@
 [
-    {
-        "claim": "The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.",
-        "label": 0
-    },
-    {
-        "claim": "More than 50 percent of immigrants from (El Salvador, Guatemala and Honduras) use at least one major welfare program once they get here.",
-        "label": 1
-    },
-    {
-        "claim": "UK government banned Covid vaccine for children age 5-11",
-        "label": 0
-    },
-    {
-        "claim": "[In 2014-2015] coverage for the rotavirus vaccine exceeded the 95% target and the pneumococcal vaccine reached 91.5%.",
-        "label": 1
-    },
-    {
-        "claim": "In September 2021, the U.K. government announced its intention to create a new criminal offense of pet abduction.",
-        "label": 1
-    },
-    {
-        "claim": "Labour took £1.5 million from Just Stop Oil.",
-        "label": 0
-    },
-    {
-        "claim": "McDonald's has announced that everyone who shares this link will receive 2 FREE McFamily box",
-        "label": 0
-    },
-    {
-        "claim": "NASA just announced a 100-foot-wide fissure-crack just opened up Yellowstone volcano in 24 hours.",
-        "label": 0
-    },
-    {
-        "claim": "Photo shows woman watching climate protest outside Ivanka Trump’s house in 2017",
-        "label": 0
-    },
-    {
-        "claim": "The 1974 comedy “Young Frankenstein” directly inspired the title for rock band Aerosmith’s song “Walk This Way.”",
-        "label": 0
-    },
-    {
-        "claim": "A total of 58 peer-reviewed papers published in the first half of 2017 conclude that global warming is a myth.",
-        "label": 0
-    },
-    {
-        "claim": "Senator Clinton tried to spend $1 million on the Woodstock Concert Museum.",
-        "label": 0
-    },
-    {
-        "claim": "When you throw 23 million people off of health insurance -- people with cancer, people with heart disease, people with diabetes -- thousands of people will die. … This is study after study making this point.",
-        "label": 1
-    },
-    {
-        "claim": "Says Arizona, Missouri and Texas residents have a two-pet limit, so the public must \"surrender their third pet to the Humane Society.\"",
-        "label": 1
-    },
-    {
-        "claim": "We have an unemployment (rate of) 1.5 in Boone County, and we can’t find enough workers.",
-        "label": 1
-    },
-    {
-        "claim": "Computer models show Irma destroying New York City on Sept. 10.",
-        "label": 0
-    },
-    {
-        "claim": "Antifa activists announced in August 2017 that they would protest the Sturgis Motorcycle Rally in 2018.",
-        "label": 0
-    },
-    {
-        "claim": "80% of the population continues to occupy less than 10% of South Africa's land",
-        "label": 1
-    },
-    {
-        "claim": "Facebook user 'Mukesh Sharma Fans Club' (archive link) shared the viral post on August 13 and wrote,",
-        "label": 0
-    },
-    {
-        "claim": "“And just like that, your $15/hr doesn’t buy you as much as $7.50/hr did a year ago.”",
-        "label": 0
-    }
+  {
+    "claim": "The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.",
+    "label": 0
+  },
+  {
+    "claim": "More than 50 percent of immigrants from (El Salvador, Guatemala and Honduras) use at least one major welfare program once they get here.",
+    "label": 1
+  },
+  {
+    "claim": "UK government banned Covid vaccine for children age 5-11",
+    "label": 0
+  },
+  {
+    "claim": "[In 2014-2015] coverage for the rotavirus vaccine exceeded the 95% target and the pneumococcal vaccine reached 91.5%.",
+    "label": 1
+  },
+  {
+    "claim": "In September 2021, the U.K. government announced its intention to create a new criminal offense of pet abduction.",
+    "label": 1
+  },
+  {
+    "claim": "Labour took £1.5 million from Just Stop Oil.",
+    "label": 0
+  },
+  {
+    "claim": "McDonald's has announced that everyone who shares this link will receive 2 FREE McFamily box",
+    "label": 0
+  },
+  {
+    "claim": "NASA just announced a 100-foot-wide fissure-crack just opened up Yellowstone volcano in 24 hours.",
+    "label": 0
+  },
+  {
+    "claim": "Photo shows woman watching climate protest outside Ivanka Trump’s house in 2017",
+    "label": 0
+  },
+  {
+    "claim": "The 1974 comedy “Young Frankenstein” directly inspired the title for rock band Aerosmith’s song “Walk This Way.”",
+    "label": 0
+  },
+  {
+    "claim": "A total of 58 peer-reviewed papers published in the first half of 2017 conclude that global warming is a myth.",
+    "label": 0
+  },
+  {
+    "claim": "Senator Clinton tried to spend $1 million on the Woodstock Concert Museum.",
+    "label": 0
+  },
+  {
+    "claim": "When you throw 23 million people off of health insurance -- people with cancer, people with heart disease, people with diabetes -- thousands of people will die. … This is study after study making this point.",
+    "label": 1
+  },
+  {
+    "claim": "Says Arizona, Missouri and Texas residents have a two-pet limit, so the public must \"surrender their third pet to the Humane Society.\"",
+    "label": 1
+  },
+  {
+    "claim": "We have an unemployment (rate of) 1.5 in Boone County, and we can’t find enough workers.",
+    "label": 1
+  },
+  {
+    "claim": "Computer models show Irma destroying New York City on Sept. 10.",
+    "label": 0
+  },
+  {
+    "claim": "Antifa activists announced in August 2017 that they would protest the Sturgis Motorcycle Rally in 2018.",
+    "label": 0
+  },
+  {
+    "claim": "80% of the population continues to occupy less than 10% of South Africa's land",
+    "label": 1
+  },
+  {
+    "claim": "Facebook user 'Mukesh Sharma Fans Club' (archive link) shared the viral post on August 13 and wrote,",
+    "label": 0
+  },
+  {
+    "claim": "“And just like that, your $15/hr doesn’t buy you as much as $7.50/hr did a year ago.”",
+    "label": 0
+  },
+  {
+    "claim": "hillary clinton revealed a classified response window of \"four minutes\" for a u.s. president to launch nuclear weapons.",
+    "label": 0
+  },
+  {
+    "claim": "on election day 2020, an erie county, pennsylvania, poll worker bragged about discarding more than 100 ballots in favor of u.s. president donald trump.",
+    "label": 0
+  },
+  {
+    "claim": "president trump tweeted over the 2020 memorial day weekend that he 'sacrificed a lot to be your president.'",
+    "label": 0
+  },
+  {
+    "claim": "video of muslims in morocco still praying when quake hit in september 2023",
+    "label": 0
+  },
+  {
+    "claim": "the 9/11 memorial & museum and the world war ii memorial, both in new york state, were vandalized during black lives matter protests in the spring of 2020.",
+    "label": 0
+  },
+  {
+    "claim": "\"on average, a black family comprises six people compared with a white family of three people.\"",
+    "label": 0
+  },
+  {
+    "claim": "on may 4, 2020, u.s. house speaker nancy pelosi said she wants the federal government's next economic relief bill during the covid-19 coronavirus pandemic to establish \"guaranteed minimum",
+    "label": 0
+  },
+  {
+    "claim": "\"the last time democrats were in power, they cut medicare by more than $700 billion to pay for the scandalous obamacare. now democrats want to steal trillions of dollars from medicare.",
+    "label": 0
+  },
+  {
+    "claim": "people will receive a 100 gift card and gift bag from uk retailer argos if they fill in an online form.",
+    "label": 0
+  },
+  {
+    "claim": "sana khan said she became pregnant only because her husband prayed for two years at ajmer sharif dargah.",
+    "label": 0
+  },
+  {
+    "claim": "no, nigerian betting site msport is not giving away a n50,000 bonus. beware of imposter facebook page",
+    "label": 0
+  },
+  {
+    "claim": "social media sitesarecurrently spreading an imageof a young crying woman claiming in various languages that the president's 17-year-old daughter oleksandra zelenska\"hates her father\" and had",
+    "label": 0
+  },
+  {
+    "claim": "the warner brothers cartoon character pepe le pew was \"canceled\" from an upcoming sequel to \"space jam\" because a march 2021 new york times op-ed said he \"normalized rape culture.\"",
+    "label": 0
+  },
+  {
+    "claim": "in november 2023, a headline accurately reported that netflix had cancelled season 5 of \"stranger things.\"",
+    "label": 0
+  },
+  {
+    "claim": "hillary clinton staged a photo op encounter  with a hiker the day after she lost the 2016 presidential election.",
+    "label": 0
+  },
+  {
+    "claim": "carbon dioxide does not cause global warming, scientists are 90% sure its the sun; the climate problems blamed on carbon dioxide (such as ocean acidification and negative impacts on polar bears)",
+    "label": 0
+  },
+  {
+    "claim": "the video shows three generations of russian gymnastsgrandmother, mother, and daughterperforming together.",
+    "label": 0
+  },
+  {
+    "claim": "u.s. president joe biden ordered the fbi to make unannounced \"knock and talk\" visits to the homes of over 100,000 supporters of former u.s. president donald trump.",
+    "label": 0
+  },
+  {
+    "claim": "delta air lines is selling $500 gift cards for $1 each and also promoting \"$100 reward\" offers for taking a survey.",
+    "label": 0
+  },
+  {
+    "claim": "photo of sadhus clad in loincloths related to 2021 maha kumbh mela",
+    "label": 0
+  },
+  {
+    "claim": "in early voting in miami-dade county, \"there is a trickle of two or three people a day at a very high cost to keep those public libraries and polls open.\"",
+    "label": 0
+  },
+  {
+    "claim": "this video shows pm modi taking sadistic pleasure in the suffering of people following the demonetisation drive in 2016.",
+    "label": 0
+  },
+  {
+    "claim": "does proposition 47 allow people to steal up to $950 worth of merchandise at stores in california?",
+    "label": 0
+  },
+  {
+    "claim": "did 13 people die at the burning man music festival?",
+    "label": 0
+  },
+  {
+    "claim": "an image shared in early december 2023 authentically showed an idf soldier apparently pointing a gun at a palestinian mother and two children.",
+    "label": 0
+  },
+  {
+    "claim": "police personnel warning people against picking up calls from numbers starting from 140",
+    "label": 0
+  },
+  {
+    "claim": "photos of chinese soldiers who were killed in the 2020 galwan clash.",
+    "label": 0
+  },
+  {
+    "claim": "\"why are the poor (over 80% living in the hand-to-mouth informal sector or even unemployment) paying higher personal income tax and non-vats than corporates ..?\"",
+    "label": 0
+  },
+  {
+    "claim": "quotes house speaker mike johnson as saying, every woman has a duty to birth at least one able-bodied worker.",
+    "label": 0
+  },
+  {
+    "claim": "executive order 9066, signed by u.s. president joe biden, provides immigrants who enter the united states illegally a cell phone, a free plane ticket to a destination of their choosing and a $5000",
+    "label": 0
+  },
+  {
+    "claim": "nigeria's corporate affairs commission not registering businesses for free  don't give out your number online",
+    "label": 0
+  },
+  {
+    "claim": "malware, remote access caused printer problems; 200,000 'ejected' ballots in arizona",
+    "label": 0
+  },
+  {
+    "claim": "167 muslim children are born daily in government hospitals in kerala, outnumbering those of other religions",
+    "label": 0
+  },
+  {
+    "claim": "h-e-b is giving away $80 grocery coupons to facebook users.",
+    "label": 0
+  },
+  {
+    "claim": "faucis emails prove he knew that masks dont work against the spread of covid-19, that hydroxychloroquine is effective against covid-19, and that the virus is likely engineered, and he lied about",
+    "label": 0
+  },
+  {
+    "claim": "a woman who appeared in new york after hillary clinton left a 9/11 memorial service for medical reasons was body double teresa barnwell, not clinton herself.",
+    "label": 0
+  },
+  {
+    "claim": "cambridge scientists admit 25% of vaccinated people now have vaids",
+    "label": 0
+  },
+  {
+    "claim": "the fox news channel won a 2004 court case allowing the cable channel to lie to viewers.",
+    "label": 0
+  },
+  {
+    "claim": "an astrophysicist warned that a \"newly discovered planet x\" could wipe out all life on earth as early as april 2016.",
+    "label": 0
+  },
+  {
+    "claim": "alexander soros said he made the ultimate decision to pick u.s. sen. kamala harris, d-calif., as 2020 democratic presidential candidate joe biden's running mate.",
+    "label": 0
+  },
+  {
+    "claim": "in late september 2020, the u.s. department of agriculture distributed millions of federally funded aid boxes that included a letter from president donald trump crediting his administration for",
+    "label": 1
+  },
+  {
+    "claim": "in march 2021, a man sporting face paint in the likeness of comic book supervillain the joker announced that he was running for governor in a japanese district known as chiba prefecture.",
+    "label": 1
+  },
+  {
+    "claim": "in march 2021, fox news host greg gutfeld sang \"i gotta pee\" live on air.",
+    "label": 1
+  },
+  {
+    "claim": "'hamilton' actor brandon victor dixon sent a controversial tweet in 2012, uncovered after he delivered an on-stage speech to vice president-elect mike pence.",
+    "label": 1
+  },
+  {
+    "claim": "\" [] india taking advantage of the moment and knowing about the sanctions buys oil from russia at a discount of 40%\" writes twitter user igor fedorovskyin russian",
+    "label": 1
+  },
+  {
+    "claim": "\"... since we launched the initiative, 699 schools have been provided with safe and appropriate sanitation facilities and projects and a further 1,150 schools are either in planning, design or",
+    "label": 1
+  },
+  {
+    "claim": "\"61 percent of non-tea party republicans actually agree...there is 'solid evidence the earth is warming,' ...[but] 70 percent of tea partiers, contrarily, say there is 'no solid evidence' the",
+    "label": 1
+  },
+  {
+    "claim": "\"a ham and cheese sandwich on one slice of bread is the responsibility of the usda ... but a ham and cheese sandwich on two slices of bread is the responsibility of the food and drug",
+    "label": 1
+  },
+  {
+    "claim": "\"a woman working full-time is paid 79 to 80 cents for every dollar a man is paid, and it's even less for women of color, and on average $11,000 per year is lost simply because she isn't a man.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"according to the national bureau of statistics, there are 2,561 registered doctors in lagos.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"by a two-to-one margin, rhode islanders want to ban assault weapons and we have a very small percentage of gun owners in this state, less than 13 percent.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"by the end of governor rick perry's term, he will have drained texas taxpayers ... of more than $360,000 to pay for the rental mansion he has been living in while the historic governor's mansion",
+    "label": 1
+  },
+  {
+    "claim": "\"compliance levels with parole and probation conditions have improved to reach a historic mark of 98%.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"do you know that, statistically, when you take the sat a second time, one third of the people that take the sat, even if they've been studying, will get a lower score than they did the first",
+    "label": 1
+  },
+  {
+    "claim": "\"h.b. 194, the voter suppression bill, invalidates a vote where a voter properly marks the ballot in support of a particular candidate, but also writes in the name of that same candidate.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"if we make no changes over the next 10 years, americans will reach into their pockets and pay out about $11 trillion on insurance premiums, copays, deductibles and uncovered medical expenses.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"if you make the average amount of people in wisconsin, $50,000, you got $1.60 less a week in taxes\" under the state income-tax cut, but \"it didnt show up in your paycheck.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"illinois suffered 1,652 overdose deaths in 2014 ... of which 40 percent were associated with heroin. illinois is ranked number one in the nation for a decline in treatment capacity between 2007",
+    "label": 1
+  },
+  {
+    "claim": "\"in 1976, the first year that pell grants were fully funded, a full pell grant paid 72 percent of the cost of attendance at a typical four-year public college. today, a full pell grant covers",
+    "label": 1
+  },
+  {
+    "claim": "\"in december of 2017, the prince william board of supervisors had a meeting ... (corey stewart) skipped that meeting to go campaign in alabama for roy moore to be a u.s. senator  you haven't",
+    "label": 1
+  },
+  {
+    "claim": "\"in rhode island today, 25 percent of our households either don't have a bank account at all, or they have a bank account and they're still relying on high-cost financial services like payday",
+    "label": 1
+  },
+  {
+    "claim": "\"in simple terms, 50% of all the money collected as revenues in kenya goes into the pockets of less than 2% of the country's total population.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"in the eight years that i was mayor, (there was a) nearly 50 percent drop in violent crime, gang crime  crime went down because we grew our police department, we focused on constitutional",
+    "label": 1
+  },
+  {
+    "claim": "\"it is not a secret that we [african countries] are paying at least five times as much as the advanced economies to borrow from financial markets.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"job losses are so certain under this new cap-and-tax plan that it includes a provision accommodating newly unemployed workers from the resulting dried-up energy sector, to the tune of $4.2",
+    "label": 1
+  },
+  {
+    "claim": "\"just a little over 60 percent of your electric bill, my electric bill, 60 percent of that is pass-throughs, whether they be for building of nuclear plants or whatever they may be.\" a planned",
+    "label": 1
+  },
+  {
+    "claim": "\"lagos state has not implemented the 65 years retirement policy for teachers, signed by the nigerian president, muhammadu buhari, in 2020 ...\"",
+    "label": 1
+  },
+  {
+    "claim": "\"last financial year the kenya revenue authority reported that the paye (pay as you earn) was ksh461 billion\".",
+    "label": 1
+  },
+  {
+    "claim": "\"nairobi has 11% of the voters. we have 2.4 million voters out of 22 million voters in the country.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"ninety percent of people born in the 1940s ended up doing better financially than their parents. but those born in the 1980s, the much-maligned millennials, have only a 50-50 chance of doing",
+    "label": 1
+  },
+  {
+    "claim": "\"one unnamed donor gave $17 million to the leo-affiliated judicial crisis network to block the nomination of judge merrick garland and to support gorsuch; then a donor  perhaps the same one  gave",
+    "label": 1
+  },
+  {
+    "claim": "\"only 35.6% of children aged 36 to 59 months receive early childhood education.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"only 5% of the money sent to counties went to nairobi.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"over the past four decades, weve lost over 400,000 farms in america (and) over 140 million acres of farmland. and thats an area roughly equal to the size of minnesota, north and south dakota",
+    "label": 1
+  },
+  {
+    "claim": "\"south africans now live nine years longer than they did in 2005 due to the roll-out by this government of drugs that prolong life.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"student enrolments at universities increased by 12% while further education and training college enrolments have increased by 90%.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"studies show that children who go to preschool are nearly 50% more likely to finish high school and go on to earn a two- or four-year degree, no matter their background they came from.\"",
+    "label": 1
+  },
+  {
+    "claim": "\"thanks to president trump and republicans over the past year through july, u.s. manufacturing added 327,000 jobs, the most of any 12-month period since april 1995, when the figure added a",
+    "label": 1
+  },
+  {
+    "claim": "\"the accelerated schools infrastructure delivery initiative programme continues to deliver modern facilities to our schools... with at least 187 schools being completed to date. \"",
+    "label": 1
+  },
+  {
+    "claim": "\"the average life expectancy for african americans in saint louis and saint louis county varies by as much as 18 years compared to the white population, with nearly half of all african-american",
+    "label": 1
+  }
 ]
