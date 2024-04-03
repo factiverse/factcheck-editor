@@ -25,7 +25,7 @@ class Ollama:
         self._config_path = config_path
         self._config = self._load_config()
         self._stream = self._config.get("stream", False)
-        self._model_name = self._config.get("model_name", "mistral")
+        self._model_name = self._config.get("model", "mistral")
         self._llm_options = self._get_llm_config()
 
     def generate(self, prompt: str) -> str:
