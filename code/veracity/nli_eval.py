@@ -212,8 +212,8 @@ if __name__ == "__main__":
             f"Lang\tFV_Macro_F1\tFV_Micro_F1\tOllama_Macro_F1\tOllama_Micro_F1\tgpt3_Macro_F1\tgpt3_Micro_F1\tgpt4_Macro_F1\tgpt4_Micro_F1\n"
         )
         for lang in lang_codes.keys():
-            if lang != "en":
-                continue
+            # if lang != "en":
+                # continue
             try:
                 if not os.path.exists(
                     f"data/veracity_prediction/{lang}_{split}_{variation}_nli_pred.json"

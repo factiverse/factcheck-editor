@@ -1,6 +1,6 @@
 import json
 import copy
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, DeeplTranslator
 from code.utils.utils import load_json, load_lang_codes
 
 

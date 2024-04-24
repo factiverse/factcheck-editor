@@ -1,14 +1,14 @@
-model: "mistral"
+model: "zephyr"
 stream: false
 options:
-  seed: 42
+  seed: 37
   num_predict: 100
-  top_k: 20
+  top_k: 40
   top_p: 0.9
   tfs_z: 0.5
-  typical_p: 0.7
+  typical_p: 0.9
   repeat_last_n: 10
-  temperature: 0.0
+  temperature: 0.2
   repeat_penalty: 1.2
   presence_penalty: 1.5
   frequency_penalty: 1.0
