@@ -19,7 +19,7 @@ dotenv.load_dotenv()
 
 
 
-def factiverse_verify(query, lang, access_token):
+def factiverse_verify(query, lang, access_token, questions):
     api_link = os.getenv("SERVER_ENDPOINT")
     api_endpoint = f"{api_link}/stance_detection"
     headers = {
@@ -29,6 +29,7 @@ def factiverse_verify(query, lang, access_token):
     payload = {
         "claim": query,  # Your search query "lang": "en", # Language code
         "lang": lang,
+        "questions": questions
     }
     # print(payload)
     response = requests.post(api_endpoint, headers=headers, json=payload)
@@ -62,7 +63,6 @@ if __name__ == "__main__":
                     if response.status_code == 200:
                         response_data = response.json()
                         if len(response_data["evidence"]) > 0:
-                            # print(response_data["claim"])
                             ollama_preds = []
                             gpt3_preds = []
                             gpt4_preds = []
