@@ -5,12 +5,12 @@ from tqdm import tqdm
 import os
 from dotenv import load_dotenv
 from sklearn.metrics import f1_score
-from code.llm_utils.openai_utils import OpenAIUtils
+from src.llm_utils.openai_utils import OpenAIUtils
 import random
 
-from code.llm_utils.ollama import Ollama
-from code.prompts.prompts import CHECKWORTHY_PROMPT
-from code.utils.utils import get_access_token, load_json
+from src.llm_utils.ollama import Ollama
+from src.prompts.prompts import CHECKWORTHY_PROMPT
+from src.utils.utils import get_access_token, load_json
 
 
 load_dotenv()

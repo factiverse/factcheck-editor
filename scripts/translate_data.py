@@ -1,7 +1,7 @@
 import json
 import copy
 from deep_translator import GoogleTranslator
-from code.utils.utils import load_json, load_lang_codes
+from src.utils.utils import load_json, load_lang_codes
 
 
 

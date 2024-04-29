@@ -7,12 +7,12 @@ import dotenv
 import pandas as pd
 import requests
 from tqdm import tqdm
-from code.veracity.llm_nli import (
+from src.veracity.llm_nli import (
     predict_stance_ollama,
     predict_stance_openai,
 )
 from collections import Counter
-from code.utils.utils import get_access_token, load_lang_codes, load_json
+from src.utils.utils import get_access_token, load_lang_codes, load_json
 
 
 dotenv.load_dotenv()

@@ -40,6 +40,6 @@ def load_json(file_name: str):
 
 def load_lang_codes() -> Dict[str, Dict[str, str]]:
     lang_codes = {}
-    with open("code/utils/lang_codes.json", "r") as iso639_file:
+    with open("src/utils/lang_codes.json", "r") as iso639_file:
         lang_codes = json.load(iso639_file)
     return lang_codes

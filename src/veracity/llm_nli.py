@@ -1,10 +1,10 @@
 import json
 import os
-from code.llm_utils.openai_utils import OpenAIUtils
+from src.llm_utils.openai_utils import OpenAIUtils
 
-from code.llm_utils.ollama import Ollama
-from code.utils.utils import load_lang_codes
-from code.prompts.prompts import IDENTIFY_STANCE_PROMPT
+from src.llm_utils.ollama import Ollama
+from src.utils.utils import load_lang_codes
+from src.prompts.prompts import IDENTIFY_STANCE_PROMPT
 import random
 
 

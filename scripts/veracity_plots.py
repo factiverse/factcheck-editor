@@ -6,7 +6,7 @@ from sklearn.metrics import f1_score
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from code.utils.utils import load_lang_codes
+from src.utils.utils import load_lang_codes
 
 if __name__ == "__main__":
     lang_codes = load_lang_codes()

@@ -3,7 +3,7 @@ import json
 import os
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
 import math
-from code.utils.utils import load_lang_codes
+from src.utils.utils import load_lang_codes
 
 def load_json(file_path):
     with open(file_path, "r") as f:
