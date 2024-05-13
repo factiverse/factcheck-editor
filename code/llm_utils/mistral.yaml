@@ -1,17 +1,12 @@
-model: "zephyr"
+model: "mixtral"
 stream: false
 options:
-  seed: 37
-  num_predict: 100
+  seed: 42
+  num_predict: 10
   top_k: 40
   top_p: 0.9
-  tfs_z: 0.5
-  typical_p: 0.9
-  repeat_last_n: 10
-  temperature: 0.2
-  repeat_penalty: 1.2
-  presence_penalty: 1.5
-  frequency_penalty: 1.0
+  tfs_z: 1
+  repeat_last_n: 64
+  temperature: 0.8
+  repeat_penalty: 1.1
   penalize_newline: false
-  stop: 
-    - "\n"

@@ -42,6 +42,7 @@ class Ollama:
             prompt=prompt,
             options=self._llm_options,
             stream=self._stream,
+            # format="json",
         )
         response_text = response["response"].strip()
         return response_text
