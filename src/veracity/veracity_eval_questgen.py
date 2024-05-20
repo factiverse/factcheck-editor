@@ -202,7 +202,8 @@ if __name__ == "__main__":
 
     lang_codes = load_lang_codes()
     split = "test"
-    variant = "serper_test"
+    variant = "questgen_all_search_engines"
+    model_scores = {}
     with open(
         f"data/{variant}/questgen_f1.tsv",
         "w",
@@ -227,6 +228,9 @@ if __name__ == "__main__":
                     print("No data for model: ", model)
                     continue
                 # print(data[0])
+                # scores = [item["factiverse_score"] for item in data if f"factiverse_score" in item]
+                scores = [item["factiverse_score"] if "factiverse_score" in item else 0 for item in data]
+                model_scores[model] = scores
                 conf_mat, fv_macro_f1, fv_micro_f1, pos_f1, neg_f1 = compute_metrics(
                     data, "factiverse"
                 )
@@ -246,3 +250,20 @@ if __name__ == "__main__":
             #     print("Failed to process model: ", model)
                 # print(e)
                 # continue
+    # print(model_scores)
+    import numpy as np
+    from scipy.stats import ttest_rel
+    t5_scores = np.array(model_scores["T5"])
+    for model, scores in model_scores.items():
+        print(model, len(scores))
+        # if model == "T5":
+        #     continue
+        # print(model, np.mean(scores), np.std(scores))
+        # # Synthetic BLEU and ROUGE scores for two models
+        
+        # scores_b = np.array(scores)
+
+        # # Perform paired t-tests
+        # bleu_t_stat, bleu_p_val = ttest_rel(t5_scores, scores_b)
+
+        # print(f"Model: {model},  p-value: {bleu_p_val}")
