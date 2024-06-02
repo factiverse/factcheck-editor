@@ -38,7 +38,7 @@ if __name__ == "__main__":
   
     data = load_json(data_file)
     # models = data.keys()
-    models = ["BART", "flan-t5", "mistral", "T5", "fv_qg", "human"]
+    models = ["llama2", "BART", "flan-t5", "mistral", "T5", "fv_qg", "human"]
     variant = "serper_test"
     # models = ["no_qg"]
     for model in models:
