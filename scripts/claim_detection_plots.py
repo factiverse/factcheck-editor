@@ -17,7 +17,7 @@ if __name__ == "__main__":
     with open("code/utils/lang_codes.json", "r") as iso639_file:
         ISO639_FILE = json.load(iso639_file)
     with open(f"{data_folder}/f1_scores.tsv", "w") as f1_file:
-        f1_file.write(f"lang\tgpt3_macro\tgpt3_micro\tgpt4_macro\tgpt4_micro\tfacti_macro\tfacti_micro\tmistral_macro\tmistral_micro\n")
+        f1_file.write(f"lang\tclaude_opus_4_6_pred\tgpt3_micro\tgpt52_macro\tgpt52_micro\tfacti_macro\tfacti_micro\tmistral_macro\tmistral_micro\n")
         for lang in ISO639_FILE.keys():
             if not os.path.exists(f"{data_folder}/{lang}_{split}_pred.json"):
                 continue       
@@ -30,20 +30,20 @@ if __name__ == "__main__":
                 print(e)
                 continue 
             mistral_preds = [item['mistral_pred'] for item in data]
-            gpt3_preds = [item['gpt3_pred'] for item in data]
-            gpt4_preds = [item['gpt4_pred'] for item in data]
+            gpt3_preds = [item['claude_opus_4_6_pred'] for item in data]
+            gpt52_preds = [item['gpt52_pred'] for item in data]
             facti_preds = [item['facti_pred'] for item in data]
             true_values = [item['checkworthy'] for item in data]
-            gpt3_macro = f1_score(true_values, gpt3_preds, average='macro')
+            claude_opus_4_6_pred = f1_score(true_values, gpt3_preds, average='macro')
             gpt3_micro = f1_score(true_values, gpt3_preds, average='micro')
-            gpt4_macro = f1_score(true_values, gpt4_preds, average='macro')
-            gpt4_micro = f1_score(true_values, gpt4_preds, average='micro')
+            gpt52_macro = f1_score(true_values, gpt52_preds, average='macro')
+            gpt52_micro = f1_score(true_values, gpt52_preds, average='micro')
             facti_macro = f1_score(true_values, facti_preds, average='macro')
             facti_micro = f1_score(true_values, facti_preds, average='micro')
             mistral_macro = f1_score(true_values, mistral_preds, average='macro')
             mistral_micro = f1_score(true_values, mistral_preds, average='micro')
-            print(f"{lang}\t{gpt3_macro}\t{gpt3_micro}\t{gpt4_macro}\t{gpt4_micro}\t{facti_macro}\t{facti_micro}\t{mistral_macro}\t{mistral_micro}\n")
-            f1_file.write(f"{lang}\t{gpt3_macro}\t{gpt3_micro}\t{gpt4_macro}\t{gpt4_micro}\t{facti_macro}\t{facti_micro}\t{mistral_macro}\t{mistral_micro}\n")
+            print(f"{lang}\t{claude_opus_4_6_pred}\t{gpt3_micro}\t{gpt52_macro}\t{gpt52_micro}\t{facti_macro}\t{facti_micro}\t{mistral_macro}\t{mistral_micro}\n")
+            f1_file.write(f"{lang}\t{claude_opus_4_6_pred}\t{gpt3_micro}\t{gpt52_macro}\t{gpt52_micro}\t{facti_macro}\t{facti_micro}\t{mistral_macro}\t{mistral_micro}\n")
             
     import pandas as pd
     import matplotlib.pyplot as plt
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # gpt3
     mistral_micro_bars = ax.bar(index - 2*bar_width, data_sorted['mistral_micro'], bar_width, alpha=opacity, label='Mistral-7b', color='green')
     gpt3_micro_bars = ax.bar(index - bar_width, data_sorted['gpt3_micro'], bar_width,  alpha=opacity, label='GPT-3.5-turbo', color='yellow')
-    gpt4_micro_bars = ax.bar(index, data_sorted['gpt4_micro'], bar_width,  alpha=opacity, label='GPT-4', color='red')
+    gpt52_micro_bars = ax.bar(index, data_sorted['gpt52_micro'], bar_width,  alpha=opacity, label='GPT-4', color='red')
     
 
     # Facti
@@ -96,9 +96,9 @@ if __name__ == "__main__":
     fig, ax = plt.subplots(figsize=(20, 10))
     bar_width = 0.2
     index = np.arange(len(data_sorted))
-    mistral_macro_bars = ax.bar(index - 2*bar_width, data_sorted['mistral_macro'], bar_width,alpha=opacity,  label='Mistral-7b', color='green')
-    gpt3_macro_bars = ax.bar(index - bar_width, data_sorted['gpt3_macro'], bar_width, alpha=opacity, label='GPT-3.5-turbo', color='yellow')
-    gpt4_macro_bars = ax.bar(index, data_sorted['gpt4_macro'], bar_width, alpha=opacity, label='GPT-4', color='red')
+    mistral_macro_bars = ax.bar(index - 2*bar_width, data_sorted['mistral_macro'], bar_width,alpha=opacity,  label='Qwen3-8b', color='green')
+    claude_opus_4_6_pred_bars = ax.bar(index - bar_width, data_sorted['claude_opus_4_6_pred'], bar_width, alpha=opacity, label='Claude-Opus-4.6', color='yellow')
+    gpt52_macro_bars = ax.bar(index, data_sorted['gpt52_macro'], bar_width, alpha=opacity, label='GPT-5.2', color='red')
     facti_macro_bars = ax.bar(index + bar_width, data_sorted['facti_macro'], bar_width, alpha=opacity, label='Factiverse', color='blue')
     
     ax.set_xlabel('Language', fontsize=16)
@@ -115,10 +115,10 @@ if __name__ == "__main__":
     plt.savefig(f"{data_folder}_test_macro.pdf", format='pdf')
     
     average_gpt3_micro = data['gpt3_micro'].mean()
-    average_gpt3_macro = data['gpt3_macro'].mean()
+    average_claude_opus_4_6_pred = data['claude_opus_4_6_pred'].mean()
     
-    average_gpt4_micro = data['gpt4_micro'].mean()
-    average_gpt4_macro = data['gpt4_macro'].mean()
+    average_gpt52_micro = data['gpt52_micro'].mean()
+    average_gpt52_macro = data['gpt52_macro'].mean()
 
     average_facti_micro = data['facti_micro'].mean()
     average_facti_macro = data['facti_macro'].mean()
@@ -128,10 +128,10 @@ if __name__ == "__main__":
 
     # Print the results
     print(f"gpt3 Average Micro-F1: {average_gpt3_micro:.4f}")
-    print(f"gpt3 Average Macro-F1: {average_gpt3_macro:.4f}\n")
+    print(f"gpt3 Average Macro-F1: {average_claude_opus_4_6_pred:.4f}\n")
     
-    print(f"gpt4 Average Micro-F1: {average_gpt4_micro:.4f}")
-    print(f"gpt4 Average Macro-F1: {average_gpt4_macro:.4f}\n")
+    print(f"gpt52 Average Micro-F1: {average_gpt52_micro:.4f}")
+    print(f"gpt52 Average Macro-F1: {average_gpt52_macro:.4f}\n")
 
     print(f"Facti Average Micro-F1: {average_facti_micro:.4f}")
     print(f"Facti Average Macro-F1: {average_facti_macro:.4f}\n")

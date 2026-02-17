@@ -18,15 +18,17 @@ from dotenv import load_dotenv
 class Ollama:
     """A class for generating questions and interacting with the Ollama API."""
 
-    def __init__(self, config_path: str = "code/llm_utils/mistral.yaml"):
+    def __init__(self, config_path: str = "src/llm_utils/mistral.yaml"):
         """Initializes the Ollama client and loads necessary configurations."""
         load_dotenv()
         self._ollama_client = Client(host=os.environ["OLLAMA_HOST"], timeout=20)
         self._config_path = config_path
         self._config = self._load_config()
+        # print("Ollama config:", self._config)
         self._stream = self._config.get("stream", False)
         self._model_name = self._config.get("model", "mistral")
         self._llm_options = self._get_llm_config()
+        # print("Ollama LLM options:", self._llm_options)
 
     def generate(self, prompt: str) -> str:
         """Generate text using Ollama LLM for the given prompt.
@@ -69,5 +71,15 @@ class Ollama:
         Returns:
             An Options object with the LLM configuration.
         """
-        return Options(self._config.get("options", {}))
+        opts = self._config.get("options", {}) or {}
+        # Try to construct Options with kwargs; if the library's Options
+        # takes no args, fall back to no-arg construction. If that also
+        # fails, return the raw dict so Client.generate can accept it.
+        try:
+            return Options(**opts)
+        except TypeError:
+            try:
+                return Options()
+            except TypeError:
+                return opts
 

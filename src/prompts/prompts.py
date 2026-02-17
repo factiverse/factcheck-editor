@@ -13,12 +13,19 @@ Always return "Yes" or "No" without any other words.
 checkworthy({text})
 """
 
-IDENTIFY_STANCE_PROMPT = """You are given a claim and an evidence text both in the {lang} language, and you need to decide whether the evidence supports or refutes. Choose from the following two options.
-A. The evidence supports the claim. 
-B. The evidence refutes the claim.
+STANCE_SYSTEM_PROMPT = """You are an expert fact-checking assistant. Your task is to determine the stance of a given evidence text in relation to a claim. """
 
-For example, you are give Claim: "India has the largest population in the world.", Evidence: "In 2023 India overtook China to become the most populous country." You should return A
-Pick the correct option either A or B. You must not add any other words.
+IDENTIFY_STANCE_PROMPT = """Given a claim and it's associated evidence, both in the {lang} language, Your task is to determine the stance of a given evidence text in relation to a claim. Choose from the following.
+SUPPORTS: The evidence supports the claim.
+REFUTES: The evidence refutes the claim.
+MIXED: The evidence contains both supporting and refuting information.
+NOT_ENOUGH_INFO: The evidence does not provide enough information to determine the stance.
+
+Examples:
+Claim: "India has the largest population in the world.", Evidence: "When did India overtake China in population? In 2023 India overtook China to become the most populous country." You should return "SUPPORTS".
+Claim: "The earth is flat.", Evidence: "Numerous scientific studies and satellite images have confirmed that the earth is spherical." You should return "REFUTES".
+Claim: "The new policy will improve healthcare.", Evidence: "The new policy has some provisions that enhance healthcare access, but it also has budget cuts that may negatively impact services." You should return "MIXED".
+Claim: "Ivermectin is a treatment for coronavirus.", Evidence: "There is no conclusive evidence that ivermectin is effective in treating COVID-19, and health authorities do not recommend its use for this purpose." You should return "NOT_ENOUGH_INFO".
 
 Claim: {claim}
 Evidence: {evidence}"""

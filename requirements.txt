@@ -5,7 +5,9 @@ mypy
 docformatter
 pre-commit
 pydocstyle==6.1.1
-openai==0.27.8
+openai>=2.15.0
 deep_translator>=1.11.4
 ollama
 python-dotenv
+scikit-learn
+tqdm

@@ -45,7 +45,7 @@ def parse_args() -> argparse.Namespace:
         "-s",
         "--split",
         dest="split",
-        choices=["train", "dev", "test"],
+        choices=["train", "dev", "test", "fv_claim_test"],
         help="Which split to translate.",
         default="test",
     )
@@ -90,8 +90,8 @@ if __name__ == "__main__":
             new_row = copy.deepcopy(row)
             lang_data.append(new_row)
             new_row["claim"] = google_translation
-            if len(lang_data) == 10:
-                break
+            # if len(lang_data) == 10:
+            #     break
         with open(f"data/{task}/{lang}_{split}.json", "w") as json_file:
             json.dump(lang_data, json_file, indent=4)
-        break
+        # break

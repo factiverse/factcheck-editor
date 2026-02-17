@@ -16,7 +16,7 @@ def predict_stance_ollama(claim, evidence, lang):
 
 def predict_stance_openai(claim, lang, evidence, model=None):
     open_ai_utils = OpenAIUtils()
-    response = open_ai_utils.generate(IDENTIFY_STANCE_PROMPT.format(claim=claim, evidence=evidence, lang=lang, model=model))
+    response = open_ai_utils.generate(IDENTIFY_STANCE_PROMPT.format(claim=claim, evidence=evidence, lang=lang))
     if " " in response:
         response = response.split(" ")[0]
     return sanitize_response(response)
@@ -28,14 +28,12 @@ def sanitize_response(response: str) -> str:
         response: LLm response text.
 
     Returns:
-        True or False. If the response is not True or False, pick a random label.
+        A valid label string.
     """
-    response = response.strip().replace(".", "").replace(",", "")
-    if response == "A":
-        label = "True"
-    elif response == "B":
-        label = "False"
-    else:
-        label = "True" if random.random() >= 0.5 else "False"
-    return label
-
+    response = response.strip().replace(".", "").replace(",", "").upper()
+    valid_labels = ["SUPPORTS", "REFUTES", "MIXED", "NOT_ENOUGH_INFO"]
+    for label in valid_labels:
+        if label in response or response in label:
+            return label
+    print("Invalid response label:", response)
+    return random.choice(valid_labels)

@@ -7,14 +7,26 @@ from dotenv import load_dotenv
 from sklearn.metrics import f1_score
 from src.llm_utils.openai_utils import OpenAIUtils
 import random
+import numpy as np
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from src.llm_utils.ollama import Ollama
 from src.prompts.prompts import CHECKWORTHY_PROMPT
 from src.utils.utils import get_access_token, load_json
+from src.claim_detection.claim_detection_inference import BERTClaimPredictor
 
 
 load_dotenv()
+logging.basicConfig(level=logging.WARNING)
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("openai").setLevel(logging.WARNING)
 logger = logging.getLogger(__name__)
+logger.disabled = True
+claim_detection_model = BERTClaimPredictor(
+        "claim_detection_unquantized",
+        "unquantized",
+        "cache",
+    )
 
 def predict_check_worthiness_using_ollama(text: str, lang: str) -> str:
     """Predict check worthiness using LLM.
@@ -108,6 +120,82 @@ def claim_detection(
     )
     return response
 
+def claim_detection_factiverse_local(claim: str) -> requests.Response:
+    """
+    Docstring for claim_detection_factiverse_local
+    
+    :param claim: Description
+    :type claim: str
+    :return: Description
+    :rtype: Response
+    """
+    pred, scores = claim_detection_model.predict((claim,))
+    return pred
+
+
+def claim_detection_factiverse_local_batch(claims: list) -> list:
+    """Predict check worthiness for multiple claims using local Factiverse model.
+    
+    Args:
+        claims: List of claim texts
+    
+    Returns:
+        List of predictions (0 or 1)
+    """
+    preds, scores = claim_detection_model.predict(tuple(claims))
+    return preds.tolist() if hasattr(preds, 'tolist') else list(preds)
+
+
+def predict_check_worthiness_using_ollama_batch(texts: list, lang: str) -> list:
+    """Predict check worthiness for multiple texts using Ollama.
+    
+    Args:
+        texts: List of sentences to predict check-worthiness
+        lang: Language code
+    
+    Returns:
+        List of predictions ("Yes" or "No")
+    """
+    lqg = Ollama()
+    results = []
+    for text in texts:
+        prompt = CHECKWORTHY_PROMPT.format(text=text, lang=lang)
+        response = lqg.generate(prompt)
+        results.append(sanitize_llm_response(response))
+    return results
+
+
+def predict_claim_check_worthiness_openai_batch(
+    texts: list, lang: str, open_ai_utils: OpenAIUtils, model=None
+) -> list:
+    """Predict check worthiness for multiple texts using OpenAI.
+    
+    Args:
+        texts: List of sentences to predict check-worthiness
+        lang: Language code
+        open_ai_utils: OpenAIUtils object
+        model: Model name (optional)
+    
+    Returns:
+        List of predictions ("Yes" or "No")
+    """
+    results = []
+    for text in texts:
+        response = open_ai_utils.generate(
+            CHECKWORTHY_PROMPT.format(text=text, lang=lang), model
+        )
+        response = (
+            response.strip()
+            .strip()
+            .replace(".", "")
+            .replace(",", "")
+            .replace('"', "")
+        )
+        results.append(sanitize_llm_response(response))
+    return results
+
+    
+
 def predict_checkworthiness_using_factiverse(claim: str) -> int:
     response = claim_detection(
         claim=row["claim"],
@@ -129,68 +217,95 @@ if __name__ == "__main__":
     lang_codes = {}
     with open("code/utils/lang_codes.json", "r") as f:
         lang_codes = json.load(f)
-    split = "test"
-    access_token = get_access_token(client_id, client_secret, token_url)
+    split = "fv_claim_test"
+    access_token = get_access_token()
+    batch_size = 20  # Process 20 claims per batch
+    
     for lang in lang_codes.keys():
         open_ai_utils = OpenAIUtils()
-        logger.info("Running claim detection for ", lang)
+        # logger.info("Running claim detection for %s", lang)
         groundtruth_labels = []
         predicted_labels = []
         mistral_predicted_labels = []
-        gpt3_preds = []
-        gpt4_preds = []
-        if not os.path.exists(f"data/claim_detection/{lang}_{split}.json"):
+        gpt52_preds = []
+        claude_opus_4_6_predictions = []
+        input_path = f"data/claim_detection/{lang}_{split}.json"
+        output_path = f"data/claim_detection/{lang}_{split}_pred.json"
+        if not os.path.exists(input_path):
+            continue
+        if os.path.exists(output_path):
             continue
         with open(
-            f"data/claim_detection/{lang}_{split}_pred.json", "w"
+            output_path, "w"
         ) as out_json_file:
             claim_preds = []
-            claims = load_json(f"data/claim_detection/{lang}_{split}.json")
-            for row in tqdm(claims):
-                new_row = {}
-                new_row["claim"] = row["claim"]
+            claims = load_json(input_path)
+            
+            # Process claims in batches
+            for i in tqdm(range(0, len(claims), batch_size), desc=f"Processing {lang}"):
+                batch = claims[i:i+batch_size]
+                batch_texts = [row["claim"] for row in batch]
+                
                 try:
-                    mistral_prediction = predict_check_worthiness_using_ollama(
-                        text=row["claim"], lang=lang
-                    )
-                    gpt3_prediction = predict_claim_check_worthiness_openai(
-                        text=row["claim"],
-                        lang=lang,
-                        open_ai_utils=open_ai_utils,
-                    )
-                    gpt4_prediction = predict_claim_check_worthiness_openai(
-                        text=row["claim"],
-                        lang=lang,
-                        open_ai_utils=open_ai_utils,
-                        model="gpt-4",
-                    )
+                    # Run all model predictions in parallel on the batch
+                    with ThreadPoolExecutor(max_workers=4) as executor:
+                        future_mistral = executor.submit(
+                            predict_check_worthiness_using_ollama_batch,
+                            texts=batch_texts,
+                            lang=lang
+                        )
+                        future_gpt52 = executor.submit(
+                            predict_claim_check_worthiness_openai_batch,
+                            texts=batch_texts,
+                            lang=lang,
+                            open_ai_utils=open_ai_utils,
+                            model="gpt-5.2"
+                        )
+                        future_claude = executor.submit(
+                            predict_claim_check_worthiness_openai_batch,
+                            texts=batch_texts,
+                            lang=lang,
+                            open_ai_utils=open_ai_utils,
+                            model="claude-opus-4-6"
+                        )
+                        future_facti = executor.submit(
+                            claim_detection_factiverse_local_batch,
+                            claims=batch_texts
+                        )
+                        
+                        # Wait for all to complete and get results
+                        mistral_predictions = future_mistral.result()
+                        gpt52_predictions = future_gpt52.result()
+                        claude_predictions = future_claude.result()
+                        facti_preds = future_facti.result()
+                        
                 except Exception as e:
-                    logger.error("Exception", e)
+                    logger.exception("Exception occurred while predicting batch: %s", str(e))
                     continue
-                logger.info(mistral_prediction, gpt3_prediction, gpt4_prediction)
-                mistral_pred = 1 if mistral_prediction == "Yes" else 0
-                mistral_predicted_labels.append(mistral_pred)
-                gpt3_prediction_int = 1 if gpt3_prediction == "Yes" else 0
-                gpt4_prediction_int = 1 if gpt4_prediction == "Yes" else 0
-                gpt3_preds.append(gpt3_prediction_int)
-                new_row["mistral_pred"] = mistral_pred
-                new_row["gpt3_pred"] = gpt3_prediction_int
-                new_row["gpt4_pred"] = gpt4_prediction_int
-                gpt4_preds.append(gpt4_prediction_int)
-                facti_pred = predict_checkworthiness_using_factiverse(row["claim"])
-                predicted_labels.append(facti_pred)
-                groundtruth_labels.append(int(row["checkworthy"]))
-                logger.info(
-                    row["claim"],
-                    row["checkworthy"],
-                    predicted_labels[-1],
-                    mistral_predicted_labels[-1],
-                    gpt3_preds[-1],
-                    gpt4_preds[-1],
-                )
-                new_row["checkworthy"] = row["checkworthy"]
-                new_row["facti_pred"] = predicted_labels[-1]
-                claim_preds.append(new_row)
+                
+                # Process batch results
+                for idx, row in enumerate(batch):
+                    new_row = {}
+                    new_row["claim"] = row["claim"]
+                    new_row["checkworthy"] = row["checkworthy"]
+                    
+                    mistral_pred = 1 if mistral_predictions[idx] == "Yes" else 0
+                    gpt52_prediction_int = 1 if gpt52_predictions[idx] == "Yes" else 0
+                    claude_prediction_int = 1 if claude_predictions[idx] == "Yes" else 0
+                    facti_pred = facti_preds[idx]
+                    
+                    new_row["mistral_pred"] = mistral_pred
+                    new_row["gpt52_pred"] = gpt52_prediction_int
+                    new_row["claude_opus_4_6_pred"] = claude_prediction_int
+                    new_row["facti_pred"] = facti_pred
+                    
+                    mistral_predicted_labels.append(mistral_pred)
+                    gpt52_preds.append(gpt52_prediction_int)
+                    claude_opus_4_6_predictions.append(claude_prediction_int)
+                    predicted_labels.append(facti_pred)
+                    groundtruth_labels.append(int(row["checkworthy"]))
+                    
+                    claim_preds.append(new_row)
             json.dump(claim_preds, out_json_file, indent=4)
         intent_macro_f1 = f1_score(
             groundtruth_labels, predicted_labels, average="macro"
@@ -198,25 +313,25 @@ if __name__ == "__main__":
         intent_micro_f1 = f1_score(
             groundtruth_labels, predicted_labels, average="micro"
         )
-        logger.info("Factiverse", lang, intent_macro_f1, intent_micro_f1)
+        print(f"Factiverse [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
         intent_macro_f1 = f1_score(
             groundtruth_labels, mistral_predicted_labels, average="macro"
         )
         intent_micro_f1 = f1_score(
             groundtruth_labels, mistral_predicted_labels, average="micro"
         )
-        logger.info("Mistral", lang, intent_macro_f1, intent_micro_f1)
+        print(f"Mistral [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
         intent_macro_f1 = f1_score(
-            groundtruth_labels, gpt3_preds, average="macro"
+            groundtruth_labels, gpt52_preds, average="macro"
         )
         intent_micro_f1 = f1_score(
-            groundtruth_labels, gpt3_preds, average="micro"
+            groundtruth_labels, gpt52_preds, average="micro"
         )
-        logger.info("OpenAI GPT-3", lang, intent_macro_f1, intent_micro_f1)
+        print(f"OpenAI GPT-5.2 [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
         intent_macro_f1 = f1_score(
-            groundtruth_labels, gpt4_preds, average="macro"
+            groundtruth_labels, claude_opus_4_6_predictions, average="macro"
         )
         intent_micro_f1 = f1_score(
-            groundtruth_labels, gpt4_preds, average="micro"
+            groundtruth_labels, claude_opus_4_6_predictions, average="micro"
         )
-        logger.info("OpenAI GPT-4", lang, intent_macro_f1, intent_micro_f1)
+        print(f"OpenAI Claude Opus 4-6 [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
