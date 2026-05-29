@@ -30,17 +30,19 @@ class Ollama:
         self._llm_options = self._get_llm_config()
         # print("Ollama LLM options:", self._llm_options)
 
-    def generate(self, prompt: str) -> str:
+    def generate(self, prompt: str, model: str = None) -> str:
         """Generate text using Ollama LLM for the given prompt.
 
         Args:
             prompt: Prompt for the LLM.
+            model: Optional model name to override the default config model.
 
         Returns:
             Response text from an Ollama LLM.
         """
+        model_name = model or self._model_name
         response = self._ollama_client.generate(
-            model=self._model_name,
+            model=model_name,
             prompt=prompt,
             options=self._llm_options,
             stream=self._stream,

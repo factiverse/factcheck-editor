@@ -1,4 +1,4 @@
-model: "qwen3:8b"
+model: "mistral"
 stream: false
 options:
   seed: 42
