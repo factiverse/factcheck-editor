@@ -16,9 +16,35 @@ if __name__ == "__main__":
     ISO639_FILE = {}
     with open("code/utils/lang_codes.json", "r") as iso639_file:
         ISO639_FILE = json.load(iso639_file)
-    with open(f"{data_folder}/f1_scores.tsv", "w") as f1_file:
+    
+    # Low resource languages - South Indian languages and other low resource languages
+    low_resource_langs = {
+        "ta",  # Tamil
+        "te",  # Telugu
+        "kn",  # Kannada
+        "ml",  # Malayalam
+        "bn",  # Bengali
+        "gu",  # Gujarati
+        "pa",  # Punjabi
+        "or",  # Odia
+        "hi",  # Hindi
+        "ur",  # Urdu
+        "am",  # Amharic
+        "ha",  # Hausa
+        "sw",  # Swahili
+        "my",  # Burmese
+        "th",  # Thai
+        "vi",  # Vietnamese
+        "fil", # Filipino
+        "id",  # Indonesian
+        "jv",  # Javanese
+    }
+    
+    with open(f"{data_folder}_f1_scores.tsv", "w") as f1_file:
         f1_file.write(f"lang\tclaude_opus_4_6_pred\tgpt3_micro\tgpt52_macro\tgpt52_micro\tfacti_macro\tfacti_micro\tmistral_macro\tmistral_micro\n")
         for lang in ISO639_FILE.keys():
+            # if lang not in low_resource_langs:
+            #     continue
             if not os.path.exists(f"{data_folder}/{lang}_{split}_pred.json"):
                 continue       
                 
@@ -73,7 +99,7 @@ if __name__ == "__main__":
     
 
     # Facti
-    facti_micro_bars = ax.bar(index  + bar_width, data_sorted['facti_micro'], bar_width, alpha=opacity, label='Factiverse', color='blue')
+    facti_micro_bars = ax.bar(index  + bar_width, data_sorted['facti_micro'], bar_width, alpha=opacity, label='Factiverse (Fine-tuned XLM-Roberta-Large)', color='blue')
     
 
     # Mistral
@@ -99,7 +125,7 @@ if __name__ == "__main__":
     mistral_macro_bars = ax.bar(index - 2*bar_width, data_sorted['mistral_macro'], bar_width,alpha=opacity,  label='Qwen3-8b', color='green')
     claude_opus_4_6_pred_bars = ax.bar(index - bar_width, data_sorted['claude_opus_4_6_pred'], bar_width, alpha=opacity, label='Claude-Opus-4.6', color='yellow')
     gpt52_macro_bars = ax.bar(index, data_sorted['gpt52_macro'], bar_width, alpha=opacity, label='GPT-5.2', color='red')
-    facti_macro_bars = ax.bar(index + bar_width, data_sorted['facti_macro'], bar_width, alpha=opacity, label='Factiverse', color='blue')
+    facti_macro_bars = ax.bar(index + bar_width, data_sorted['facti_macro'], bar_width, alpha=opacity, label='Factiverse (Fine-tuned XLM-Roberta-Large)', color='blue')
     
     ax.set_xlabel('Language', fontsize=16)
     ax.set_ylabel('Macro F1 Score', fontsize=16)
@@ -110,9 +136,10 @@ if __name__ == "__main__":
     ax.legend(fontsize=16)
     plt.tight_layout()
 
+    print("saved ", f"{data_folder}_macro.pdf")
 
     # Save the plot to a PNG file
-    plt.savefig(f"{data_folder}_test_macro.pdf", format='pdf')
+    plt.savefig(f"{data_folder}_macro.pdf", format='pdf')
     
     average_gpt3_micro = data['gpt3_micro'].mean()
     average_claude_opus_4_6_pred = data['claude_opus_4_6_pred'].mean()

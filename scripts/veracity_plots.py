@@ -78,7 +78,7 @@ if __name__ == "__main__":
     )
     ax.set_xticks(index)
     ax.set_xticklabels(
-        data_sorted["Lang"], rotation=45, ha="right", fontsize=15
+        data_sorted["lang"], rotation=45, ha="right", fontsize=15
     )  # Use ha="right" to align labels
     ax.legend(fontsize=16)
 

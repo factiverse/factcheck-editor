@@ -9,6 +9,7 @@ from src.llm_utils.openai_utils import OpenAIUtils
 import random
 import numpy as np
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import argparse
 
 from src.llm_utils.ollama import Ollama
 from src.prompts.prompts import CHECKWORTHY_PROMPT
@@ -214,12 +215,33 @@ def predict_checkworthiness_using_factiverse(claim: str) -> int:
         return 0
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run claim detection with specific models")
+    parser.add_argument(
+        "--models",
+        nargs="+",
+        choices=["mistral", "gpt52", "claude", "factiverse", "all"],
+        default=["all"],
+        help="Specify which models to run. Options: mistral, gpt52, claude, factiverse, all. Default: all"
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=20,
+        help="Number of claims to process per batch. Default: 20"
+    )
+    args = parser.parse_args()
+    
+    # Determine which models to run
+    models_to_run = set(args.models)
+    if "all" in models_to_run:
+        models_to_run = {"mistral", "gpt52", "claude", "factiverse"}
+    
     lang_codes = {}
     with open("code/utils/lang_codes.json", "r") as f:
         lang_codes = json.load(f)
     split = "fv_claim_test"
     access_token = get_access_token()
-    batch_size = 20  # Process 20 claims per batch
+    batch_size = args.batch_size
     
     for lang in lang_codes.keys():
         open_ai_utils = OpenAIUtils()
@@ -229,6 +251,10 @@ if __name__ == "__main__":
         mistral_predicted_labels = []
         gpt52_preds = []
         claude_opus_4_6_predictions = []
+        
+        # Print which models will be run
+        print(f"Running models for {lang}: {', '.join(sorted(models_to_run))}")
+        
         input_path = f"data/claim_detection/{lang}_{split}.json"
         output_path = f"data/claim_detection/{lang}_{split}_pred.json"
         if not os.path.exists(input_path):
@@ -247,37 +273,41 @@ if __name__ == "__main__":
                 batch_texts = [row["claim"] for row in batch]
                 
                 try:
-                    # Run all model predictions in parallel on the batch
+                    # Run selected model predictions in parallel on the batch
+                    futures = {}
                     with ThreadPoolExecutor(max_workers=4) as executor:
-                        future_mistral = executor.submit(
-                            predict_check_worthiness_using_ollama_batch,
-                            texts=batch_texts,
-                            lang=lang
-                        )
-                        future_gpt52 = executor.submit(
-                            predict_claim_check_worthiness_openai_batch,
-                            texts=batch_texts,
-                            lang=lang,
-                            open_ai_utils=open_ai_utils,
-                            model="gpt-5.2"
-                        )
-                        future_claude = executor.submit(
-                            predict_claim_check_worthiness_openai_batch,
-                            texts=batch_texts,
-                            lang=lang,
-                            open_ai_utils=open_ai_utils,
-                            model="claude-opus-4-6"
-                        )
-                        future_facti = executor.submit(
-                            claim_detection_factiverse_local_batch,
-                            claims=batch_texts
-                        )
+                        if "mistral" in models_to_run:
+                            futures["mistral"] = executor.submit(
+                                predict_check_worthiness_using_ollama_batch,
+                                texts=batch_texts,
+                                lang=lang
+                            )
+                        if "gpt52" in models_to_run:
+                            futures["gpt52"] = executor.submit(
+                                predict_claim_check_worthiness_openai_batch,
+                                texts=batch_texts,
+                                lang=lang,
+                                open_ai_utils=open_ai_utils,
+                                model="gpt-5.2"
+                            )
+                        if "claude" in models_to_run:
+                            futures["claude"] = executor.submit(
+                                predict_claim_check_worthiness_openai_batch,
+                                texts=batch_texts,
+                                lang=lang,
+                                open_ai_utils=open_ai_utils,
+                                model="claude-opus-4-6"
+                            )
+                        if "factiverse" in models_to_run:
+                            futures["factiverse"] = executor.submit(
+                                claim_detection_factiverse_local_batch,
+                                claims=batch_texts
+                            )
                         
                         # Wait for all to complete and get results
-                        mistral_predictions = future_mistral.result()
-                        gpt52_predictions = future_gpt52.result()
-                        claude_predictions = future_claude.result()
-                        facti_preds = future_facti.result()
+                        results = {}
+                        for model_name, future in futures.items():
+                            results[model_name] = future.result()
                         
                 except Exception as e:
                     logger.exception("Exception occurred while predicting batch: %s", str(e))
@@ -289,49 +319,65 @@ if __name__ == "__main__":
                     new_row["claim"] = row["claim"]
                     new_row["checkworthy"] = row["checkworthy"]
                     
-                    mistral_pred = 1 if mistral_predictions[idx] == "Yes" else 0
-                    gpt52_prediction_int = 1 if gpt52_predictions[idx] == "Yes" else 0
-                    claude_prediction_int = 1 if claude_predictions[idx] == "Yes" else 0
-                    facti_pred = facti_preds[idx]
+                    # Process results for each selected model
+                    if "mistral" in models_to_run:
+                        mistral_pred = 1 if results["mistral"][idx] == "Yes" else 0
+                        new_row["mistral_pred"] = mistral_pred
+                        mistral_predicted_labels.append(mistral_pred)
                     
-                    new_row["mistral_pred"] = mistral_pred
-                    new_row["gpt52_pred"] = gpt52_prediction_int
-                    new_row["claude_opus_4_6_pred"] = claude_prediction_int
-                    new_row["facti_pred"] = facti_pred
+                    if "gpt52" in models_to_run:
+                        gpt52_prediction_int = 1 if results["gpt52"][idx] == "Yes" else 0
+                        new_row["gpt52_pred"] = gpt52_prediction_int
+                        gpt52_preds.append(gpt52_prediction_int)
                     
-                    mistral_predicted_labels.append(mistral_pred)
-                    gpt52_preds.append(gpt52_prediction_int)
-                    claude_opus_4_6_predictions.append(claude_prediction_int)
-                    predicted_labels.append(facti_pred)
+                    if "claude" in models_to_run:
+                        claude_prediction_int = 1 if results["claude"][idx] == "Yes" else 0
+                        new_row["claude_opus_4_6_pred"] = claude_prediction_int
+                        claude_opus_4_6_predictions.append(claude_prediction_int)
+                    
+                    if "factiverse" in models_to_run:
+                        facti_pred = results["factiverse"][idx]
+                        new_row["facti_pred"] = facti_pred
+                        predicted_labels.append(facti_pred)
+                    
                     groundtruth_labels.append(int(row["checkworthy"]))
                     
                     claim_preds.append(new_row)
             json.dump(claim_preds, out_json_file, indent=4)
-        intent_macro_f1 = f1_score(
-            groundtruth_labels, predicted_labels, average="macro"
-        )
-        intent_micro_f1 = f1_score(
-            groundtruth_labels, predicted_labels, average="micro"
-        )
-        print(f"Factiverse [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
-        intent_macro_f1 = f1_score(
-            groundtruth_labels, mistral_predicted_labels, average="macro"
-        )
-        intent_micro_f1 = f1_score(
-            groundtruth_labels, mistral_predicted_labels, average="micro"
-        )
-        print(f"Mistral [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
-        intent_macro_f1 = f1_score(
-            groundtruth_labels, gpt52_preds, average="macro"
-        )
-        intent_micro_f1 = f1_score(
-            groundtruth_labels, gpt52_preds, average="micro"
-        )
-        print(f"OpenAI GPT-5.2 [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
-        intent_macro_f1 = f1_score(
-            groundtruth_labels, claude_opus_4_6_predictions, average="macro"
-        )
-        intent_micro_f1 = f1_score(
-            groundtruth_labels, claude_opus_4_6_predictions, average="micro"
-        )
-        print(f"OpenAI Claude Opus 4-6 [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
+        
+        # Calculate and print F1 scores only for models that were run
+        if "factiverse" in models_to_run:
+            intent_macro_f1 = f1_score(
+                groundtruth_labels, predicted_labels, average="macro"
+            )
+            intent_micro_f1 = f1_score(
+                groundtruth_labels, predicted_labels, average="micro"
+            )
+            print(f"Factiverse [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
+        
+        if "mistral" in models_to_run:
+            intent_macro_f1 = f1_score(
+                groundtruth_labels, mistral_predicted_labels, average="macro"
+            )
+            intent_micro_f1 = f1_score(
+                groundtruth_labels, mistral_predicted_labels, average="micro"
+            )
+            print(f"Mistral [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
+        
+        if "gpt52" in models_to_run:
+            intent_macro_f1 = f1_score(
+                groundtruth_labels, gpt52_preds, average="macro"
+            )
+            intent_micro_f1 = f1_score(
+                groundtruth_labels, gpt52_preds, average="micro"
+            )
+            print(f"OpenAI GPT-5.2 [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
+        
+        if "claude" in models_to_run:
+            intent_macro_f1 = f1_score(
+                groundtruth_labels, claude_opus_4_6_predictions, average="macro"
+            )
+            intent_micro_f1 = f1_score(
+                groundtruth_labels, claude_opus_4_6_predictions, average="micro"
+            )
+            print(f"OpenAI Claude Opus 4-6 [{lang}] - Macro F1: {intent_macro_f1:.4f}, Micro F1: {intent_micro_f1:.4f}")
