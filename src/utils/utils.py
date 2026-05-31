@@ -34,7 +34,21 @@ def get_access_token() -> str:
 
 
 def load_json(file_name: str):
-    """Loads the claim data from the claim detection dataset."""
+    """Loads the claim data from the claim detection dataset.
+
+    Handles both plain JSON (single array/object) and JSONL (one JSON
+    record per line). Detected via file extension; .jsonl is read
+    line-by-line, anything else uses json.load.
+    """
+    if file_name.endswith(".jsonl"):
+        records = []
+        with open(file_name, "r") as fh:
+            for line in fh:
+                line = line.strip()
+                if not line:
+                    continue
+                records.append(json.loads(line))
+        return records
     with open(file_name, "r") as json_file:
         return json.load(json_file)
 

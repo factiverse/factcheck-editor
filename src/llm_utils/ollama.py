@@ -40,6 +40,14 @@ class Ollama:
         Returns:
             Response text from an Ollama LLM.
         """
+        return self.generate_full(prompt, model)["response"].strip()
+
+    def generate_full(self, prompt: str, model: str = None) -> Dict[str, Any]:
+        """Return the full Ollama response dict (response, model, timings, etc.).
+
+        Useful when callers want to log token counts, eval_count,
+        total_duration, etc. alongside the text — without re-running.
+        """
         model_name = model or self._model_name
         response = self._ollama_client.generate(
             model=model_name,
@@ -47,8 +55,14 @@ class Ollama:
             options=self._llm_options,
             stream=self._stream,
         )
-        response_text = response["response"].strip()
-        return response_text
+        # ollama-python returns either a dict or a GenerateResponse pydantic
+        # model depending on version; normalise to dict so downstream
+        # json.dump works cleanly.
+        if hasattr(response, "model_dump"):
+            response = response.model_dump()
+        elif hasattr(response, "dict"):
+            response = response.dict()
+        return response
 
     def _load_config(self) -> Dict[str, Any]:
         """Loads configuration from a YAML file.

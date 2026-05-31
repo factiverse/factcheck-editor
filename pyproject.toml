@@ -53,7 +53,7 @@ dependencies = [
     "scipy>=1.13.1",
     "seaborn",
     "matplotlib",
-    "transformer-heads @ file:///${PROJECT_ROOT}/mtl_cls_inference/transformer-heads-lib",
+    # "transformer-heads @ file:///${PROJECT_ROOT}/mtl_cls_inference/transformer-heads-lib",  # broken local path
     "openai>=2.15.0",
     "deep_translator>=1.11.4",
     "ollama",

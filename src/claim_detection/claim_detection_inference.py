@@ -7,7 +7,7 @@ from pathlib import Path
 import logging
 import json
 import torch
-from transformers import AutoTokenizer, XLMRobertaForSequenceClassification
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from transformers.trainer_utils import set_seed
 from transformers.tokenization_utils_base import BatchEncoding
 import numpy as np
@@ -25,30 +25,51 @@ class BERTClaimPredictor:
         model_path: str,
         model_type: str,
         cache_dir: str,
+        inference_batch_size: int = 8,
     ) -> None:
         """The claim predictor.
-
-        Class to use Huggingface BERT model via simpletransformers library
-        to detect claims.
 
         Args:
             model_path: Path to the trained Huggingface BERT model.
             model_type: Type of the model. For example, roberta or bert.
             cache_dir: cache directory.
+            inference_batch_size: Forward-pass sub-batch size used by
+                ``predict()``. Independent of training's
+                ``per_device_eval_batch_size`` (which lives in model_args.json
+                and is consumed by HF Trainer at training time, not here).
+                Lower this if you OOM, raise it for throughput. For XLM-R-XL
+                on H100 80GB, 8 is conservative; 16 usually fits.
         """
         set_seed(0)
         self.model_path = model_path
         self.model_type = model_type
+        self.inference_batch_size = inference_batch_size
         self.softmax = torch.nn.Softmax(dim=1)
         self._device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self._tokenizer = AutoTokenizer.from_pretrained(
-            "FacebookAI/xlm-roberta-large",
-            cache_dir=cache_dir,
-            use_fast=True,
-        )
-        self._model = XLMRobertaForSequenceClassification.from_pretrained(
-            self.model_path, ignore_mismatched_sizes=True
+        # Tokeniser: use whatever the saved checkpoint shipped with (so XL,
+        # XXL, large all just work). Falls back to xlm-roberta-large if the
+        # checkpoint dir doesn't include a tokenizer.
+        try:
+            self._tokenizer = AutoTokenizer.from_pretrained(
+                self.model_path, cache_dir=cache_dir, use_fast=True,
+            )
+        except (OSError, ValueError):
+            self._tokenizer = AutoTokenizer.from_pretrained(
+                "FacebookAI/xlm-roberta-large", cache_dir=cache_dir, use_fast=True,
+            )
+        # AutoModelForSequenceClassification dispatches to the right HF class
+        # based on the checkpoint's config.json — critical for XLM-R-XL, which
+        # needs XLMRobertaXLForSequenceClassification (pre-norm), not the
+        # XLMRobertaForSequenceClassification used for base/large (post-norm).
+        # Load weights directly in bf16 to halve memory: XLM-R-XL is 3.5B
+        # params, so fp32 weights alone are ~14GB; bf16 brings that to 7GB
+        # and shrinks all forward-pass activations by 2x.
+        dtype = torch.bfloat16 if torch.cuda.is_available() else torch.float32
+        self._model = AutoModelForSequenceClassification.from_pretrained(
+            self.model_path,
+            torch_dtype=dtype,
         ).to(self._device)
+        self._model.eval()
 
     @staticmethod
     def sigmoid(x):
@@ -103,7 +124,7 @@ class BERTClaimPredictor:
         Returns:
             Batch: Input IDs, attention masks, token type IDs
         """
-        inputs = self._tokenizer.batch_encode_plus(
+        inputs = self._tokenizer(
             [claim for claim in claims],
             add_special_tokens=True,
             return_token_type_ids=True,
@@ -116,29 +137,26 @@ class BERTClaimPredictor:
 
     @lru_cache(maxsize=10000)
     def predict(self, claims: Tuple[str]) -> Tuple[List[int], List[List[float]]]:
-        """Predicts if given sentences are claims.
-
-        staticmethods moved to enable lru_cache.
-
-        Args:
-            claims: List of string claims.
-
-        Returns:
-            List of predictions and softmax scores for the predictions
-            corresponding to claims.
-        """
+        """Predicts if given sentences are claims (chunked to bound GPU mem)."""
         claims_list = list(claims)
-        inputs = self._encode(claims_list).to(self._device)
+        all_softmax_scores: List[List[float]] = []
+        all_predictions: List[int] = []
         with torch.no_grad():
-            logits = self._model(**inputs).logits
-            softmax_score = self.softmax(logits).tolist()
-            predictions = (np.argmax(softmax_score, axis=1).flatten()).tolist()
-            return (
-                predictions,
-                BERTClaimPredictor.scale_probabilities_logit(
-                    np.array(softmax_score)
-                ).tolist(),
-            )
+            for start in range(0, len(claims_list), self.inference_batch_size):
+                chunk = claims_list[start:start + self.inference_batch_size]
+                inputs = self._encode(chunk).to(self._device)
+                logits = self._model(**inputs).logits.float()  # cast back to fp32 for stable softmax
+                softmax_score = self.softmax(logits).tolist()
+                all_softmax_scores.extend(softmax_score)
+                all_predictions.extend(
+                    np.argmax(softmax_score, axis=1).flatten().tolist()
+                )
+        return (
+            all_predictions,
+            BERTClaimPredictor.scale_probabilities_logit(
+                np.array(all_softmax_scores)
+            ).tolist(),
+        )
 
 
 def init(model_path):
