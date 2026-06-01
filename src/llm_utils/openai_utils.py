@@ -145,8 +145,9 @@ class OpenAIUtils:
         if model == "claude-opus-4-6":
             api_params = {
                 "model": model,
-                "input": [{"role": "user", "content": prompt}],
+                "messages": [{"role": "user", "content": prompt}],
                 "system": system_message,
+                "max_tokens": max_tokens,
                 "temperature": 0.0,
             }
             response = client.messages.create(**api_params)

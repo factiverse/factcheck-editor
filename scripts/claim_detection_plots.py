@@ -1,167 +1,150 @@
-import requests
+"""Claim detection F1 plots — based on the original reference script,
+updated for current model names and JSONL pred files.
+
+Usage:
+    cd /home/azureuser/repos/ml-models/paper/ICDM-26/factcheck-editor
+    uv run python -m scripts.claim_detection_plots
+"""
+
 import json
 import os
-from dotenv import load_dotenv
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 from sklearn.metrics import f1_score
 
 data_folder = "data/claim_detection"
 split = "test"
+
+
 def load_claim_pred_data(lang):
-    """Loads the claim data from the claim detection dataset."""
-    with open(f"{data_folder}/{lang}_{split}_pred.json", "r") as json_file:
-        return json.load(json_file)
+    """Load pred file — tries JSONL first, falls back to JSON array."""
+    for ext in ("jsonl", "json"):
+        path = f"{data_folder}/{lang}_{split}_pred.{ext}"
+        if not os.path.exists(path):
+            continue
+        with open(path, encoding="utf-8") as f:
+            first = f.read(1)
+            f.seek(0)
+            if ext == "jsonl" or first != "[":
+                return [json.loads(l) for l in f if l.strip()]
+            return json.load(f)
+    return None
 
 
 if __name__ == "__main__":
     ISO639_FILE = {}
-    with open("code/utils/lang_codes.json", "r") as iso639_file:
+    with open("src/utils/lang_codes.json") as iso639_file:
         ISO639_FILE = json.load(iso639_file)
-    
-    # Low resource languages - South Indian languages and other low resource languages
-    low_resource_langs = {
-        "ta",  # Tamil
-        "te",  # Telugu
-        "kn",  # Kannada
-        "ml",  # Malayalam
-        "bn",  # Bengali
-        "gu",  # Gujarati
-        "pa",  # Punjabi
-        "or",  # Odia
-        "hi",  # Hindi
-        "ur",  # Urdu
-        "am",  # Amharic
-        "ha",  # Hausa
-        "sw",  # Swahili
-        "my",  # Burmese
-        "th",  # Thai
-        "vi",  # Vietnamese
-        "fil", # Filipino
-        "id",  # Indonesian
-        "jv",  # Javanese
-    }
-    
-    with open(f"{data_folder}_f1_scores.tsv", "w") as f1_file:
-        f1_file.write(f"lang\tclaude_opus_4_6_pred\tgpt3_micro\tgpt52_macro\tgpt52_micro\tfacti_macro\tfacti_micro\tmistral_macro\tmistral_micro\n")
+
+    with open(f"{data_folder}/f1_scores.tsv", "w") as f1_file:
+        f1_file.write(
+            "lang\tollama_macro\tollama_micro\t"
+            "claude_macro\tclaude_micro\t"
+            "gpt52_macro\tgpt52_micro\t"
+            "facti_macro\tfacti_micro\n"
+        )
         for lang in ISO639_FILE.keys():
-            # if lang not in low_resource_langs:
-            #     continue
-            if not os.path.exists(f"{data_folder}/{lang}_{split}_pred.json"):
-                continue       
-                
+            data = load_claim_pred_data(lang)
+            if data is None:
+                continue
+
             print(lang)
             try:
-                data = load_claim_pred_data(lang)
+                true_values  = [item["checkworthy"]          for item in data]
+                ollama_preds = [item["ollama_pred"]           for item in data if "ollama_pred" in item]
+                claude_preds = [item["claude_opus_4_6_pred"]  for item in data if "claude_opus_4_6_pred" in item]
+                gpt52_preds  = [item["gpt52_pred"]            for item in data if "gpt52_pred" in item]
+                facti_preds  = [item["facti_local_pred"]      for item in data if "facti_local_pred" in item]
+
+                # Only compute F1 when we have full coverage for that system
+                def _f1(preds):
+                    if len(preds) != len(true_values):
+                        return float("nan"), float("nan")
+                    return (
+                        f1_score(true_values, preds, average="macro",  zero_division=0),
+                        f1_score(true_values, preds, average="micro",  zero_division=0),
+                    )
+
+                ollama_macro, ollama_micro = _f1(ollama_preds)
+                claude_macro, claude_micro = _f1(claude_preds)
+                gpt52_macro,  gpt52_micro  = _f1(gpt52_preds)
+                facti_macro,  facti_micro  = _f1(facti_preds)
+
+                f1_file.write(
+                    f"{lang}\t"
+                    f"{ollama_macro}\t{ollama_micro}\t"
+                    f"{claude_macro}\t{claude_micro}\t"
+                    f"{gpt52_macro}\t{gpt52_micro}\t"
+                    f"{facti_macro}\t{facti_micro}\n"
+                )
             except Exception as e:
-                print("Failed to process lang: ", lang)
-                print(e)
-                continue 
-            mistral_preds = [item['mistral_pred'] for item in data]
-            gpt3_preds = [item['claude_opus_4_6_pred'] for item in data]
-            gpt52_preds = [item['gpt52_pred'] for item in data]
-            facti_preds = [item['facti_pred'] for item in data]
-            true_values = [item['checkworthy'] for item in data]
-            claude_opus_4_6_pred = f1_score(true_values, gpt3_preds, average='macro')
-            gpt3_micro = f1_score(true_values, gpt3_preds, average='micro')
-            gpt52_macro = f1_score(true_values, gpt52_preds, average='macro')
-            gpt52_micro = f1_score(true_values, gpt52_preds, average='micro')
-            facti_macro = f1_score(true_values, facti_preds, average='macro')
-            facti_micro = f1_score(true_values, facti_preds, average='micro')
-            mistral_macro = f1_score(true_values, mistral_preds, average='macro')
-            mistral_micro = f1_score(true_values, mistral_preds, average='micro')
-            print(f"{lang}\t{claude_opus_4_6_pred}\t{gpt3_micro}\t{gpt52_macro}\t{gpt52_micro}\t{facti_macro}\t{facti_micro}\t{mistral_macro}\t{mistral_micro}\n")
-            f1_file.write(f"{lang}\t{claude_opus_4_6_pred}\t{gpt3_micro}\t{gpt52_macro}\t{gpt52_micro}\t{facti_macro}\t{facti_micro}\t{mistral_macro}\t{mistral_micro}\n")
-            
-    import pandas as pd
-    import matplotlib.pyplot as plt
-    import numpy as np
-    # Load data from a JSON file into a pandas DataFrame
-    data = pd.read_csv(f"{data_folder}/f1_scores.tsv", delimiter='\t')
+                print(f"Failed to process {lang}: {e}")
+                continue
 
-    # Assuming the JSON structure directly maps to the DataFrame structure
-    # No need for transformation if the JSON structure matches the DataFrame exactly
-    lang_names = {lang: ISO639_FILE[lang]["name"] for lang in ISO639_FILE.keys()}
-    print(lang_names)
-    # Sort the DataFrame by gpt3_micro
-    data['lang'] = data['lang'].map(lang_names)
-    print(data)
-    data_sorted = data.sort_values(by='facti_micro')
-    
+    # ── Plotting ─────────────────────────────────────────────────────────────
+    data = pd.read_csv(f"{data_folder}/f1_scores.tsv", delimiter="\t")
 
-    fig, ax = plt.subplots(figsize=(20, 10))
+    lang_names = {
+        lang: (meta["name"] if isinstance(meta, dict) else meta)
+        for lang, meta in ISO639_FILE.items()
+    }
+    data["lang"] = data["lang"].map(lang_names)
+
     bar_width = 0.2
-    opacity = 0.8
+    opacity   = 0.8
+
+    # ── Micro F1 plot ─────────────────────────────────────────────────────────
+    data_sorted = data.sort_values(by="facti_micro").dropna(subset=["facti_micro"])
+    fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
-    # gpt3
-    mistral_micro_bars = ax.bar(index - 2*bar_width, data_sorted['mistral_micro'], bar_width, alpha=opacity, label='Mistral-7b', color='green')
-    gpt3_micro_bars = ax.bar(index - bar_width, data_sorted['gpt3_micro'], bar_width,  alpha=opacity, label='GPT-3.5-turbo', color='yellow')
-    gpt52_micro_bars = ax.bar(index, data_sorted['gpt52_micro'], bar_width,  alpha=opacity, label='GPT-4', color='red')
-    
+    ax.bar(index - 1.5*bar_width, data_sorted["ollama_micro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
+    ax.bar(index - 0.5*bar_width, data_sorted["claude_micro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
+    ax.bar(index + 0.5*bar_width, data_sorted["gpt52_micro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
+    ax.bar(index + 1.5*bar_width, data_sorted["facti_micro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
 
-    # Facti
-    facti_micro_bars = ax.bar(index  + bar_width, data_sorted['facti_micro'], bar_width, alpha=opacity, label='Factiverse (Fine-tuned XLM-Roberta-Large)', color='blue')
-    
-
-    # Mistral
-    
-    
-
-    # Formatting the plot
-    ax.set_xlabel('Language', fontsize=16)
-    ax.set_ylabel('Micro F1 Score', fontsize=16)
-    ax.set_title('Micro F1 Scores by Language for Claim Detection.', fontsize=20)
+    ax.set_xlabel("Language", fontsize=16)
+    ax.set_ylabel("Micro F1 Score", fontsize=16)
+    ax.set_title("Micro F1 Scores by Language for Claim Detection.", fontsize=20)
     ax.set_xticks(index)
-    ax.set_xticklabels(data_sorted['lang'], rotation=45, ha="right", fontsize=10)  # Use ha="right" to align labels
+    ax.set_xticklabels(data_sorted["lang"], rotation=45, ha="right", fontsize=10)
     ax.legend(fontsize=16)
-
     plt.tight_layout()
+    plt.savefig(f"{data_folder}_test_micro.pdf", format="pdf")
+    print(f"Saved {data_folder}_test_micro.pdf")
 
-    # Save the plot to a PNG file
-    plt.savefig(f"{data_folder}_test_micro.pdf", format='pdf')
-    data_sorted = data.sort_values(by='facti_macro')
+    # ── Macro F1 plot ─────────────────────────────────────────────────────────
+    data_sorted = data.sort_values(by="facti_macro").dropna(subset=["facti_macro"])
     fig, ax = plt.subplots(figsize=(20, 10))
-    bar_width = 0.2
     index = np.arange(len(data_sorted))
-    mistral_macro_bars = ax.bar(index - 2*bar_width, data_sorted['mistral_macro'], bar_width,alpha=opacity,  label='Qwen3-8b', color='green')
-    claude_opus_4_6_pred_bars = ax.bar(index - bar_width, data_sorted['claude_opus_4_6_pred'], bar_width, alpha=opacity, label='Claude-Opus-4.6', color='yellow')
-    gpt52_macro_bars = ax.bar(index, data_sorted['gpt52_macro'], bar_width, alpha=opacity, label='GPT-5.2', color='red')
-    facti_macro_bars = ax.bar(index + bar_width, data_sorted['facti_macro'], bar_width, alpha=opacity, label='Factiverse (Fine-tuned XLM-Roberta-Large)', color='blue')
-    
-    ax.set_xlabel('Language', fontsize=16)
-    ax.set_ylabel('Macro F1 Score', fontsize=16)
-    ax.set_title('Macro F1 Scores by Language for Claim Detection.', fontsize=20)
+
+    ax.bar(index - 1.5*bar_width, data_sorted["ollama_macro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
+    ax.bar(index - 0.5*bar_width, data_sorted["claude_macro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
+    ax.bar(index + 0.5*bar_width, data_sorted["gpt52_macro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
+    ax.bar(index + 1.5*bar_width, data_sorted["facti_macro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
+
+    ax.set_xlabel("Language", fontsize=16)
+    ax.set_ylabel("Macro F1 Score", fontsize=16)
+    ax.set_title("Macro F1 Scores by Language for Claim Detection.", fontsize=20)
     ax.set_xticks(index)
-    ax.set_xticks(index)
-    ax.set_xticklabels(data_sorted['lang'], rotation=45, ha="right", fontsize=10)  # Use ha="right" to align labels
+    ax.set_xticklabels(data_sorted["lang"], rotation=45, ha="right", fontsize=10)
     ax.legend(fontsize=16)
     plt.tight_layout()
+    plt.savefig(f"{data_folder}_test_macro.pdf", format="pdf")
+    print(f"Saved {data_folder}_test_macro.pdf")
 
-    print("saved ", f"{data_folder}_macro.pdf")
-
-    # Save the plot to a PNG file
-    plt.savefig(f"{data_folder}_macro.pdf", format='pdf')
-    
-    average_gpt3_micro = data['gpt3_micro'].mean()
-    average_claude_opus_4_6_pred = data['claude_opus_4_6_pred'].mean()
-    
-    average_gpt52_micro = data['gpt52_micro'].mean()
-    average_gpt52_macro = data['gpt52_macro'].mean()
-
-    average_facti_micro = data['facti_micro'].mean()
-    average_facti_macro = data['facti_macro'].mean()
-
-    average_mistral_micro = data['mistral_micro'].mean()
-    average_mistral_macro = data['mistral_macro'].mean()
-
-    # Print the results
-    print(f"gpt3 Average Micro-F1: {average_gpt3_micro:.4f}")
-    print(f"gpt3 Average Macro-F1: {average_claude_opus_4_6_pred:.4f}\n")
-    
-    print(f"gpt52 Average Micro-F1: {average_gpt52_micro:.4f}")
-    print(f"gpt52 Average Macro-F1: {average_gpt52_macro:.4f}\n")
-
-    print(f"Facti Average Micro-F1: {average_facti_micro:.4f}")
-    print(f"Facti Average Macro-F1: {average_facti_macro:.4f}\n")
-
-    print(f"Mistral Average Micro-F1: {average_mistral_micro:.4f}")
-    print(f"Mistral Average Macro-F1: {average_mistral_macro:.4f}")
+    # ── Averages ──────────────────────────────────────────────────────────────
+    for col, label in [
+        ("ollama_micro",  "Qwen3-8B     Micro-F1"),
+        ("ollama_macro",  "Qwen3-8B     Macro-F1"),
+        ("claude_micro",  "Claude Opus  Micro-F1"),
+        ("claude_macro",  "Claude Opus  Macro-F1"),
+        ("gpt52_micro",   "GPT-5.2      Micro-F1"),
+        ("gpt52_macro",   "GPT-5.2      Macro-F1"),
+        ("facti_micro",   "XLM-RoBERTa-Large (fine-tuned)   Micro-F1"),
+        ("facti_macro",   "XLM-RoBERTa-Large (fine-tuned)   Macro-F1"),
+    ]:
+        if col in data.columns:
+            print(f"{label}: {data[col].mean():.4f}")

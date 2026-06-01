@@ -1,0 +1,1000 @@
+{"text": "Pope Leo XIV called U.S. President Donald Trump “a vicious, old bastard draining America’s soul” during a live TV broadcast in early 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "UNESCO withdrew funding support for Preah Vihear", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Using triphala powder for eye wash can detox and soothe eyes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Australia's immigration minister to grant citizenship to temporary visa holders", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Organ donation is not a requirement to receive MAID in Canada", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rob Reiner posted anti-Trump tweet in 2023.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An Ayurvedic tooth powder cures all dental pains", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Poles mostly blame Ukraine for the attack of Russian UAVs on Poland", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "New Canadian Driving Law will institute new driving rules on July 1", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Union Finance Minister Nirmala Sitharaman said that there are no poor people in India, that people only pretend to be poor, and that people are buying large quantities of gold and silver.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "There are no strong epidemiologic studies in the medical literature that link breast cancer risk and antiperspirant use, and very little scientific evidence to support this claim.\"", "labels": 1, "dataset_name": "manual_annotations", "lang": null}
+{"text": "Apple fired its lead designer Jon Yongfook after 18 months of working on a new update", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The president of the AIMIM women’s wing felicitates Deepak Kumar.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sonakshi Sinha And Zaheer Iqbal Announced Pregnancy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran attacked the Israeli city of Haifa.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Ukrainian men as young as 23 are being conscripted and sent to the front\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I want to do it, and it will show how successful, how great this company is.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Chairman of the DRDO, is being circulated on social media with claims that he made unusual remarks while discussing the Agni-6 missile programme", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Supreme Court of India, in Civil Writ Petition No. 2490 and Case No. 8222/2024, reduced the pension commutation recovery period from 15 years to 10 years and 8 months due to falling interest rates. The government also issued an gazette notification in this regard.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And the first thing I will do, I will rejoin the Paris Accord.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Mick Jagger posted about feeling sick over Charlie Kirk's killing.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "During a televised debate in early August 2025, U.S. Rep. Jasmine Crockett used quotes from the Bible to challenge U.S. Ambassador to Israel Mike Huckabee.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mongolian official says Mongolia is part of China.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Members of Hells Angels biker gang rescued 23 children from a school bus sinking in floodwaters.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"The crime rate now is the lowest it's been since 1900. That's 125 years.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Democrats shut down the government because they want “health care for illegal aliens and funding for free abortions.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mike Johnson, speaker of the U.S. House of Representatives, said \"the naked bicyclers in Portland\" were \"the most threatening thing I've seen yet\" in regard to protests against the deployment of federal troops in Portland, Oregon.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Canada opened LGBTQ+ crisis line to Americans after Trump shut down", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A simple rice remedy for high blood pressure, developed by AIIMS doctors, can normalise blood pressure to 120/80 within 24 hours", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "'Weather weapon' conspiracy theories pushed to explain Hurricane Melissa", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Treatment of breast lump with lime", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Tea earnings rose from KSh138 billion in 2022 to KSh215 billion in 2024.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "He mentioned it once but never brought it up again in any of our conversations.", "labels": 0, "dataset_name": "manual_annotations", "lang": null}
+{"text": "We've done things that you never even thought of doing.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "A herbal remedy can help grow long hair in just 7 days", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In fact, we beat Hillary Clinton with a tiny fraction of the money that she was able to get.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Tech billionaire and Tesla CEO Elon Musk posted on X that U.S. President Donald Trump \"is in the [Jeffrey] Epstein files,\" and that, \"That is the real reason they have not been made public.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Drinking turmeric and ghee water can prevent PCOD", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The United States purchased land from Denmark in 1917, which included Little St. James, the private island later owned by disgraced financier Jeffrey Epstein and nicknamed \"Epstein island.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts misrepresent study findings on contraceptive pills", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kyle Chalmers says he will withdraw from Olympics over LGBT athletes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "CEC Gyanesh Kumar said India was invited for the first time by 37 democracies to chair IDEA", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "We learn that this President paid 50 times the tax in China, has a secret bank account with China, does business in China, and in fact, is talking about me taking money?", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "India’s passport ranking declined from 85 in 2024 to 148 in 2025", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "banks will be closed every weekend of each month as per new notice by rbi", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pakistani woman politician calls current PM thief", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A protest in Ukraine, where demonstrators chant, “Russia, we are sorry; please stop the war,” urging Russia to end the war.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indiana lawmakers attempted to pass legislation that would allow the state execute people via gas chambers and firing squads.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Trump’s budget called for a $300 (million) cut” to the Women, Infants and Children program.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Vietnam blaze falsely portrayed as Cambodia", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "BJP candidate Maithili Thakur with former BJP leader Swami Chinmayanand and Manohar Lal Dhakad", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Govt engineer Henry Alcantara receives names of corrupt officials", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "First of all, China is paying.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "BJP leader greeted with a shoe garland in Bihar", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On nuclear plant, Bangladesh minister said: \"Tarique Rahman made it happen\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Nearly 32 years after the death of Nirvana frontman Kurt Cobain, a forensic study concluded he died by homicide, not suicide.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Actor Salman Khan has donated 10 crore rupees for the Babri Mosque.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The International Criminal Court has sentenced former president Rodrigo Duterte to life imprisonment.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In January 1999, Civil Rights leader Jesse Jackson praised Donald Trump, saying the future U.S. president embraced the \"underserved communities.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In a possible sign that the Chinese government may have taken the lab leak theory more seriously than its official statements suggest, Prof Gao also tells the BBC some kind of formal investigation into the Wuhan Institute of Virology (WIV) was carried out.", "labels": 1, "dataset_name": "manual_annotations", "lang": null}
+{"text": "U.S. President Donald Trump posted on social media that disgraced financier Jeffrey Epstein was a \"total creep\" and said, \"The dog didn't bark because the dog didn't have time! Too busy making the country great, building towers, eating tremendous steaks.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bo French, a Republican candidate for Texas' oil and gas regulatory body, said he wanted to deport Native Americans.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "TMC MP Sayoni Ghosh Changed Religious Tone After First Phase Voting in West Bengal", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An artificial-intelligence robot developed post-traumatic stress disorder after an experiment with a lion that scared it in 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Salman Khan Admitted In The ICU", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In November 2025, actor Alyssa Milano wrote an open letter addressed to U.S. Rep. Marjorie Taylor Greene, R-Ga., criticizing the congresswoman's longstanding support for President Donald Trump, that started: \"Congresswoman Greene, Let’s skip the pleasantries. They were never your thing anyway.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ethiopian oil supplied to market", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rajiv Gandhi had said that he was not a Hindu but his ancestors were Muslims.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "India's Defence Minister Rajnath Singh admitted that India funded Taliban to fight Pakistan.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Soursop is 10,000 times stronger than chemotherapy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "This is an example of Western democracy. If you don't want to be a slave, they will force you to be one; they will blow up the whole country. No human rights are violated here. Oh Venezuela, the life of slavery begins.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In October 2025, Kansas City Chiefs tight end Travis Kelce sued White House press secretary Karoline Leavitt for $50 million.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Conservative commentator Charlie Kirk once said that if he had a 10-year-old daughter who became pregnant after being raped, he would want her to deliver the baby.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In mid-July 2025, actor Kevin Spacey made a post on X reading: \"Release the Epstein files. All of them. For those of us with nothing to fear, the truth can't come soon enough.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Turning Point USA founder and CEO Charlie Kirk said, \"If I see a Black pilot, I’m going to be like, 'Boy, I hope he's qualified.'\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The foreign countries are paying you a lot.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Bihar Chief Minister Nitish Kumar apologised to the Muslim community for pulling down a woman’s hijab during a government event in Patna.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Paan patta and Tulsi can dissolve kidney stones in 5 seconds", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Aftermath of an Iranian strike on Tel Aviv.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: Driver charged in California Ford EV crash, self-drive ruled out", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "According to Russian media reports monitored by the BBC, there have been more than 60 suspected drone attacks this year in Russia and Russian-controlled territory in Ukraine.", "labels": 1, "dataset_name": "manual_annotations", "lang": null}
+{"text": "U.S. President Donald Trump said former Vice President Kamala Harris is \"a low IQ person,\" said \"Biden would use an autopen; he was incapable of signing his name,\" and stood next to the Easter Bunny talking about the rescue of fighter pilots downed in Iran to families attending the White House for its 2026 Easter Egg Roll.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "LeBron James donated $3 million to the Philippines to aid victims of \"the typhoon and earthquake.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Old Indian currency notes found in Pakistan", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A purported airstrike on an oil facility in Saudi Arabia amid escalating tensions in the Middle East after Israel and the US launched strikes across Iran on Saturday (February 28, 2026), with Iran retaliating with strikes across the region.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Massaging your feet with ghee using a bronze bowl to release toxins works wonders for your health", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Your 401K's will go to hell and it'll be a very, very sad day for this country.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "CRPF tightens its grip before elections in West Bengal.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A news report by Rajat Sharma on India’s decision to reduce the exports of generic drugs to the US by half.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Woman who drove on railway tracks in Telangana is a Muslim", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Circular Claims Panchayat Polls Scheduled In J&K", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "World's largest Idol of Hindu deity", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Unplugging appliances and electronics when not in use saves electricity.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Stolen jewels from the October 2025 Louvre heist were listed for sale on a Russian classifieds site.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "unawar Faruqui is dead", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Retailer Claire's closed a location citing \"domestic economic terrorism\" by \"radical left agitators.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "You won't give federal subsidies to the gas and, excuse me, to solar and wind.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Seven-time, Olympic gold-medal-winning gymnast Simone Biles commented on conservative activist Charlie Kirk's past remarks about her after his fatal shooting in September 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Lemongrass can really reduce anxiety", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“El CEO de Coca-Cola, James Quincey, lanzó un ultimátum contundente: cancelen la actuación de Bad Bunny en el Super Bowl o la marca terminará su patrocinio del evento.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sen. Robinhood Padilla was removed from office and sentenced to prison after he was supposedly caught using marijuana.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tech billionaire and Tesla CEO Elon Musk deleted U.S. President Donald Trump’s X account amid their public spat on social media in June 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Eff supporters in East London for Julius Malema", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sen. Rodante Marcoleta is returning as chair of the Senate Blue Ribbon Committee.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. marshals seized the passport of U.S. President Donald Trump's daughter Ivanka Trump at her Miami residence shortly after first lady Melania Trump gave closed-door testimony as part of a federal money-laundering case.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Om Birla said that the Central Government will provide annual assistance of Rs 12 thousand to families with income less than Rs 5 lakh.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Cinnamon can really dissolve kidney stones", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts falsely claim sweeping traffic law changes in South Korea for 2026", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In Minnesota, licensed gun owners are permitted to carry a loaded firearm at a protest.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Indian Express report on Jashodaben saying that Narendra Modi destroyed all evidence of their wedding", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Congress MP Shashi Tharoor criticises the Modi government and praises Pakistan’s diplomacy.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2025, candy brand Reese’s offered \"special promotions to sell off seasonal merchandise,\" giving consumers the opportunity to complete a survey, pay for shipping and receive a large box of candy.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ayatollah Khamenei addressed the world after reports he was dead and is still alive.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A train in Pakistan was seen transporting military tanks to the Indian border after the Delhi terror attack.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Jasmiпe Crockett Doпates $25 Millioп to Texas Flash Flood Victims – Persoпal Haпds-Oп Help Stυпs Faпs", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: CNN Apologized for Ukrainian Journalist Stealing Wine During Assassination Attempt on Trump", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Alex Eala praised Ferdinand Marcos in a speech that brought him to tears.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Aerosol deployments in Australia are accelerating wildfires", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tsunami waves crashed into Galle, Sri Lanka", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Sen. John Kennedy, R-La., read aloud a \"trust-fund manifesto\" for New York Mayor-elect Zohran Mamdani on the Fox News TV show \"Hannity.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On his first day as New York City's mayor, Zohran Mamdani repealed the city's use of the antisemitism definition from the International Holocaust Remembrance Alliance and rules making it illegal to boycott Israeli businesses.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In October 2025, California Gov. Gavin Newsom won the 2025 Nobel Peace Prize.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Opposition politician supports councillors arrested for unruly behaviour.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Evidence of Chinese government destroying Tibetan temples", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Quote Claims Navjot Singh Sidhu Is Criticising Gambhir and Agarkar", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tylenol posted on social media in 2017, \"We actually don't recommend using any of our products while pregnant.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And under my proposal, we're going to make sure that every penny of that has to be made by a company-", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "RJD leader Tejashwi Yadav recently met actor Raveena Tandon, and she will campaign for him in the upcoming Bihar Assembly elections.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former U.S. President Barack Obama announced that former first lady Michelle Obama underwent a major surgery in March 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Protesters attacked Hindu temple in Nepal", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indian Army chief General Upendra Dwivedi said that the BJP instructed them to remove non-Hindu personnel from the force.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US President Donald Trump’s social media post over PM Modi not thanking him for ‘giving India so much’ in terms of trade, defence support.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Las cifras de la Oficina de Estadísticas Laborales de EE.UU. muestran que “tenemos 1.6 millones de inmigrantes ilegales que han regresado a su país de origen voluntariamente”.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Florida school districts are the “biggest” drivers of increased property taxes.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Andhra Pradesh Chief Minister Chandrababu Naidu’s massive convoy during his official visit to Singapore", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Nitish Kumar has arrived to meet Lalu Prasad Yadav.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "a Border Security Force (BSF) officer was caught in a massive corruption case", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Apple fires Jon Yongfook, lead designer behind liquid glass UI, hours after iOS 26 announcement event", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tell that to Nancy Pelosi.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "MSNBC host Rachel Maddow donated millions of dollars to flood relief in Texas, hired two helicopters for rescues, offered her Texas home for relief work and/or was herself rescued during a report.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "President Donald Trump’s tariff policies “have forced American families to pay more than $1,700 each in tariff costs” since last year.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Hillary Clinton will speak at the 2026 Liberal convention", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "External Affairs Minister S Jaishankar wrote a letter to the French ambassador after the delivery timeline for the Rafale jets was leaked.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Vice President JD Vance once said, \"It’s totally reasonable to not want neighbors who speak another language.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A 67-year-old man named Bhupendra Mishra married a 6-year-old girl.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "cardamom can really help with anxiety and better sleep", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Michael Usi concedes election to Lazarus Chakwera in Malawi", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Activist speaking about election fraud in South Korea at US Congress.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In December 2025, U.S. President Donald Trump announced a Magnetic Resonance Imaging scan on his brain \"found nothing.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Arvind Kejriwal Calls Himself A Devotee Of PM Modi", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Green New Deal is a hundred trillion dollars...", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Will you shut up, man?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "In March 2026, U.S. Rep. Dan Goldman, a Democrat from New York, gave a speech on the floor of the House of Representatives about a statement provided to the FBI claiming U.S. President Donald Trump had sexually assaulted a 13-year-old girl.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mustard oil, salt, lemon juice, and turmeric can treat advanced dental problems", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US PresidentDonald Trumpandconservative commentatorshave repeatedly labeled Mamdania communist", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On Aug. 25, 2025, U.S. President Donald Trump's Deputy Chief of Staff for Policy Stephen Miller called the Democratic Party a \"domestic, extremist organization\" on Fox News.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I'd love you to ask that, who built the cages?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Three visuals claiming to show Iran’s alleged missile strikes on Israel’s intelligence agency Mossad’s headquarters in Tel Aviv.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "ICC Appeals Chamber has \"reassessed\" and reversed its earlier rejection of former president Rodrigo Duterte's appeal for interim release.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In late March 2026, billionaire Walmart heiress Christy Walton paid for a full page ad in The New York Times, criticizing Immigration and Customs Enforcement.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A letter sent to postal service employees about working during emergencies such as civil unrest is a sign that President Donald Trump will impose martial law.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pope Leo XIV said “We should perhaps be a little less fearful of Islam.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Democratic Texas state Rep. Jolanda Jones said about fighting back against Republicans: \"So if you hit me in my face, I'm not going to punch you back in your face, I'm going to go across your neck. […] You've got to hit hard enough where they won't come back.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts falsely claim IMF ranked Nigeria as fourth fastest-growing economy in 2025", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Philippine government orders ban on e-commerce sites.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Zelensky reportedly purchased yet ANOTHER luxury nest for his family, this time in Dubai. This is what happens while he brags about miracle operations to start WW3.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A U.S. airport sniffer dog found at least 100 pork and chicken sandwiches from 7-Eleven in Thailand in a traveler's luggage.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Cambodians protest against Hun Sen and Hun Manet over border clashes.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Thai aircraft released toxic smoke in the disputed areas on July 27, according to the Cambodia's Ministry of National Defense.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In November 2025, the U.S. Navy struck a yacht carrying Supreme Court Justice Clarence Thomas.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kangana Ranaut Support Rahul Gandhi On 'Vote Theft' Controversy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In early January 2026, Denmark renamed Greenland \"Epstein Island\" to stop U.S. President Donald Trump from talking about it.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Minnesota hospital staff paid tribute to Alex Pretti's flag covered body", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An ICE officer enteredCalifornia State University looking for a student whileother agents showed up at a high school's soccer match", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump's proposal to end birthright citizenship for children born to immigrants in the country illegally and people on temporary status would have resulted in four of his five children being deported, as they were born to immigrant mothers.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The city of San Francisco celebrates St. Patrick's Day by dyeing poop on the sidewalk green.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A dog rescued a kitten during severe floods in southern Thailand", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Aliya Rahman, a disabled U.S. citizen whom immigration agents previously dragged out of a car while she was on her way to a medical appointment, was arrested while attending President Donald Trump's Feb. 24, 2026, State of the Union as a guest of Rep. Ilhan Omar, D-Minn.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Retailer JCPenney once had a billboard featuring a tea kettle that some accused of looking like Adolf Hitler.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mamata Banerjee's 'Stay Poor' Remark For Public", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rahul Gandhi reaching Vaishno Devi after the recent landslides in Jammu and Kashmir", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts fabricate 'ambush attempt' on Philippine senator investigating corruption scandal", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Renouncing Nigerian citizenship costs nearly $4,000", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The remains of 20 soldiers were buried in a single grave due to the severity of the situation and the inability to identify their bodies after the BeitHanoun disaster.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Forged dining card shared in posts targeting Pakistan ex-PM's sons", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "dates and desi ghee can enhance memory", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Aid to Draft Dodgers Could Be Classified as Treason — Politico", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: European Commission to Spend €7 Billion on Propaganda and Bot Farms", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The moment the Bazan oil refinery in Haifa was struck amid escalating tensions between Iran and Israel.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Bangladeshi Muslim, claiming he lives in Kolkata, says that “Bangladeshis will soon rule West Bengal.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Claim that 25 percent of Nigerian men are not biological parents of their children is misleading", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Post claims that RCB is giving away ₹5000 after their IPL victory", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Homemade recipe is effective for cavities in children", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "an Indian Army Air Defence JCO named “Anurag Thakur” criticising the central government and announcing his resignation", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indian cricket team coach Gautam Gambhir confirmed the inclusion of Rohit Sharma and Virat Kohli in the team squad for the 2027 ICC World Cup.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rahul Gandhi admitted that his social media followers were inorganic and not Indian.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. said, \"When the baby emerges from the placenta it absorbs Tylenol residue from the esophagus. If that happens near a WiFi router anyone in the room who is vaccinated is pretty much guaranteed to catch autism.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "American officials did not meet Zelenskyi during his visit to the USA", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Australian PM Announcing Cancellation Of Visas For Pakistani Citizens", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Thai online users shared edited report about Cambodia landmine incident", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Amit Shah spoke about saffronisation of the Indian Army.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Veteran broadcast news anchor Mel Tiangco insulted Philippine tennis star Alex Eala.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Dried coconut can cure mouth ulcers", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"In 2019, Nigeria's budget per capita was only better than the Democratic Republic of Congo.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ghislaine Maxwell’s sister Isabel founded and owns Amber Alerts, the nationwide alerts system used to find missing children.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Hindu woman murdered in Bangladesh’s Barisal, body wrapped in polythene with her hands tied up.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2025, U.S. Immigration and Customs Enforcement started stockpiling guided missile warheads, explosive components and chemical weapons.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "No evidence US food aid program will end permanently", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Military veteran and Purple Heart recipient Sae Joon Park self-deported to South Korea after receiving an ultimatum from U.S. Immigration and Customs Enforcement (ICE).", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "accused in a rape case recently arrested by the Uttar Pradesh police", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A news report announces that India has gained veto power at the United Nations Security Council (UNSC).", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Donald Trump posted on X in support of prohibition", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "a student movement in Gujarat against the BJP", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "You want to put a lot of new Supreme Court Justices.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Islamic Revolutionary Guard Corps (IRGC) commander-in-chief Gen. Hossein Salami was killed in Israel's airstrikes on Iran's nuclear site in Natanz.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Our tax-to-GDP ratio has risen to 13.5% from less than 10%.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bilawal Bhutto said that the Indian parliament has 'their' people sitting inside it.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ladakh DGP admitted to the press that Sonam Wangchuk was arrested without any evidence and apologised to the people of Kashmir", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukraine Tried to Bribe the Institute for the Study of War", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In December 2025, U.S. Secretary of Education Linda McMahon announced a new department policy making “there,” “their” and “they’re” mean the same thing.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Philippine National Police chief Gen. Nicolas Torre III is the new secretary of the Department of Justice.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sheesham leaves in oil can cure paralysis in just 3 days", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Florida will be the “hardest hit” state in the country if enhanced Affordable Care Act subsidies expire.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kapil Sharma was hospitalised after surviving five gunshots during the attack on his café in Canada.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Post impersonating Malawi presidential candidate Michael Usi falsely claims he conceded", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Diet eliminating gluten, dairy, corn, soy resolved ADHD symptoms", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "applying aloe vera and rice water instantly brightens the skin and fade dark spots", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Amit Shah said all social media workers irrrespective of political parties survive on 5kg ration given by the BJP", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Navratri Free Recharge Scheme", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A coconut-based drink manages kidney stones", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Meteorite falls in residenctial area", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US ambassador kicked out of Canada", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Cinnamon can cure knee pain in 24 hours", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Don't tell me about Wall Street.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Manila Bay was left unclean after the administration of Rodrigo Duterte.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "CNN's Caityn Collins left the White House press room after Trump spokesperson Karoline Leavitt embarrassed her by saying she had not \"reported a fact since you left the Daily Caller nine years ago.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sachin Tendulkar And Anjali Tendulkar Give Shubman Gill A Standing Ovation In England", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Donald Trump posted on X in April 2026 to investigate the Catholic Church", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Italy refused Zelenskyi a speech at the opening of the 2026 Olympic Games — Bellingcat", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Whatever Nitish Kumar did was right. What is the need to cover the face? — Javed Akhtar (lyricist and screenwriter).", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "ICE officers are getting arrested or beaten by police as seen in severalvideoson different platforms and posts in different languages (herehereandhere)", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Muskmelon tea dissolves kidney stones in 30 mins", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Man jumping off plane crash in India", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: U.S. Rejected Umerov’s Ambassadorial Bid Over American Citizenship", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2025, U.S. President Donald Trump's spiritual adviser, Robert Morris, was arrested on suspicion of molesting a 12-year-old child.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "CNN reported more than 62 million men attended an \"online rape academy\" teaching them how to drug and sexually assault their wives and partners.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Paresh Rawal comments regarding the “I Love Muhammad” controversy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ursula von der Leyen Left the European Commission Meeting after Orban Accused Her of Corruption", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Road vandalised during recent protests in Kenya", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Inflation declined to 20.12% in August 2025, the lowest level in three years.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Immigration and Customs Enforcement agents rescued seven missing children while raiding a Chicago warehouse in October 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In August 2025, the owners of gay dating apps threatened that, if the U.S. Supreme Court overturns its 2015 ruling in favor of same-sex marriage, they'll reveal all the Republican officials and members of Congress who allegedly secretly own accounts on their platforms.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "a homemade drink can really detox the uterus", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Vietnam-based Facebook pages peddle conspiracies about South African ambassador who died in Paris", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "MyKasih cash aid can be used to buy alcohol", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "public anger erupted against a BJP MLA in Bihar", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Genuine Singaporean report on Malaysian leader Anwar Ibrahim losing support", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "About 40% of all U.S. farmworkers are undocumented immigrants.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In July 2025, Spanish police removed a large group of Jewish children from a plane in Spain.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Everyone please spread the news Cambodia is using ancient sites as military bases building bunkers violating international conventions and breaching UNESCO principles!!!!!\" a userclaimed on Xon July 31", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake Jimmy Kimmel monologue spreads after Stephen Colbert show cancellation", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Surgeon linked to Brigitte Macron's gender reassignment surgery killed", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tickets to opening ceremony of City of Dreams", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Japan official calling to free ex-Philippine president Rodrigo Duterte", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Recent sighting of black mamba on South Africa's Durban beach", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Hindustan Petroleum Corporation Limited (HPCL) has launched petrol capsules that can be dropped into water to instantly turn it into usable fuel for vehicles.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Perfumes can cause hormonal imbalances", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump condemned Democratic victories in the November 2025 elections on Truth Social, writing, “if you keep voting this way, you might not be voting much longer!!! (JOKING - sort of!!!)”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In early April 2026, news outlet CNN mistakenly implied that actor Michael J. Fox passed away.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "PM Modi was not invited for the Gaza Summit, whereas Pakistan PM Shahbaz Sharif was present at the conference in Egypt", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Hup Seng cream crackers lost its halal certification", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I don't know what to say.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Nitin Gadkari Endorsing Finance Platform", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Democrats have 24 more seats (in Congress) than they would have if illegal aliens were not counted in the census.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Walmart heiress Christy Walton paid for a newspaper advertisement in The New York Times that promoted an anti-Trump “No Kings” protest on June 14, 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Visuals from recent protest for Ankita Bhandari.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Fox News chyron reported that U.S. President Donald Trump's border czar, Tom Homan, said: \"Give me one good reason kids and seniors can't pick lettuce instead.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Filipina tennis player Alexandra Eala received an offer of a $1.6 billion contract from Abu Dhabi billionaire Sheikh Mansour bin Zayed Al Nahyan.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Brazil is rebranding deforestation numbers under degradation", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, Republican U.S. Rep. Thomas Massie of Kentucky exposed senior White House adviser Stephen Miller for funneling $890 million into offshore accounts through the Cayman Islands.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Maruti Suzuki has recently launched a mini bus in India, which is priced at Rs 4.99 lakh.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "herbal laxative can help people with haemorrhoids", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "India retrieves 100 tonnes of gold from a foreign bank in response to Trump’s tariffs on India.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": " But Prof Wang tells us that he suggested Prof Shi take blood samples from her team to see if they had Covid antibodies in January 2020. He says she followed his advice and all the tests were negative.", "labels": 1, "dataset_name": "manual_annotations", "lang": null}
+{"text": "The number of people employed grew from 8 million in 1994 …", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Obama family opened the $100 million Obama Humanitarian Hope Center in Chicago to provide services to homeless people in March 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "New York City Mayor-elect Zohran Mamdani said he would order the arrest of Israeli Prime Minister Benjamin Netanyahu if he came to New York City.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Then-Prince Andrew said in 2008, “We're not allowed to play Monopoly at home. It gets too vicious.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In January 2026, U.S. President Donald Trump said, \"Sometimes you need a dictator.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And the data shows it.", "labels": 0, "dataset_name": "manual_annotations", "lang": null}
+{"text": "Apolaki Caldera is a supervolcano capable of wiping out the Philippines.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukraine Committed Genocide in Donbas by Cutting Off Water to Civilians", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Proposed data centers in New York state would use “approximately double the energy usage of all households in the state combined.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "We need to be having the rest of our friends with us, saying to China, these are the rules.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Old weather advisory misleads Filipinos on the track of Super Typhoon Fung-wong", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Los demócratas están amenazando con cerrar todo el gobierno porque quieren dar cientos de miles de millones de dólares en beneficios de cuidado de salud a los inmigrantes ilegales”.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Social media posts claimed that one Edward Crabtree disarmed the terrorist at Bondi Beach", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Chris, let me just say something, that it was the tax laws.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "A July 2025 executive order from U.S. President Donald Trump aims to “institutionalize anyone disabled.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In September 2025, singer and talk-show host Kelly Clarkson announced she was cutting ties with all brands that backed LGBTQ+ causes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bihar STET 2025 has been postponed from October 14 to November 24, 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: The “Power” of the Russian Oreshnik Caused an Earthquake in the Lviv Region", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The President of Poland has publicly declared that Polish troops will not be sent to Ukraine. Just before that, Germany backed out of some commitments within the so-called “coalition of the willing.” And now, last night, allegedly Russian drones from Ukrainian territory crossed the border. This is no coincidence.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rahul Gandhi said RSS shakha members cannot understand Mahatma Gandhi, and one must study in a madrasa to do so.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Apost on Xwith over 766000 views claims UK has issued a 10 pm curfew and will shut off television and internet at night", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Babolat gifted Alex Eala a \"brand-new luxury sports car\". Eala requested to have its equivalent financial value donated to young Filipino athletes instead.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In summer 2025, Uganda announced a bill that legalizes murdering gay people after a preacher paid for by a charity funded by Chick-fil-A helped lawmakers with the bill.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Consumer confidence is way up.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "PM Modi Announce Petrol Price Drop To Rs 45/Litre From July 1", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "militants captured thirteen Indian Army soldiers in Manipur", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I look forward to talking about it.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "The visuals show the debris of Jaguar IAF fighter jet that went down in Churu, Rajasthan, on 09 July 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Barley water dissolves kidney stones", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: The Wife Of Defense Minister Fedorov Purchased A €26 Million Yacht", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US President Donald Trump posted an angry rant about India and PM Modi on his Truth Social account.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A MARCOS (Marine Commando Force, Navy Special Forces) commando named Abhishek Chakraborty led a secret RAW (Research and Analysis Wing) mission called “Operation Black Cobra” in 2016 at Pakistan’s Gwadar port, died after completing it, and was publicly awarded (posthumously) the Vir Chakra in 2025 when the mission was declassified", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Muslims in Bengal challenging Hindus to go out of the house with sharp sword in their hands. This will be seen in Kerala tomorrow or the day after tomorrow.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Canadian man misidentified online as Charlie Kirk shooter", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "During a January 2026 Fox News interview, Venezuelan opposition leader María Corina Machado said she wanted to give her 2025 Nobel Peace Prize to U.S. President Donald Trump.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Hindu man was reportedly lynched by Muslims in Bangladesh, portrayed as an act of religious violence against Hindus.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A viral claim suggests Ajit Doval urged Indians to uninstall Amazon to pressure the U.S. in the tariff war.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In mid-July 2025, Kerr County Sheriff Larry L. Leitha said he would apply for a green card for the Mexican rescue team that saved his family during deadly Texas flooding..", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "White House denies Donald Trump had phone call with South Korean president.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The post claims that the IAF chief had called the Tejas fighter jet a “samosa” and warned the government against adding it to the fleet.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Impeachment complaints against Vice President Sara Duterte dismissed due to constitutional technicalities.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Rep. Nancy Mace posted on X in 2022, “We just passed the Respect for Marriage Act out of the House. I’m a big fan of marriage, having done it a few times. And If gay couples want to be as happily or miserably married as straight couples, more power to them. Trust me on this.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Senate Minority Leader Chuck Schumer's wife, Iris Weinshall, owns a cleaning company where a Department of Labor investigation found that nearly 80% of employees used fake work papers.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "General Nicolas Torre III has been sacked as Philippine National Police chief after his predecessor, Gen. Rommel Marbil, supposedly made allegations of wrongdoing against him.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“We’re not cutting science. We’re not cutting research.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A certain senator from the United States has expressed support for Rodrigo Duterte.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kangana Ranaut called India a country of 'poor people'.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "classroom in Kerala showing a divider between girls and boys", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And the fact is, I've made it very clear, within 100 days, I'm going to send to the United States Congress a pathway to citizenship for over 11 million undocumented people.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "No more Ron95 subsidy for those who didn't pay traffic summons", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "You're sitting at the kitchen table this morning deciding, well, we can't get new tires, they're bald, because we have to wait another month or so.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "In August 2025, comedian Stephen Colbert and Democratic U.S. Rep. Jasmine Crockett of Texas teamed up for the launch of a new TV show.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The United Arab Emirates (UAE) has introduced a new golden visa policy, where it is offering lifetime residency for Rs 23 lakh for India and Bangladeshi Citizens .", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Almost half of the budget goes to servicing debt.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Philippine and Malaysian navy ships had a standoff near Sabah on Aug. 11, 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Drinking warm water on an empty stomach can remove toxins from your body", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"... six out of 10 young people with no job …\" – Reddy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Rep. Byron Donalds voted \"against three pay raises for military service members, including the largest pay raise for the military in 22 years.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rahul Gandhi insulted Lord Rama during a public gathering.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A text on Facebook warned netizens against alleged members of the ISIS group disguising themselves as healthcare workers to infect and kill people with “AIDS virus” under the pretense of giving vaccinations.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mob attacks Philippine contractor Sarah Discaya during protest", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, U.S. military officials were unable to stop soldiers from sarcastically yelling \"For Epstein!\" when saluting.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A woman dubbed \"Phillies Karen\" after taking a home run ball from a boy at a Major League Baseball game was identified and subsequently fired from her job in a New Jersey public school district.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The individual mandate -- where you have to pay a fortune for the privilege of not having to pay for bad health insurance.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Reserve Bank of India (RBI) has directed all banks to stop disbursing ₹500 notes through ATMs by 30 September 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In response to a question about whether U.S. President Donald Trump would put troops on the ground in Iran that also included mention of a potential military draft, White House Press Secretary Karoline Leavitt said, \"It is not part of the current plan right now but the president again wisely keeps his options on the table.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: NABU Uncovered a Corruption Scheme Related to the Purchase of 100 Rafale Fighter Jets", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Samajwadi Party (SP) leader Azam Khan said that Muslims will boycott Vande Mataram as Secularism and Patriotism are forbidden in Islam.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A U.S. federal judge ordered Chelsea Clinton to repay $2.2 million in checks she cashed on behalf of the Clinton Foundation from the U.S. Agency for International Development.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ajay Devgn meets the Pakistani cricket team", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran Missile Attack In Tel Aviv", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US bombers used Indian airspace to conduct airstrikes on Iran.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts misrepresent Ladakh activist's speech about 'peaceful revolution'", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts suggest brands of contraceptive pills linked to brain tumours.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In September 2025, Switzerland banned mammograms – a method of screening for breast cancer – citing radiation risks, false positives and other dangers.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rajnath Singh compared RSS and Taliban and said that the two followed Sanatan Dharma.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fabricated Trump post harpooning Albanese fools Australian users", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Abduction, murder of Nigerian Christian community leader happened in 2020, not 2025", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "ACV and spices reduce insulin resistance and sugar spikes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Turning Point USA founder and CEO Charlie Kirk once said some prominent Black women did not have \"the brain processing power to otherwise be taken really seriously.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mohammad-Javad Larijani, a former adviser to Iran's supreme leader, Ayatollah Ali Khamenei, said on Iranian television, “[Trump] can no longer sunbathe in Mar-a-Lago. [...] When his stomach is facing the sun, a drone can hit his navel.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Raveena Tandon will campaign for Tejashwi Yadav in Bihar Elections 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, Pope Leo XIV condemned U.S. and Israeli military efforts against Iran and rebuked a gathering at the White House to pray over President Donald Trump, saying, \"War is not holy; only peace is holy because it is willed by God.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Election Commission of India has released the schedule for the 2025 Bihar Assembly Elections.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump accurately relayed that half of U.S. presidents have invoked the Insurrection Act.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In late 2025, U.S. President Donald Trump raised the price of admission to national parks by $5 on Martin Luther King Day and Juneteenth.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Philippines fired Indian Embassy diplomat Nilesh Kumar Rai in Manila", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sen. Jinggoy Estrada called former Department of Public Works and Highways assistant district engineer Brice Hernandez \"a boy in a man's world.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Land grab conspiracies spread alongside Canadian wildfires", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump signed a law effective Aug. 1, 2025, that makes couples who have been in a relationship for five years automatically legally married.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Missiles Meant for Ukraine Surface in Iranian Strikes on U.S., Israel — USA Today", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A BSF jawan beat up a Bangladeshi flag seller in West Bengal.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump said, “Nobody knows what a magnet is.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "New York leads the nation in population loss.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "S. Korean posts misattribute unnamed White House official's remarks on 'Chinese election interference'", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ursula von der Leyen describing free speech as a virus and censorship as its vaccine.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A large construction company in Denmark has returned its fleet of Tesla cars, citing Elon Musk's politics.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "onion, ginger, and cardamom can cleanse your liver in just 3 days", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Indian cricketer Navjot Singh Sidhu strongly criticises BCCI chairman of selectors Ajit Agarkar and Team India head coach Gautam Gambhir, allegedly saying, “If India wants to win the 2027 ODI World Cup, then BCCI should remove Ajit Agarkar and Gautam Gambhir as soon as possible and hand over the captaincy to Rohit Sharma again with full respect.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indian actress scolds Journalist on stage", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "undocumented Bangladeshi immigrants fleeing India because of the SIR", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "You would have been much later, Joe, much later.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Fake: Ukrainian Armed Forces Use “Blocking Units” to Shoot Deserters", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "San Antonio Spurs’ Victor Wembanyama said: “I stand with Jaden Ivey\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Yes, the IDF had to put a veil on their tanks to protect their armed-to-teeth soldiers from flip flop wearing starving Gazans. Even Israeli TV is making fun of the IDF.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A homemade mouthwash can eliminate oral malodour in a day", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ukrainian authorities are seriously discussing the mobilization of women due to a shortage of soldiers at the front — Berliner Zeitung", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran has launched the biggest 'drone fleet' in history targeting Israel -!!", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In Assam, a Maulana asked boys to wear a lungi instead of half-pants while playing football.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On Dec. 25, 2025, U.S. President Donald Trump made a post to Truth Social that said, \"Merry Christmas to all, including the many Sleazebags who loved Jeffrey Epstein\" and stated he \"was actually the only one who did drop Epstein, and long before it became fashionable to do so.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "India admits that it shared the location of an Iranian ship with Israel.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, U.S. President Donald Trump signed an executive order calling for the removal of all gas price signs at service stations.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The visuals depict military action in West Bengal ahead of the 2026 Assembly elections.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In October 2025, Stephen Miller, the White House deputy chief of staff, said on live television that President Donald Trump has \"plenary authority.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sachin Tendulkar, Virat Kohli, Rohit Sharma, Lionel Messi, and MS Dhoni together", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"The average daily power generated and distributed in the past quarter of 2025 was 5,700 megawatts compared with what we met when we resumed office, [an] average of 4,100 megawatts achieved in the third quarter of 2023.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: UAE Declines Ukrainian Offer to Help Counter Shahed Drone Threat", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"The driving factor? Uncontrolled mass immigration\"posted by British MP Rupert Lowe leader of the anti-migration group Restore Britain which created the graphic His post has been viewed one million times", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "After the Delhi blast, a bomb blast has occurred in a car in Barwala", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "NC state Sen. Phil Berger, R-Rockingham, “killed a bill banning sex-change surgeries for minors.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: Key context missing from claim 1% of UK backs legalising abortion up to birth", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Union Home Minister Amit Shah recently said that all party workers survive on five kilos of ration.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Chicago Mayor Brandon Johnson deployed salt trucks to keep U.S. Immigration and Customs Enforcement agents out of the city in early September 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former England men’s cricket team captain and commentator Nasser Hussain proposes a ban against Indian Under-19 star batter Vaibhav Sooryavanshi.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Chandrashekhar Azad met with the mother of Harjinder Singh, a 28-year-old Indian-origin truck driver arrested in Florida", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“If every one of the 340 million people in America paid a new $35 copay to visit the doctor, that still wouldn’t be enough to cover how much Meta would get from just one tax break in Donald Trump's ‘Big Beautiful Bill.’\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "No one should be going to jail because they have a drug problem.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "The Gauhati High Court has expressed displeasure over the Assam state government allocating 3,000 bighas of land to the Adani Group.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A private jet crashed at Statesville Regional Airport in North Carolina. According to leaked FBI chatters the pilot was a Sunni Bangladeshi radical Islamist and was associated with Jamaat e Islami and AQIS, he praised Osama Bin Laden before crashing the jet killing 6 people on board.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Toothpaste, shampoo, and Eno can whiten hands and feet", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: UK Visa Center in Kyiv Closed Down After Russian Shelling", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A woman fell into a lion’s enclosure at Jamshedpur zoo, where the animal approached her before she was rescued safely.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Biker shot in India's eastern Bihar state", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indian defence attaché to Indonesia, Captain Shiv Kumar, admitted that the IAF lost three Rafales, one Su-30MKI, & one MiG-29 during the May 7, 2025, strikes on Pakistani terror hubs.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The 1200 crore bridge being built over the Kosi River between Supaul and Madhubani collapsed", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Federal lawsuits and documents related to convicted sex offender Jeffrey Epstein show that Turning Point USA CEO Erika Kirk was involved in child trafficking.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Vanity Fair cover featured first lady Melania Trump as “The American Queen.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran's missiles strike Israel's nuclear facilities", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I do, because I think one of the things we're gonna have to do is we're gonna have to bail them out, too.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Seoul's early voting results in 2024 parliamentary election misrepresented in viral posts", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Secretary of State Marco Rubio canceled actor Tom Hanks' passport and restricted him from traveling \"until some questions have been answered.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former IAF pilot Harjeet Singh Arora admitted that India lost Rafale jets during the Operation Sindoor skirmishes with Pakistan.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In late April 2026, U.S. President Trump fired all members of the National Science Board, which oversees the National Science Foundation and advises Congress and the president on scientific matters.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In September 2025, musician Ringo Starr made comments defending slain conservative activist Charlie Kirk after ABC's suspension of late-night host Jimmy Kimmel's show, \"Jimmy Kimmel Live!\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "But I also think we have to do better management of our forests.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "A rice-based shampoo ensures long hair in 7 days.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Andriy Parubiy Behind Maidan Shootings, Odessa Trade Union Arson, and Ukraine Coup", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "During the 2026 Super Bowl halftime show, singer Bad Bunny gave his Grammy Award to Liam Ramos, a 5-year-old boy detained by ICE along with his father in Minnesota.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukrainian Hackers Target Pentagon Website Over Display of Russian Tricolor — Wired", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Public gathered in Colombo in support of Ranil Wickremesighe", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Blood type controls body's ability to regulate heat", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indian Deputy Army Chief Lt Gen Rahul Singh admits that India was currently in negotiations with Russia to get two more S-400 systems.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“My tariffs … are helping to slash the deficit this year by more than 25%.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Woman died during bungee jumping in Rishikesh.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Youth underemployment for college grads is 70%\" nationwide.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Claim: This is loss of migrants and job-seekers, not Tejaswi's or Rahul's: Virat Kohli on Bihar election", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bisons, bears, elks and mountain lions are leaving Yellowstone due to seismic activity", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In June 2025, U.S. President Donald Trump launched a new fragrance for men and women called Victory 45-47.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“If you vote no on Prop 50 to stop the redistricting, it shows through the envelope,” making it easy for Democrats to cheat.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“I have ended seven unendable wars.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Philippines declared Nilesh Kumar Rai, the First Secretary (Consular & Community) of Indian Embassy, 'Persona Non Grata' after the terror attack at Bondi Beach.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The federal case files for late convicted sex offender Jeffrey Epstein contain mentions of \"pizza\" and \"grape soda\" as code words for child sex trafficking.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "He came out of his bunker, had the military use tear gas on them so he could walk across to a church and hold up a Bible.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "West Bengal police throwing stones after failing to stop a sand and stone-laden truck.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Jonathan, the world’s oldest known tortoise, died at almost 194 years old on April 1, 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The bones of St. Nicholas, the inspiration behind Santa Claus, have been leaking liquid for 1,700 years.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Admiral Tripathi blames the government for restraining the military during Operation Sindoor.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In November 2025, the U.S. Senate cut food safety regulations in a funding bill to reopen the government.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mamata Banerjee Leaving Stage During National Anthem", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "black coffee can dissolve fat from the liver", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In October 2025, U.S. Attorney General Pam Bondi said, \"We classify inflatable frog costumes as part of the antifa uniform.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Germany went back to fossil fuels and nuclear and is doing well after abandoning the green agenda\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Find me a scientist that says that.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "The post shows the result of the C-survey opinion polls in West Bengal, which predicts the BJP to be leading.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Conservative nonprofit organization Turning Point USA announced an alternative 2026 Super Bowl halftime show.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Religious affairs minister orders religious schools to close", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rahul Gandhi met with Zakir Naik", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "During his recent 'GOAT' tour to India, Lionel Messi was photographed with four Indian cricketing legends, Sachin Tendulkar, MS Dhoni, Rohit Sharma, and Virat Kohli, at Marine Drive in Mumbai", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Curry leaves can manage extensive hair fall", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "President Trump called out for not paying construction company demolishing East Wing of the White House.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Philippine senators cited Vice Ganda in contempt after she joked about Sen. Rodante Marcoleta during her concert.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mamata Banerjee walked off the stage during an event before the national anthem was even finished", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Amla is the secret to glowing skin and a stronger immune system", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An Instant Ayurvedic Remedy can cure mouth ulcers", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "There is evidence that Charlie Kirk's widow Erika Kirk's \"Romanian Angels\" or \"Everyday Heroes like You\" ministries were accused of \"snatching children only to send them straight into sex and organ trafficking networks in the United Kingdom and Israel.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "My son... like a lot of people.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Fake: Zelensky Said He «No Longer Feels Welcome in the U.S.» After Meeting With Trump", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Department of Social Welfare and Development approved a P1,500 monthly pension for Filipino senior citizens.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "₹2 Coin Discontinued by RBI", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran “also has some Tomahawks.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Days before the U.S. entered Venezuela and captured its former President Nicolás Maduro, then-U.S. Sen. Markwayne Mullin, a Republican from Oklahoma and President Donald Trump's pick to lead the Department of Homeland Security, bought shares of Chevron, a U.S. oil company that operates in Venezuela, and RTX (formerly Raytheon), a defense contractor.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "All Filipino men and women, regardless of sexual orientation, between the ages of 18 and 65, are required to undergo \"army training\" starting this December.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The viral post shares an update on Amitabh Bachchan’s health, claiming that the actor has been hospitalised due to liver problems.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A herbal recipe can manage skin ageing pigmentation.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "the roots of lantanas melt fat", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "President Ferdinand Marcos is no longer in the Philippines as he was taken to another country for medical treatment.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Poul Thorsen's arrest means studies he co-authored on autism are invalid", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2026, U.S. President Donald Trump promoted a proposal called \"The TRUMP Rules\" that would restrict legislative lawmakers' privileges and actions.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Qatar bans solo travel for single Nigerian men", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Imran Khan appears in Kapil Sharma show", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "After conservative activist Charlie Kirk was fatally shot on Sept. 10, 2025, Minnesota Vikings wide receiver Justin Jefferson pledged to financially support Kirk's family.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In September 2025, the U.S. Department of Justice let funding for organizations supporting survivors of human trafficking expire before announcing new funding opportunities.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukraine Bans Hasidic Pilgrimage to Uman", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: French Industrial Icon Shutters Because of ‘Anti-Russia’ Policy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Pakistan PM targeted with false X account location claims", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An at-home remedy is effective for prevalent dental issues.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The president of the U.S. Conference of Catholic Bishops publicly denounced Trump’s 2025 “Big Beautiful Bill.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A town in England canceled a New Year's Eve fireworks show so a walrus could sleep.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "There is “zero impact” from Alligator Alcatraz on the Florida Everglades.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Akshay Kumar spoke about women's safety in connection to the Pawan Singh-Jyoti Singh marital dispute matter.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“The state of Illinois has a lower income tax rate than we do, and a flat tax. It’s almost half of what the top bracket here in Wisconsin is.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The fact is, that when we knew it was coming, when it hit - what happened?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "An aircraft in the United States displayed a banner with the message “Welcome Asim Munir” in anticipation of the Pakistan Army chief’s visit.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Google CEO Sundar Pichai endorses an investment platform named ‘QuantumAI,’ promising significant profits with a minimum investment.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ethiopia tells Eritrea to withdraw from Red Sea port", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On April 24, 2018, Michigan State Police enlisted the help of semi-truck drivers to line up under a Detroit-area highway overpass to help prevent a woman from jumping to her death from the bridge above.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Army lathicharges TMC workers in West Bengal.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The New York Times accuses Ukraine of using underage Russians for sabotage and espionage", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "After Mamata Banerjee’s recent language movement, India Today’s MoTN survey predicted that the TMC could win 35 seats in West Bengal if the LS elections were held now.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukrainian Diplomats Ignored the Event Commemorating Volyn Tragedy Victims in Chełm", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Jack Schlossberg, grandson of John F. Kennedy, criticized efforts by U.S. House Republicans in July 2025 to rename the John F. Kennedy Center for the Performing Arts after first lady Melania Trump.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Bihar Secondary Teacher Eligibility Test or STET has been postponed and will now commence on November 24 instead of October 14.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Texas \"fired\" Democratic U.S. Rep. Jasmine Crockett by redrawing its congressional districting map in August 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The affordable housing programme has \"already generated 250,000 jobs\".", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran fired 1,800 missiles at the Burj Khalifa in Dubai, which engulfed the iconic skyscraper in flames.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "ricky called india the biggest loser for not shaking hands at the end of the recent match between india and pakistan at the asia cup", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: Police order bans specific group from protesting at London hotel, not everyone", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Gov. Tim Walz had Democratic lawmaker Melissa Hortman killed.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Pakistan Air Force shot down a US Air Force F-35A stealth fighter jet with a Chinese JF-17 aircraft at Albuquerque International Airport, New Mexico.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Manipulation: French Daily Le Figaro Portrayed Ukraine Aid as Gift to a ‘Corrupt Elite’", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Investigators announced they had discovered secret rooms and tunnels underneath Rob Reiner's house following his death in December 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "He spent a year there.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Eating raw radish improves vision", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "BJP leader was chased away in poll-bound Bihar", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rajeev Shukla publicly acknowledged BCCI’s role in pressuring the ICC", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Following its recognition as a state by the United Kingdom on Sept. 21, 2025, Palestine is seeking 2 trillion pounds in reparations from the U.K. government.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": ": Sheikh Hasina's name is also in the Epstein files. Although her name is not mentioned directly. Where Jeffrey Epstein's assistant Lesley Groff wrote, her team agreed with the Prime Minister of Bangladesh on some unknown matter.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Drones and missiles are deliberately shot down over residential areas of Kyiv to keep the population in fear", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Trump fails to hit a golf ball in 2025", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Far fewer people are dying.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Patna Junction in Bihar is undergoing a complete makeover", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In late April 2026, acting U.S. Attorney General Todd Blanche said forensic ballistics are \"not an exact science,\" and that \"sometimes you find the bullet and sometimes it just disappears.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Frontline has published a cover story on the 'Vijay Wave'.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "According to Morgan Stanley Research, India has not borrowed from the World Bank in the past three years under the Modi government, alongside other the progress of India’s economy under Prime Minister Modi.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kashmiri Vendor harassed by a man.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Coal mining recovered dramatically from a 22% decline in Q1 [2025] to 57.5% growth in Q2 [2025], becoming one of Nigeria's fastest-growing sectors.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Keeper job at La Jument lighthouse pays $1.2 million per year", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And we're in a circumstance where the President, thus far, still has no plan.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Fake: Ukrainians Celebrated Stepan Bandera&#8217;s Birthday in Berlin", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rs 3,000 Per Month Scheme For E-Shram Card Holders", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"The little soil that the UAE has, it was taken from here and mixed with the sand.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Houston pediatric practice fired Dr. Christina Propst after she posted online that Texas flood victims in July 2025 were supporters of President Donald Trump who got what they voted for.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And the idea that we're in a situation and are going to destroy Medicare - this is the guy that the actuary of Medicare said, 'If in fact' - and, social security - 'If, in fact, he continues to withhold his plan to withhold the tax on Social Security, Social Security will be bankrupt by 2023, with no way to make up for it.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Ronaldo has donated $2 million USD to Gaza children for Food, and Humanitarian aid. Palestinian authority welcomes the huge donations from Western soccer players and celebrities.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Myanmar's Arakan Army enters Bangladesh.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "crowd waving saffron flags and dancing to music in front of a mosque in Uttam Nagar", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "IAF Chief A P Singh mocked the Tejas fighter jet by calling it a samosa and blamed the Dubai Air Show crash on its induction into the Indian Air Force.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sonny Trillanes admitted suing Sara Duterte to prevent her from running for the presidency in 2028.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mammography screenings are harmful", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Conservative activist Charlie Kirk's final words before being fatally shot were: \"Counting or not counting gang violence?\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "As per this BBC graphic, the Indian National Congress is one of the world's most corrupt political parties.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bulletin Claiming BJP Defeat in Assam via 'Intelligence Report'", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2024, Cape Town had the second-highest murder rate of any municipality in South Africa, behind Nelson Mandela Bay.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Muslim youth in Maharashtra was killed by onlookers after attempting to slit a girl’s throat after failing to lure her in a \"Love Jihad” bid.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"… the target of mission 300 is to extend energy access to an additional 300 million Africans … out of the 600 million Africans currently lacking access to energy.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "President of Venezuela, Nicolás Maduro, reacts to the $50 million bounty set on him by the Department of State by daring", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Chinese nationals can enter South Korea without a visa and passport", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Australian state's ex-premier targeted with baseless legal case claims", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The European Union will suspend visa-free travel for U.S. citizens on Feb. 1, 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Donald Trump acaba de firmar una nueva orden que pone al país en alerta máxima y sella las fronteras para todos los residentes” el 1 de julio.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "American charitable organizations profit from abducted Ukrainian children", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Israel is giving the Iranian people hope for freedom after 46 years of oppression, and terror. “WE LOVE ISRAEL!” shouting the Iranians in the streets.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Craigslist ad seeking \"seat fillers\" for Trump military parade is authentic", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A member of the British parliament nominated former U.S. President Joe Biden for the Nobel Peace Prize in September 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "USA cricket players were seen eating pani puri in Mumbai after a warm-up match against India on 2 February 2026, ahead of the T20 World Cup 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Afghan forces shot down Pakistan jets which led to the death of three-star female general.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In January 2026, King Charles III \"reasserted British rule\" over the U.S., saying the U.K. would follow the U.S. in \"advocating a muscular return to colonialism.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"National maize harvests have risen from 44 million bags in 2022 to 67 million bags in 2024.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Filipino cardiologist and online health personality Willie Ong is endorsing the eye health product Lutein Gummies.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A papaya seed-based recipe can dissolve kidney stones", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "This is a statement from the official account of Megan Kerrigan Byron, the (now) ex-wife of the CEO caught on the Coldplay Kiss Cam", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "After snubbing Pakistan, Indian skipper Suryakumar Yadav also refused to shake hands with the Bangladesh captain during the toss at the Asia Cup.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Rutte Said “Russia Is Taking Ukrainian Territory from U.S.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Special CP (Law & Order) Ravindra Yadav has confirmed that the explosion near Gate 1 of Red Fort Metro Station was \"an accidental CNG cylinder blast\".", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In November 2025, Louisiana Republican U.S. Sen. John Kennedy's family announced that his son, Preston, had been diagnosed with Stage 4 pancreatic cancer.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "There was not “a single, prominent conservative voice in the country that even remotely wanted or hoped or was pushing to get Jimmy Kimmel taken off the air.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "During the 2025 federal government shutdown, the White House launched a webpage parodying MySpace and mocking Democratic lawmakers, titled \"MySafeSpace.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The FBI visited the lab of a 12-year-old boy who achieved nuclear fusion in his bedroom.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sara Duterte \"finalized\" a deal with Iran's Petroleum Minister Mohsen Paknejad for the \"safe passage of Davao-bound tankers\" through the Strait of Hormuz.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Milon Mollick, accused in the schoolgirl murder case in Banasree, is Hindu.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Iran Has Abolished The Legal Mandate Of Hijab", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Drinking Clove Water 'Purifies' Your Blood", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Woman thrown on road midnight.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "No more walk-ins at government run clinics", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "German Chancellor Friedrich Merz uses $550 million of state funds to build a private \"doomsday\" plane.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Nigeria has recorded a trade surplus for five consecutive quarters.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"… and has been doing over 200 kilometres since 2006.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Unfounded theories blame Australia bushfires on smart meters and lasers", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A certain judge from the International Criminal Court has \"authorized\" the return of former president Rodrigo Duterte to the Philippines in 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In June 2025, gymnast and 11-time Olympic medalist Simone Biles was suspended from Team USA over online comments she made to former college swimmer and anti-transgender activist Riley Gaines.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukrainian Refugees Broke a Museum Artefact — «Van Gogh’s Сhair»", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Idaho shooting suspect Wess Roley faced criminal charges and had a no-contact order from his family.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "China doesn’t “have a lot of wind farms. … Very, very few.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "BJP leader and Bihar Deputy Chief Minister Samrat Choudhary criticised Chief Minister Nitish Kumar, accusing him of betraying JDU workers.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump said Washington, D.C., police are \"standing there, and people are spitting in their face and they're not allowed to do anything. But now they are allowed to do whatever the hell they want.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bundles of U.S. dollars were found in Punjab after the recent floods.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "If you got in, if you ever became president with your ideas, you want to terminate my taxes.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "peepal and neem juice can cure kidney failure in 3 months", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In addition to that, what did he do?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Fake: Brigitte Macron’s Personal Doctor Found Dead in Paris, Planned to Reveal the First Lady’s Secret to Press", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former President Barack Obama eliminated a law that “held news corporations accountable for lying to the American people.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tajmin Brits made this gesture during a match against Pakistan as a show of support for India and Lord Rama", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: All Guests of the Beijing Military Parade Banned from Entering Estonia", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bollywood comedian Govardhan Asrani has passed away.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Nadiem Makarim confesses to handing out laptop procurement money to Jokowi", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A July 2025 survey found that 47% of Republican voters said they'd still support U.S. President Donald Trump even if he were officially implicated in the late Jeffrey Epstein's sex crimes.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former president Rodrigo Duterte will be released from the International Criminal Court detention based on the medical report issued by a certain \"ICC Chief Medical Officer.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump’s “Merit Hiring Plan” asks applicants for federal government jobs to write an essay naming their favorite Trump policy or executive order and how they would implement it.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "American fighter jets form a star to honour Putin when visiting Alaska.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "United States of America (USA) used Indian airspace to conduct recent strikes against Iran.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Congress MP Shashi Tharoor compared India's and Pakistan's diplomacy during the Iran-US negotatiations.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tomatoes can solely manage Diabetes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Singer Asha Bhosle Passes Away", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Neem cures all chronic diseases", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Epstein files include email proving Covid-19 pandemic was premediated", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "people protesting linked to India’s alleged normalization of relations with Israel amid rising tensions with Iran", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Kenya has 20,000 km of tarmac roads.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "muslim passenger slapped by Hindu passenger mid air on Indigo flight", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Punjab names electric taxi scheme after chief minister Maryam Nawaz Sharif", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "It's about preventing spread of the virus to others and preventing infection that can lead to long-term negative health effects", "labels": 0, "dataset_name": "manual_annotations", "lang": null}
+{"text": "The fact is that he has in fact, worked on this in a way that he's going to be the first president of the United States to leave office, having fewer jobs in his administration than when he became president.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Among Somalis in Minnesota, “92% of them don’t work.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In December 2025, late-night talk show host Stephen Colbert launched a multi-million dollar \"Evergreen Sanctuary\" for abandoned and abused dogs.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Some businessmen in Germany have told Rahul Gandhi that he is responsible for the anti-business atmosphere in the country.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The League of Cities v. Comelec case was decided unanimously by the Supreme Court then overturned later on.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Boiled sarsi drink can effectively treat cough", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Volodymyr Zelenskyi purchased a ranch for $80 million in the U.S. state of Wyoming", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Multiple celebrities each said \"don't touch my family\" to Karoline Leavitt, Whoopi Goldberg and others.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pope Leo XIV called U.S. President Donald Trump “a vicious, old b****** draining America’s soul” during a live TV broadcast in early 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Hacker approved all food stamp applications in Hinds County and sent out EBT cards", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Officials credit 10-year-old English girl Tilly Smith with helping to save about 100 lives just before the Indian Ocean tsunami of 2004 struck the island of Phuket in Thailand.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2009 half of Ukrainians wanted to be citizens of Russia", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "garlic and honey can detox your lungs and liver", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "There is evidence Erika Kirk was a recruiter for Jeffrey Epstein and she had her husband, Charlie Kirk, killed to shut him up about it.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "ICC Ban On Pakistan Cricket Board and PSL", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sen. Bernie Sanders, I-Vt., said, referring to U.S. President Donald Trump's border policies, \"Trump did a better job. I don't like Trump, you know, but we should have a secure border and it ain't that hard to do.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Akhilesh Yadav promotes beef eating", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Imágenes muestran a personas “infectadas con Hantavirus”.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pakistan has included actor Salman Khan in a list under its Anti-Terrorism Act, 1997, used to monitor individuals linked to extremist or banned organisations.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A herbal formulation whitens skin instantly.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "During a 2025 speech in Detroit, U.S. Rep. Rashida Tlaib publicly called for Hamas supporters to mobilize and take over America.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Hydrogen peroxide treats whooping cough", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Boy scout Eric Langford disappeared in 1989 and returned tewelve years later in 2001 with a tale of a kidnapping", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On March 21, 2026, every patient on a ventilator at Cuba's Hospital Hermanos Ameijeiras died during a nationwide blackout triggered by a humanitarian concert featuring Irish group Kneecap.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Cape Town does over 200 kilometres a year …\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "When we were in office there were 15% less violence in America than there is today.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Elon Musk snubs South African President Cyril Ramaphosa", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Tom Homan, U.S. President Donald Trump's \"border czar,\" served as former President Barack Obama's \"ICE chief,\" where he was honored for large numbers of deportations.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Major General CS Mann spoke about controlling Pakistan from three sides and forming 'Akhand Bharat'.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The West Bengal government is collecting taxes from Hindu pilgrims visiting the Ganga ghats near Tarakeshwar temple during the auspicious month of Sawan.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The people of Israel staged protests against Benjamin Netanyahu.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Malaysian finance ministry warns against 'false' e-wallet subsidy scheme posts", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On June 10, 2025, U.S. President Donald Trump wrote a post describing the relationship between tech magnate Elon Musk and Vice President JD Vance as \"possibly sexual\" as Musk \"bossed J.D. around like a little intern.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Veteran comedian and actor Johnny Lever passed away", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Some 274 undercover FBI agents were embedded in the crowd in Washington, D.C., on Jan. 6, 2021, inciting violence that resulted in the riot at the U.S. Capitol.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Navjot Singh Sidhu said – If India wants to win the 2027 ODI World Cup, the BCCI should immediately remove Ajit Agarkar and Gautam Gambhir and respectfully reinstate Rohit Sharma as captain.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Applying ghee and coconut oil on the navel can improve eyesight.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kidnapping fears revive old hoax about gangs targeting motorists in South Korea", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Alopecia responds to a cayenne-based homemade recipe", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A phone call recording found in Jeffrey Epstein's case files, which users called \"leaked DOJ wiretap audio,\" authentically features conservative activist Erika Kirk working for the late sex offender and scheduling minors to give him sexualized massages.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Florida man attempted to cross the Atlantic in a watercraft resembling a hamster wheel and was stopped by the U.S. Coast Guard.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pumpkin Juice can Cure Cancer Cells", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Malaysia to ban TikTok", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pak Captain 'ignores' Indian captain handshake", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In July 2025, tennis star Coco Gauff donated $3 million for search-and-rescue efforts amid deadly Texas floods.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Singapore refused to sell oil to Cambodia over border dispute", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Deceased top official Catalina Cabral is alive and has been seen in Europe", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ships, islands, and people are disappearing in the Azov Sea due to quicksand on the seabed", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In Washington, D.C., “We always have a murder a week.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "While answering a question about the fatal shooting of Alex Pretti on Jan. 24, 2026, U.S. President Donald Trump said, in part, \"You can't have guns. You can't walk in with guns.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "lightning strike on a temple in Himachal Pradesh", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Donald Trump dropped push to make Canada 51st state via Truth post", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Bryan Szabo and his team have spent hours poring over photos of well-worn jeans, including vintage fades with swathes of bleached fabric and high-contrast fades with knee-pit patterns of honeycomb as well as whiskers around the crotch area", "labels": 0, "dataset_name": "manual_annotations", "lang": null}
+{"text": "\"Census data shows that in the decade between 2011 and 2022, Cape Town performed worse than the average of all metros in expanding access to services such as refuse removal, piped water, electricity, and flush toilets.\" – Ramaphosa", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An RTI document reveals that 163 Indian Air Force (IAF) pilots resigned from the force following the India-Pakistan conflict of May 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "UK government is charging £500 'exit fee' from those leaving the country.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The United States owns the moon.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Thieves operating in public places use drug-filled perfume bottles to render their victims unconscious.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Take a look at what happened in New Jersey.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "\"President Uhuru Kenyatta improved it by extending it to secondary schools …\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Recent Malaysian govt moves for petrol subsidy scheme", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Visuals show the 12 June 2025 crash of an Air India flight that took off from Ahmedabad, Gujarat.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Hindu woman named Nandini Mandal, who converted to Islam after marriage, was assaulted by her husband.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pharmaceutical companies behind weight loss and diabetes medication such as Ozempic are facing a lawsuit that could potentially pay out more than $2 billion.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A man named Michael Torres collapsed on stage after finishing one point short of winning money on \"Family Feud\" because he could not afford to pay for his daughter's chemotherapy treatment. Host Steve Harvey then stepped in to pay the child's medical bills himself.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Eating capsicum can address the issue of rough and frizzy hair", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "turmeric with ghee is better than insulin for diabetes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In January 2026, Minnesota State Patrol used a Long Range Acoustic Device on anti-U.S. Immigrations and Customs Enforcement protesters in an \"unlawful assembly.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The combination of clove, lemon juice, and Himalayan salt can manage dental caries in 7 days.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Amazon book listings prove psyop of Charlie Kirk murder", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Oprah refutes claims she blocked private Hawaii road from tsunami evacuees", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Cloves Really Grow Your Eyelashes in Just Three Days", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Singer Jelly Roll donated $50 million and traveled to Texas to support victims of the flash floods occurring in July 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A woman cop froze and surrendered to Bondi gunmen", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In a Jan. 6, 2026, speech at a House Republicans retreat, U.S. President Donald Trump said Democrats will force \"transgender for everyone\" if they win the 2026 midterm elections.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Spider plants can remove 95% of toxins indoors", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2025, streaming service Spotify ran recruitment advertisements for U.S. Immigration and Customs Enforcement.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Chief of Army Staff General Upendra Dwivedi opposed Pakistan’s inclusion in a US-initiated peace board for Gaza.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Report on explosion at Eritrea-based military camp", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Bihar School Examination Board has postponed the Bihar Secondary Teacher Eligibility Test (STET), which will now commence on 24 November 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An official document published by the U.S. government in 2026 says that it entered the Iran war \"at the request of\" Israel.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, the U.S. Treasury approved a plan to swap paper currency for government-issued cryptocurrency and physical gold coins embossed with U.S. President Donald Trump's face by 2027.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "China has no 'windmill areas,' they only sell wind turbines outside of home market", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sonu Sood Supporting Bhojpuri Singer Khesari Lal Yadav", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Gautam Gambhir responding to trolls after India’s defeat against South Africa in the 2026 ICC Men’s T20 World Cup", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Avanish Kumar from Muzaffarpur built an airplane using scrap materials and just ₹7,000 in one week", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Jammu and Kashmir Deputy Chief Minister Surinder Chowdhary referred to Prime Minister Narendra Modi as an agent of Pakistan’s Inter-Services Intelligence (ISI).", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rodrigo Duterte was the mastermind behind the assassination of the late Sen. Benigno \"Ninoy\" Aquino Jr.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In September 2025, rapper Eminem released a tribute song honoring slain conservative activist Charlie Kirk.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "We took away the individual mandate.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Pakistan to introduce additional peak hour charges for electricity", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Coffee and almonds can remove dark circles in a week", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The FBI and DEA rescued 450 children in a raid of a Somali couple's California \"luxury island.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Pakistan demanded $10,000 for each soldier sent to Gaza, while Israel offered only $100.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Native-born workers accounted for all U.S. job gains during the six-month period from January to June 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In the 1990s, a film company produced an animated musical movie titled \"Pride & Prejudice: Dino Time!\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Fox News chyron reported that Attorney General Pam Bondi announced that the administration would arrest anyone who called U.S. President Donald Trump a \"taco.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Seniors are selling items to save their family businesses", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Scenes from the moment of the launches from the Tabriz area in Iran.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Gallbladder stones can be dissolved using kalonji and honey", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "We saved our oil industry and now it's very vibrant and everybody has very inexpensive gasoline.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "“More Americans are working today than at any time in the history of our country.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "PM Modi is shooting a reel in Kerala.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Total voters in Bihar were 7.42 crore and voting was 7.45 crore.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In late October 2025, posts shared on social media showed a genuine news release announcing that U.S. President Donald Trump was selling pieces of the demolished White House East Wing on his website.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The United Kingdom's House of Lords, the upper chamber of Parliament, voted to legalize abortion up until birth in March 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“BREAKING NEWS: Dolly Parton announces her refusal to celebrate Pride Month in June.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts misrepresent US Congress research report to discredit South Korean president", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, Sen. John Fetterman, a Democrat from Pennsylvania, claimed the former talk show host Oprah Winfrey had attempted to bribe him to vote against U.S. President Donald Trump's One Big Beautiful Bill Act.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "40,000 people a day are contracting COVID.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Shortly after the Sept. 10, 2025, fatal shooting of conservative American activist Charlie Kirk, more than a million people marched in London to honor him and support his beliefs against mass migration.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ajay Devgn was seen with Pakistani cricketer recently during the 2025 WCL.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“This Thanksgiving, turkey prices are at their lowest point since 2000.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A herbal formula can effectively regulate irregular periods", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: Context missed from comparison touted as evidence of UK's two-tier religious freedom", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Perci Cendaña was disappointed by the low visitor turnout at the Lakbay Museo ng Paghilom.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Israeli citizens fleeing a city bombarded by Iran.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Queen frontman Freddie Mercury did not sing \"of the world\" at the end of the band’s song \"We Are the Champions,\" which was first released in 1977.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Building set on fire Amid Recent Protests In UP's Noida", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "rescue operation at the BJ Medical College Hostel following the recent plane crash in Ahmedabad", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Storing onions and potatoes together causes the potatoes to produce poisonous chemicals like solanine and chaconine, which can be fatal when consumed, especially for children.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "South Africa’s new trespassing bill benefits criminals", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Seoul museum removed West Sea reference to align with president's policies.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Leugo Kit can effectively cure vitiligo patches.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Govt Giving Rs 10,000 to Women for Diwali", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Bangladeshi man living in Kolkata supports Mamata Banerjee and says Bangladeshis will soon rule West Bengal.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A circulating document contains the medical test results of President Ferdinand Marcos Jr.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Giant Statue of Rohit Sharma Being Built On A Street", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "BJP leader Krishna Kumar, Bihar’s Tourism Minister, made his daughters wear hijab despite it not being mandatory in the UAE", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The International Court of Justice (ICJ) has declared Israel an illegal state.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In November 2025, U.S. President Trump asked the Department of Transportation to introduce 15-year car loans.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Vicks with turmeric and coconut oil can cure piles in 7 days", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Malaysian minister of health endorsed joint pain cream as medicine", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The federal agent who shot and killed Alex Pretti in Minneapolis on Jan. 24, 2026, is named Evan Kilgore.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "As of July 2025, people can Venmo the U.S. Treasury to help pay off the national debt.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Three months free mobile recharge scheme", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Philippines spent 90 percent of its annual budget by April 2025", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A company backed by billionaire philanthropist Bill Gates has produced lab-made butter using carbon.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The state of Ohio passed a law criminalizing wearing makeup, clothing or prosthetic body parts that suggest \"a gender identity that is different from the performer's or entertainer's biological sex,\" essentially banning public drag shows.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Vice President JD Vance said \"it is totally reasonable and acceptable for American citizens to look at their nextdoor neighbors and say, 'I want to live next to people I have something in common with' and not live next to people who 'don't speak the same language that I do.'\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Using ginger turmeric toothpaste to cure all dental problems", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Actor Wil Wheaton said conservative commentator Tucker Carlson is \"not forgiven\" after Carlson apologized for supporting U.S. President Donald Trump's candidacy.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "woman dancing like a snake in front of a police station after her bail", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Nigeria removing pockets from police uniforms", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Air Force Chief, Air Chief Marshal AP Singh, admitted that India lost six jets in the conflict with Pakistan.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Real visuals from the ongoing June 2025 Israel–Iran conflict.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A study published in October 2025 found that vaping products contained bacteria that indicated fecal contamination.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "One strawberry a day keeps the dermatologist away", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Your lost decade has produced 2.8 million chronically food-insecure South Africans. It has produced 3.6 million food-insecure South Africans.\" – Khanyisile Litchfield-Tshabalala", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A lemon shot before lunch can prevent acidity and migraine attacks", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts on platforms like X (formerly Twitter) have gone viral withonestating \"Moral of the story Never believe a climate alarmist\" garnering over 270000 viewsAnotherviewed more than 55000 times claimed\"Scientists have had to pause the Climate Change Hoax Scam\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "a monkey playing with an Indian soldier’s gun and accidentally firing it while the soldier is asleep.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "That's never happened before in America.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Tata Motors is launching a 125cc motorcycle.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sixteen conservative commentators posted similar comments about the need for a White House ballroom after an alleged assassination attempt on the U.S. president at the 2026 White House Correspondents' Association dinner.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: €46 Billion in Frozen Russian Assets Disappear in France", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indonesian VP meets with protesters", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Alexandria Ocasio-Cortez bailed out Hunter Biden with a $250.000 bond related to an arrest for narcotics and disorderly conduct charges in a town named \"Barron, Delaware\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In advance of a visit by U.S. President Donald Trump, Scottish newspaper The National's front page read \"Convicted US felon to arrive in Scotland.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In artificial intelligence, “We're leading China by a lot.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"On 2nd of March 2025, Nigeria reached a remarkable [power] generation of available capacity of 6,003 megawatts, marking the first time this level has been recorded in the country's history.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Turning Point USA CEO and co-founder Charlie Kirk once said, \"I can't stand the word empathy, actually. I think empathy is a made-up, new age term that — it does a lot of damage.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Social media posts claim 800 people went missing in Delhi in the first 15 days of 2026, signalling a safety crisis.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"The people at [the] National Hospital Insurance Fund had come up with a programme that needed KSh800 million to reform it and make it workable and compliant with the present times.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2000, a Missouri man received a 13-year prison sentence but didn't serve any time until 13 years later due to a clerical error.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Israeli building was reduced to rubble in the Iranian air strike, which was recorded by a person on camera", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Nobel Committee \"quietly removed\" Donald Trump’s name from the Nobel Peace Prize nominee list in 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I'll tell you what it means...", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Journalist Sudhir Chaudhary reports that India has secured veto power at the United Nations, despite massive opposition from the US.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts falsely claim French president ordered €148 million bunker to prepare for World War III", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Priyanka Gandhi mocking Prime Minister Narendra Modi in Patna rally", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In January 2026, actor Robert De Niro said he was leaving New York City due to Mayor Zohran Mamdani's policies.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Outrage in Egypt as a Palestinian tried to knife a woman to death for not getting free ice cream in a shopping mall near Cairo.Theres a reason Arab countries refuse to take Pales", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The construction of U.S. President Donald Trump’s White House ballroom was halted by a federal judge in mid-February 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "But if you want to kill the economy, get rid of your oil industry.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Jerusalem Post reports on Israeli plan to strike Eritrea", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The combination of mint leaves, ginger, amla, and ajwain can eliminate kidney stones in a few seconds", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“You cannot bring a firearm loaded with multiple magazines to any sort of protest that you want. It’s that simple.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Geological report taken out of context to claim that new ocean has emerged in East Africa", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: Purchases over 1,000 pounds will not be auto-flagged to Britain’s tax office", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Congress party launched former ISI chief Asad Durrani's book in India.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Philadelphia sheriff called Immigration and Customs Enforcement \"made-up, fake, wannabe law enforcement” and warned agents, “You don’t want this smoke.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A 3-minute home remedy can permanently cure joint pain in just 3 days", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Prime Minister Indira Gandhi remaining silent when questioned by a journalist about the imposition of the Emergency.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Experts rubbish claims garlic and betel leaves can reduce blood pressure and sugar level", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A monument to children “tortured by Banderites” in Poland", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Your son said we have to give 10% to the big man.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Department of Homeland Security adviser Corey Lewandowski said Immigration and Customs Enforcement officials will be at Bad Bunny's Super Bowl performance, adding: \"There is nowhere you can provide safe haven to people who are in this country illegally. Not the Super Bowl and nowhere else.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Gasoline prices have “come down very substantially today.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Vaccine used in Bangladesh's typhoid vaccine drive is unsafe.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US child was mandated to get 72 injections under the CDC vaccine schedule", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "President Donald Trump's proposed 2027 military budget would be \"the largest spending increase since World War II.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Priyanka Chopra's Reaction On India's Oval Test Win", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And secondly, we're in a situation here where we - the federal prison system was reduced by 38,000 people under our administration.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Post claims to show Antarctica's \"Ice Wall\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The post claims that, to appease the 18% Muslim voters in Bihar, the Congress party has proposed to legalise cow beef in the state.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "And so the election is all-", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Bihar CM Nitish Kumar defending Lalu Yadav ahead of upcoming Bihar assembly polls", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "People of Israel rallying for peace with Iran, saying, “Iran, stop the war. We apologise. We want peace.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts falsely claims former Nigerian minister’s car was stoned during campaign", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "washing piles with urine can help cure them within two months", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Discount retailer Dollar Tree sells cheaper versions of Girl Scout Cookies made by the same manufacturer.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Stone-pelting on Indian Army", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Why is it on the ballot?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Five beluga whales washed ashore in Russia's Kamchatka, a day before the 8.8 magnitude earthquake hit the region.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "What happens to the ordinary people out there?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "As of late August 2025, survivors of Jeffrey Epstein's sex abuse planned to hold a news conference in Washington, D.C., on Sept. 3, 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "large crowd of people protesting on the road in Ladakh", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "PM Modi Ignore The President", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Posts claiming Nigerian ‘Yahoo boy’ scammed Trump out of $250k are misleading", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The man who disarmed one of the gunmen during the Bondi Beach shooting was identified as Edward Crabtree.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Yogi Adityanath said only those practicing caste discrimination are opposing the UGC and have something to fear.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "False claims of Japan's truck-sized nuclear reactors spark envy in Australia", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump said of former President Joe Biden, \"If you feel sorry for him, don't feel so sorry because he's vicious. What he did with his political opponent and all of the people that he hurt, he hurt a lot of people by — and so, I really don't feel sorry for him.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "After Bengal Elections, BJP workers set fire to Mamata Banerjee's Residence and TMC office.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Early evidence suggests natural immunity from COVID-19 may not last very long, but more studies are needed to better understand this", "labels": 1, "dataset_name": "manual_annotations", "lang": null}
+{"text": "Baseless posts of stranded whales 'warning about Russian earthquake' spread online", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ginger can Help Prevent Viral Flu", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Brihanmumbai Municipal Corporation (BMC) will supply unfiltered water for the next few days due to a damaged filter machine.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Trudeau said we will replace 'old stock' white Canadians", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "former Army Chief Manoj Pande criticizing the Indian government and making any remarks about Israel", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Kasongo came and discarded that system and brought something called SHA and SHIF at a cost of KSh104 billion.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Virginia mail ballot can be returned multiple ways to protect privacy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An authentic Truth Social post from U.S. President Donald Trump attributed the deaths of film director and actor Rob Reiner and his wife, Michele Singer Reiner, to \"Trump Derangement Syndrome.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Face-to-face classes in public and private schools are suspended due to a supposed Nipah virus outbreak in the country.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Senate President Vicente Sotto III is pushing for the imposition of 50% tax on content creators.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The lyrics of the song “The Twelve Days of Christmas” once said “four colly birds” rather than “four calling birds.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ajay Devgn and Shahid Afridi met after the Pahalgam terror attack to insinuate a controversial link", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ricky Ponting criticises India over the handshake controversy in the Asia Cup", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The children's TV show \"SpongeBob Square Pants\" was created to entertain children trafficked by sex criminal Jeffrey Epstein.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Indian Army chief Gen. VP Malik (Retd) says Pakistan has better weapons and equipment, and that the destruction of Rafale jets and the S-400 system proves its superiority over India.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Kansas City Chiefs quarterback Patrick Mahomes declared he would boycott the 2026 Super Bowl if organizers allowed rapper Bad Bunny to perform at the halftime show, and would choose instead to honor slain Turning Point USA co-founder Charlie Kirk.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Russian Spetsnaz RAID and capture senior UK officers in Ochakov!\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "17.49 lakh women went missing over an 11-year period (2014–2025) under Modi as PM.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump said, \"I never had the privilege of going to his [Jeffrey Epstein's] island.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Voter IDs of Samantha Ruth Prabhu, Tamannah Bhatia and Rakul Preet Singh show the same addresses", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "We are energy independent for the first time.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "On the condition that he would agree that he would be drawing down his nuclear capacity to get -- the Korean Peninsula should be a nuclear free zone.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "On September 6, 200,000 young men aged 18–22 left Ukraine", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukrainian Media Staged Olena Zelenska’s Meeting with Melania Trump", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Joe Rogan misleads on 'climate cooling' in Bernie Sanders interview", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Cole Tomas Allen, the suspect in the attack on the 2026 White House Correspondents' Association dinner, is a registered Democrat who donated to former Vice President Kamala Harris' 2024 presidential campaign.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Cameroon president appoints son as vice-president", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "japan maglev train project costs lesser than the ropeway project in varanasi", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "British Columbia minister misidentified as haka performer", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In March 2026, U.S. President Donald Trump offered donors access to what he called \"National Security Briefings\" in exchange for campaign contributions.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Eating chia seeds daily for 2 weeks can transform your body", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Over 500 Colombian militants have been eliminated in Ukraine — Western journalist", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "As of July 1, 2025, the U.S. Department of Transportation will institute a set of standard requirements for license renewal for drivers aged 70 and up focused on vision, cognition and physical ability.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Reserve Bank of India (RBI) has implemented a new rule mandating that all banks in India will be closed every Saturday and Sunday", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "I terminated it; it's gone.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "H.R. 1, the budget omnibus bill U.S. President Donald Trump called the \"One Big Beautiful Bill Act,\" will add trillions of dollars to the national debt.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“There's no downside” to avoiding Tylenol or acetaminophen use while pregnant.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A fake graphic falsely attributes a statement to Jaya Bachchan about Rahul Gandhi being mentally unwell.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Jagdeep Dhankhar said \"Farmers and their sons are not afraid of anyone\" a day before he resigned from office as Vice President of India.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Chewing garlic and betel leaves can cure hypertension and diabetes", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "George Stephanopoulos, host of ABC’s \"This Week,\" cut off an interview with U.S. Vice President JD Vance after Vance deflected a question about border czar Tom Homan.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Air Chief Marshal AP Singh spoke about warning the central government about the Tejas aircraft and said that IAF pilots will be sent to Pakistan for training.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In July 2025, scientists discovered a mysterious intergalactic object that was \"most likely\" an alien ship that could reach Earth by November 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "This RTI response shows that in 2025, 163 pilots quit the Indian Air Force after Operation Sindoor.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Colonel Sofiya Qureshi refers to the tri-service Trishul exercise as a political gimmick before the Bihar polls.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "With a rift in the Mahagathbandhan, Lalu Yadav denies seats to the Congress party ahead of the 2025 Assembly elections in Bihar.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "South Korean police say no reports of a Chinese public security officer operating in Seoul", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The United Nations General Assembly moved to convene in Geneva instead of New York ahead of its 80th session in September 2025 after the U.S. declined visas for Palestinian officials.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "People have to be made aware of what other people feel like, uh, what insults them, what is demeaning to them.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Civil rights leader Rev. Jesse Jackson's son Jesse Jackson Jr. said, \"I listened for several hours of three United States presidents who do not know Jesse Jackson,\" referring to remarks former presidents Bill Clinton, Barack Obama and Joe Biden made at a memorial service for his father.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Enlisted members of the United States Navy pay for their own meals when on sea duty or living in the barracks.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Led Zeppelin singer Robert Plant visited Texas and built or donated \"shelter homes\" for Texas flood victims.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Guns are the leading cause of death for children in North Carolina.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "BREAKING: ANOTHER EXPLOSION AT AN OIL REFINERY IN IRAN.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The One Big Beautiful Bill will deliver the promise of “no tax on Social Security.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Dev Bhoomi Uttarakhand University issued a circular mandating students to attend PM Modi’s event for 50 internal marks.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A fertiliser goods train from Visakhapatnam (Andhra Pradesh) to Basti (Uttar Pradesh) took more than three years to reach its destination.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Visuals show a Qatari gas plant on fire after an Iranian attack in March 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Lieutenant Colonel Bhanu Pratap Singh Mankotia and Lance Dafadar Daljeet Singh recently lost their lives in an ambush in Ladakh.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Trump's South Korean trip did not include clandestine trip to see jailed president", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Vaxelis 6-in-1 vaccine has dangerous ingredients, side effects", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "On Jan. 2, 2026, U.S. President Donald Trump made a post to Truth Social that said, \"If Iran shots and violently kills peaceful protesters, which is their custom, the United States of America will come to their rescue. We are locked and loaded and ready to go.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "False posts deride woman cop in Sydney as 'frozen' during mass shooting", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Zelensky Admits Tomahawk Terror Plot", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Demonstration in USA against Iran attack", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Coalition of the Willing Plans to Partition Ukraine for Resources", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"The shilling, once in a perilous downward spiral, has stabilised at KSh129 to the dollar for nearly two years.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“Fifty percent of the presidents, almost, have used (the Insurrection Act). And that's unquestioned power.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Oil-based navel therapy manages digestion", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, signed by U.S. President Bill Clinton, allowed deportation without due process.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Donald Trump publicly gives Lee Jae-myung the cold shoulder", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In January 2026, the U.S. Postal Service issued a letter to its employees that could be shown to law enforcement to verify their status as essential workers.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "FIFA revoked U.S. President Donald Trump's peace prize after board members launched an investigation into the award selection process.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "“California only has ‘enough’ oil and gas supply to meet demand for the next six weeks.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Zelenskyi purchased a $29 million mansion from American showman Bill Cosby", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Supreme Court of India has banned PM Modi for six years after declaring his Degree Fake.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Are you talking Hunter, are you talking about Hunter.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Listen, who is on your list, Joe?", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Over 80,000 Muslim women availed the Widow Pension Scheme under AAP's Delhi government despite having husbands.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Volodymyr Zelensky Buys Bill Cosby’s New York Townhouse for $30 Million", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The viral post claims that an elephant fell onto a truck.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Prime Minister of India has special immunity from civil or criminal proceedings while in office.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fairfax County mail ballot envelope reveals vote for attorney general", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: No bystanders shot in Carlow gun incident mischaracterised as a ‘massacre’ online", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Ukraine Imported Spent Nuclear Fuel to Build Dirty Bomb", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rahul Gandhi said, 6–7 year old boys come to me and whisper in my ear, ‘Vote Chor, Gaddi Chor,’ because their names have been cut from the voter lists.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "The Ramayana was declared a fictional story in a 1971 Allahabad High Court case (Case No. 412, verdict dated 19 January 1971).", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "We're in a situation where there are thousands of deaths a day, a thousand deaths a day.", "labels": 1, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Live visuals from inside the Ahmedabad–London Air India plane that crash-landed on 12 June 2025", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Experts caution against 'CO2' breathing therapy promoted online", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "People protested in China after the death of Yu Menglong", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An alkaline drink can cure cancer", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In December 2025, the U.S. Department of Health and Human Services, led by Robert F. Kennedy Jr., repealed a rule that required nurses to be present around the clock in long-term care facilities.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sanyasi Ayurveda weight gain medicine can lead to visible weight gain within 15 days, without any side effects", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Aftermath of Tanzanian election violence", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "She has a graduate degree from the University of Pennsylvania in social work.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "Team USA figure skater Ilia Malinin received a message from U.S. President Donald Trump that Malinin said \"was meant to shut me up.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Martial arts actor Chuck Norris once said, \"I used to be a Democrat, but unfortunately the Democrats went too far to the left … and lost all reality of what America stood for.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "PM Modi visited Sonia Gandhi in the hospital when she was admitted in Delhi, recently.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Professional golfer Rory McIlroy donated his entire $10.9 million bonus from the 2025 Ryder Cup and sponsorship earnings to to fund 150 units and 300 beds for homeless people in Northern Ireland.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Starbucks Appoint Dolly Chaiwala as Brand Ambassador", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A real Rep. Jack Kimble posted about other countries potentially invading the U.S. over having a corrupt leader for president", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"Fertiliser subsidies have boosted food production by 50%.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "With voting machines, \"They say we're going to have the results in two weeks. With paper ballots, you have the results that night.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Indian captain Suryakumar Yadav refused to shake hands with his Bangladeshi counterpart Jaker Ali after the toss during the 2025 Asia Cup tournament,", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mukesh Ambani Giving Away Free Gold Chains This Diwali", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former U.S. President Joe Biden secured the release of roughly 140 hostages during the Israel-Hamas war, a total more than President Donald Trump.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A Minnesota man who removed his ailing wife from a nursing home and threw her a \"death party\" was arrested and sentenced to three years in prison.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "HPV vaccines cause infertility", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Sidharth Malhotra-Kiara Advani Blessed With A Daughter", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Aviral post on X with more than 80000 views claims \"Edward Crabtree a 43-year-old father of two and local fruit shop owner has been identified as a SAVIOUR after bravely disarming one of the Islamic terrorists at #bondibeach Australia\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "US used Indian Airspace to strike Iran’s Nuclear sites", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "'Terrified' Sydney resident misidentified as Bondi gunman", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fuel counter site has lower number of days than government figures", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "You do a solicited ballot, and that's okay...", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
+{"text": "“Trump’s $2,000 tariff dividend is live but you must act.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "You should poop three times a day to be considered healthy", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Small children are given \"80 different vaccines.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "People protesting against the government in Patna.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Former Nepal PM Jhalanath Khanal's Rabi Laxmi Chitrakar dies", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Jason Kelce or any celebrity said If Bad Bunny is a bad fit for the Super Bowl, then maybe the people making these comments are a bad fit for America's Future", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A man was arrested in Florida after he attempted to “baptize” an alligator inside a Waffle House.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "False posts about Malaysian education minister's resignation surface after spate of school violence", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rescue boat capsized in northern Thai floods, not central province", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Graph shows accurate depiction of immigration to Canada", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Republican former House Speaker Newt Gingrich shared a post advocating for using nuclear detonations to create a canal that would serve as an alternative shipping route to the Strait of Hormuz.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"In Tateyama City Chiba Prefecture a whale is flipping over for unknown reasons possibly due to the impact of a tsunami\" says the post", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Rainmaker Technology Corporation's cloud seeding mission caused deadly flooding in parts of Texas over Fourth of July weekend in 2025.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "leopard jumping out of its enclosure and attacking people", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "UK Imposing £500 Exit Fee", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Mahatma Gandhi’s statue was vandalised in Bangladesh.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"130 million Nigerians are in multi-dimensional poverty, a figure from a few years back that people like to quote a lot.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Gun bullets found in the first shipment of raw materials from Pakistan! Unboxing is being done; you will be shocked to see what's inside!", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "mage showing multiple human skeletons being excavated at dharmathala, karnataka", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Aerosmith lead vocalist Steven Tyler blasted what he labeled as the \"woke agenda,\" refusing to wear a rainbow-themed patch in support of the LGBTQ+ community.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In early August 2025, France's President Emmanuel Macron and his wife, Brigitte Macron, announced they were abandoning their 22-count defamation lawsuit against U.S. far-right commentator Candace Owens, who spread the false claim that Brigitte Macron was a trans woman.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In June 2025, English broadcaster Piers Morgan and Scottish singer Susan Boyle were engaged and planning to get married.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Delhi Police's Special CP (Law and Order) Ravindra Yadav dismissed the deadly blast near the Red Fort Metro station as a simple CNG cylinder explosion.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Actor Woody Harrelson said of U.S. President Donald Trump: \"We have a guy running this country who has unearthed a lot of bigotry and a lot of racism, and it seems to be more virulent than ever. So, yeah, it's strange how we just, it seems like we're going backward. And yeah, I wish that there were a way to, I wish there were a way to get rid of that son of a b**** and get in a great president, you know, but it doesn't seem like that's going to happen. And I don't know how much he's going to continue to foment hatred.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In September 1992, musician Eric Clapton invited 16-year-old Sarah Mitchell, who was deaf, onstage at a concert in Birmingham, England, and performed for her.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Attorneys for Tyler Robinson, the suspect in Charlie Kirk's fatal shooting, said in a court filing that a report indicated the Bureau of Alcohol, Tobacco, Firearms and Explosives \"was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Mr. Robinson.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fruits eaten on an empty stomach do not affect blood sugar levels", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ugandan president declares 2026 election his last", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Recent meeting between DK Shivakumar and Chandrababu Naidu", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "An Israeli airstrike in Iran, causing massive shockwaves obliterating buildings in its path.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Yash has opted out of the upcoming film Ramayana due to Ranbir Kapoor and Alia Bhatt’s beef-eating habits", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Real incident of passengers fighting over Seat 11 A in an airplane", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Conservative activist Charlie Kirk once described Kyle Rittenhouse, a teenager acquitted of killing two people and wounding another during a protest in Kenosha, Wisconsin, as \"a hero to millions.”", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "BJP workers left the party and joined the Trinamool Congress in Dhupguri, Jalpaiguri", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Grand Statue Of Akhilesh Yadav Is Being Built In Lucknow", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fact Check: Fire-hit Irish property earmarked for local social housing applicants, not migrants", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Japanese vessel engulfed in flames after Iranian attack", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Ex-senator said VP Duterte was mastermind of ghost infrastructure scandal", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Apple’s lead designer, Jon Yongfook, was fired following the unveiling of the new ‘Liquid Glass’ design for iOS 26.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "#Iran's #missile #attack on a secret meeting of top #Israeli military #officials", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Actress Kajal Aggarwal died in a car accident.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "\"We're now totally independent of the Middle East and yet we are there to help We don't have to be there We don't need their oil\" Trump claimed", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. President Donald Trump appointed convicted sex trafficker Ghislaine Maxwell's former defense attorney as acting attorney general to head the Department of Justice in April 2026.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "A survey found that 47% of Republican voters said they'd still support U.S. President Donald Trump even if he were officially implicated in the late Jeffrey Epstein's sex crimes.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Several provinces in the country will be placed under an energy lockdown due to the ongoing crisis in electricity supply.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Louvre Flags Russian Link in Flooding of Egyptian Collection", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Identification requirements make it easier to buy a firearm than to vote", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Fake: Minister Sybiha Urged the United States to Agree to All of Iran’s Demands and Even Pay Reparations", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "Danish parliament laughing over Trump's demand for a Nobel peace prize.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "In 2025, U.S. Immigration and Customs Enforcement offered new employees a $100,000 salary on top of a $45,000 signing bonus, far more than what teachers in the United States make.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. announced the removal of the chocolate-hazelnut spread Nutella from supermarket shelves.", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "NASA technology discovered a \"super-Earth\" exoplanet emitting \"strange signals.\"", "labels": 1, "dataset_name": "stance_claims", "lang": "en"}
+{"text": "There's no way they would give it up.", "labels": 0, "dataset_name": "clef2024", "lang": "en"}
