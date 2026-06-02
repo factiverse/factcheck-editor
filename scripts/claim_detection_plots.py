@@ -38,7 +38,15 @@ if __name__ == "__main__":
     with open("src/utils/lang_codes.json") as iso639_file:
         ISO639_FILE = json.load(iso639_file)
 
-    with open(f"{data_folder}/f1_scores.tsv", "w") as f1_file:
+    # Backup existing f1_scores.tsv before overwriting
+    import shutil
+    tsv_path = f"{data_folder}/f1_scores.tsv"
+    if os.path.exists(tsv_path):
+        backup_path = f"{tsv_path}.backup"
+        shutil.copy(tsv_path, backup_path)
+        print(f"Backed up existing {tsv_path} to {backup_path}")
+
+    with open(tsv_path, "w") as f1_file:
         f1_file.write(
             "lang\tollama_macro\tollama_micro\t"
             "claude_macro\tclaude_micro\t"
@@ -100,7 +108,8 @@ if __name__ == "__main__":
     opacity   = 0.8
 
     # ── Micro F1 plot ─────────────────────────────────────────────────────────
-    data_sorted = data.sort_values(by="openrouter_micro", na_position="last").dropna(subset=["openrouter_micro"])
+    # Sort by XLM-RoBERTa (facti) scores, showing all languages even if facti is missing
+    data_sorted = data.sort_values(by="facti_micro", na_position="last")
     fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
@@ -122,7 +131,8 @@ if __name__ == "__main__":
     print(f"Saved {data_folder}_test_micro.pdf")
 
     # ── Macro F1 plot ─────────────────────────────────────────────────────────
-    data_sorted = data.sort_values(by="openrouter_macro", na_position="last").dropna(subset=["openrouter_macro"])
+    # Sort by XLM-RoBERTa (facti) scores, showing all languages even if facti is missing
+    data_sorted = data.sort_values(by="facti_macro", na_position="last")
     fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
