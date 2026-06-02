@@ -3,6 +3,7 @@ import os
 from src.llm_utils.openai_utils import OpenAIUtils
 
 from src.llm_utils.ollama import Ollama
+from src.llm_utils.openrouter import OpenRouterUtils
 from src.utils.utils import load_lang_codes
 from src.prompts.prompts import IDENTIFY_STANCE_PROMPT
 import random
@@ -49,14 +50,14 @@ def predict_stance_openai_batch(
     claims: list, evidences: list, lang: str, open_ai_utils: OpenAIUtils, model=None
 ) -> list:
     """Predict stance for multiple claim-evidence pairs using OpenAI.
-    
+
     Args:
         claims: List of claims
         evidences: List of evidence texts
         lang: Language name
         open_ai_utils: OpenAIUtils object
         model: Model name (optional)
-    
+
     Returns:
         List of stance predictions
     """
@@ -68,6 +69,47 @@ def predict_stance_openai_batch(
         )
         if " " in response:
             response = response.split(" ")[0]
+        results.append(sanitize_response(response))
+    return results
+
+
+def predict_stance_openrouter(claim: str, evidence: str, lang: str, model: str = "google/gemma-4-31b-it:free") -> str:
+    """Predict stance using OpenRouter.
+
+    Args:
+        claim: Claim text
+        evidence: Evidence text
+        lang: Language name
+        model: OpenRouter model to use (e.g., "google/gemma-4-31b-it:free")
+
+    Returns:
+        Stance prediction
+    """
+    openrouter = OpenRouterUtils(model=model)
+    prompt = IDENTIFY_STANCE_PROMPT.format(claim=claim, evidence=evidence, lang=lang)
+    response = openrouter.generate(prompt)
+    return sanitize_response(response)
+
+
+def predict_stance_openrouter_batch(
+    claims: list, evidences: list, lang: str, model: str = "google/gemma-4-31b-it:free"
+) -> list:
+    """Predict stance for multiple claim-evidence pairs using OpenRouter.
+
+    Args:
+        claims: List of claims
+        evidences: List of evidence texts
+        lang: Language name
+        model: OpenRouter model to use (e.g., "google/gemma-4-31b-it:free")
+
+    Returns:
+        List of stance predictions
+    """
+    results = []
+    openrouter = OpenRouterUtils(model=model)
+    for claim, evidence in zip(claims, evidences):
+        prompt = IDENTIFY_STANCE_PROMPT.format(claim=claim, evidence=evidence, lang=lang)
+        response = openrouter.generate(prompt)
         results.append(sanitize_response(response))
     return results
 

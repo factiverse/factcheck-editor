@@ -43,7 +43,8 @@ if __name__ == "__main__":
             "lang\tollama_macro\tollama_micro\t"
             "claude_macro\tclaude_micro\t"
             "gpt52_macro\tgpt52_micro\t"
-            "facti_macro\tfacti_micro\n"
+            "facti_macro\tfacti_micro\t"
+            "openrouter_macro\topenrouter_micro\n"
         )
         for lang in ISO639_FILE.keys():
             data = load_claim_pred_data(lang)
@@ -57,6 +58,7 @@ if __name__ == "__main__":
                 claude_preds = [item["claude_opus_4_6_pred"]  for item in data if "claude_opus_4_6_pred" in item]
                 gpt52_preds  = [item["gpt52_pred"]            for item in data if "gpt52_pred" in item]
                 facti_preds  = [item["facti_local_pred"]      for item in data if "facti_local_pred" in item]
+                openrouter_preds = [item["openrouter_pred"]   for item in data if "openrouter_pred" in item]
 
                 # Only compute F1 when we have full coverage for that system
                 def _f1(preds):
@@ -71,13 +73,15 @@ if __name__ == "__main__":
                 claude_macro, claude_micro = _f1(claude_preds)
                 gpt52_macro,  gpt52_micro  = _f1(gpt52_preds)
                 facti_macro,  facti_micro  = _f1(facti_preds)
+                openrouter_macro, openrouter_micro = _f1(openrouter_preds)
 
                 f1_file.write(
                     f"{lang}\t"
                     f"{ollama_macro}\t{ollama_micro}\t"
                     f"{claude_macro}\t{claude_micro}\t"
                     f"{gpt52_macro}\t{gpt52_micro}\t"
-                    f"{facti_macro}\t{facti_micro}\n"
+                    f"{facti_macro}\t{facti_micro}\t"
+                    f"{openrouter_macro}\t{openrouter_micro}\n"
                 )
             except Exception as e:
                 print(f"Failed to process {lang}: {e}")
@@ -96,14 +100,16 @@ if __name__ == "__main__":
     opacity   = 0.8
 
     # ── Micro F1 plot ─────────────────────────────────────────────────────────
-    data_sorted = data.sort_values(by="facti_micro").dropna(subset=["facti_micro"])
+    data_sorted = data.sort_values(by="openrouter_micro", na_position="last").dropna(subset=["openrouter_micro"])
     fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
-    ax.bar(index - 1.5*bar_width, data_sorted["ollama_micro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
-    ax.bar(index - 0.5*bar_width, data_sorted["claude_micro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
-    ax.bar(index + 0.5*bar_width, data_sorted["gpt52_micro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
-    ax.bar(index + 1.5*bar_width, data_sorted["facti_micro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
+    ax.bar(index - 2.0*bar_width, data_sorted["ollama_micro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
+    ax.bar(index - 1.0*bar_width, data_sorted["claude_micro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
+    ax.bar(index + 0.0*bar_width, data_sorted["gpt52_micro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
+    ax.bar(index + 2.0*bar_width, data_sorted["openrouter_micro"], bar_width, alpha=opacity, label="Gemini 3.5 Flash", color="purple")
+    ax.bar(index + 1.0*bar_width, data_sorted["facti_micro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
+    
 
     ax.set_xlabel("Language", fontsize=16)
     ax.set_ylabel("Micro F1 Score", fontsize=16)
@@ -116,14 +122,15 @@ if __name__ == "__main__":
     print(f"Saved {data_folder}_test_micro.pdf")
 
     # ── Macro F1 plot ─────────────────────────────────────────────────────────
-    data_sorted = data.sort_values(by="facti_macro").dropna(subset=["facti_macro"])
+    data_sorted = data.sort_values(by="openrouter_macro", na_position="last").dropna(subset=["openrouter_macro"])
     fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
-    ax.bar(index - 1.5*bar_width, data_sorted["ollama_macro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
-    ax.bar(index - 0.5*bar_width, data_sorted["claude_macro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
-    ax.bar(index + 0.5*bar_width, data_sorted["gpt52_macro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
-    ax.bar(index + 1.5*bar_width, data_sorted["facti_macro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
+    ax.bar(index - 2.0*bar_width, data_sorted["ollama_macro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
+    ax.bar(index - 1.0*bar_width, data_sorted["claude_macro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
+    ax.bar(index + 0.0*bar_width, data_sorted["gpt52_macro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
+    ax.bar(index + 1.0*bar_width, data_sorted["facti_macro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
+    ax.bar(index + 2.0*bar_width, data_sorted["openrouter_macro"], bar_width, alpha=opacity, label="Gemini 3.5 Flash", color="purple")
 
     ax.set_xlabel("Language", fontsize=16)
     ax.set_ylabel("Macro F1 Score", fontsize=16)
@@ -145,6 +152,8 @@ if __name__ == "__main__":
         ("gpt52_macro",   "GPT-5.2      Macro-F1"),
         ("facti_micro",   "XLM-RoBERTa-Large (fine-tuned)   Micro-F1"),
         ("facti_macro",   "XLM-RoBERTa-Large (fine-tuned)   Macro-F1"),
+        ("openrouter_micro", "Gemini 3.5 Flash Micro-F1"),
+        ("openrouter_macro", "Gemini 3.5 Flash Macro-F1"),
     ]:
         if col in data.columns:
             print(f"{label}: {data[col].mean():.4f}")

@@ -12,6 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 
 from src.llm_utils.ollama import Ollama
+from src.llm_utils.openrouter import OpenRouterUtils
 from src.prompts.prompts import CHECKWORTHY_PROMPT
 from src.utils.utils import get_access_token, load_json
 from src.claim_detection.claim_detection_inference import BERTClaimPredictor
@@ -59,6 +60,23 @@ def predict_check_worthiness_using_ollama(text: str, lang: str) -> str:
     lqg = Ollama()
     prompt = CHECKWORTHY_PROMPT.format(text=text, lang=lang)
     response = lqg.generate(prompt)
+    return sanitize_llm_response(response)
+
+
+def predict_check_worthiness_using_openrouter(text: str, lang: str, model: str = "google/gemma-4-31b-it:free") -> str:
+    """Predict check worthiness using OpenRouter.
+
+    Args:
+        text: Sentence to predict check-worthiness.
+        lang: Language code.
+        model: OpenRouter model to use (e.g., "google/gemma-4-31b-it:free" or "openrouter/google/gemma-4-31b-it:free")
+
+    Returns:
+        Return Yes if the sentence is check-worthy, else No.
+    """
+    openrouter = OpenRouterUtils(model=model)
+    prompt = CHECKWORTHY_PROMPT.format(text=text, lang=lang)
+    response = openrouter.generate(prompt)
     return sanitize_llm_response(response)
 
 
@@ -221,6 +239,32 @@ def predict_check_worthiness_using_ollama_batch(texts: list, lang: str) -> list:
     return results
 
 
+def predict_check_worthiness_using_openrouter_batch(texts: list, lang: str, model: str = "google/gemma-4-31b-it:free") -> list:
+    """Predict check worthiness for multiple texts using OpenRouter.
+
+    Args:
+        texts: List of texts to predict
+        lang: Language code
+        model: OpenRouter model to use (e.g., "google/gemma-4-31b-it:free")
+
+    Returns:
+        List of {"label": "Yes"|"No", "raw_text": str, "raw_response": dict}
+        where raw_response is the full OpenRouter API response.
+    """
+    openrouter = OpenRouterUtils(model=model)
+    results = []
+    for text in texts:
+        prompt = CHECKWORTHY_PROMPT.format(text=text, lang=lang)
+        response_data = openrouter.generate_full(prompt)
+        raw_text = response_data.get("text", "").strip()
+        results.append({
+            "label": sanitize_llm_response(raw_text),
+            "raw_text": raw_text,
+            "raw_response": response_data.get("raw_response", {}),
+        })
+    return results
+
+
 def predict_claim_check_worthiness_openai_batch(
     texts: list, lang: str, open_ai_utils: OpenAIUtils, model=None
 ) -> list:
@@ -275,9 +319,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--models",
         nargs="+",
-        choices=["ollama", "gpt54pro", "gpt52", "gpt55", "claude", "factiverse", "all", "factiverse_local"],
+        choices=["ollama", "gpt54pro", "gpt52", "gpt55", "claude", "factiverse", "all", "factiverse_local", "openrouter"],
         default=["all"],
-        help="Specify which models to run. Options: ollama, gpt54pro, gpt52, gpt55, claude, factiverse, factiverse_local, all. Default: all"
+        help="Specify which models to run. Options: ollama, gpt54pro, gpt52, gpt55, claude, factiverse, factiverse_local, openrouter, all. Default: all"
     )
     parser.add_argument(
         "--batch-size",
@@ -285,12 +329,22 @@ if __name__ == "__main__":
         default=1,
         help="Number of claims to process per batch. Default: 20"
     )
+    parser.add_argument(
+        "--openrouter-model",
+        type=str,
+        default="google/gemma-4-31b-it:free",
+        help="OpenRouter model to use. Default: google/gemma-4-31b-it:free"
+    )
     args = parser.parse_args()
 
     # Determine which models to run
     models_to_run = set(args.models)
     if "all" in models_to_run:
-        models_to_run = {"ollama", "gpt54pro", "gpt52", "gpt55", "claude", "factiverse"}
+        models_to_run = {"ollama", "gpt54pro", "gpt52", "gpt55", "claude", "factiverse", "openrouter"}
+
+    print(f"\n{'='*60}")
+    print(f"Running ONLY these models: {', '.join(sorted(models_to_run))}")
+    print(f"{'='*60}\n")
 
     lang_codes = {}
     with open("src/utils/lang_codes.json", "r") as f:
@@ -299,8 +353,10 @@ if __name__ == "__main__":
     access_token = get_access_token()
     batch_size = args.batch_size
 
-    # for lang in lang_codes.keys():
-    for lang in ["en"]:
+    for lang in lang_codes.keys():
+    # for lang in ["en"]:
+        if lang == "en":
+            continue
         open_ai_utils = OpenAIUtils()
         groundtruth_labels = []
         predicted_labels = []
@@ -309,6 +365,7 @@ if __name__ == "__main__":
         gpt54pro_preds = []
         gpt52_preds = []
         claude_opus_4_6_predictions = []
+        openrouter_preds = []
 
         # Print which models will be run
         print(f"Running models for {lang}: {', '.join(sorted(models_to_run))}")
@@ -360,6 +417,7 @@ if __name__ == "__main__":
             "factiverse":       "facti_pred",
             "factiverse_local": "facti_local_pred",
             "ollama":           "ollama_pred",
+            "openrouter":       "openrouter_pred",
         }
         needed_cols = [_model_pred_col[m] for m in models_to_run if m in _model_pred_col]
 
@@ -467,6 +525,13 @@ if __name__ == "__main__":
                             lambda texts: [predict_checkworthiness_using_factiverse(text) for text in texts],
                             batch_texts
                         )
+                    if "openrouter" in models_to_run:
+                        futures["openrouter"] = executor.submit(
+                            predict_check_worthiness_using_openrouter_batch,
+                            texts=batch_texts,
+                            lang=lang,
+                            model=args.openrouter_model
+                        )
 
                     # Wait for all to complete and get results
                     results = {}
@@ -548,6 +613,14 @@ if __name__ == "__main__":
                     new_row["facti_local_score"] = r["score"]
                     predicted_labels.append(facti_local_pred)
 
+                if "openrouter" in models_to_run:
+                    r = results["openrouter"][idx]
+                    openrouter_prediction_int = 1 if r["label"] == "Yes" else 0
+                    new_row["openrouter_pred"] = openrouter_prediction_int
+                    new_row["openrouter_raw_text"] = r["raw_text"]
+                    new_row["openrouter_raw_response"] = r["raw_response"]
+                    openrouter_preds.append(openrouter_prediction_int)
+
                 groundtruth_labels.append(int(gt))
 
                 # Merge with existing row if present, else start fresh
@@ -611,3 +684,6 @@ if __name__ == "__main__":
 
         if "claude" in models_to_run:
             _print_f1("Claude Opus 4-6", groundtruth_labels, claude_opus_4_6_predictions)
+
+        if "openrouter" in models_to_run:
+            _print_f1("Gemini 3.5 Flash", groundtruth_labels, openrouter_preds)

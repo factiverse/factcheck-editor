@@ -12,6 +12,7 @@ from tqdm import tqdm
 from src.veracity.llm_nli import (
     predict_stance_ollama,
     predict_stance_openai,
+    predict_stance_openrouter,
 )
 from src.llm_utils.openai_utils import OpenAIUtils
 from collections import Counter
@@ -44,9 +45,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--models",
         nargs="+",
-        choices=["mistral", "gpt52", "claude", "factiverse", "all"],
+        choices=["mistral", "gpt52", "claude", "factiverse", "openrouter", "all"],
         default=["all"],
-        help="Specify which models to run. Options: mistral, gpt52, claude, factiverse, all. Default: all"
+        help="Specify which models to run. Options: mistral, gpt52, claude, factiverse, openrouter, all. Default: all"
     )
     parser.add_argument(
         "--split",
@@ -77,20 +78,30 @@ if __name__ == "__main__":
         default="mistral",
         help="Ollama model to use for mistral predictions. Default: mistral"
     )
+    parser.add_argument(
+        "--openrouter-model",
+        type=str,
+        default="google/gemma-4-31b-it:free",
+        help="OpenRouter model to use. Default: google/gemma-4-31b-it:free"
+    )
     args = parser.parse_args()
     
     # Determine which models to run
     models_to_run = set(args.models)
     if "all" in models_to_run:
-        models_to_run = {"mistral", "gpt52", "claude", "factiverse"}
-    
+        models_to_run = {"mistral", "gpt52", "claude", "factiverse", "openrouter"}
+
+    print(f"\n{'='*60}")
+    print(f"Running ONLY these models: {', '.join(sorted(models_to_run))}")
+    print(f"{'='*60}\n")
+
     input = "data/veracity_prediction/test_dec_2025.jsonl"
     access_token = get_access_token()
     count = 0
     missing_evidence = 0
     ISO639_FILE = {}
     langs = load_lang_codes()
-    
+
     # Low resource languages - South Indian languages and other low resource languages
     low_resource_langs = {
         "ta",  # Tamil
@@ -113,22 +124,22 @@ if __name__ == "__main__":
         "id",  # Indonesian
         "jv",  # Javanese
     }
-    
+
     split = args.split
     retrieval_model = args.retrieval_model
-    
+
     fact_checked_data = []
     cur_timestamp = pd.Timestamp.now().strftime("%Y%m%d%H")
-    
+
     # Find all language files matching the pattern {lang}_{split}.json
     data_dir = "data/veracity_prediction"
     language_files = sorted(glob.glob(f"{data_dir}/*_{split}.json"))
-    
+
     if not language_files:
         print(f"No files found matching pattern: *_{split}.json in {data_dir}")
         print("Available splits: test, train, dev, etc.")
         exit(1)
-    
+
     print(f"Found {len(language_files)} language files to process")
     print(f"Running models: {', '.join(sorted(models_to_run))}")
     if "mistral" in models_to_run:
@@ -260,7 +271,23 @@ if __name__ == "__main__":
                                             print(f"\n⚠️  Claude model not available. Skipping Claude predictions.")
                                         else:
                                             print(f"\n❌ Claude error: {error_msg[:100]}")
-                            
+
+                                if "openrouter" in models_to_run:
+                                    try:
+                                        openrouter_result = predict_stance_openrouter(
+                                            claim=response_data["claim"],
+                                            evidence=full_evidence,
+                                            lang=lang_name,
+                                            model=args.openrouter_model
+                                        )
+                                        verified_data["openrouter_label"] = openrouter_result
+                                    except Exception as e:
+                                        error_msg = str(e)
+                                        if "not found" in error_msg.lower() or "credential" in error_msg.lower():
+                                            print(f"\n⚠️  OpenRouter API key not found. Skipping OpenRouter predictions.")
+                                        else:
+                                            print(f"\n❌ OpenRouter error: {error_msg[:100]}")
+
                             except Exception as e:
                                 print(f"Exception processing claim '{response_data['claim'][:50]}...': {str(e)}")
                         
