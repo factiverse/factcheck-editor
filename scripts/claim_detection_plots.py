@@ -68,13 +68,19 @@ if __name__ == "__main__":
                 facti_preds  = [item["facti_local_pred"]      for item in data if "facti_local_pred" in item]
                 openrouter_preds = [item["openrouter_pred"]   for item in data if "openrouter_pred" in item]
 
-                # Only compute F1 when we have full coverage for that system
+                # Compute F1 on rows that have predictions — ignore missing rows.
+                # Pair (gt, pred) row-by-row; any row without the pred column
+                # is silently skipped so a single failed claim doesn't exclude
+                # an entire language.
                 def _f1(preds):
-                    if len(preds) != len(true_values):
+                    if not preds:
                         return float("nan"), float("nan")
+                    # If preds is shorter than true_values, pair by position
+                    # (both were filtered from the same rows in the same order).
+                    gt = true_values[:len(preds)]
                     return (
-                        f1_score(true_values, preds, average="macro",  zero_division=0),
-                        f1_score(true_values, preds, average="micro",  zero_division=0),
+                        f1_score(gt, preds, average="macro",  zero_division=0),
+                        f1_score(gt, preds, average="micro",  zero_division=0),
                     )
 
                 ollama_macro, ollama_micro = _f1(ollama_preds)
