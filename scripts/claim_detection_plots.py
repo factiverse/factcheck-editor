@@ -61,33 +61,26 @@ if __name__ == "__main__":
 
             print(lang)
             try:
-                true_values  = [item["checkworthy"]          for item in data]
-                ollama_preds = [item["ollama_pred"]           for item in data if "ollama_pred" in item]
-                claude_preds = [item["claude_opus_4_6_pred"]  for item in data if "claude_opus_4_6_pred" in item]
-                gpt52_preds  = [item["gpt52_pred"]            for item in data if "gpt52_pred" in item]
-                facti_preds  = [item["facti_local_pred"]      for item in data if "facti_local_pred" in item]
-                openrouter_preds = [item["openrouter_pred"]   for item in data if "openrouter_pred" in item]
+                # Build paired (gt, pred) per system — skip rows missing the col
+                # so misaligned rows (e.g. failed API calls) don't corrupt F1.
+                def _pairs(col):
+                    return [(item["checkworthy"], item[col])
+                            for item in data if col in item and "checkworthy" in item]
 
-                # Compute F1 on rows that have predictions — ignore missing rows.
-                # Pair (gt, pred) row-by-row; any row without the pred column
-                # is silently skipped so a single failed claim doesn't exclude
-                # an entire language.
-                def _f1(preds):
-                    if not preds:
+                def _f1(pairs):
+                    if not pairs:
                         return float("nan"), float("nan")
-                    # If preds is shorter than true_values, pair by position
-                    # (both were filtered from the same rows in the same order).
-                    gt = true_values[:len(preds)]
+                    gt, preds = zip(*pairs)
                     return (
-                        f1_score(gt, preds, average="macro",  zero_division=0),
-                        f1_score(gt, preds, average="micro",  zero_division=0),
+                        f1_score(list(gt), list(preds), average="macro",  zero_division=0),
+                        f1_score(list(gt), list(preds), average="micro",  zero_division=0),
                     )
 
-                ollama_macro, ollama_micro = _f1(ollama_preds)
-                claude_macro, claude_micro = _f1(claude_preds)
-                gpt52_macro,  gpt52_micro  = _f1(gpt52_preds)
-                facti_macro,  facti_micro  = _f1(facti_preds)
-                openrouter_macro, openrouter_micro = _f1(openrouter_preds)
+                ollama_macro,     ollama_micro     = _f1(_pairs("ollama_pred"))
+                claude_macro,     claude_micro     = _f1(_pairs("claude_opus_4_6_pred"))
+                gpt52_macro,      gpt52_micro      = _f1(_pairs("gpt52_pred"))
+                facti_macro,      facti_micro      = _f1(_pairs("facti_local_pred"))
+                openrouter_macro, openrouter_micro = _f1(_pairs("openrouter_pred"))
 
                 f1_file.write(
                     f"{lang}\t"
