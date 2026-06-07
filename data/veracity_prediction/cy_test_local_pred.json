@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ers cyfrifiad 2020, mae Florida wedi “symud o fwyafrif y Democratiaid i fantais Gweriniaethol o 1.5 miliwn.”",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "“O dan Ddeddf Is-adran Refeniw 2025, rydym wedi dyrannu KSh415 biliwn digynsail i siroedd, bron i KSh30 biliwn yn fwy na dyraniad y llynedd.”",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yr hyn a wyddom am ffermydd gwartheg Bovaer a Denmarc",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae Aleema Khanum, chwaer cyn Brif Weinidog Pacistanaidd, Imran Khan, sydd wedi’i garcharu, yn galw Asim Munir, Prif Weinidog Byddin Pacistan, yn “Islamydd radicalaidd” sy’n dyheu am ryfel yn erbyn India yn ystod cyfweliad ar Sky News.",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Datgelodd sychder diweddar yn Sbaen heneb megalithig 7,000 oed, sy'n hŷn na phyramidiau'r Aifft.",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Galwodd Arlywydd yr Unol Daleithiau, Donald Trump, California Gov. Gavin Newsom yn “arlywydd yr Unol Daleithiau, Gavin Newscum.”",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ym mis Rhagfyr 2025, llofnododd yr Unol Daleithiau a Palau gytundeb $7.5 miliwn a fydd yn caniatáu i’r Unol Daleithiau anfon hyd at 75 o alltudion androseddol i genedl yr ynys.",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gall cnau coco sych wella wlserau'r geg",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Roedd poblogaeth drefol Nigeria ar annibyniaeth tua 7 miliwn.",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dechreuodd Walgreens werthu cardiau Hallmark Mahogany, brand o gardiau cyfarch yn arbennig ar gyfer pobl Ddu yn neu o gwmpas Awst 2025.",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ffug: Ceisiodd Wcráin Llwgrwobrwyo'r Sefydliad Astudio Rhyfel",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gwirio Ffeithiau: Cyd-destun allweddol ar goll o'r hawliad Mae dathliad LGBTQ+ ym Mhrydain yn cael ei ddi-ariannu",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Canfu teithiwr, er iddo gael ei hysbysu am ddim swyddi gwag wrth geisio archebu gwely ar-lein yn yr ystafell ymddeol yng ngorsaf reilffordd Guruvayur yn Kerala, fod yr ystafell gysgu yn hollol wag pan aeth yno.",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cafodd Jermaine Thomas, mab cyn-filwr o Fyddin yr Unol Daleithiau a aned mewn canolfan filwrol yn yr Almaen, ei alltudio i Jamaica.",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ym mis Awst 2025, llofnododd Arlywydd yr UD Donald Trump orchymyn gweithredol yn gwneud llosgi baner America yn gosbadwy o flwyddyn yn y carchar.",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae tai yn ddrud “oherwydd i ni orlifo’r wlad gyda 30 miliwn o fewnfudwyr anghyfreithlon” ac oherwydd prinder tai.",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae gwersi cerddoriaeth wedi cael eu gwahardd yn yr Almaen Hamburg oherwydd bod Mwslemiaid yn dweud eu bod yn haram.",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ganol Rhagfyr 2025, cyhoeddodd Arlywydd yr UD Donald Trump y Gemau Gwladgarwr, cystadleuaeth athletau pedwar diwrnod rhwng dynion a menywod ifanc o holl daleithiau a thiriogaethau’r UD.",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn ystod cyfarfod Cabinet y Tŷ Gwyn ym mis Rhagfyr 2025, cafodd teitl Ysgrifennydd Amddiffyn yr Unol Daleithiau, Pete Hegseth, ei gamsillafu ar ei hysbyslen fel \"Ysgrifennydd Rhyfel\".",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Lansiodd yr NIA linell gymorth i bobl adrodd am weithgareddau 'gwrth-genedlaethol' fel jihad cariad a braw yn India.",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Cynyddodd gwarged masnach Nigeria 44.3% yn Ch2 2025 i N7.46 triliwn ($ 4.74 biliwn) ...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dim ond tua 3% o Americanwyr sydd i mewn i amaethyddiaeth",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "“Fe wnaethon ni roi $60 miliwn bythefnos yn ôl” ar gyfer cymorth bwyd i Gaza.",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Unwaith y postiodd Arlywydd yr UD Donald Trump neges Sul y Mamau yn dechrau, \"Sul y Mamau Hapus i BAWB, yn enwedig Mamau, Gwragedd a Chariadon Ffasgwyr Radical Chwith, Marcswyr, a Chomiwnyddion sy'n gwneud popeth o fewn eu gallu i ddinistrio a dileu ein Gwlad a fu unwaith yn wych.\"",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae clawr Frontline Magazine yn rhagweld Vijay Wave yn Tamil Nadu cyn pleidleisio",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth Prif Weinidog Gorllewin Bengal, Mamata Banerjee, amharchu’r anthem genedlaethol a gadael y llwyfan cyn i’r anthem genedlaethol ddod i ben.",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gwirio Ffeithiau: Cyd-destun allweddol ar goll o'r hawliad 1% o'r DU yn cefnogi cyfreithloni erthyliad hyd at enedigaeth",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn Minnesota, caniateir i berchnogion gwn trwyddedig gario dryll wedi'i lwytho mewn protest.",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae Fox News yn adrodd bod dyn o Florida yn gwrthod talu trethi oherwydd nad oedd yn bersonol yn cymeradwyo unrhyw ran o'r gwariant.",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ar 5 Mehefin, 2025, daeth “cyfraith gyffwrdd” yn gwahardd defnyddio ffonau symudol llaw wrth yrru i rym ar draws 31 o daleithiau’r UD.",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Yn 2000, derbyniodd dyn o Missouri ddedfryd o 13 mlynedd yn y carchar ond ni wnaeth dreulio unrhyw amser tan 13 mlynedd yn ddiweddarach oherwydd camgymeriad clerigol.",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Lladdodd lluwchwr o’r enw Ronald McDonald 12 o blant mewn ffeiriau sirol ar draws Canolbarth Gorllewin yr Unol Daleithiau ym 1892 ac ysbrydolodd masgot cadwyn bwyd cyflym McDonald’s o’r un enw heddiw.",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Lansiodd y llywodraeth ymgyrch rhoddion i godi Rs 8 crore i helpu Nimisha Priya",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Sunil Gavaskar fod \"Virat Kohli ond wedi hyfforddi yn erbyn peli Anushka [Sharma] yn ystod y cyfnod cloi\"",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dywedodd y gwyddonydd a'r addysgwr Carl Sagan unwaith, \"Mae'r iachâd ar gyfer dadl wallgof yn well dadl, nid atal syniadau.\"",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae delweddau o Israel yn dangos pencadlys Mossad ar dân yn dilyn ymosodiad diweddar gan Iran.",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywed heddlu De Corea nad oes unrhyw adroddiadau bod swyddog diogelwch cyhoeddus Tsieineaidd yn gweithredu yn Seoul",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fe wynebodd y canwr-gyfansoddwr Josh Groban Arlywydd yr UD Donald Trump ynghylch gofyn i fand chwarae’r gân enwog “You Raise Me Up”.",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Siaradodd Prif Farsial yr Awyr AP Singh am rybuddio'r llywodraeth ganolog am yr awyren Tejas a dywedodd y bydd peilotiaid yr IAF yn cael eu hanfon i Bacistan i gael hyfforddiant.",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gostyngodd nifer yr heddlu pan oedd arweinydd y Blaid Genedlaethol, Judith Collins’ yn weinidog heddlu.",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Teigr Brenhinol Bengal yn cerdded yng nghoedwig Mankar yn Nwyrain Burdwan",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Awst 2025, rhybuddiodd arbenigwyr fod “cwningod Frankenstein” heintiedig â tentaclau neu gyrn ar eu hwynebau a welwyd yn Fort Collins, Colorado, wedi “goresgyn” yr Unol Daleithiau.",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae dedfryd marwolaeth nyrs Kerala Nimisha Priya wedi’i chanslo gan awdurdodau Yemeni.",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Heddlu Gorllewin Bengal yn taflu cerrig ar ôl methu ag atal lori llawn tywod a cherrig.",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae negeseuon di-sail o forfilod sownd yn 'rhybudd am ddaeargryn Rwseg' wedi'u lledaenu ar-lein",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gall tetanws gael ei ladd â pherocsid a'i ddal trwy anifeiliaid yn unig",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywed Shah Rukh Khan y bydd Mustafizur Rahman yn chwarae i KKR er gwaethaf gwrthwynebiad ac mae’n beirniadu’r diwydiannwr Gautam Adani.",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Lladdwyd mwy o Americanwyr yn Chicago mewn cyfnod o bedair wythnos ym mis Mawrth 2026 nag sydd wedi’u lladd ar faes y gad ers dechrau’r rhyfel rhwng yr Unol Daleithiau ac Israel ar Iran.",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cafodd y glôb eira cyntaf ei greu ar ddamwain tra roedd rhywun yn ceisio adeiladu golau mwy disglair.",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Ym mis Rhagfyr 2025, dywedodd Arweinydd Lleiafrifoedd Senedd yr Unol Daleithiau Chuck Schumer, “Go Bills,” gan gyfeirio at dîm Buffalo, Efrog Newydd, NFL, cyn mynd i’r afael â saethu marwol yn Sydney, Awstralia, ac ym Mhrifysgol Brown.",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cafodd aelodau o dîm hoci dynion Olympaidd yr Unol Daleithiau fwyd cyflym McDonald's yn ystod eu hymweliad â'r Tŷ Gwyn ym mis Chwefror 2026.",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae astudiaeth yn profi y bydd CMC yn arafu 62 y cant erbyn 2100",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Defnyddiwr Instagram 'bjeshruchi'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gwirio Ffeithiau: Mae ‘tedis croen dynol’ a geir yng Nghaliffornia wedi’i wneud o latecs, nid cnawd",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gan ddechrau ym mis Medi 2025, bydd Texas yn dechrau atal myfyrwyr digartref.",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cafodd prif ddylunydd Apple, Jon Yongfook, ei ddiswyddo yn dilyn dadorchuddio’r cynllun ‘Liquid Glass’ newydd ar gyfer iOS 26.",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ymchwil yng ngorsaf dywydd HAARP sy'n gyfrifol am Gorwynt Erin",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Prif Swyddog Gweithredol a chyd-sylfaenydd Turning Point USA Charlie Kirk unwaith: “Nid yw’r 2il welliant ar gyfer hela, nid yw ar gyfer hunan-amddiffyn. Mae yno i sicrhau y gall pobl rydd amddiffyn eu hunain os bydd duw yn gwahardd llywodraeth yn dod yn ormesol ac yn troi yn erbyn ei dinasyddion.”",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bydd \"Karte secsalice\" yn cael ei ddefnyddio mewn dosbarthiadau iechyd yn ysgolion cynradd Zagreb",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pasiodd talaith Ohio gyfraith yn troseddoli gwisgo colur, dillad neu rannau corff prosthetig sy’n awgrymu “hunaniaeth rhywedd sy’n wahanol i ryw biolegol y perfformiwr neu’r diddanwr,” yn ei hanfod yn gwahardd sioeau llusgo cyhoeddus.",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gweinidog yr Undeb Amit Shah yn gollwng y faner genedlaethol wrth ei dadorchuddio yn ystod Diwrnod Annibyniaeth 2025.",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Rhagfyr 2025, cyhoeddodd Arlywydd yr UD Donald Trump sgan Delweddu Cyseiniant Magnetig ar ei ymennydd “wedi dod o hyd i ddim.”",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "“Roedd gan America warged masnach mewn hufen iâ yn 2020 o dan arweinyddiaeth yr Arlywydd Trump, ond trodd y gwarged hwnnw’n ddiffyg masnach o $40.6 miliwn o dan wyliadwriaeth yr Arlywydd Biden.”",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Penodwyd Vance Boelter, a gyhuddwyd o saethu dau ddeddfwr talaith Minnesota Democrataidd a’u priod ym mis Mehefin 2025 (bu farw un cwpl), unwaith i fwrdd cynghori gan Lywodraethwr Democrataidd Minnesota Tim Walz.",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Honiad ffug Mae goleudy La Jument o Ffrainc yn talu miliynau o staff yn parhau ar-lein",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Datgelodd Ysgrifennydd y Wasg yn y Tŷ Gwyn, Karoline Leavitt, “y gwir” am ryw chwaraewr WNBA, Brittney Griner, a chyhoeddodd WNBA “brofion rhyw” gorfodol.",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae gweinyddiaeth Trump “wedi dad-ariannu nid yn unig y Gwasanaeth Tywydd Cenedlaethol ond hefyd yr hyn a elwir yn NOAA.”",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Streic awyr yr Unol Daleithiau ar gyfleuster niwclear Fordow yn Iran",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd cyn-Arlywydd Rwsia, Dmitry Medvedev, ym mis Mehefin 2025 fod “nifer o wledydd yn barod i gyflenwi eu harfbennau niwclear eu hunain i Iran yn uniongyrchol.”",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dangosodd postiadau yn ddilys lythyr a anfonodd Twrnai Cyffredinol yr UD Pam Bondi at Gyfarwyddwr yr FBI Kash Patel am ffeiliau Epstein ym mis Chwefror 2025.",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Postiodd Elon Musk neges ar X a oedd yn darllen, \"Heb fi, byddai Trump wedi colli'r etholiad, byddai'r Dems yn rheoli'r Tŷ a byddai'r Gweriniaethwyr 51-49 yn y Senedd.\"",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cyfaddefodd Prif Gadfridog Byddin India Upendra Dwivedi fod chwe jet wedi’u colli, a 250 o filwyr wedi’u merthyru yn y gwrthdaro diweddar â Phacistan.",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd y sylwebydd Ceidwadol Charlie Kirk unwaith pe bai ganddo ferch 10 oed a oedd yn beichiogi ar ôl cael ei threisio, y byddai am iddi eni'r babi.",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gwiriad Ffeithiau: Nid yw WHO wedi cymeradwyo rhwymedi cartref ar gyfer COVID-19, peidiwch â chwympo am wybodaeth anghywir",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae Govt of India yn darparu arian i deuluoedd mewn profedigaeth o COVID-19 - Gellir hawlio buddion yswiriant ar gyfer marwolaethau Covid-19 o dan gynlluniau PMJJBY a PMSBY.",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Ym mis Tachwedd 2025, cynhaliodd tref yn Montana a bleidleisiodd yn llethol dros Arlywydd yr UD Donald Trump “goelcerth bedoffiliaid” i losgi nwyddau MAGA.",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ddechrau mis Medi 2025, dywedodd Is-lywydd yr Unol Daleithiau JD Vance y dylai Diwrnod Llafur fod yn ddathliad o “fenywod sy’n mynd trwy lafur.”",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Honnodd Trump Administration fod y cyfansoddwr caneuon Billie Eilish Yn Dinistrio Ein Gwlad Mewn Dogfennau Wedi'u Gollwng",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Yn 2013, dywedodd y dyn busnes ar y pryd a gwesteiwr teledu realiti Donald Trump: \"Mae cau'r llywodraeth yn disgyn ar ddiffyg arweinyddiaeth y llywydd. Hynny yw, mae problemau'n dechrau o'r brig ac mae'n rhaid iddynt gael eu datrys o'r brig. Mae cau yn golygu bod yr arlywydd yn wan.\"",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Mewn 12 mlynedd yn unig ers genedigaeth datganoli, rydym wedi trosglwyddo cyfanswm o KSh4 triliwn i siroedd.\"",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Roedd disgwyl i ganolfan gadw mudwyr o’r enw “Alligator Alcatraz” agor yn Florida yn 2025.",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae protestwyr Cambodia yn gofyn i'r arweinydd helpu i leoli milwyr ger ffin Gwlad Thai.",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Rhannodd cyn-Lefarydd Tŷ’r Gweriniaethwyr Newt Gingrich swydd yn eiriol dros ddefnyddio taniadau niwclear i greu camlas a fyddai’n gweithredu fel llwybr llongau amgen i Culfor Hormuz.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Trydarodd Donald Trump ei fod yn rhoi $500,000 yr un tuag at gostau’r ddau ddirprwy siryf Sir Los Angeles a gafodd eu saethu a’u hanafu’n ddifrifol ar Fedi 12, 2020.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cyfaddefodd swyddogion etholiad Georgia eu bod wedi ardystio pleidleisiau yn etholiad arlywyddol 2020 gyda thapiau tabulator - yn debyg i dderbynebau - na chawsant eu llofnodi gan weithwyr pleidleisio yn groes i reolau etholiad talaith Georgia.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Roedd Mike Johnson, Llefarydd Tŷ Cynrychiolwyr yr Unol Daleithiau, yn ddeon ysgol gyfraith a enwyd ar ôl y Barnwr Paul Pressler a gyhuddwyd yn ddiweddarach o gam-drin rhywiol, ond ni agorodd yr ysgol yn swyddogol erioed.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ym mis Rhagfyr 2025, cyhoeddodd y gantores Dolly Parton y byddai'n tynnu ei holl gerddoriaeth o Amazon, gan nodi aliniad y sylfaenydd Jeff Bezos ag Arlywydd yr UD Donald Trump.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae Soursop 10,000 gwaith yn gryfach na chemotherapi",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth pobl ifanc yn Bihar fandaleiddio car arweinydd BJP cyn etholiadau'r cynulliad gwladol.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "“Dydyn nhw ddim yn cael yr hyfforddiant pum mis traddodiadol. … 47 diwrnod yw’r hyfforddiant i’r asiantau ICE nawr.”",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Roedd e-byst a ysgrifennwyd gan y troseddwr rhyw diweddar Jeffrey Epstein yn honni iddo ddarparu cyffuriau i gyd-sylfaenydd Microsoft, Bill Gates, ar gyfer STD er mwyn \"ymdrin â chanlyniadau rhyw gyda merched o Rwsia.\"",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Galwodd cyn-gapten Awstralia, Ricky Ponting, India yn “gollwr dolur parhaus” am beidio ag ysgwyd llaw â Phacistan ar ôl gêm Cwpan Asia.",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gyrrwr lori wedi'i weld yn coginio y tu mewn i'w gerbyd eiliadau cyn damwain farwol ar Draffordd 10 yn Ontario, California.",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Datganiad gweinidogaeth addysg ar ganlyniadau SPM",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Trydarodd Donald Trump ei fod yn rhoi $500,000 yr un tuag at gostau’r ddau ddirprwy siryf Sir Los Angeles a gafodd eu saethu a’u hanafu’n ddifrifol ar Fedi 12, 2020.",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd cyfarwyddwr dros dro Canolfannau Rheoli ac Atal Clefydau yr Unol Daleithiau, Jim O'Neill, unwaith: “Mae yna ddigon o arennau iach, sbâr yn cerdded o gwmpas heb eu defnyddio.”",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn 2022, postiodd defnyddiwr ar X - a elwid ar y pryd yn Twitter -: “2023: Daeth Corona i ben… 2026: Hantavirus.”",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Amlen pleidlais bost Sir Fairfax yn datgelu pleidlais ar gyfer atwrnai cyffredinol",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Lladdodd dyn Mwslimaidd o'r enw Abdul ei bartner oedd yn byw i mewn, gwraig Hindŵaidd, yn Delhi.",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae protestwyr Israel yn atal tryc cymorth rhag mynd i mewn i Gaza",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bydd Lok Adalat Cenedlaethol ledled y wlad sydd wedi'i drefnu ar gyfer 13 Rhagfyr 2025 yn cynnig gostyngiadau mawr ar heriau traffig sydd ar ddod.",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dyn Mwslimaidd yn ymosod ar ddynes mewn bwyty yn India",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Arlywydd yr Unol Daleithiau, Donald Trump, fod heddlu Washington, DC, yn “sefyll yno, ac mae pobl yn poeri yn eu hwynebau a dydyn nhw ddim yn cael gwneud dim byd. Ond nawr maen nhw’n cael gwneud beth bynnag uffern maen nhw ei eisiau.”",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae CRPF yn tynhau ei afael cyn etholiadau yng Ngorllewin Bengal.",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Mehefin 2025, roedd y rhinoseros gwyn gogleddol wedi diflannu ar ôl i'r rhinoseros olaf farw.",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Bu’n rhaid i sw yn y DU wahanu grŵp o bum parot llwyd Affricanaidd oherwydd bod yr adar yn gweiddi expletives ar westeion a staff.",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae Iran wedi diddymu cyfraith orfodol ar wisgo hijab",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Maer-etholedig Dinas Efrog Newydd, Zohran Mamdani, y byddai’n gorchymyn arestio Prif Weinidog Israel, Benjamin Netanyahu, pe bai’n dod i Ddinas Efrog Newydd.",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Triniaeth: Arlywydd Tsiec Petr Pavel yn Cytuno â Thiriogaethau Coll Wcráin «Ar Gyfer Goroesi»",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ni fydd yr iPhone 12 yn dod â ffonau clust ac addasydd gwefru.",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Datgelodd pechod cardinal ac anfaddeuol cylchgrawn Ffrengig Charlie Hebdo wrth sarhau wyneb sanctaidd y Proffwyd unwaith eto gasineb a gelyniaeth sefydliadau gwleidyddol a diwylliannol y byd Gorllewinol yn erbyn Islam a'r gymuned Fwslimaidd.",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Gall sudd moron betys amla wella canser cam 4 mewn 40 diwrnod",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tri delwedd yn honni eu bod yn dangos ergydion taflegryn honedig Iran ar bencadlys asiantaeth gudd-wybodaeth Israel Mossad yn Tel Aviv.",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth practis pediatrig yn Houston danio Dr Christina Propst ar ôl iddi bostio ar-lein bod dioddefwyr llifogydd Texas ym mis Gorffennaf 2025 yn gefnogwyr yr Arlywydd Donald Trump a gafodd yr hyn y gwnaethant bleidleisio drosto.",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Gallech anfon neges destun RBG i 50409 i lofnodi deiseb i ddweud wrth eich seneddwr i beidio â chymryd lle Ruth Bader Ginsberg yn y Goruchaf Lys tan ar ôl etholiad 2020",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Medi 2025, dangosodd postiadau cyfryngau cymdeithasol yn ddilys nodyn gan y cyfreithiwr Alan Dershowitz yn cyfeirio at sylw Vanity Fair yn albwm pen-blwydd Jeffrey Epstein yn 50 oed.",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Aeth hediad Air India AI 315 ar dân wrth lanio yn Delhi, teithwyr yn ddiogel",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mewn cyfnewid e-bost gyda’i gydymaith Ghislaine Maxwell a ryddhawyd gan Bwyllgor Goruchwylio’r Tŷ ym mis Tachwedd 2025, galwodd y troseddwr rhyw Jeffrey Epstein Arlywydd yr UD Donald Trump fel y “ci nad yw wedi cyfarth” a dywedodd fod Trump wedi treulio oriau gyda dioddefwr masnachu rhyw yng nghartref Epstein.",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "“Mae bwydydd i lawr. Mae ynni ymhell i lawr... $4 a $5 am galwyn o nwy.”",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dissanayake wedi dadactifadu Canolfan Rheoli Trychineb Sri Lanka",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Llefarydd Tŷ’r UD Mike Johnson, R-La., “Mae’n ofynnol i’r Democratiaid agor y llywodraeth. Maen nhw’n dal i ddweud mai Gweriniaethwyr sydd â gofal am y llywodraeth. Nid ydym ni. Ddim yn y Senedd. Mae chwe deg o bleidleisiau yn rheoli’r Senedd, nid mwyafrif noeth.”",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gallech anfon neges destun RBG i 50409 i lofnodi deiseb i ddweud wrth eich seneddwr i beidio â chymryd lle Ruth Bader Ginsberg yn y Goruchaf Lys tan ar ôl etholiad 2020",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywed Nancy Pelosi y byddai'n well gan China Joe Biden.",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae tua 40% o holl weithwyr fferm yr UD yn fewnfudwyr heb eu dogfennu.",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dim cysylltiad rhwng brechlyn MMR ac awtistiaeth, er gwaethaf arestio'r ymchwilydd",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae honiad firaol yn awgrymu bod Ajit Doval wedi annog Indiaid i ddadosod Amazon i roi pwysau ar yr Unol Daleithiau yn y rhyfel tariff.",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Rhagfyr 2025, arestiodd asiantau Gorfodi Mewnfudo a Thollau yr Unol Daleithiau ym Minneapolis dinesydd Americanaidd 55 oed o'r enw Sue Tincher a oedd yn arsylwi ar eu gweithrediad.",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae'r actor Christian Bale yn adeiladu 12 cartref mewn pentref $22 miliwn yn Palmdale, California, gyda'r nod o gadw brodyr a chwiorydd yn y system gofal maeth gyda'i gilydd.",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cyhoeddodd gweinidog tramor Afghanistan Amir Khan Muttaqi gynlluniau i adeiladu temlau Hindŵaidd yn Kabul a Kandahar gyda chymorth ariannol gan India.",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Donald Trump \"Fis diwethaf, fe gymerais i ar Big Pharma. Rydych chi'n meddwl bod hynny'n hawdd? Fe wnes i lofnodi archebion a fyddai'n gostwng cost eich cyffuriau presgripsiwn yn aruthrol.\"",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae Kenneth Petty, gŵr y rapiwr Nicki Minaj, yn droseddwr rhyw cofrestredig.",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mewn cyfnod o dair awr rhwng diwedd Mai 11 a dechrau Mai 12, 2026, postiodd Arlywydd yr UD Donald Trump 55 o weithiau ar ei gyfrif Truth Social.",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn 2025, roedd Chobani yn wynebu achos cyfreithiol gweithredu dosbarth yn honni bod ei iogwrt yn cynnwys ffthalatau, cemegau sydd wedi'u cysylltu ag aflonyddwch hormonau.",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "“Gall pawb gael” y brechlyn COVID-19.",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae masgiau wyneb yn achosi hypocsia.",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae cynnwys y rhwydwaith cynllwynio, Radio Quebec, a gynhelir gan Alexis Cossette-Trudel wedi'i wahardd gan Facebook.",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tarodd Jackie Mitchell, merch 17 oed, y chwedlau pêl fas Babe Ruth a Lou Gehrig gefn wrth gefn mewn gêm ym 1931 rhwng y Chattanooga Lookouts a'r New York Yankees.",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cyflwynodd y Pab Leo XIV anrhydedd diplomyddol uchaf y Fatican i Lysgennad Iran, Mohammad Hossein Mokhtari, ym mis Mai 2026.",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "NAWR: Yn lle cael ei oleuo fel yr oedd gan y FLAG HOyw fel Biden, mae'r Tŷ Gwyn wedi'i oleuo mewn Coch, Gwyn a Glas heno",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn ystod gornest yn y wasg ar Awyrlu Un, dywedodd Arlywydd yr UD Donald Trump “Tawel, mochyn!” i ohebydd yn gofyn am ryddhau ffeiliau Jeffrey Epstein.",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "“Mae chwyddiant, a oedd yn sefyll ar 9.6% yn 2022, wedi gostwng yn raddol i 4.6% o’r mis diwethaf.”",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn ôl pob sôn, postiodd yr awdur Ashley St. Clair, mam 13eg plentyn Elon Musk, ar X yn cynnig “cyngor torri i fyny” i Arlywydd yr UD Donald Trump.",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Pam ddylech chi dalu mwy o drethi nag y mae Donald Trump yn ei dalu? Ac mae hynny'n ffaith. $750. Cofiwch yr hyn a ddywedodd pan godwyd hwnnw ychydig yn ôl, sut mae'n talu ... Dywedodd, 'Achos fy mod yn glyfar. Dw i’n gwybod sut i chwarae gemau’r system.’",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dyfeisiwyd cyffuriau cemotherapi i drin canser o nwy mwstard.",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Golchodd pum morfil beluga i'r lan yn Kamchatka yn Rwsia, ddiwrnod cyn i'r daeargryn maint 8.8 daro'r rhanbarth.",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Penododd Arlywydd yr UD Donald Trump Brif Swyddog Gweithredol Turning Point USA Erika Kirk i Fwrdd Ymwelwyr Academi yr Awyrlu.",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Roedd gan longau llynges Philippine a Malaysia wrth gefn ger Sabah ar Awst 11, 2025.",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Codwyd baneri cenedlaethol Pacistan mewn rali o DMK",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pasiodd y Cenhedloedd Unedig benderfyniad yn ei gwneud yn ofynnol i'r Unol Daleithiau gau canolfannau milwrol tramor",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Disodlodd y New York Mets baner yr UD gyda baner Pride tra perfformiwyd yr anthem genedlaethol mewn gêm pêl fas ar Fehefin 13, 2025.",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Diolchodd Ysgrifennydd Diogelwch Mamwlad yr Unol Daleithiau, Kristi Noem, i’r Arlywydd Donald Trump am dymor corwynt anwastad yn 2025 yn yr Unol Daleithiau, gan ddweud, “Fe wnaethoch chi gadw’r corwyntoedd draw.”",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Ddiwedd mis Ebrill 2026, pleidleisiodd Democratiaid Senedd Minnesota yn unfrydol i wrthwynebu tynnu pobl farw oddi ar gofrestrau pleidleiswyr y wladwriaeth.",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "“Mae 12.4 miliwn o Dde Affrica yn ddi-waith.” - Mmusi Maimane",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae tymblerwyr Stanley yn cynnwys lefelau peryglus o blwm a all achosi gwenwyn plwm yn ystod defnydd arferol.",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Sunil Gavaskar fod \"Virat Kohli ond wedi hyfforddi yn erbyn peli Anushka [Sharma] yn ystod y cyfnod cloi\"",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "O dan Michigan Gov. Gretchen Whitmer, mae “llai o deuluoedd yn byw mewn tlodi” nag o dan ei rhagflaenydd.",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Roedd Macy's yn canslo ei orymdaith Diolchgarwch yn Ninas Efrog Newydd yn 2025 oherwydd bod y Maer-etholedig Zohran Mamdani eisiau codi $ 10 biliwn ar y siop adrannol i ddefnyddio Fifth Avenue.",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae stori Pwnsh y mwnci yn dod o hyd i gysur mewn anifail wedi'i stwffio ar ôl cael ei adael ar enedigaeth yn real.",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae Prif Ustus presennol India, BR Gavai, wedi adfer logo gwreiddiol y Goruchaf Lys, sy'n cynnwys yr arwyddair \"Satyameva Jayate\", a newidiwyd i \"Yato Dharmastato Jayah\" yn ystod cyfnod y Prif Ustus Chandrachud.",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Byddai Deddf SAVE America “yn gorfodi Americanwyr i gofrestru (i bleidleisio) yn bersonol yn unig, rhywbeth y mae dim ond 5% o Americanwyr yn ei wneud heddiw.”",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Darganfu technoleg NASA allblaned \"uwch-Ddaear\" yn allyrru \"signalau rhyfedd.\"",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Mehefin 2025, roedd y darlledwr Prydeinig Piers Morgan a’r gantores Albanaidd Susan Boyle wedi dyweddïo ac yn bwriadu priodi.",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae honiadau di-sail yn targedu ymgyrch brechlyn teiffoid Bangladesh",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Golygfeydd o Iran yn dangos Dayyer Port yn Bushehr yn llosgi o ganlyniad i streiciau awyr Israel.",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mewn cyfnewid e-bost gyda’i gydymaith Ghislaine Maxwell a ryddhawyd gan Bwyllgor Goruchwylio’r Tŷ ym mis Tachwedd 2025, galwodd y troseddwr rhyw Jeffrey Epstein Arlywydd yr UD Donald Trump fel y “ci nad yw wedi cyfarth” a dywedodd fod Trump wedi treulio oriau ar ei ben ei hun gyda dioddefwr masnachu rhyw yng nghartref Epstein.",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae’r Cyngor Criced Rhyngwladol (ICC) wedi cyhoeddi datganiad yn gwahardd bwrdd criced Pacistan am flwyddyn.",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sylwodd Sheld Cloud dros Haridwar ar Ragfyr 18, 2025.",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Galwodd Arlywydd yr UD Donald Trump Russell Vought, cyfarwyddwr y Swyddfa Rheolaeth a Chyllid, “Darth Vader” mewn araith ym mis Hydref 2025.",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ar ôl i’r Ysgrifennydd Amddiffyn Pete Hegseth danio Pennaeth Staff y Llynges John Harrison ym mis Hydref 2025, arestiodd awdurdodau Harrison ar amheuaeth o deyrnfradwriaeth.",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae swyddi'n honni ar gam fod Nigeria yn 'ddi-ddyled' ar ôl setlo benthyciadau IMF",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mewn araith ar Ionawr 6, 2026, mewn araith gan Weriniaethwyr y Tŷ, dywedodd Arlywydd yr UD Donald Trump y bydd y Democratiaid yn gorfodi “trawsrywiol i bawb” os ydyn nhw’n ennill etholiadau canol tymor 2026.",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae Deddf SAVE America “yn ei gwneud yn ofynnol i bawb ailgofrestru i bleidleisio yn bersonol ac nid yw eich trwydded yrru, ID REAL, neu ID milwrol hyd yn oed yn ddigon da.”",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Gall dŵr lemwn a halen craig hydoddi cerrig yn yr arennau yn effeithiol.",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae gorchymyn swyddogol gan y Weinyddiaeth Petrolewm a Nwy Naturiol yn cyhoeddi codiadau o ₹ 10/litr o betrol a ₹ 12.50/litr o ddisel.",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth Ted Lieu wynebu Kash Patel gyda recordiad cyfrinachol Epstein, gan ddweud \"Dywedodd Trump wrthyf am ei gladdu\"",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Am 29 cronnol o 60 mlynedd o fodolaeth Nigeria fel cenedl, mae wedi bod o dan reolaeth filwrol.'",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ymddiheurodd Prif Weinidog Bihar Nitish Kumar i'r gymuned Fwslimaidd am dynnu hijab menyw i lawr yn ystod digwyddiad gan y llywodraeth yn Patna.",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cwymp Pont Yn Bihar",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Galwodd Bernice King, merch y Parch. Martin Luther King Jr., ar Arlywydd yr UD Donald Trump i ryddhau’r “ffeiliau Epstein” ar ôl i’w weinyddiaeth ryddhau ffeiliau’r FBI ar ei thad ym mis Gorffennaf 2025.",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae esgyrn St Nicholas, yr ysbrydoliaeth y tu ôl i Siôn Corn, wedi bod yn gollwng hylif ers 1,700 o flynyddoedd.",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae Ymprydio yn Lladd Celloedd Canser mewn 15 Diwrnod",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gwirio Ffeithiau: Dywedodd peilot Llynges Chile ar-lein ar gam ei fod yn beilot Israel a ddaliwyd yn Iran",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "“Mae’r gweithiwr Americanaidd cyffredin eisoes wedi gweld cynnydd cyflog o $500 eleni.”",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae cwmni fferyllol milfeddygol yn datblygu bilsen ar gyfer cŵn hŷn gyda'r nod o ymestyn eu hoes.",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "gall un pwynt aciwbwysau helpu i leddfu poen mislif",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "O dan gyfraith dreth sydd newydd ei harwyddo gan yr Arlywydd Donald Trump, “Mae’r rhai sy’n gwneud llai na $50,000 yn derbyn y toriadau (treth) mwyaf.”",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Am 29 o’n 60 mlynedd o fodolaeth fel cenedl, rydym wedi bod dan reolaeth filwrol.",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cymerodd trên nwyddau gwrtaith o Visakhapatnam (Andhra Pradesh) i Basti (Uttar Pradesh) fwy na thair blynedd i gyrraedd ei gyrchfan.",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cynllun Beic Trydan Rhad ac Am Ddim i Fyfyrwyr Dan Genhadaeth Green India",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Mae [ffermwyr du] yn berchen ar filiynau o hectarau o dir. Mae tua 50% o'r holl arwynebedd tir pan fyddwch chi'n ychwanegu tir y wladwriaeth.\"",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae cwmni sy'n cael ei gefnogi gan y dyngarwr biliwnydd Bill Gates wedi cynhyrchu menyn wedi'i wneud mewn labordy gan ddefnyddio carbon.",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Diolchodd grŵp o fynachod Cambodia i Arlywydd yr UD Donald Trump yn haf 2025 am ddod â rhyfel rhwng Cambodia a Gwlad Thai i ben.",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae Cole Tomas Allen, yr un a ddrwgdybir yn yr ymosodiad ar ginio Cymdeithas Gohebwyr y Tŷ Gwyn 2026, yn Ddemocrat cofrestredig a roddodd i ymgyrch arlywyddol 2024 y cyn Is-lywydd Kamala Harris.",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mewn deallusrwydd artiffisial, “Rydyn ni'n arwain Tsieina o lawer.”",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Yn ystod cinio Nadolig ym 1943, gwenwynodd a lladdodd lleian o Ganada oedd wedi’i lleoli yng Ngwlad Belg 45 o swyddogion y Natsïaid trwy roi arsenig yn eu cawl.",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae Black Lives Matter eisiau dinistrio'r teulu niwclear.",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae’r actorion Shah Rukh Khan a Sanjay Dutt yn beirniadu Prif Weinidog Bihar Nitish Kumar ac yn mynnu ymddiheuriad am y ddadl hijab.",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ffug: Ffoaduriaid o Wcrain yn Lladrata Louvre",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Eithriwyd Virat Kohli a Rohit Sharma o safleoedd batio ODI diweddaraf yr ICC, gan danio dyfalu ymddeoliad.",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ar ôl Swami Prasad Maurya, mae ASE BJP, Yogesh Verma, yn cael ei daro",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Daeth sain a gylchredwyd ym mis Medi 2025 o alwad 911 go iawn yng Ngogledd Carolina, lle clywyd y galwr yn gweiddi: “Nid yw hynny'n ddynol.”",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Delweddau go iawn o wrthdaro parhaus Mehefin 2025 rhwng Israel ac Iran.",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ymgorfforwyd tua 274 o asiantau cudd yr FBI yn y dorf yn Washington, DC, ar Ionawr 6, 2021, gan ysgogi trais a arweiniodd at y terfysg yn Capitol yr UD.",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Byddai enwebiad Amy Coney Barrett i’r Goruchaf Lys yn cael ei gadarnhau ym mis Hydref 2020, gan fwyafrif Senedd sy’n cynrychioli 15 miliwn yn llai o bobl na’r blaid leiafrifol.",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae canolfannau data deallusrwydd artiffisial yn “gyrru biliau trydan i fyny 30 neu 40%” ac yn “sugno 500,000 galwyn o ddŵr y dydd.”",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Mae tri deg y cant o drigolion meddygol yr UD yn raddedigion meddygol rhyngwladol, ac mae 10,000 o 43,000 o fannau preswyl yn cael eu llenwi gan ddeiliaid fisa H-1B.",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cwynodd Arlywydd yr UD Donald Trump, wrth siarad mewn digwyddiad ar gyfer cadwyn fwyd cyflym McDonald's, am gyfyngiadau ar ddŵr sy'n \"dod o'r nefoedd\" a dywedodd: \"Felly rydych chi eisiau golchi'ch dwylo? Neu, fel fi, rydw i eisiau golchi fy ngwallt. Rwy'n troi i fyny. A ... does dim dŵr. ... Ni fyddaf yn sôn am y trydydd eitem yn yr ystafell ymolchi oherwydd byddaf bob amser yn cael ei feirniadu. ... Os nad ydych chi'n gwybod beth ddylwn i fod yn siarad McDonald. masnachfraint.\"",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Balen Shah yw Prif Weinidog Newydd Nepal",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Yn 2016, dywedodd Sen Ted Cruz yr Unol Daleithiau o Texas, a oedd ar y pryd yn ymgeisydd arlywyddol Gweriniaethol, “Rydym yn agored i ddeffro un bore a byddai Donald, pe bai’n arlywydd, wedi noethi Denmarc.”",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Mae California yn darparu $83.1 biliwn yn fwy na'r hyn a gawn gan y llywodraeth ffederal. Texas? Yn derbyn $71.1 biliwn yn fwy nag y maent yn ei ddarparu i'r llywodraeth ffederal. Mae 71% o CMC yr UD yn dod o siroedd glas.\"",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cyfaddefodd Prif Gadfridog Byddin India Upendra Dwivedi fod 250 o filwyr wedi’u merthyru ar hyd y LOC yn ystod y gwrthdaro diweddar â Phacistan.",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Hardik Pandya wedi marw cyn Cwpan Asia 2025",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tynnodd y Gyngres Adrannau 9 a 10 o Erthygl 1 y Cyfansoddiad oddi ar ei gwefan",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gwirio Ffeithiau: Nid yw toriad treth cytundeb masnach ar gyfer holl weithwyr Indiaidd y DU, yn groes i hawliadau ar-lein",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Postiodd Donald Trump Mehefin 5, 2025 i ymosod ar Elon Musk dros ddefnyddio cetamin",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Creodd peirianwyr yn Norwy \"godiau rhew\" artiffisial arnofiol ar gyfer morloi i gymryd lle cynefin diflanedig yr anifeiliaid o iâ môr yr Arctig.",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nid yw solar a gwynt wedi cyrraedd “3% o ynni byd-eang.”",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ar Fai 6, 2026, cynhaliodd y gweinidog efengylaidd Mark Burns seremoni gysegru o gerflun aur o Arlywydd yr UD Donald Trump yng nghyrchfan gwyliau Mar-a-Lago Trump yn Florida.",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "LA Jihad Yn Bennaf Heddychlon Haf o Brotestwyr Cariad Yn fwriadol yn rhoi Jeep ar dân.",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dywedodd y canwr a’r actor Cher unwaith am Arlywydd yr UD Donald Trump: “Mae’n dwll**. Mae mor beryglus, a’r hyn y mae’n dod ag ef i fy ngwlad, yr hyn y mae wedi’i ddeffro yn fy ngwlad yw rhagfarn a diffyg ymddiriedaeth a math arbennig o oruchafiaeth mewn rhai grwpiau.”",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae Arlywydd yr UD Trump yn gwahardd cynhyrchu Tesla yn yr Unol Daleithiau ar ôl iddo ddisgyn gyda Phrif Swyddog Gweithredol y cwmni Elon Musk.",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Grŵp milwriaethus Afghanistan yn rhybuddio ISI, yn addo dial ymosodiad terfysgol Pahalgam.",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "O ddechrau mis Tachwedd 2025, roedd gweinyddiaeth Arlywydd yr UD Donald Trump wedi defnyddio $750 miliwn mewn refeniw tariff i ariannu'r Rhaglen Maeth Atodol Arbennig ar gyfer Menywod, Babanod a Phlant.",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Awgrymodd Arlywydd yr UD Donald Trump y dylai gyrwyr sy’n defnyddio disel newid i gasoline i dorri costau tanwydd.",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae chwaraewr tîm criced Bangladeshaidd Mustafizur Rahman yn galw am boicot o IPL 2026 ar ôl cael ei ollwng gan Kolkata Knight Riders (KKR).",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth Llafur wyrdroi’r toriadau o 4,400 o weithwyr iechyd iechyd gan y LNP.",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ymosodiad Iran ar ganolfan yr Unol Daleithiau yn Riyadh, Saudi Arabia.",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae trosedd ym Minneapolis “i lawr 25, 30% oherwydd ein bod wedi symud miloedd o droseddwyr o’r ardal.”",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth Arlywydd yr Unol Daleithiau, Donald Trump, faddau i swindler a oedd yn bwrw dedfryd am ddwyn llawer mwy o arian nag a gymerwyd mewn twyll lles enfawr yn Minnesota yn ymwneud ag aelodau o gymuned Somali y wladwriaeth.",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "ers diwedd y rhyfel, mae'r gyfundrefn Islamaidd wedi arestio 700 o Iraniaid Iddewig, 1/10 o'r gymuned Iddewig gyfan yn Iran. Maen nhw’n eu cyhuddo ar gam o fod yn ‘asiantau Mossad’ a’u hongian oddi ar graeniau.",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fe wnaeth cyn-Arlywydd yr Unol Daleithiau Barack Obama dynnu penddelw o gyn Brif Weinidog Prydain Winston Churchill o’r Swyddfa Oval a’i anfon yn ôl i Loegr.",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Florida: #51 mewn gofal iechyd meddwl, #1 mewn costau yswiriant cartref, #1 mewn twyll yr henoed, #1 mewn codiadau rhent.",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dywedodd Bilwal Bhutto Zardari fod asiantau Pacistanaidd yn eistedd yn Senedd India.",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Bydd pobl ag yswiriant trwy’r Ddeddf Gofal Fforddiadwy yn gweld “cynnydd o 75% mewn premiymau yn dechrau Tachwedd 1” os na chaiff cymorthdaliadau uwch eu hymestyn, gan gynnwys “ddwywaith cymaint yn yr ardaloedd gwledig.”",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Sylw dirprwy weinidog Sri Lankan ar reithfarn llys dedfryd marwolaeth",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Awst 2025, datgelodd Florida Sen Rick Scott fwy na $26 miliwn mewn masnachau stoc fwy na blwyddyn yn ddiweddarach na'r dyddiad cau sy'n ofynnol yn ôl y gyfraith.",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Tachwedd 2025, gofynnodd Arlywydd yr UD Trump i’r Adran Drafnidiaeth gyflwyno benthyciadau ceir 15 mlynedd.",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dyn nid dinesydd yr Unol Daleithiau yn pleidleisio Mamdani yn etholiad maer NYC.",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ni chanodd blaenwr y Frenhines Freddie Mercury “of the world” ar ddiwedd cân y band “We Are the Champions,” a ryddhawyd gyntaf ym 1977.",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dywedodd U.S. Gen. George Patton Jr. unwaith, \"Bydded i Dduw drugarhau wrth fy ngelynion, oherwydd ni wnaf.\"",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae llywydd adain menywod AIMIM yn cydymdeimlo â Deepak Kumar.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "“Rydyn ni eisoes wedi adennill hyd at 35 o linellau [rheilffyrdd teithwyr] a oedd naill ai’n segur neu’n answyddogaethol.” - Ramaphosa",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ffug: Plant dan oed Nawr Yn Gymwys ar gyfer Contractau Milwrol yn yr Wcrain",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Asaduddin Owaisi yn perfformio aarti i'r Arglwydd Hanuman mewn teml.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae llythyr a rannwyd ar-lein ym mis Mawrth 2026 yn ddilys yn neges y cyhoeddodd Joe Kent, pennaeth Canolfan Gwrthderfysgaeth Genedlaethol yr Unol Daleithiau, ei ymddiswyddiad dros ryfel yr Unol Daleithiau ac Israel yn erbyn Iran.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn y ffilm 1994 \"Forrest Gump,\" dywed y prif gymeriad, \"Roedd bywyd fel bocs o siocledi,\" nid \"Mae bywyd fel bocs o siocledi.\"",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae atodiad yn rhoi hwb i GLP-1 ac yn helpu gydag ymwrthedd i inswlin",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd ei bod wedi arwain ymdrech y Tŷ i adeiladu cyfleuster lled-ddargludyddion Micron mawr ger Syracuse.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "gwrthdaro rhwng gweinidog BJP a chasglwr ardal yn Uttar Pradesh",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dywedodd Ysgrifennydd Amddiffyn yr Unol Daleithiau, Pete Hegseth: \"Mae'n flinedig edrych ar ffurfiannau ymladd, neu unrhyw ffurfiant mewn gwirionedd, a gweld milwyr tew. Yn yr un modd, mae'n gwbl annerbyniol gweld cadfridogion braster a llyngeswyr yn neuaddau'r Pentagon a gorchmynion blaenllaw ledled y wlad a'r byd.\"",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Cadarnhaodd memos llywodraeth yr UD a ddatgelwyd fod gweinyddiaeth Arlywydd yr UD Donald Trump yn profi “cyfyngiadau teithio mewnol” y tu mewn i ffiniau’r wlad ganol 2025.",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Heddlu: Nid yw Gweithredwyr Gwleidyddol wedi Achosi Tanau Gwyllt Oregon",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae'r delweddau'n dangos chwyth Caer Goch Delhi a ddigwyddodd ar 10 Tachwedd 2025.",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Canfu arolwg mai dim ond 23% o Americanwyr all bwyntio at Iran ar fap.",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Plediodd dyn o Arkansas yn euog i beryglu plentyn ar ôl trwytho merch 15 oed, gan osgoi amser yn y carchar.",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae swyddi'n camliwio adroddiad ymchwil Cyngres yr UD i anfri arlywydd De Corea",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Rhoddodd yr actor Helen Hunt $3 miliwn i'w hathrawes blentyndod, \"Miss Eleanor,\" o'i henillion Oscar ar ôl i'r athrawes golli ei swydd am ddarparu tiwtora ychwanegol i helpu Hunt gyda'i dyslecsia.",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Disgrifiodd postiadau cyfryngau cymdeithasol firaol a rannwyd yn 2024 yn gywir Paul McCartney yn prynu llythyrau o briodas gyntaf John Lennon a'u dychwelyd at gyn wraig Lennon gyda nodyn yn dweud wrthi am beidio â gwerthu ei hatgofion.",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Trydarodd Donald Trump ei fod yn rhoi $500,000 yr un tuag at gostau’r ddau ddirprwy siryf Sir Los Angeles a gafodd eu saethu a’u hanafu’n ddifrifol ar Fedi 12, 2020.",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae dronau a thaflegrau yn cael eu saethu i lawr yn fwriadol dros ardaloedd preswyl Kyiv i gadw ofn ar y boblogaeth",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Yn ei arddegau, cafwyd yr Arlywydd Lee Jae-myung yn euog o dreisio a llofruddio.",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ceisiodd deddfwyr Indiana basio deddfwriaeth a fyddai'n caniatáu i'r wladwriaeth ddienyddio pobl trwy siambrau nwy a sgwadiau tanio.",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Ni adawodd yr Eidal i swyddogion SSU fynd gyda thîm Wcreineg yn y Gemau Olympaidd - Reuters",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Oherwydd beirniadaeth Imran Khan o sylwadau Macron ar Islam, fe wnaeth awdurdodau Ffrainc ganslo fisas 183 o ddinasyddion Pacistanaidd ac alltudio 118 o’r wlad.",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Yn 2022, anfonodd Twrnai Cyffredinol Virginia, Jay Jones, negeseuon testun treisgar am gyn-Lefarydd Tŷ Cynrychiolwyr Virginia Todd Gilbert a'i blant.",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ddiwrnod cyn ei ymddiswyddiad sioc, ymatebodd y cyn is-lywydd Jagdeep Dhankhar yn sydyn i ddatganiad arlywydd y Gyngres Mallikarjun Kharge yn y Rajya Sabha ei fod yn ofni’r llywodraeth. \"Bydd y rhan hon o'r honiad yn cael ei dileu. Pam? Oherwydd nad yw ffermwyr India a'u meibion ​​​​yn ofni unrhyw un o dan unrhyw amgylchiadau, \"meddai Dhankhar yn ôl pob sôn.",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "“Mae dyled gyhoeddus oddeutu 67% hyd yma o CMC.”",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Rhoddodd cyn-Arlywydd yr Unol Daleithiau Barack Obama “$1.7 biliwn” mewn arian parod i Iran yn 2016, gan anfon paledi o arian i’r wlad.",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Nod gorchymyn gweithredol Gorffennaf 2025 gan Arlywydd yr UD Donald Trump yw “sefydlu unrhyw un anabl.”",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gwnaeth Arlywydd yr Unol Daleithiau, Donald Trump, 4,725 o drosglwyddiadau gwifren i’r diweddar ariannwr gwarthus a’r troseddwr rhyw euog Jeffrey Epstein am gyfanswm o $1.1 biliwn.",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae llywodraeth interim dan arweiniad Muhammad Yunus yn Bangladesh wedi canslo gwyliau ar gyfer gwyliau Hindŵaidd mawr, gan gynnwys Durga Puja, Janmashtami, a Saraswati Puja.",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ar annibyniaeth, roedd gan Nigeria boblogaeth o 45 miliwn.",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nigeria yw prif gynhyrchydd casafa yn Affrica a'r byd.",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Yn 2025, cynigiodd Gorfodi Mewnfudo a Thollau yr Unol Daleithiau gyflog o $ 100,000 i weithwyr newydd ar ben bonws arwyddo $ 45,000, llawer mwy na'r hyn y mae athrawon yn yr Unol Daleithiau yn ei wneud.",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "“Daeth Kasongo a thaflu’r system honno a dod â rhywbeth o’r enw SHA a SHIF ar gost o KSh104 biliwn.”",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ym mis Rhagfyr 2025, rhyddhaodd Adran Gyfiawnder yr Unol Daleithiau awgrym FBI lle gwelodd achwynydd yr Arlywydd Donald Trump ei hewythr yn lladd ei phlentyn newydd-anedig ac yn cael gwared ar y corff yn Llyn Michigan pan oedd yn 13 oed ac yn cael ei fasnachu am ryw gan Jeffrey Epstein.",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dinistriwyd cerflun Gandhi yn Thiruvananthapuram ar ôl i'r BJP ddod i rym yng nghorfforaeth y ddinas",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ffug: Cynghorwr Zelensky Chrystia Freeland Yn Ddisgynnydd o Gydweithiwr Natsïaidd",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ar ddiwedd 2025, dywedodd yr Adran Addysg na fyddai bellach yn dosbarthu’r cymwysterau hyn fel graddau proffesiynol: addysg (gan gynnwys graddau meistr addysgu), nyrsio (MSN, DNP), gwaith cymdeithasol (MSW, DSW), iechyd cyhoeddus (MPH, DrPH), cynorthwyydd meddyg, therapi galwedigaethol, therapi corfforol, awdioleg, patholeg lleferydd-iaith a graddau cwnsela a therapi.",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "“Yn sicr nid yw’r economi hon yn economi $188 biliwn - mae’n economi $350 biliwn o leiaf.”",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Gall dŵr dail betel gyda ewin drin malodour llafar.",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Mawrth 2026, dywedodd y Gen. Ffrengig Michel Yakovleff, a wasanaethodd mewn swyddi arwain yn NATO, y byddai Ffrainc i helpu'r Unol Daleithiau i sicrhau Culfor Hormuz yn cyfateb i \"brynu tocynnau rhad i'r Titanic.\"",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "“Mae gan Uganda gofnodion, tua 1.2 miliwn o dwristiaid sy’n dod i mewn.”",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Torrodd George Stephanopoulos, gwesteiwr “This Week” ABC, gyfweliad ag Is-lywydd yr Unol Daleithiau JD Vance ar ôl i Vance wyro cwestiwn am y czar ffin Tom Homan.",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bydd gweithwyr y DU nad ydynt yn gallu gweithio mewn ardaloedd haen 3 yn cael cyfuniad o Gynllun Cymorth Swydd a Chredyd Cynhwysol, a fydd yn golygu eu bod yn cael 80% o’u cyflog.",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Mawrth 2026, enwyd prif swyddog diogelwch dros dro Adran Diogelwch Mamwlad yr Unol Daleithiau yn Iwona B. Horyn.",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae gan Edo State yn Nigeria gyfradd ddiweithdra o 19%.",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Daeth rhieni’r fenyw gyntaf Melania Trump i’r Unol Daleithiau trwy nawdd teuluol, y cyfeirir ato hefyd yn ddirmygus fel “mudo cadwyn.”",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mae China yn bwriadu gwahardd ffonau Samsung dros ysbïwedd Israel na ellir ei symud",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae delweddau gweledol yn dangos protestwyr Nepal yn gorymdeithio i gefnogi Modi",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mae hysbyseb gan lywodraeth Ontario, Canada, yn “camliwio” anerchiad yr Arlywydd Ronald Reagan ar Ebrill 25, 1987, am dariffau.",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Yn ystod cyfnod Gov. Hochul, bu “mwy o droseddu ar ein strydoedd.”",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dywedodd Amit Shah fod dylanwadwyr cyfryngau cymdeithasol o bob plaid yn byw ar eu dogn o 5kg.",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Enw’r asiant Gorfodi Mewnfudo a Thollau o’r Unol Daleithiau a saethodd ac a laddodd Renee Nicole Good ym Minneapolis ar Ionawr, 7, 2026, oedd Steve Grove.",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cyhoeddodd y sefydliad dielw Ceidwadol Turning Point USA sioe hanner amser amgen Super Bowl 2026.",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Rhyddhaodd Megan Byron, gwraig cyn Brif Swyddog Gweithredol y Seryddwr Andy Byron, y datgelwyd ei berthynas honedig gan arddangosfa cam cusan yn ystod cyngerdd Coldplay ym mis Gorffennaf 2025, ddatganiad yn addo y byddai’r Prif Swyddog Gweithredol yn “teimlo” ei weithredoedd.",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "“Mae bomio seilwaith pŵer sifil yn drosedd rhyfel.”",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Byddai canolfannau data arfaethedig yn nhalaith Efrog Newydd yn defnyddio “tua dwbl defnydd ynni holl aelwydydd y wladwriaeth gyda’i gilydd.”",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ym mis Mawrth 2026, dywedodd Arlywydd yr Unol Daleithiau, Donald Trump, am Dywysog y Goron Saudi Arabia, Mohammed bin Salman, “Doedd e ddim yn meddwl y byddai’n cusanu fy a**.”",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   }
 ]

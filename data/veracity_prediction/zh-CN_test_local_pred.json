@@ -17,7 +17,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "自 2020 年人口普查以来，佛罗里达州“已从民主党占多数转变为共和党拥有 150 万人口的优势”。",
@@ -37,7 +39,9 @@
     "gpt5_label": "MIXED",
     "gpt5_int_label": 2,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "“根据 2025 年《收入分配法案》，我们已向各郡拨款 4150 亿肯尼亚先令，这是史无前例的，比去年的拨款增加了近 300 亿肯尼亚先令。”",
@@ -57,7 +61,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "我们对博瓦尔和丹麦养牛场的了解",
@@ -77,7 +83,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "巴基斯坦前总理伊姆兰·汗的妹妹阿莉玛·哈努姆在接受天空新闻采访时称，巴基斯坦陆军参谋长阿西姆·穆尼尔是“激进的伊斯兰主义者”，渴望与印度开战。",
@@ -97,7 +105,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "西班牙最近的一场干旱使一座拥有7000年历史的巨石遗址重见天日，比埃及金字塔还要古老。",
@@ -117,7 +127,9 @@
     "gpt5_label": "MIXED",
     "gpt5_int_label": 2,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "美国总统唐纳德·特朗普称加州州长加文·纽森为“美国总统，加文·纽森克姆”。",
@@ -137,7 +149,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年 12 月，美国和帕劳签署了一项价值 750 万美元的协议，该协议将允许美国向该岛国遣返至多 75 名非刑事犯罪人员。",
@@ -157,7 +171,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "椰子干可以治疗口腔溃疡",
@@ -177,7 +193,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "尼日利亚独立时的城市人口约为700万。",
@@ -197,7 +215,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "沃尔格林于 2025 年 8 月左右开始销售 Hallmark Mahogany 贺卡，这是一个专门面向黑人的贺卡品牌。",
@@ -217,7 +237,9 @@
     "gpt5_label": "MIXED",
     "gpt5_int_label": 2,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "假新闻：乌克兰试图贿赂战争研究所",
@@ -237,7 +259,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "事实核查：关于英国LGBTQ+庆祝活动资金被削减的说法缺少关键背景信息",
@@ -257,7 +281,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "一名乘客在喀拉拉邦古鲁瓦尤尔火车站的休息室网上预订床位时，虽然被告知没有空位，但当他到达那里时却发现宿舍完全空无一人。",
@@ -277,7 +303,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "杰梅因·托马斯是美国陆军退伍军人的儿子，出生于德国的一个军事基地，后来被遣返回牙买加。",
@@ -297,7 +325,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年 8 月，美国总统唐纳德·特朗普签署了一项行政命令，规定焚烧美国国旗的行为将被判处一年监禁。",
@@ -317,7 +347,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "住房价格昂贵是因为“我们向这个国家涌入了 3000 万非法移民”，以及住房短缺。",
@@ -337,7 +369,9 @@
     "gpt5_label": "MIXED",
     "gpt5_int_label": 2,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "德国汉堡禁止音乐课程，因为穆斯林认为音乐是伊斯兰教法禁止的。",
@@ -357,7 +391,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 12 月中旬，美国总统唐纳德·特朗普宣布举办“爱国者运动会”，这是一项为期四天的体育比赛，参赛者包括来自美国所有州和地区的青年男女。",
@@ -377,7 +413,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年 12 月，在白宫内阁会议上，美国国防部长皮特·赫格塞斯的头衔在他的标牌上被错误地拼写为“战争部长”。",
@@ -397,7 +435,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "印度国家调查局开通了一条热线，供民众举报印度境内的“反国家”活动，例如“爱情圣战”和恐怖主义活动。",
@@ -417,7 +457,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“2025年第二季度，尼日利亚贸易顺差增长44.3%，达到7.46万亿奈拉（47.4亿美元）……”",
@@ -437,7 +479,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "大约只有3%的美国人从事农业。",
@@ -457,7 +501,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“两周前，我们向加沙提供了6000万美元的粮食援助。”",
@@ -477,7 +523,9 @@
     "gpt5_label": "MIXED",
     "gpt5_int_label": 2,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国总统唐纳德·特朗普曾发布一条母亲节祝福，开头是：“祝所有人母亲节快乐，尤其祝那些激进左翼法西斯分子、马克思主义者和共产主义者的母亲、妻子和爱人节日快乐，他们正在竭尽全力摧毁和消灭我们曾经伟大的国家。”",
@@ -497,7 +545,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "MIXED",
-    "ollama/qwen3:8b_int_label": 2
+    "ollama/qwen3:8b_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "《前线》杂志封面预测泰米尔纳德邦将在投票前迎来“胜利浪潮”。",
@@ -517,7 +567,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "西孟加拉邦首席部长玛玛塔·班纳吉不尊重国歌，在国歌结束前就离开了舞台。",
@@ -537,7 +589,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "事实核查：该说法缺少关键背景信息，称英国有1%的人支持堕胎合法化直至分娩。",
@@ -557,7 +611,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "在明尼苏达州，持有合法枪支许可证的人可以携带装有子弹的枪支参加抗议活动。",
@@ -577,7 +633,9 @@
     "gpt5_label": "SUPPORTS",
     "gpt5_int_label": 1,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "福克斯新闻报道，佛罗里达州一名男子拒绝缴纳税款，因为他没有亲自批准任何支出。",
@@ -597,7 +655,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年6月5日，一项禁止在驾驶时使用手持手机的“触摸法”在美国31个州生效。",
@@ -617,7 +677,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "REFUTES",
-    "ollama/qwen3:8b_int_label": 0
+    "ollama/qwen3:8b_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2000 年，密苏里州一名男子被判处 13 年监禁，但由于文书错误，他直到 13 年后才开始服刑。",
@@ -637,7 +699,9 @@
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
     "ollama/qwen3:8b_label": "SUPPORTS",
-    "ollama/qwen3:8b_int_label": 1
+    "ollama/qwen3:8b_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "1892 年，一名名叫罗纳德·麦当劳的流浪汉在美国中西部各地的县集市上谋杀了 12 名儿童，并启发了现代麦当劳快餐连锁店的同名吉祥物。",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "政府发起了一项捐款活动，旨在筹集8千万卢比，以帮助尼米莎·普里亚。",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "苏尼尔·加瓦斯卡尔表示，“在封锁期间，维拉特·科利只用安努舒卡·沙玛的球进行训练”。",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "科学家兼教育家卡尔·萨根曾说过：“纠正谬误论证的办法是提出更好的论证，而不是压制思想。”",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "来自以色列的画面显示，在伊朗最近发动袭击后，摩萨德总部燃起大火。",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "韩国警方表示，没有接到有关中国公安人员在首尔活动的报案。",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "歌手兼词曲作家乔什·格罗班就美国总统唐纳德·特朗普要求乐队演奏著名歌曲《You Raise Me Up》一事与特朗普对峙。",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "空军参谋长辛格空军上将谈到要就“光辉”战斗机向中央政府发出警告，并表示将派遣印度空军飞行员前往巴基斯坦接受训练。",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "国家党领袖朱迪思·柯林斯担任警察部长期间，警察人数有所下降。",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "孟加拉虎漫步在东布尔德万的曼卡尔森林中",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 8 月，专家警告说，在科罗拉多州柯林斯堡发现的脸上长着触手或角的感染了病毒的“弗兰肯斯坦兔子”已经“入侵”了美国。",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "也门当局取消了对喀拉拉邦护士尼米莎·普里亚的死刑判决。",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "西孟加拉邦警方在未能拦截一辆装满沙子和石头的卡车后，向卡车投掷石块。",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "网上流传着毫无根据的鲸鱼搁浅“警告俄罗斯地震”的帖子。",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "破伤风杆菌可用过氧化氢杀死，且只能通过动物传播。",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "沙鲁克·汗表示，尽管有人反对，穆斯塔菲祖尔·拉赫曼仍将为加尔各答骑士队效力，并批评了实业家高塔姆·阿达尼。",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026 年 3 月的四周内，在芝加哥丧生的美国人比自美以对伊朗战争爆发以来在战斗中丧生的美国人还要多。",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "第一个雪球是在有人试图制造更亮的灯时意外产生的。",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 12 月，美国参议院少数党领袖查克·舒默在谈到澳大利亚悉尼和布朗大学发生的致命枪击事件之前，说道：“加油，比尔队！”（比尔队是纽约州布法罗市的 NFL 球队）。",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2026年2月，美国奥运男子冰球队队员访问白宫期间，获赠了麦当劳快餐。",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "研究证明，到2100年，GDP增速将放缓62%。",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Instagram 用户 ‘bjeshruchi’",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "事实核查：加州发现的“人皮泰迪熊”并非人皮，而是由乳胶制成。",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "从 2025 年 9 月起，德克萨斯州将开始暂停无家可归学生的学籍。",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "在发布 iOS 26 的全新“Liquid Glass”设计后，苹果公司的首席设计师 Jon Yongfook 被解雇了。",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "HAARP气象站的研究是造成飓风艾琳的原因。",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国转折点组织首席执行官兼联合创始人查理·柯克曾说过：“第二修正案不是为了狩猎，也不是为了自卫。它的存在是为了确保自由的人民能够在政府变得暴虐并镇压其公民时保护自己。”",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“Karte seksalice”将在萨格勒布小学健康课上使用",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "俄亥俄州通过了一项法律，将化妆、穿着或佩戴假体身体部位的行为定为犯罪，这些行为暗示“与表演者或艺人的生理性别不同的性别认同”，实际上禁止了公开的变装表演。",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年独立日，联邦部长阿米特·沙阿在升国旗时不慎掉落国旗。",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 12 月，美国总统唐纳德·特朗普宣布，对他进行的脑部磁共振成像扫描“没有发现任何问题”。",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“在特朗普总统的领导下，美国在2020年冰淇淋贸易方面实现了顺差，但在拜登总统的领导下，这一顺差转为4060万美元的贸易逆差。”",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年 6 月，Vance Boelter 被指控枪击两名明尼苏达州民主党议员及其配偶（其中一对夫妇死亡），他曾被明尼苏达州民主党州长 Tim Walz 任命为顾问委员会成员。",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "网上流传法国 La Jument 灯塔向员工支付数百万美元的虚假消息",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "白宫新闻秘书卡罗琳·莱维特揭露了 WNBA 球员布里特妮·格里纳的性别“真相”，WNBA 随后宣布强制进行“性别检测”。",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "特朗普政府“不仅削减了国家气象局的经费，还削减了美国国家海洋和大气管理局（NOAA）的经费”。",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国空袭伊朗福尔多核设施",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "俄罗斯前总统德米特里·梅德韦杰夫在2025年6月表示，“一些国家准备直接向伊朗提供他们自己的核弹头”。",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "帖子真实地展示了美国司法部长帕姆·邦迪 (Pam Bondi) 于 2025 年 2 月就爱泼斯坦档案致 FBI 局长卡什·帕特尔 (Kash Patel) 的一封信。",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "埃隆·马斯克在X上发布了一条消息，内容是：“如果没有我，特朗普就会输掉选举，民主党将控制众议院，共和党将在参议院以51比49的席位优势获胜。”",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "印度陆军参谋长乌彭德拉·德维维迪将军承认，在最近与巴基斯坦的冲突中，印度损失了6架战机，250名士兵殉职。",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "保守派评论员查理·柯克曾说过，如果他有一个 10 岁的女儿，在被强奸后怀孕了，他会希望她自己生下孩子。",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "事实核查：世卫组织并未批准任何新冠肺炎家庭疗法，请勿轻信谣言。",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "印度政府正在向新冠肺炎死者家属提供资金——新冠肺炎死亡的保险福利可根据 PMJJBY 和 PMSBY 计划申请。",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2025 年 11 月，蒙大拿州一个以压倒性优势投票支持美国总统唐纳德·特朗普的小镇举行了一场“恋童癖篝火晚会”，焚烧 MAGA 商品。",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 9 月初，美国副总统 JD Vance 表示，劳动节应该是“庆祝经历分娩的女性”的节日。",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "特朗普政府在泄露的文件中声称，词曲作家比莉·艾利什正在摧毁我们的国家。",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2013年，时任商人兼真人秀主持人唐纳德·特朗普曾表示：“政府停摆是总统缺乏领导力造成的。我的意思是，问题始于高层，也必须由高层解决。政府停摆意味着总统软弱无能。”",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"In just 12 years since the birth of devolution, we have transferred a total of KSh4 trillion to counties.\"",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "A migrant detention center known as \"Alligator Alcatraz\" was expected to open in Florida in 2025.",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Cambodian protesters ask leader to help locate soldiers near Thai border.",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Republican former House Speaker Newt Gingrich shared a post advocating for using nuclear detonations to create a canal that would serve as an alternative shipping route to the Strait of Hormuz.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Donald Trump tweeted that he was donating $500,000 each toward the expenses of the two Los Angeles County sheriff's deputies who were shot and critically injured on September 12, 2020.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Georgia election officials admitted they certified ballots in the 2020 presidential election with tabulator tapes — akin to receipts — that weren’t signed by poll workers in violation of Georgia state election rules.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Mike Johnson, Speaker of the U.S. House of Representatives, was dean of a law school named after Judge Paul Pressler who was later accused of sexual abuse, but the school never officially opened.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "In December 2025, singer Dolly Parton announced she would pull all her music from Amazon, citing founder Jeff Bezos’ alignment with U.S. President Donald Trump.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Soursop is 10,000 times stronger than chemotherapy",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Youths in Bihar vandalised a BJP leader’s car ahead of the state assembly polls.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“他们没有接受传统的五个月培训……现在移民执法局特工的培训只有47天。”",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "已故性犯罪者杰弗里·爱泼斯坦在电子邮件中声称，他曾向微软联合创始人比尔·盖茨提供治疗性病的药物，以便“应对与俄罗斯女孩发生性关系的后果”。",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "澳大利亚前队长里奇·庞廷称印度在亚洲杯比赛后拒绝与巴基斯坦握手，是“永远输不起的人”。",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "有人看到一名卡车司机在加利福尼亚州安大略市 10 号高速公路发生致命车祸前，在车内做饭。",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "教育部就SPM成绩发表声明",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "唐纳德·特朗普在推特上表示，他将分别捐赠 50 万美元，用于支付 2020 年 9 月 12 日在洛杉矶县遭枪击并身受重伤的两名警员的医疗费用。",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国疾病控制与预防中心代理主任吉姆·奥尼尔曾说过：“有很多健康的备用肾脏在外面闲置着。”",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2022 年，一位用户在 X（当时称为 Twitter）上发帖说：“2023 年：新冠疫情结束……2026 年：汉坦病毒。”",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "费尔法克斯县邮寄选票信封显示，有人投票选举司法部长。",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "在德里，一名名叫阿卜杜勒的穆斯林男子杀害了他的同居伴侣，一名印度教女子。",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "以色列抗议者阻止援助卡车进入加沙",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "定于2025年12月13日举行的全国人民法庭将对未决的交通罚单提供大幅折扣。",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "印度一名穆斯林男子在餐厅殴打一名女子",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国总统唐纳德·特朗普表示，华盛顿特区的警察“站在那里，人们朝他们脸上吐口水，他们却什么都不能做。但现在他们却可以为所欲为。”",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "中央后备警察部队在西孟加拉邦选举前加强了控制。",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "截至 2025 年 6 月，随着最后一头北方白犀牛的死亡，北方白犀牛已经灭绝。",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "英国一家动物园不得不将五只非洲灰鹦鹉分开饲养，因为这些鹦鹉对着游客和工作人员大声辱骂。",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "伊朗已废除强制佩戴头巾的法律",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "纽约市当选市长佐兰·马姆达尼表示，如果以色列总理本雅明·内塔尼亚胡来到纽约市，他将下令逮捕他。",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "操纵：捷克总统彼得·帕维尔同意乌克兰“为了生存”而失去领土",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "iPhone 12 将不附带耳机和充电适配器。",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "法国杂志《查理周刊》侮辱先知圣容的滔天罪行再次暴露了西方世界政治和文化机构对伊斯兰教和穆斯林社群的仇恨和敌意。",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "甜菜根、余甘子、胡萝卜汁可在40天内治愈四期癌症",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "三张据称显示伊朗对以色列情报机构摩萨德位于特拉维夫总部发动导弹袭击的图片。",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "休斯顿一家儿科诊所解雇了克里斯蒂娜·普罗普斯特医生，此前她在网上发帖称，2025 年 7 月德克萨斯州洪水的受害者是唐纳德·特朗普总统的支持者，他们得到了自己投票的结果。",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "你可以发送短信“RBG”至50409，签署一份请愿书，告诉你的参议员不要在2020年大选之前撤换露丝·巴德·金斯伯格在最高法院的席位。",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年 9 月，社交媒体上的帖子真实地显示了律师艾伦·德肖维茨在杰弗里·爱泼斯坦 50 岁生日相册中提到的《名利场》报道。",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "印度航空AI 315航班在德里降落时起火，乘客安全",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "在众议院监督委员会于 2025 年 11 月公布的一封与他的同伙吉斯莱恩·麦克斯韦的电子邮件交流中，性犯罪者杰弗里·爱泼斯坦称美国总统唐纳德·特朗普是“一条没有吠叫的狗”，并表示特朗普在爱泼斯坦的家中与一名性交易受害者待了几个小时。",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“食品杂货价格下跌了。能源价格也大幅下跌……以前一加仑汽油要4到5美元。”",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "迪萨纳亚克关闭了斯里兰卡灾害管理中心",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国众议院议长、路易斯安那州共和党人迈克·约翰逊表示：“民主党人有义务让政府重新运转起来。他们一直说共和党人掌控着政府。事实并非如此。至少在参议院不是这样。参议院由60票控制，而不是仅仅依靠微弱多数。”",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "你可以发送短信“RBG”至50409，签署一份请愿书，告诉你的参议员不要在2020年大选之前撤换露丝·巴德·金斯伯格在最高法院的席位。",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "南希·佩洛西表示，中国更倾向于乔·拜登。",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "美国农场工人中约有40%是无证移民。",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "尽管研究人员被捕，但麻疹、腮腺炎、风疹疫苗与自闭症之间并无关联。",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "一条疯传的说法称，阿吉特·多瓦尔敦促印度人卸载亚马逊，以在关税战中向美国施压。",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 12 月，美国移民和海关执法局明尼阿波利斯分局的特工逮捕了一名 55 岁的美国公民苏·廷彻，她当时正在观察他们的行动。",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "演员克里斯蒂安·贝尔正在加利福尼亚州帕姆代尔建造一个耗资 2200 万美元的村庄，其中包括 12 栋房屋，旨在让寄养系统中的兄弟姐妹能够住在一起。",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "阿富汗外交部长阿米尔·汗·穆塔基宣布计划在印度的财政援助下在喀布尔和坎大哈建造印度教寺庙。",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "唐纳德·特朗普说：“上个月，我与大型制药公司展开了斗争。你以为这很容易吗？我签署了行政命令，将大幅降低你们处方药的价格。”",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "说唱歌手妮琪·米娜的丈夫肯尼斯·佩蒂是一名已登记在案的性犯罪者。",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2026 年 5 月 11 日晚至 5 月 12 日凌晨的三个小时内，美国总统唐纳德·特朗普在他的 Truth Social 账户上发布了 55 条消息。",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年，Chobani 面临集体诉讼，指控其酸奶含有邻苯二甲酸酯，这种化学物质与激素紊乱有关。",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“人人都能接种”新冠疫苗。",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "口罩会导致缺氧。",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "由 Alexis Cossette-Trudel 主持的阴谋论网络电台 Radio Quebec 的内容已被 Facebook 禁止。",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "1931 年，17 岁的杰基·米切尔在查塔努加瞭望队和纽约洋基队的比赛中，连续三振了棒球传奇人物贝比·鲁斯和卢·格里克。",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2026年5月，教宗良十四世向伊朗大使穆罕默德·侯赛因·穆赫塔里授予梵蒂冈最高外交荣誉。",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "现在：今晚白宫没有像拜登时期那样亮起彩虹旗，而是亮起了红、白、蓝三色灯。",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "在空军一号上与记者会面时，美国总统唐纳德·特朗普对一位询问有关杰弗里·爱泼斯坦档案公开情况的记者说：“安静，小猪！”",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“2022年通货膨胀率为9.6%，而截至上个月，通货膨胀率已稳步下降至4.6%。”",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "据报道，作家阿什利·圣克莱尔是埃隆·马斯克第 13 个孩子的母亲，她在 X 网站上发帖，向美国总统唐纳德·特朗普提供“分手建议”。",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "你为什么要比唐纳德·特朗普多缴税？这是事实，他只缴了750美元。还记得他之前被问到这个问题时是怎么说的吗？他说他只缴……他说：“因为我聪明，我知道如何钻制度的空子。”",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "用于治疗癌症的化疗药物是从芥子气中发明出来的。",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "在俄罗斯堪察加半岛发生 8.8 级地震的前一天，五头白鲸被冲上岸。",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国总统唐纳德·特朗普任命美国转折点组织首席执行官埃里卡·柯克为空军学院校董会成员。",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年8月11日，菲律宾和马来西亚海军舰艇在沙巴附近发生对峙。",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "在DMK的一次集会上，巴基斯坦国旗升起。",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "联合国通过一项决议，要求美国关闭海外军事基地。",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年6月13日，纽约大都会队在棒球比赛中奏国歌时，用彩虹旗代替了美国国旗。",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国国土安全部长克里斯蒂·诺姆感谢唐纳德·特朗普总统让美国度过了一个平静的 2025 年飓风季，她说：“你让飓风远离了我们。”",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2026年4月下旬，明尼苏达州参议院民主党人一致投票反对将已故人士从该州选民名册中删除。",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "“南非有1240万人失业。”——姆西·迈曼",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "史丹利保温杯含有危险水平的铅，在正常使用过程中可能导致铅中毒。",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "苏尼尔·加瓦斯卡尔表示，“在封锁期间，维拉特·科利只用安努舒卡·沙玛的球进行训练”。",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "在密歇根州州长格雷琴·惠特默的领导下，“生活在贫困中的家庭数量比她的前任州长时期要少”。",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "梅西百货取消了2025年在纽约市举行的感恩节游行，因为当选市长佐兰·马姆达尼想向这家百货公司收取100亿美元的第五大道使用费。",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "猴子潘趣出生后被遗弃，后来在毛绒玩具中找到慰藉的故事是真实的。",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "印度现任首席大法官 B. R. Gavai 恢复了最高法院的原始标志，该标志上的座右铭为“Satyameva Jayate”，在首席大法官 Chandrachud 任期内被改为“Yato Dharmastato Jayah”。",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "《拯救美国法案》“将强制美国人只能亲自登记（投票），而目前只有 5% 的美国人这样做。”",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "美国宇航局的技术发现了一颗发出“奇怪信号”的“超级地球”系外行星。",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2025年6月，英国主持人皮尔斯·摩根和苏格兰歌手苏珊·博伊尔订婚并计划结婚。",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "无端指责针对孟加拉国的伤寒疫苗接种运动",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "伊朗方面的画面显示，由于以色列的空袭，布什尔的达耶尔港燃起了大火。",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "在众议院监督委员会于 2025 年 11 月公布的一封与他的同伙吉斯莱恩·麦克斯韦的电子邮件交流中，性犯罪者杰弗里·爱泼斯坦称美国总统唐纳德·特朗普是“一条没有吠叫的狗”，并表示特朗普曾在爱泼斯坦的家中与一名性交易受害者单独相处数小时。",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "国际板球理事会（ICC）发表声明，对巴基斯坦板球委员会处以一年禁赛的处罚。",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年12月18日，在哈里瓦上空发现了谢尔德云。",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国总统唐纳德·特朗普在 2025 年 10 月的一次演讲中称管理和预算办公室主任拉塞尔·沃特为“达斯·维达”。",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 10 月，国防部长皮特·赫格塞斯解雇了海军参谋长约翰·哈里森，当局以叛国罪嫌疑逮捕了哈里森。",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "一些帖子错误地声称尼日利亚在偿还国际货币基金组织贷款后“摆脱了债务”。",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2026 年 1 月 6 日，美国总统唐纳德·特朗普在众议院共和党人休会期间发表讲话称，如果民主党赢得 2026 年中期选举，他们将强制推行“跨性别者合法化”。",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "《拯救美国法案》要求“每个人都必须亲自重新登记投票，你的驾照、REAL ID 或军人身份证都不够用。”",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "柠檬水和岩盐可以有效溶解肾结石。",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "印度石油和天然气部正式宣布，汽油价格每升上涨 10 卢比，柴油价格每升上涨 12.50 卢比。",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "特德·刘拿着一段秘密录制的爱泼斯坦的录音质问卡什·帕特尔，并说“特朗普让我把它埋起来”。",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "在尼日利亚建国60年的历史中，累计有29年处于军人统治之下。",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "比哈尔邦首席部长尼蒂什·库马尔就其在巴特那举行的一次政府活动中扯下一名妇女头巾一事向穆斯林社区道歉。",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "比哈尔邦桥梁坍塌",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "马丁·路德·金牧师的女儿伯尼斯·金呼吁美国总统唐纳德·特朗普公布“爱泼斯坦档案”，此前特朗普政府于2025年7月公布了联邦调查局关于她父亲的档案。",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "圣尼古拉斯（圣诞老人的原型）的遗骨已经渗出液体1700年了。",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "禁食15天杀死癌细胞",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "事实核查：网上有人谎称智利海军飞行员是被伊朗俘虏的以色列飞行员",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“今年美国普通工人的工资已经增加了500美元。”",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "一家兽药公司正在研发一种用于老年犬的药丸，目标是延长它们的寿命。",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "只需按压一个穴位即可缓解痛经",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "根据唐纳德·特朗普总统新签署的税法，“年收入低于 5 万美元的人将获得最大的（税收）减免”。",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "在我们建国60年的历史中，累计有29年处于军人统治之下。",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "一列从维沙卡帕特南（安得拉邦）开往巴斯蒂（北方邦）的化肥货运列车花了三年多的时间才到达目的地。",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "根据绿色印度使命，学生可免费获得电动自行车。",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“黑人农民拥有数百万公顷土地。如果加上国有土地，大约占所有土地面积的50%。”",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "由亿万富翁慈善家比尔·盖茨支持的一家公司利用碳材料生产出了实验室合成黄油。",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年夏天，一群柬埔寨僧侣感谢美国总统唐纳德·特朗普结束了柬埔寨和泰国之间的战争。",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026 年白宫记者协会晚宴袭击案嫌疑人科尔·托马斯·艾伦是一名注册民主党人，他曾向前副总统卡马拉·哈里斯的 2024 年总统竞选捐款。",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "在人工智能领域，“我们遥遥领先于中国。”",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "1943 年圣诞节期间，一名居住在比利时的加拿大修女在一次午餐中，往纳粹军官的汤里掺入砒霜，毒死了 45 名纳粹军官。",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“黑人的命也是命”运动想要摧毁核心家庭。",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "演员沙鲁克·汗和桑杰·杜特批评比哈尔邦首席部长尼蒂什·库马尔，并要求其就头巾争议道歉。",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "假新闻：乌克兰难民抢劫卢浮宫",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "维拉特·科利和罗希特·沙尔马被排除在最新的ICC ODI击球手排名之外，引发了人们对他们退役的猜测。",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "继斯瓦米·普拉萨德·毛里亚之后，人民党议员约格什·维尔马也被掌掴",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 9 月流传的一段音频来自北卡罗来纳州的一通真实的 911 报警电话，电话中可以听到报警人喊道：“这不是人类。”",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年6月以色列-伊朗冲突的真实画面。",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2021 年 1 月 6 日，约 274 名联邦调查局便衣特工混入华盛顿特区的民众中，煽动暴力，最终导致美国国会大厦发生骚乱。",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "艾米·科尼·巴雷特的最高法院提名将于 2020 年 10 月获得参议院多数党的确认，而该多数党所代表的人口比少数党少 1500 万。",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "人工智能数据中心“使电费上涨 30% 或 40%”，并且“每天消耗 50 万加仑的水”。",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "美国30%的住院医师是国际医学毕业生，43000个住院医师名额中有10000个由H-1B签证持有者占据。",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "美国总统唐纳德·特朗普在麦当劳快餐连锁店的活动上发表讲话时，抱怨“来自天堂”的水资源受到限制，他说：“你想洗手？或者像我一样，我想洗头。我打出泡沫。然后……没水……我就不提洗手间里的第三样东西了，因为我总是会被批评……如果你不知道我在说什么，那你就不应该拥有麦当劳的特许经营权。”",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "巴伦·沙阿成为尼泊尔新任总理",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2016 年，时任共和党总统候选人、来自德克萨斯州的美国参议员特德·克鲁兹说：“我们可能一觉醒来，发现如果唐纳德当选总统，他早就用核弹轰炸丹麦了。”",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“加州贡献的财政收入比联邦政府拨款多出831亿美元。德州呢？联邦政府拨款比加州贡献的财政收入多出711亿美元。美国71%的GDP来自民主党占优势的县。”",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "印度陆军参谋长乌彭德拉·德维维迪将军承认，在最近与巴基斯坦的冲突中，有250名士兵在实际控制线沿线殉难。",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "哈迪克·潘迪亚在2025年亚洲杯前去世",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "国会从其网站上删除了宪法第一条第九款和第十款。",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "事实核查：贸易协定税收优惠并非适用于所有在英国工作的印度工人，这与网上说法相反。",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年6月5日，唐纳德·特朗普发帖攻击埃隆·马斯克使用氯胺酮一事。",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "挪威的工程师们为海豹建造了漂浮的人工“冰舱”，以取代这些动物正在消失的北极海冰栖息地。",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "太阳能和风能尚未达到“全球能源的3%”。",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026年5月6日，福音派牧师马克·伯恩斯在特朗普位于佛罗里达州的海湖庄园度假村为美国总统唐纳德·特朗普的金色雕像举行了落成典礼。",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "洛杉矶“爱之夏”抗议活动中，大部分和平示威者故意纵火焚烧吉普车。",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "歌手兼演员雪儿曾这样评价美国总统唐纳德·特朗普：“他是个混蛋。他非常危险，他给我的国家带来的，他唤醒的，是偏执、不信任以及某些群体中的某种优越感。”",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "美国总统特朗普在与特斯拉首席执行官埃隆·马斯克决裂后，禁止特斯拉在美国生产汽车。",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "阿富汗武装组织警告巴基斯坦三军情报局，誓言为帕哈尔加姆恐怖袭击事件复仇。",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "截至 2025 年 11 月初，美国总统唐纳德·特朗普的政府已动用 7.5 亿美元的关税收入来资助妇女、婴儿和儿童特别营养补充计划。",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "美国总统唐纳德·特朗普建议使用柴油的卡车司机改用汽油以降低燃料成本。",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "孟加拉国板球队队员穆斯塔菲祖尔·拉赫曼在被加尔各答骑士队（KKR）除名后，呼吁抵制2026年印度板球超级联赛（IPL）。",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "工党推翻了自由国家党削减 4400 名医护人员的决定。",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "伊朗袭击了位于沙特阿拉伯利雅得的美国基地。",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "明尼阿波利斯的犯罪率“下降了 25% 到 30%，因为我们已经将数千名罪犯从该地区清除出去。”",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国总统唐纳德·特朗普赦免了一名诈骗犯，该诈骗犯因在明尼苏达州大规模福利欺诈案中窃取的金额远超该案实际金额而被判刑，该案涉及该州的索马里社区成员。",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "自战争结束以来，伊朗伊斯兰政权逮捕了700名伊朗犹太人，占伊朗犹太人口的十分之一。他们诬告这些人是“摩萨德特工”，并将他们吊死在起重机上。",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国前总统巴拉克·奥巴马将英国前首相温斯顿·丘吉尔的半身像从椭圆形办公室移走，送回了英国。",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "佛罗里达州：心理健康护理排名第 51 位，房屋保险费用排名第 1 位，老年人欺诈排名第 1 位，租金上涨排名第 1 位。",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "比拉瓦尔·布托·扎尔达里称，巴基斯坦特工正在印度议会任职。",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "如果加强补贴不延长，通过《平价医疗法案》获得保险的人将面临“从 11 月 1 日起保费上涨 75%”，其中“农村地区的涨幅将翻倍”。",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "斯里兰卡副部长就死刑判决发表评论",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年 8 月，佛罗里达州参议员里克·斯科特披露了超过 2600 万美元的股票交易，比法律规定的最后期限晚了一年多。",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年11月，美国总统特朗普要求交通部推出15年期汽车贷款。",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "一名非美国公民在纽约市市长选举中为马姆达尼投票。",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "皇后乐队主唱弗雷迪·默丘里并没有在乐队歌曲《We Are the Champions》（该曲于 1977 年首次发行）的结尾唱出“of the world”这句歌词。",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "U.S. Gen. George Patton Jr. once said, \"May God have mercy upon my enemies, because I won't.\"",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "The president of the AIMIM women’s wing felicitates Deepak Kumar.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"We have already recovered up to 35 [passenger rail] lines that were either dormant or nonfunctional.\" – Ramaphosa",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Fake: Minors Now Eligible for Military Contracts in Ukraine",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi performing aarti for Lord Hanuman in a temple.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "A letter shared online in March 2026 is authentically a message in which Joe Kent, head of the U.S. National Counterterrorism Center, announced his resignation over the U.S. and Israel's war on Iran.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "In the 1994 film \"Forrest Gump,\" the main character says, \"Life was like a box of chocolates,\" not \"Life is like a box of chocolates.\"",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Supplement boosts GLP-1 and helps with insulin resistance",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Said she has led the House effort to build a large Micron semiconductor facility near Syracuse.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "a clash between a BJP minister and a district collector in Uttar Pradesh",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国国防部长皮特·赫格塞斯说：“看着作战部队，或者任何部队，到处都是肥胖的士兵，真是令人厌倦。同样，看到五角大楼里以及全国乃至世界各地指挥作战的将军和海军上将都是肥胖的，也是完全不可接受的。”",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "泄露的美国政府备忘录证实，美国总统唐纳德·特朗普的政府计划在 2025 年年中在国内测试“内部旅行限制”。",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "警方：政治活动人士并非俄勒冈州山火的罪魁祸首",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "画面显示的是2025年11月10日发生的德里红堡爆炸事件。",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "一项调查发现，只有 23% 的美国人能在地图上指出伊朗的位置。",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "阿肯色州一名男子因使一名 15 岁女孩怀孕而承认危害儿童罪，从而避免了牢狱之灾。",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "这些帖子歪曲了美国国会的研究报告，意在抹黑韩国总统。",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "演员海伦·亨特将她获得的奥斯卡奖金中的 300 万美元赠予了她儿时的老师“埃莉诺小姐”，因为这位老师为帮助亨特克服阅读障碍而提供了额外的辅导，结果失去了工作。",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2024 年在社交媒体上疯传的帖子准确地描述了保罗·麦卡特尼购买了约翰·列侬第一次婚姻中的信件，并将它们退还给列侬的前妻，附上一张纸条，告诉她不要出售她的回忆。",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "唐纳德·特朗普在推特上表示，他将分别捐赠 50 万美元，用于支付 2020 年 9 月 12 日在洛杉矶县遭枪击并身受重伤的两名警员的医疗费用。",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "无人机和导弹被故意击落于基辅居民区上空，目的是让民众生活在恐惧之中。",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "李在明总统青少年时期曾因强奸和谋杀罪被判刑。",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "印第安纳州议员试图通过立法，允许该州使用毒气室和枪决的方式处决犯人。",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "路透社报道，意大利不允许乌克兰国家安全局（SSU）官员陪同乌克兰代表团参加奥运会。",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "由于伊姆兰·汗批评马克龙关于伊斯兰教的言论，法国当局取消了 183 名巴基斯坦公民的签证，并将 118 人驱逐出境。",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2022 年，弗吉尼亚州当选总检察长杰伊·琼斯向弗吉尼亚州众议院前议长托德·吉尔伯特及其子女发送了充满暴力的短信。",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "在令人震惊的辞职前一天，前副总统贾格迪普·丹卡尔对国大党主席马利卡尔俊·卡尔格在联邦院（上议院）发表的“我害怕政府”的言论做出了强烈回应。据称，丹卡尔表示：“这部分言论将被删除。为什么？因为印度的农民和他们的子弟在任何情况下都不怕任何人。”",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "“截至目前，公共债务约占GDP的67%左右。”",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2016年，美国前总统巴拉克·奥巴马“给予”伊朗17亿美元现金，他向伊朗运送了成托盘的现金。",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "美国总统唐纳德·特朗普于 2025 年 7 月签署的一项行政命令旨在“将所有残疾人送进机构”。",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "美国总统唐纳德·特朗普曾向已故的声名狼藉的金融家和被定罪的性犯罪者杰弗里·爱泼斯坦进行了 4725 次电汇，总额达 11 亿美元。",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "由穆罕默德·尤努斯领导的孟加拉国临时政府取消了包括杜尔迦女神节、克里希纳诞辰节和萨拉斯瓦蒂女神节在内的主要印度教节日的假期。",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "尼日利亚独立时人口为4500万。",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "尼日利亚是非洲乃至全世界最大的木薯生产国。",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年，美国移民和海关执法局向新员工提供 10 万美元的薪水，外加 4.5 万美元的签约奖金，远远高于美国教师的收入。",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "“卡松戈上任后废除了原有体系，并以1040亿肯尼亚先令的价格推出了SHA和SHIF。”",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 年 12 月，美国司法部公布了 FBI 的一份线索，其中一名投诉人声称，在她 13 岁被杰弗里·爱泼斯坦贩卖从事性交易时，唐纳德·特朗普总统亲眼目睹了她的叔叔杀害了她刚出生的孩子，并将尸体丢弃在密歇根湖中。",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "在印度人民党（BJP）执掌特里凡得琅市政府后，该市一座甘地雕像遭到破坏。",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "谣言：泽连斯基顾问克里斯蒂亚·弗里兰是纳粹合作者的后裔",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025 年末，教育部表示将不再把以下证书归类为专业学位：教育（包括教学硕士学位）、护理（MSN、DNP）、社会工作（MSW、DSW）、公共卫生（MPH、DrPH）、医师助理、职业治疗、物理治疗、听力学、言语语言病理学以及咨询和治疗学位。",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“这个经济体的规模肯定不止1880亿美元——它至少有3500亿美元。”",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "槟榔叶水加丁香可以去除口臭。",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026 年 3 月，曾在北约担任领导职务的法国将军米歇尔·雅科夫列夫表示，法国帮助美国确保霍尔木兹海峡的安全，就好比“买泰坦尼克号的廉价船票”。",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“乌干达每年约有120万游客入境。”",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "美国广播公司 (ABC) 节目“本周”的主持人乔治·斯蒂芬诺普洛斯在采访美国副总统 JD·万斯时，万斯回避了有关边境沙皇汤姆·霍曼的问题，随后斯蒂芬诺普洛斯中断了对万斯的采访。",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "无法在三级地区工作的英国雇员将获得就业支持计划和通用福利金的组合，这意味着他们将获得 80% 的工资。",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "截至 2026 年 3 月，美国国土安全部代理首席安全官的任命为伊沃娜·B·霍林。",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "尼日利亚埃多州的失业率为19%。",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "第一夫人梅拉尼娅·特朗普的父母是通过家庭担保移民来到美国的，这种方式也被贬称为“连锁移民”。",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "中国计划禁止销售三星手机，理由是手机内置“无法移除的以色列间谍软件”。",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "画面显示尼泊尔抗议者游行支持莫迪",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "加拿大安大略省政府的一则广告“歪曲”了罗纳德·里根总统 1987 年 4 月 25 日关于关税的讲话。",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "在霍楚州长任期内，“我们街头的犯罪活动更多了”。",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "阿米特·沙阿表示，各党派的社交媒体影响者们都只靠5公斤的口粮度日。",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026 年 1 月 7 日，在明尼阿波利斯枪杀蕾妮·妮可·古德的美国移民和海关执法局特工名叫史蒂夫·格罗夫。",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "保守派非营利组织“美国转折点”（Turning Point USA）宣布了一项另类的2026年超级碗中场秀方案。",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "前 Astronomer 首席执行官安迪·拜伦的妻子梅根·拜伦发表声明，誓言这位首席执行官将“感受到”他的行为。安迪·拜伦的婚外情据称是在 2025 年 7 月 Coldplay 演唱会期间通过“亲吻镜头”曝光的。",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "“轰炸民用电力基础设施是战争罪行。”",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "纽约州拟建的数据中心将消耗“大约是该州所有家庭能源消耗总和的两倍”。",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026年3月，美国总统唐纳德·特朗普谈到沙特阿拉伯王储穆罕默德·本·萨勒曼时说：“他没想到他会来舔我的屁股。”",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]

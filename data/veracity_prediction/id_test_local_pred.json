@@ -6353,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "China plans to ban Samsung phones over embedded ‘unremovable Israeli spyware",
@@ -6373,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Visuals show Nepal protesters marching in support of Modi",
@@ -6393,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "An ad from the government of Ontario, Canada, “misrepresents” President Ronald Reagan’s April 25, 1987, address about tariffs.",
@@ -6413,7 +6419,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "During Gov. Hochul’s tenure, there has been “more crime on our streets.”",
@@ -6433,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Amit Shah said social media influencers from all parties are living on their 5kg ration.",
@@ -6453,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "The U.S. Immigration and Customs Enforcement agent who shot and killed Renee Nicole Good in Minneapolis on Jan, 7, 2026, was named Steve Grove.",
@@ -6473,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Conservative nonprofit organization Turning Point USA announced an alternative 2026 Super Bowl halftime show.",
@@ -6493,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Megan Byron, wife of former Astronomer CEO Andy Byron, whose alleged affair was revealed by a kiss cam display during a Coldplay concert in July 2025, released a statement vowing the CEO would “feel” his actions.",
@@ -6513,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Bombing civilian power infrastructure is a war crime.”",
@@ -6533,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Proposed data centers in New York state would use “approximately double the energy usage of all households in the state combined.”",
@@ -6553,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "In March 2026, U.S. President Donald Trump said of Saudi Arabia's Crown Prince Mohammed bin Salman, \"He didn't think he'd be kissing my a**.\"",
@@ -6573,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]

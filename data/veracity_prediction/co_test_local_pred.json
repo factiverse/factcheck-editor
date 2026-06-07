@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dapoi u censu di u 2020, a Florida hè \"sposta da una maiurità demucratica à un vantaghju republicanu di 1,5 milioni\".",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Sotto a Division of Revenue Act 2025, avemu attribuitu un KSh415 miliardi senza precedente à i cunti, quasi KSh30 miliardi di più cà l'allocazione di l'annu passatu\".",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ciò chì sapemu di l'agricultori Bovaer è danesi",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Aleema Khanum, surella di l'ex Primu Ministru pakistanese incarceratu Imran Khan, chjama u Capu di l'Armata Pakistana Asim Munir un \"islamistu radicalizatu\" chì brama una guerra cù l'India durante una entrevista in Sky News.",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una recente siccità in Spagna hà scupertu un munumentu megaliticu di 7 000 anni, più vechju di e piramidi d'Egittu.",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U presidente di i Stati Uniti Donald Trump hà chjamatu u guvernatore di California Gavin Newsom \"u presidente di i Stati Uniti, Gavin Newscum\".",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In dicembre 2025, i Stati Uniti è Palau anu firmatu un accordu di $ 7,5 milioni chì permetterà à i Stati Uniti di mandà finu à 75 deportati non criminali à a nazione isulana.",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U coccu seccu pò curà l'ulceri di a bocca",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A pupulazione urbana di Nigeria à l'indipendenza era di circa 7 milioni.",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Walgreens hà iniziatu à vende carte Hallmark Mahogany, una marca di biglietti di auguri esclusivamente per i Neri in o intornu à Aostu 2025.",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Falso: L'Ucraina hà pruvatu à corruzzione di l'Istitutu per u Studiu di a Guerra",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Verificazione di i fatti: u cuntestu chjave mancante da a pretesa di a celebrazione LGBTQ + in Gran Bretagna hè stata defundita",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un passageru, malgradu esse infurmatu di zero posti vacanti mentre tentava di riservà un lettu in linea in a stanza di ritirata in a stazione ferroviaria di Guruvayur in Kerala, hà trovu u dormitoriu completamente viotu quandu si n'andò.",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jermaine Thomas, u figliolu di un veteranu di l'armata di i Stati Uniti natu in una basa militare in Germania, hè statu deportatu in Giamaica.",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In l'aostu di u 2025, u presidente di i Stati Uniti, Donald Trump, hà firmatu un ordine esecutivu chì rende a brucia di a bandiera americana punibile da un annu di prigiò.",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'alloghju hè caru \"perchè avemu inundatu u paese cù 30 milioni d'immigranti illegali\" è per via di una carenza di l'alloghju.",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "E lezioni di musica sò state pruibite in Amburgo Germania perchè i musulmani dicenu chì sò haram.",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "À a mità di dicembre di u 2025, u presidente di i Stati Uniti, Donald Trump, hà annunziatu i Patriot Games, una cumpetizione di atletica di quattru ghjorni trà ghjovani è donne di tutti i stati è territorii di i Stati Uniti.",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Durante una riunione di u Gabinettu di a Casa Bianca in dicembre 2025, u titulu di u Sicritariu di a Difesa di i Stati Uniti Pete Hegseth era sbagliatu nantu à u so cartellu cum'è \"Secretary of War\".",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A NIA hà lanciatu una linea d'aiutu per e persone per rapportà attività \"anti-naziunali\" cum'è a jihad d'amore è u terrore in India.",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"U surplus cummerciale di Nigeria hè aumentatu da 44.3% in Q2 2025 à N7.46 trilioni ($ 4.74 miliardi) ...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Appena circa 3% di l'Americani sò in l'agricultura",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Avemu datu $ 60 milioni duie settimane fà\" per l'aiutu alimentariu à Gaza.",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di i Stati Uniti, Donald Trump, hà publicatu una volta un missaghju di u ghjornu di a mamma chì principia: \"Felice ghjornu di a mamma à TUTTI, in particulare i Mamma, Moglie è Amanti di a Radical Left Fascists, Marxists, and Communists chì facenu tuttu ciò chì hè in u so putere per distrugge è obliterate a nostra volta grande Paese\".",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A copertina di Frontline Magazine predice Vijay Wave in Tamil Nadu prima di u votu",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U Ministru di u Bengala Occidentale, Mamata Banerjee, hà disprezzatu l'innu naziunale è abbandunò u palcuscenicu prima chì l'innu naziunale finisci.",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Verificazione di i fatti: Cuntestu chjave mancante da a pretendenza 1% di u Regnu Unitu sustene a legalizazione di l'abortu finu à a nascita",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In Minnesota, i pruprietarii di armi licenziati sò permessi di portà un'arma di focu carica durante una protesta.",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fox News informa chì l'omu di Florida rifiuta di pagà l'imposte perchè ùn hà micca appruvatu personalmente alcuna spesa.",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U 5 di ghjugnu di u 2025, una \"legge di u toccu\" chì pruibisce l'usu di i telefoni cellulari durante a guida hè entrata in vigore in 31 stati di i Stati Uniti.",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En 2000, un homme du Missouri a reçu une peine de 13 ans de prison, mais n'a purgé aucun temps avant 13 ans plus tard en raison d'une erreur cléricale.",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Un drifter chjamatu Ronald McDonald hà assassinatu 12 zitelli in fiere di u cuntatu in u Midwest di i Stati Uniti in u 1892 è hà ispiratu a mascotte moderna di a catena di fast-food McDonald's di u stessu nome.",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U guvernu hà lanciatu una campagna di donazione per cullà Rs 8 crore per aiutà Nimisha Priya",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar hà dettu chì \"Virat Kohli hà furmatu solu contr'à e boli di Anushka [Sharma] durante u bloccu\"",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U scientist è educatore Carl Sagan hà dettu una volta: \"A cura per un argumentu fallaciu hè un argumentu megliu, micca a suppressione di l'idee\".",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "I visivi da Israele mostranu u QG di Mossad in focu dopu à un recente attaccu iranianu.",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A polizia sudcoreana dice chì ùn ci hè micca rapportu di un ufficiale di sicurità publica cinese chì opera in Seoul",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U cantautore Josh Groban hà cunfruntatu u presidente di i Stati Uniti Donald Trump per dumandà à una banda di ghjucà a famosa canzone \"You Raise Me Up\".",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Air Chief Marshal AP Singh hà parlatu di avvistà u guvernu cintrali annantu à l'aviò Tejas è hà dettu chì i piloti IAF seranu mandati in Pakistan per a furmazione.",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U numeru di pulizzia diminuisce quandu u capu di u Partitu Naziunale Judith Collins era ministru di a polizia.",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Royal Bengal Tiger camminendu in a furesta Mankar di East Burdwan",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In l'aostu di u 2025, l'esperti anu avvistatu chì i \"cunigli Frankenstein\" infettati cù tentaculi o corne nantu à e so facci vistu in Fort Collins, Colorado, anu \"invadutu\" i Stati Uniti.",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A sentenza di morte di l'infermiera di Kerala Nimisha Priya hè stata annullata da l'autorità yemenite.",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A polizia di u Bengala Occidentale hà lanciatu e petre dopu avè fallutu piantà un camion di sabbia è di petra.",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Posti senza basa di balene incagliate \"avvisanu annantu à u terremotu russu\" si sparse in linea",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U tetanus pò esse uccisu cù perossu è cuntratu solu per l'animali",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Shah Rukh Khan dice chì Mustafizur Rahman ghjucà per KKR malgradu l'opposizione è critica l'industriale Gautam Adani.",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Più americani sò stati ammazzati in Chicago in un periodu di quattru settimane di marzu di u 2026 cà quelli chì sò stati uccisi in azzione da u scoppiu di a guerra US-Israele in Iran.",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U primu globu di neve hè statu creatu per accidenti mentre qualchissia circava di custruisce una luce più luminosa.",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "In dicembre 2025, u capu di a minurità di u Senatu di i Stati Uniti Chuck Schumer hà dettu: \"Go Bills\", in riferimentu à a squadra NFL di Buffalo, New York, prima di affruntà sparatorie mortali in Sydney, in Australia, è in l'Università Brown.",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I membri di a squadra di hockey maschili olimpichi di i Stati Uniti anu datu fast food McDonald's durante a so visita à a Casa Bianca in ferraghju 2026.",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un studiu prova chì u PIB rallentarà da 62 per centu in 2100",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'utilizatore di Instagram 'bjeshruchi'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fact Check: \"L'orsu di peluche di a pelle umana\" truvata in California hè fattu di lattice, micca di carne",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A partire da settembre 2025, u Texas hà da cumincià à sospende i studienti senza casa.",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U designer principale di Apple, Jon Yongfook, hè statu licenziatu dopu a presentazione di u novu disignu \"Liquid Glass\" per iOS 26.",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A ricerca in a stazione meteorologica HAARP hè rispunsevule per l'uraganu Erin",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Charlie Kirk, CEO è cofundatore di Turning Point USA, hà dettu una volta: \"A 2a emenda ùn hè micca per a caccia, ùn hè micca per l'autoprotezzione. Hè per assicurà chì e persone libere ponu difendesi se Diu pruibisce u guvernu hè diventatu tirannicu è si vultò contru à i so citadini \".",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Karte seksalice\" serà utilizatu in i corsi di salute in e scole primarie di Zagabria",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U statu di l'Ohio hà passatu una lege chì criminalizza l'usu di maquillaje, vestiti o parti di u corpu protesi chì suggerenu \"una identità di genere chì hè diversa da u sessu biologicu di l'artista o di l'intrattenimentu\", essenzialmente pruibendu i spettaculi publichi di drag.",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U Ministru di l'Unione, Amit Shah, abbanduneghja a bandiera naziunale mentre a stende durante u ghjornu di l'Indipendenza in 2025.",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In dicembre 2025, u presidente di i Stati Uniti, Donald Trump, hà annunziatu una scansione di risonanza magnetica nantu à u so cervellu \"ùn hà trovu nunda\".",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"L'America hà avutu un surplus cummerciale in gelati in 2020 sottu a dirigenza di u presidente Trump, ma quellu surplus si trasformò in un deficit cummerciale di $ 40.6 milioni sottu a vigilazione di u presidente Biden\".",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vance Boelter, accusatu d'avè sparatu dui legislaturi di u statu di u Minnesota Democraticu è i so mariti in u ghjugnu 2025 (una coppia hè morta), hè statu una volta numinatu à un cunsigliu consultivu da u guvernatore demucraticu Minnesota Tim Walz.",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A falsa dichjarazione chì u faro di La Jument in Francia paga milioni di staff persiste in linea",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U secretariu di stampa di a Casa Bianca, Karoline Leavitt, hà revelatu \"a verità\" nantu à u sessu di u ghjucatore WNBA Brittney Griner, è a WNBA hà annunziatu \"test sessu\" obligatoriu.",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'amministrazione di Trump \"hà defunditu micca solu u serviziu meteorologicu naziunale, ma ancu ciò chì hè cunnisciutu cum'è NOAA\".",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Attaccu aereu americanu annantu à a facilità nucleare di Fordow in Iran",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'anzianu presidente russu Dmitry Medvedev hà dettu in u ghjugnu di u 2025 chì \"una quantità di paesi sò pronti à furnisce direttamente l'Iran cù e so testate nucleari\".",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I posti anu dimustratu autenticamente una lettera chì u Procuratore Generale di i Stati Uniti Pam Bondi hà mandatu à u direttore di l'FBI Kash Patel nantu à i schedari Epstein in ferraghju 2025.",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Elon Musk hà publicatu un missaghju nantu à X chì leghje: \"Senza mè, Trump avaria persu l'elezzioni, i Dems cuntrullà a Casa è i Republicani seranu 51-49 in u Senatu\".",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U Capu Generale di l'Armata Indiana Upendra Dwivedi hà ammissu chì sei ghjetti sò stati persi, è 250 suldati sò stati martirizzati in u recente cunflittu cù u Pakistan.",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U cummentatore cunservatore Charlie Kirk hà dettu una volta chì, s'ellu avia una figliola di 10 anni chì hè diventata incinta dopu esse stata violata, vulia ch'ella parturi u zitellu.",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Verificazione di i fatti: L'OMS ùn hà micca appruvatu rimediu domesticu per COVID-19, ùn cascà micca per a misinformazione",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U guvernu di l'India furnisce soldi à e famiglie in lutto di COVID-19 - I benefici d'assicuranza per i morti di Covid-19 ponu esse rivendicati sottu i schemi di PMJJBY è PMSBY.",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "In nuvembre di u 2025, una cità in Montana chì hà vutatu in grandezza per u presidente di i Stati Uniti, Donald Trump, hà fattu un \"focu pedofilu\" per brusgià a merchandise MAGA.",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "À principiu di sittembri 2025, u vicepresidentu di i Stati Uniti JD Vance hà dettu chì u ghjornu di u travagliu deve esse una celebrazione di \"e donne chì passanu per u travagliu\".",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'amministrazione di Trump hà dichjaratu chì u cantautore Billie Eilish distrugge u nostru paese in documenti filtrati",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In u 2013, l'ospitu di l'affari è di a realtà televisiva Donald Trump hà dettu: \"Un arrestu di u guvernu casca nantu à a mancanza di dirigenza di u presidente. Vogliu dì, i prublemi cumincianu da a cima è anu da esse risolti da a cima. Un arrestu significa chì u presidente hè debbule \".",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"In solu 12 anni da a nascita di a devoluzione, avemu trasferitu un totale di KSh4 trilioni à i cunti\".",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un centru di detenzione di migranti cunnisciutu cum'è \"Alligator Alcatraz\" era previstu di apre in Florida in 2025.",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I manifestanti cambogiani dumandanu à u capu per aiutà à localizà i suldati vicinu à a fruntiera tailandese.",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'anzianu presidente di a Casa Republicanu Newt Gingrich hà spartutu un postu chì sustene l'usu di detonazioni nucleari per creà un canale chì serviria cum'è una strada di spedizione alternativa à u Strettu d'Ormuz.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump hà tweetatu ch'ellu donava 500 000 $ ognunu à e spese di i dui deputati di u sceriffu di u County di Los Angeles chì sò stati uccisi è feriti criticamente u 12 di settembre di u 2020.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I funzionari elettorali di Georgia anu ammissu chì anu certificatu i votu in l'elezzioni presidenziale di u 2020 cù nastri tabulatori - simili à i ricevuti - chì ùn sò micca stati firmati da i travagliadori di u sondaghju in violazione di e regule elettorali statali di Georgia.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mike Johnson, presidente di a Casa di Rapprisintanti di i Stati Uniti, era decanu di una scola di dirittu chjamatu dopu à u ghjudice Paul Pressler chì hè statu dopu accusatu di abusu sessuale, ma a scola ùn hà mai apertu ufficialmente.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In dicembre 2025, a cantante Dolly Parton hà annunziatu ch'ella tirarà tutta a so musica da Amazon, citendu l'allineamentu di u fundatore Jeff Bezos cù u presidente di i Stati Uniti Donald Trump.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Soursop hè 10.000 volte più forte di a chimioterapia",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I ghjovani in Bihar anu vandalizatu a vittura di un capu di u BJP prima di i sondaggi di l'assemblea statale.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Ùn ricevenu micca a furmazione tradiziunale di cinque mesi ... A furmazione per l'agenti ICE hè avà 47 ghjorni\".",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "E-mail scritti da u tardu delincutore sessuale Jeffrey Epstein hà dichjaratu chì hà furnitu u cofundatore di Microsoft, Bill Gates, droghe per una STD per \"affruntà e cunsequenze di u sessu cù e ragazze russe\".",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'ex capitanu di l'Australia Ricky Ponting hà chjamatu l'India un \"perdu perpetu perpetuu\" per ùn stringhje a manu cù u Pakistan dopu a partita di a Copa d'Asia.",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un camioneru vistutu in cucina à l'internu di u so veiculu mumenti prima di un accidente mortale in l'autostrada 10 in Ontario, California.",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Déclaration du ministère de l'Éducation sur les résultats du SPM",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump hà tweetatu ch'ellu donava 500 000 $ ognunu à e spese di i dui deputati di u sceriffu di u County di Los Angeles chì sò stati uccisi è feriti criticamente u 12 di settembre di u 2020.",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U direttore di i Centri di i Centri di i Stati Uniti per u Controlu è a Prevenzione di e Malattie, Jim O'Neill, hà dettu una volta: \"Ci sò un saccu di reni sani è di riserva chì camminanu inutilizzati\".",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In u 2022, un utilizatore in X - allora cunnisciutu cum'è Twitter - hà publicatu: \"2023: Corona finita ... 2026: Hantavirus\".",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A busta di u votu postale di u conte di Fairfax revela u votu per l'avucatu generale",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Un omu musulmanu chjamatu Abdul hà uccisu u so cumpagnu indù, una donna indù, in Delhi.",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I manifestanti israeliani impediscenu à i camioni d'aiutu di entre in Gaza",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un Lok Adalat Naziunale in tuttu u paese previstu per u 13 di dicembre di u 2025 offre sconti maiò nantu à i challans di trafficu pendenti.",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un omu musulmanu assaltà una donna in un ristorante in India",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di i Stati Uniti, Donald Trump, hà dettu chì a polizia di Washington, D.C., \"stà quì, è a ghjente sputa in faccia è ùn sò micca permessi di fà nunda. Ma avà sò permessi di fà tuttu ciò chì volenu\".",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "CRPF stringe a so presa prima di l'elezzioni in Bengala Occidentale.",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Da u ghjugnu di u 2025, u rinoceronte biancu di u nordu era estinta dopu a morte di l'ultimu rinoceronte.",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un zoo in u Regnu Unitu hà avutu divisu un gruppu di cinque pappagalli grisgi africani perchè l'uccelli gridavanu improperi à l'invitati è u persunale.",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'Iran hà abolitu a lege obbligatoria di u hijab",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U sindaco elettu di a cità di New York, Zohran Mamdani, hà dettu ch'ellu urdinaria l'arrestu di u Primu Ministru israelianu Benjamin Netanyahu s'ellu vene in New York City.",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Manipulazione: u presidente cecu Petr Pavel accunsente cù l'Ucraina chì perde territorii \"per sopravvivenza\"",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'iPhone 12 ùn vene micca cù cuffie è un adattatore di carica.",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U peccatu cardinali è imperdonabile di una rivista francese Charlie Hebdo in l'insultamentu di a faccia santa di u Prufeta hà revelatu una volta di più l'odiu è l'ostilità di l'istituzioni pulitiche è culturali di u mondu occidentale contr'à l'Islam è a cumunità musulmana.",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Beetroot amla carot juice pò curà u stadiu 4 di u cancer in 40 ghjorni",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Trè visuali chì dicenu mostranu i presunti missili iraniani à u quartier generale di l'agenza di intelligenza di Israele Mossad in Tel Aviv.",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una pratica pediatrica di Houston hà licenziatu a duttore Christina Propst dopu avè publicatu in linea chì e vittime di l'inundazioni di u Texas in lugliu 2025 eranu sustenitori di u presidente Donald Trump chì hà ricevutu ciò chì anu vutatu.",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Pudete scrive RBG à 50409 per firmà una petizione per dì à u vostru senatore di ùn rimpiazzà Ruth Bader Ginsberg in a Corte Suprema finu à l'elezzioni di u 2020.",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In settembre di u 2025, i publicazioni di e social media dimustravanu autenticamente una nota di l'avucatu Alan Dershowitz chì face riferimentu à a cobertura di Vanity Fair in l'album di 50 anni di Jeffrey Epstein.",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U volu AI 315 di Air India hà pigliatu u focu à l'atterrissimu in Delhi, i passageri sò sicuri",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "In un scambiu di e-mail cù u so assuciatu Ghislaine Maxwell liberatu da u Cumitatu di Supervisione di a Casa in Nuvembre 2025, u delincutore sessuale Jeffrey Epstein hà chjamatu u presidente di i Stati Uniti Donald Trump u \"cane chì ùn hà micca abbaiatu\" è hà dichjaratu chì Trump passava ore cù una vittima di u trafficu sessuale in casa di Epstein.",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"L'alimentazione hè calata. L'energia hè in calata. ... Era $ 4 è $ 5 per un gallone di gasu \".",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dissanayake hà disattivatu u Centru di Gestione di Disastri di Sri Lanka",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di a Casa di i Stati Uniti Mike Johnson, R-La., hà dettu: \"I Democratici sò tenuti à apre u guvernu. Continuanu dicendu chì i Republicani sò incaricati di u guvernu. Ùn simu micca. Ùn in u Senatu. Sessanta voti cuntrollanu u Senatu, micca una maghjurità nuda \".",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Pudete scrive RBG à 50409 per firmà una petizione per dì à u vostru senatore di ùn rimpiazzà Ruth Bader Ginsberg in a Corte Suprema finu à l'elezzioni di u 2020.",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nancy Pelosi dice chì a Cina preferisce Joe Biden.",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Circa u 40% di tutti i travagliadori agriculi di i Stati Uniti sò immigrati senza documenti.",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Nisun ligame trà a vacuna MMR è l'autismu, malgradu l'arrestu di i ricercatori",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Una dichjarazione virali suggerisce chì Ajit Doval hà urigatu à l'Indiani per disinstallà Amazon per pressà i Stati Uniti in a guerra di tariffu.",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In dicembre 2025, l'agenti di l'Immigrazione è l'Infurzazione Doganale di i Stati Uniti in Minneapolis arrestanu un citadinu americanu di 55 anni chjamatu Sue Tincher chì osservava a so operazione.",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'attore Christian Bale hà custruitu 12 case in un paese di 22 milioni di dollari in Palmdale, California, chì hà da scopu di mantene i fratelli in u sistema di cura di famiglia.",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U ministru di l'Affari Esteri afganu, Amir Khan Muttaqi, hà annunziatu i piani di custruisce templi indù in Kabul è Kandahar cù l'aiutu finanziariu da l'India.",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump hà dettu \"U mese passatu, aghju pigliatu Big Pharma. Pensate chì hè faciule? Firmatu ordini chì avarianu massicciamenti sminuì u costu di i vostri prescription drugs \".",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kenneth Petty, u maritu di u rapper Nicki Minaj, hè un delincutore sessuale registratu.",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In un intervallu di trè ore da a fine di l'11 di maghju à u principiu di u 12 di maghju di u 2026, u presidente di i Stati Uniti Donald Trump hà publicatu 55 volte in u so contu Truth Social.",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In u 2025, Chobani era affruntatu una demanda di class action chì dichjara chì i so iogurti cuntenenu ftalati, sustanzi chimichi chì sò stati ligati à a disrupzione di l'hormone.",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Tutti ponu uttene\" a vacuna COVID-19.",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "E maschere facciali causanu ipossia.",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U cuntenutu di a rete di cuspirazione, Radio Quebec, ospitata da Alexis Cossette-Trudel hè pruibitu da Facebook.",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jackie Mitchell, una zitella di 17 anni, hà scunfittu i leggende di baseball Babe Ruth è Lou Gehrig back-to-back in una partita di u 1931 trà i Chattanooga Lookouts è i New York Yankees.",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U Papa Leone XIV hà presentatu à l'ambasciadore iranianu Mohammad Hossein Mokhtari u più altu onore diplomaticu di u Vaticanu in maghju 2026.",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "ORA: Invece di esse illuminata cum'è a BANDIERA GAY cum'è Biden l'avia, a Casa Bianca hè illuminata in Rossu, Biancu è Blu sta sera",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Duranti un gruppu di stampa nantu à Air Force One, u presidente di i Stati Uniti Donald Trump hà dettu \"Silenziu, piggy!\" à un ghjurnalista chì dumandava a liberazione di i schedari Jeffrey Epstein.",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"L'inflazione, chì era di 9,6% in u 2022, hè diminuitu in modu stabile à 4,6% da u mese passatu\".",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'autore Ashley St. Clair, chì si dice a mamma di u 13th figliolu d'Elon Musk, hà publicatu nantu à X chì offre \"cunsiglii di rottura\" à u presidente di i Stati Uniti Donald Trump.",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Perchè duvete pagà più tasse chè Donald Trump paga? È questu hè un fattu. $ 750. Ricurdativi di ciò chì hà dettu quandu hè statu risuscitatu pocu fà, cumu paga solu ... Ellu disse: \"Perchè sò intelligente. Sò cumu ghjucà u sistema.",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I droghe di chimioterapia per trattà u cancer sò stati inventati da u gas di mustarda.",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cinque balene beluga si sò lavate à terra in Kamchatka in Russia, un ghjornu prima chì u terrimotu di magnitudine 8,8 hà colpitu a regione.",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di i Stati Uniti Donald Trump hà numinatu Turning Point USA CEO Erika Kirk à u Cunsigliu di Visitatori di l'Academia di l'Air Force.",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I navi di a marina filippina è malasia anu avutu un scontru vicinu à Sabah l'11 d'aostu di u 2025.",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "E bandiere naziunali di u Pakistan sò state alzate in una manifestazione di DMK",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'ONU hà passatu una risoluzione chì impone à i Stati Uniti di chjude e basi militari d'oltremare",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I New York Mets rimpiazzavanu a bandiera di i Stati Uniti cù a bandiera Pride mentre l'innu naziunale hè statu interpretatu in un ghjocu di baseball u 13 di ghjugnu 2025.",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U Sicritariu di a Sicurezza Interna di i Stati Uniti, Kristi Noem, hà ringraziatu u presidente Donald Trump per una stagione senza incidenti di l'uragani di u 2025 in i Stati Uniti, dicendu: \"Avete tenutu luntanu l'uragani\".",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "À a fini d'aprile 2026, i Democratici di u Senatu di Minnesota anu vutatu à l'unanimità per oppone à caccià i morti da i liste di l'elettori di u statu.",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"12,4 milioni di sudafricani sò disoccupati\". – Mmusi Maimane",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I tumblers Stanley cuntenenu livelli periculosi di piombo chì ponu causà avvelenamentu di piombo durante l'usu normale.",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar hà dettu chì \"Virat Kohli hà furmatu solu contr'à e boli di Anushka [Sharma] durante u bloccu\"",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sottu u guvernatore di Michigan Gretchen Whitmer, ci sò \"menu famiglie chì campanu in a miseria\" chè sottu u so predecessore.",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Macy's annullava a so parata di Thanksgiving in New York City in 2025 perchè u sindaco elettu Zohran Mamdani vulia incaricà i grandi magazzini $ 10 miliardi per aduprà Fifth Avenue.",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A storia di Punch a scimmia chì trova cunfortu in un animali di peluche dopu esse abbandunatu à a nascita hè vera.",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'attuale Chief Justice di l'India, B. R. Gavai, hà restauratu u logu originale di a Corte Suprema, cù u mottu \"Satyameva Jayate\", chì hè statu cambiatu in \"Yato Dharmastato Jayah\" durante u mandatu di Chief Justice Chandrachud.",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'Attu SAVE America \"furzà l'Americani à registrà (per votu) solu in persona, qualcosa chì solu u 5% di l'Americani facenu oghje\".",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "A tecnulugia di a NASA hà scupertu un exoplaneta \"super-Terra\" chì emette \"signali strani\".",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "In u ghjugnu di u 2025, u broadcaster britannicu Piers Morgan è a cantante scozzese Susan Boyle eranu ingaghjati è pensanu à maritari.",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dichjarazioni senza fundamentu miranu à a vaccinazione di u tifu di u Bangladesh",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Scene da l'Iran chì mostranu u portu di Dayyer in Bushehr ardente per via di l'attacchi aerei israeliani.",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "In un scambiu di e-mail cù u so assuciatu Ghislaine Maxwell liberatu da u Cumitatu di Supervisione di a Casa in Nuvembre 2025, u delincutore sessuale Jeffrey Epstein hà chjamatu u presidente di i Stati Uniti Donald Trump u \"cane chì ùn hà micca abbaiatu\" è hà dichjaratu chì Trump passava ore solu cù una vittima di u trafficu sessuale in casa di Epstein.",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U Cunsigliu Internaziunale di Cricket (ICC) hà publicatu una dichjarazione, pruibendu u tribunale di cricket in Pakistan per un annu.",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sheld Cloud spotted over spotted over Haridwar u 18 dicembre 2025.",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di i Stati Uniti Donald Trump hà chjamatu Russell Vought, direttore di l'Uffiziu di Gestione è Budget, \"Darth Vader\" in un discorsu d'ottobre 2025.",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dopu chì u Sicritariu di a Difesa Pete Hegseth hà sparatu u Capu di Staff di a Marina John Harrison in uttrovi 2025, l'autorità arrestanu Harrison per suspettu di tradimentu.",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I posti dichjaranu falsamente chì a Nigeria era \"senza debitu\" dopu à risolve i prestiti di u FMI",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In un discorsu di u 6 di ghjennaghju di u 2026 in una ritirata di i Republicani di a Casa, u presidente di i Stati Uniti, Donald Trump, hà dettu chì i Democratici forzeranu \"transgender per tutti\" se vincenu l'elezzioni midterm 2026.",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'Attu SAVE America \"esige chì tutti si rigistrinu di novu per votà in persona è a vostra licenza di guida, REAL ID, o ID militare ùn sò mancu abbastanza bè\".",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'acqua di limonu è u salinu di roccia ponu dissolute in modu efficace i petri renali.",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un ordine ufficiale da u Ministeru di Petroliu è Gas Naturale annuncia aumenti di ₹ 10 / litru di benzina è ₹ 12,50 / litru di diesel.",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ted Lieu hà cunfruntatu Kash Patel cun una registrazione secreta di Epstein, dicendu chì \"Trump m'hà dettu di enterrarla\".",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Per un cumulativu di 29 di i 60 anni di esistenza di Nigeria cum'è nazione, hè statu sottu u regnu militare.",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U Primu Ministru di Bihar, Nitish Kumar, hà scusatu à a cumunità musulmana per avè abbattutu u hijab di una donna durante un avvenimentu di guvernu in Patna.",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Collapse di u ponte in Bihar",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bernice King, a figliola di u Reverendu Martin Luther King Jr., hà dumandatu à u presidente di i Stati Uniti Donald Trump per liberà i \"fichi Epstein\" dopu chì a so amministrazione hà liberatu i schedarii di l'FBI nantu à u so babbu in lugliu 2025.",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'osse di San Nicolau, l'ispirazione daretu à u Babbu Natale, sguassate liquidu dapoi 1700 anni.",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U digiunu uccide e cellule cancerose in 15 ghjorni",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Verificazione di i fatti: U pilotu di a Marina cilena hà dettu falsamente in linea chì era un pilotu israelianu catturatu in Iran",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"U travagliadore americanu mediu hà digià vistu un aumentu di u salariu di $ 500 questu annu\".",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Una cumpagnia farmaceutica veterinaria sviluppa una pillola per i cani anziani cù u scopu di allargà a so vita.",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "un puntu unicu di acupressure pò aiutà à allevà u dolore menstruali",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Sutta a lege fiscale appena firmata da u presidente Donald Trump, \"Quelli chì guadagnanu menu di $ 50,000 ricevenu i più grandi tagli (tassi)\".",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Per un cumulativu di 29 di i nostri 60 anni di esistenza cum'è nazione, avemu statu sottu u regnu militare.",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un trenu di fertilizzanti da Visakhapatnam (Andhra Pradesh) à Basti (Uttar Pradesh) hà pigliatu più di trè anni per ghjunghje à u so destinazione.",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Schema di Ciclu Elettricu Gratuitu per Studenti Sottu Missione Green India",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"[Agricultori neri] pussede milioni di ettari di terra. Circa u 50% di tutta l'area di a terra quandu aghjunghje terra statali \".",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una sucietà sustinuta da u filantropu miliardariu Bill Gates hà pruduciutu burru fattu in laboratoriu cù carbone.",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un gruppu di monaci cambogiani hà ringraziatu u presidente di i Stati Uniti Donald Trump in l'estiu 2025 per a fine di una guerra trà Cambogia è Tailanda.",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cole Tomas Allen, u suspettatu in l'attaccu à a cena di l'Associazione Correspondenti di a Casa Bianca di u 2026, hè un Democraticu registratu chì hà donatu à a campagna presidenziale 2024 di l'ex vicepresidentu Kamala Harris.",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "In intelligenza artificiale, \"Avemu cunducendu assai a Cina\".",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Durante un pranzu di Natale in u 1943, una monaca canadiana basata in Belgio avvelenò è uccise 45 ufficiali nazisti mettendu a so zuppa cù l'arsenicu.",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Black Lives Matter vole distrughje a famiglia nucleare.",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'attori Shah Rukh Khan è Sanjay Dutt criticanu u Primu Ministru di Bihar, Nitish Kumar, è dumandanu scuse per a polemica di l'hijab.",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Falso: i rifugiati ucraini anu rapinatu u Louvre",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Virat Kohli è Rohit Sharma sò esclusi da l'ultime classifiche di batting ICC ODI, alimentando a speculazione di a ritirata.",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dopu à Swami Prasad Maurya, u MLA di BJP Yogesh Verma hè schiaffatu",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'audio chì circulava in settembre di u 2025 era da una vera chjamata 911 in North Carolina, in quale u chjamante era intesu gridà: \"Ùn hè micca umanu\".",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Visuali reali di u cunflittu Israele-Iran in corso di ghjugnu 2025.",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Circa 274 agenti di l'FBI sottumessi sò stati incrustati in a folla in Washington, DC, u 6 di ghjennaghju di u 2021, incitendu a viulenza chì hà risultatu in a rivolta in u Capitoliu di i Stati Uniti.",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A nomina di Amy Coney Barrett à a Corte Suprema seria cunfirmata in uttrovi 2020, da una maiurità di u Senatu chì rapprisenta 15 milioni di persone in menu cà u partitu minoritariu.",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I centri di dati di intelligenza artificiale \"aumentanu e fatture elettriche di 30 o 40%\" è \"succhianu 500.000 litri d'acqua à ghjornu\".",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Trenta per centu di i residenti medichi di i Stati Uniti sò graduati medichi internaziunali, è 10,000 di 43,000 posti di residenza sò pieni da i titulari di visa H-1B.",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U presidente di i Stati Uniti Donald Trump, parlendu in un avvenimentu per a catena di fast food McDonald's, si lamentava di e restrizioni à l'acqua chì \"vene da u celu\" è hà dettu: \"Allora vulete lavà e mani? O, cum'è mè, vogliu lavà i capelli. E... ùn ci hè micca acqua. ... Ùn diceraghju micca u terzu articulu in u bagnu. ùn deve micca pussede una franchizia di McDonald's \".",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Balen Shah hè u Novu Primu Ministru di u Nepal",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In u 2016, u Senatore di i Stati Uniti Ted Cruz di Texas, allora candidatu presidenziale republicanu, hà dettu: \"Avemu risvegliati una matina è Donald, s'ellu era presidente, avaristi nuked Danimarca\".",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"California furnisce $ 83.1 miliardi di più di ciò chì ricevemu da u guvernu federale. Texas? Riceve $ 71.1 miliardi più di quelli chì furniscenu à u guvernu federale. U 71% di u PIB di i Stati Uniti vene da i cunti blu \".",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U Capu Generale di l'Armata Indiana Upendra Dwivedi hà ammissu chì i suldati 250 sò stati martirizzati longu u LOC durante u recente cunflittu cù u Pakistan.",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Hardik Pandya hè mortu prima di l'Asia Cup 2025",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U Cungressu hà eliminatu e Sezioni 9 è 10 di l'Articulu 1 di a Custituzione da u so situ web",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Verificazione di i Fatti: A scuperta fiscale di l'accordu cummerciale ùn hè micca per tutti i travagliadori indiani in u Regnu Unitu, contru à e rivendicazioni in linea",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump hà publicatu u 5 di ghjugnu 2025 per attaccà Elon Musk per l'usu di ketamina",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'ingegneri in Norvegia anu creatu \"baccelli di ghiaccio\" artificiali flottanti per i foche per rimpiazzà l'habitat di l'animali chì sparisce in u ghjacciu marinu Articu.",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U solar è u ventu ùn anu micca righjuntu u \"3% di l'energia globale\".",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U 6 di maghju di u 2026, u ministru evangelicu Mark Burns hà tenutu una cerimonia di dedicazione di una statua d'oru di u presidente americanu Donald Trump in u resort Mar-a-Lago di Trump in Florida.",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "LA Mostly Peaceful Jihad Summer of Love Protesters Intenzionalmente mette in focu una Jeep.",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U cantante è l'attore Cher hà dettu una volta di u presidente di i Stati Uniti Donald Trump: \"Hè un ** pirtusore. Hè cusì periculosu, è ciò chì porta à u mo paese, ciò chì hà svegliatu in u mo paese hè bigottria è sfiducia è un certu tipu di supremazia in certi gruppi \".",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U presidente di i Stati Uniti Trump pruibisce a produzzione di Tesla in i Stati Uniti dopu a so caduta cù u CEO di a ditta Elon Musk.",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un gruppu militante afganu avvirtenu l'ISI, prumesse di vindicà l'attaccu terrorista di Pahalgam.",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A principiu di nuvembre 2025, l'amministrazione di u presidente di i Stati Uniti Donald Trump avia utilizatu $ 750 milioni in entrate tariffarie per finanzà u prugramma di nutrizione supplementaria speciale per e donne, i zitelli è i zitelli.",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U presidente di i Stati Uniti, Donald Trump, hà suggeritu chì i camionisti chì utilizanu diesel duveranu passà à a benzina per riduce i costi di carburante.",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U ghjucatore di a squadra di cricket di u Bangladesh, Mustafizur Rahman, chjama à un boicottamentu di l'IPL 2026 dopu esse abbandunatu da Kolkata Knight Riders (KKR).",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U travagliu hà invertitu i 4,400 tagli di i travagliadori di salute da u LNP.",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'attaccu di l'Iran à a basa di i Stati Uniti in Riyadh, l'Arabia Saudita.",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U crimine in Minneapolis \"hè calatu di 25, 30% perchè avemu cacciatu millaie di criminali da a zona\".",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di i Stati Uniti, Donald Trump, hà graziatu un truffatore chì stava purtendu una sentenza per arrubà assai più soldi di quellu chì era pigliatu in una frode di benessere massiva in Minnesota chì implicava membri di a cumunità somala di u statu.",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dapoi a fine di a guerra, u regime islamicu hà arrestatu 700 ebrei iraniani, 1/10 di tutta a cumunità ebraica in Iran. Li accusanu falsamente d'esse \"agenti di u Mossad\" è li impiccanu da gru.",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'ex presidente di i Stati Uniti Barack Obama hà cacciatu un bustu di l'ex Primu Ministru britannicu Winston Churchill da l'Uffiziu Ovale è u rinviò in Inghilterra.",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Florida: # 51 in l'assistenza di salute mentale, # 1 in i costi di l'assicuranza di casa, # 1 in fraudulente anziani, # 1 in l'aumentu di l'affittu.",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari hà dettu chì l'agenti pakistani sò seduti in u Parlamentu indianu.",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "E persone cun assicuranza attraversu l'Affordable Care Act viranu un \"aumentu di u 75% in i primi à partesi di u 1 di nuvembre\" se i sussidii rinfurzati ùn sò micca estesi, cumpresu \"du volte più in e zone rurale\".",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cummentariu di u vice-ministru di Sri Lanka nantu à u verdict di a corte di pena di morte",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In l'aostu di u 2025, u Senatore di Florida Rick Scott hà divulgatu più di $ 26 milioni in scambii di azioni più di un annu dopu à a scadenza prevista da a lege.",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In nuvembre 2025, u presidente di i Stati Uniti Trump hà dumandatu à u Dipartimentu di i Trasporti di presentà prestiti di vittura di 15 anni.",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'omu micca un citatinu americanu vota Mamdani in l'elezzioni di u sindaco di New York.",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U frontman di Queen Freddie Mercury ùn hà micca cantatu \"di u mondu\" à a fine di a canzone di a banda \"We Are the Champions\", chì hè stata prima liberata in u 1977.",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "U generale di i Stati Uniti George Patton Jr. hà dettu una volta: \"Che Diu hà pietà di i mo nemichi, perchè ùn aghju micca\".",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di l'ala di e donne AIMIM felicitate Deepak Kumar.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Avemu digià ricuperatu finu à 35 linee [ferrovia di passageru] chì eranu dormenti o non funzionali\". – Ramaphosa",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Falso: Minori avà eligibili per i cuntratti militari in Ucraina",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Asaduddin Owaisi esegue aarti per Lord Hanuman in un tempio.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una lettera spartuta in linea in marzu 2026 hè autenticamente un missaghju in u quale Joe Kent, capu di u Centru Naziunale di u Antiterrorismu di i Stati Uniti, hà annunziatu a so dimissioni annantu à a guerra di i Stati Uniti è di Israele in Iran.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In u filmu di u 1994 \"Forrest Gump\", u caratteru principale dice: \"A vita era cum'è una scatula di cioccolatini\", micca \"A vita hè cum'è una scatula di cioccolatini\".",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "U supplementu aumenta GLP-1 è aiuta cù a resistenza à l'insulina",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Hà dettu chì hà guidatu u sforzu di a Casa per custruisce una grande facilità di semiconductor Micron vicinu à Siracusa.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "un scontru trà un ministru di BJP è un cullezzione di distrittu in Uttar Pradesh",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U Sicritariu di a Difesa di i Stati Uniti Pete Hegseth hà dettu: \"Hè stancu di guardà e formazioni di cummattimentu, o veramente qualsiasi furmazione, è vede e truppe grasse. Cume, hè cumplettamente inaccettabile per vede generale grassu è ammiragli in i saloni di u Pentagonu è i cumandamenti principali in u paese è u mondu \".",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Memo di u guvernu americanu filtrati anu cunfirmatu chì l'amministrazione di u presidente di i Stati Uniti, Donald Trump, provava \"restrizioni di viaghju internu\" in e fruntiere di u paese à a mità di u 2025.",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pulizia: L'attivisti pulitichi ùn anu micca causatu l'incendii di l'Oregon",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I visuali mostranu l'esplosione di u Fort Rossu di Delhi chì hè accaduta u 10 di nuvembre 2025.",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un sondaghju hà truvatu chì solu u 23% di l'Americani ponu indicà l'Iran nantu à una mappa.",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Un omu di l'Arkansas hà dichjaratu culpèvule à u periculu di u zitellu dopu avè impregnatu una zitella di 15 anni, evitendu a prigiò.",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I posti falsificanu u rapportu di ricerca di u Cungressu di i Stati Uniti per scredità u presidente sudcoreanu",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'attore Helen Hunt hà rigalatu u so maestru di a zitiddina, \"Miss Eleanor\", $ 3 milioni da i so vincitori di l'Oscar dopu chì a prufessore hà persu u so travagliu per furnisce un tutore extra per aiutà Hunt cù a so dislexia.",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Posti virali di e social media spartuti in u 2024 descrizanu accuratamente Paul McCartney chì compru lettere da u primu matrimoniu di John Lennon è li rinviò à l'antica moglia di Lennon cun una nota chì li diceva di ùn vende micca i so ricordi.",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Donald Trump hà tweetatu ch'ellu donava 500 000 $ ognunu à e spese di i dui deputati di u sceriffu di u County di Los Angeles chì sò stati uccisi è feriti criticamente u 12 di settembre di u 2020.",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I droni è i missili sò deliberatamente abattuti nantu à e zone residenziali di Kiev per mantene a pupulazione in paura",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cum'è un adulescente, u presidente Lee Jae-myung hè statu cundannatu per violenza è assassiniu.",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I legislaturi di l'Indiana anu pruvatu à passà una legislazione chì permette à u statu di eseguisce e persone per via di camere di gas è di fucilazione.",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'Italia ùn hà micca permessu à l'ufficiali di l'SSU per accumpagnà a squadra ucraina à i Ghjochi Olimpichi - Reuters",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A causa di a critica di Imran Khan à i cumenti di Macron nantu à l'Islam, l'autorità francesi anu annullatu i visi di 183 citadini pakistani è deportati 118 da u paese.",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In u 2022, u Procuratore Generale elettu di Virginia, Jay Jones, hà mandatu missaghji di testu viulenti annantu à l'ex presidente di a Casa di Delegati di Virginia Todd Gilbert è i so figlioli.",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un ghjornu prima di a so dimissioni di scossa, l'ex vicepresidentu Jagdeep Dhankhar hà rispostu bruscamente à a dichjarazione di u presidente di u Cungressu Mallikarjun Kharge in u Rajya Sabha chì avia paura di u guvernu. \"Questa parte di l'affirmazione serà sguassata. Perchè? Perchè l'agricultori di l'India è i so figlioli ùn anu micca paura di nimu in ogni circustanza \", Dhankhar hà dettu.",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"U debitu publicu hè di circa 67% à a data di u PIB\".",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'ex presidente di i Stati Uniti Barack Obama \"hà datu\" à l'Iran $ 1,7 miliardi in soldi in 2016, mandendu pallets di soldi à u paese.",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Un ordine esecutivu di lugliu 2025 da u presidente di i Stati Uniti Donald Trump hà u scopu di \"istituziunalisà tutti i disabili\".",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U presidente di i Stati Uniti, Donald Trump, hà fattu 4 725 trasferimenti bancari à u difuntu finanziariu disgraziatu è u delincutore sessuale cundannatu Jeffrey Epstein per un totale di $ 1,1 miliardi.",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U guvernu interim guidatu da Muhammad Yunus in Bangladesh hà annullatu e vacanze per i principali festivali indù, cumprese Durga Puja, Janmashtami è Saraswati Puja.",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "À l'indipendenza, Nigeria avia una populazione di 45 milioni.",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nigeria hè u primu pruduttore di manioca in Africa è in u mondu.",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In u 2025, l'Immigrazione è l'Enforcement Doganale di i Stati Uniti hà offrittu à i novi impiegati un salariu di $ 100,000 in più di un bonus di firma di $ 45,000, assai più di ciò chì i prufessori in i Stati Uniti facenu.",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Kasongo hè ghjuntu è hà scartatu quellu sistema è hà purtatu qualcosa chjamatu SHA è SHIF à un costu di KSh104 miliardi\".",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "In dicembre di u 2025, u Dipartimentu di a Ghjustizia di i Stati Uniti hà publicatu un suggerimentu di l'FBI in quale un denunciante chì u presidente Donald Trump hà assistitu à u so ziu uccide u so figliolu neonatu è sbarazza di u corpu in u Lavu Michigan quandu avia 13 anni è hè statu trafficatu per sessu da Jeffrey Epstein.",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una statua di Gandhi hè stata distrutta in Thiruvananthapuram dopu chì u BJP hè ghjuntu à u putere in a corporazione di a cità.",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Falso: u Cunsigliu di Zelensky Chrystia Freeland hè discendente di Collaboratore Nazista",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "À a fine di u 2025, u Dipartimentu di l'Educazione hà dettu chì ùn classificà più queste credenziali cum'è diplomi prufessiunali: educazione (cumpresi i diplomi di maestru), infermiera (MSN, DNP), travagliu suciale (MSW, DSW), salute publica (MPH, DrPH), assistente medico, terapia occupazionale, terapia fisica, audiologia, terapia di lingua è patologia.",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Questa ecunumia ùn hè certamente micca una ecunumia di $ 188 miliardi - hè almenu una ecunumia di $ 350 miliardi\".",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'acqua di foglia di betel cù chiodi di garofano pò trattà u malodore orale.",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In u marzu di u 2026, u generale francese Michel Yakovleff, chì hà servitu in pusizioni di dirigenza in l'OTAN, hà dettu chì per a Francia per aiutà i Stati Uniti à assicurà u Strettu d'Ormuz seria l'equivalente di \"acquistà biglietti per u Titanic\".",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"L'Uganda hà entrate, circa 1,2 milioni di turisti chì entranu\".",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "George Stephanopoulos, presentatore di \"Questa settimana\" di ABC, hà tagliatu una entrevista cù u vicepresidentu di i Stati Uniti JD Vance dopu chì Vance hà sviatu una quistione nantu à u zar di cunfini Tom Homan.",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'Impiegati di u Regnu Unitu chì ùn puderanu micca travaglià in i zoni di u livellu 3 riceveranu una cumminazione di u Schema di Supportu di u travagliu è u Creditu Universale, chì significarà chì riceveranu 80% di i so salari.",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'ufficiale di securità di u Dipartimentu di a Sicurezza Interna di i Stati Uniti da marzu 2026 era chjamatu Iwona B. Horyn.",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Edo State in Nigeria hà un tassu di disoccupazione di 19%.",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I genitori di a prima dama Melania Trump sò ghjunti in i Stati Uniti per mezu di un patrociniu di famiglia, chjamatu ancu disprezzu cum'è \"migrazione in catena\".",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A Cina pensa à pruibisce i telefoni Samsung nantu à \"spyware israeliani unremovable\" incrustati",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I visivi mostranu i manifestanti Nepali chì marchjanu in sustegnu à Modi",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un annunziu di u guvernu di l'Ontario, Canada, \"misrepresent\" l'indirizzu di u 25 d'aprile di u 1987 di u presidente Ronald Reagan nantu à i tariffi.",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Durante u mandatu di u guvernatore Hochul, ci hè statu \"più crimine in e nostre strade\".",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Amit Shah hà dettu chì l'influenzatori di e social media da tutti i partiti vivenu cù a so razione di 5 kg.",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'agente di l'Immigrazione è a Cumpagnia Doganale di i Stati Uniti chì hà sparatu è uccisu Renee Nicole Good in Minneapolis u 7 di Ghjennaghju di u 2026, era chjamatu Steve Grove.",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'urganizazione conservativa senza prufittu Turning Point USA hà annunziatu un spettaculu alternativu di a mità di u Super Bowl 2026.",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Megan Byron, moglia di l'anzianu CEO di l'Astronomer Andy Byron, chì a so presunta affari hè stata rivelata da un display di camma di bacia durante un cuncertu di Coldplay in lugliu 2025, hà publicatu una dichjarazione chì prumette chì u CEO \"sentirà\" e so azioni.",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"U bombardamentu di l'infrastruttura di putere civile hè un crimine di guerra\".",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I centri di dati pruposti in u statu di New York utilizanu \"circa u doppiu di l'usu energeticu di tutte e famiglie in u statu cumminatu\".",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "In marzu di u 2026, u presidente di i Stati Uniti, Donald Trump, hà dettu di u prìncipe di l'Arabia Saudita Mohammed bin Salman: \"Ùn hà micca pensatu chì mi basgiarà a **\".",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   }
 ]

@@ -3713,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Sawise Sekretaris Pertahanan Pete Hegseth mecat Kepala Staf Angkatan Laut John Harrison ing Oktober 2025, panguwasa nyekel Harrison amarga dicurigai pengkhianat.",
@@ -3733,7 +3735,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kiriman palsu ngaku Nigeria minangka 'bebas utang' sawise mbayar utangan IMF",
@@ -3753,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Ing 6 Januari 2026, pidato ing retret House Republicans, Presiden AS Donald Trump ujar manawa Demokrat bakal meksa \"transgender kanggo kabeh wong\" yen menang ing pemilihan midterm 2026.",
@@ -3773,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Undhang-undhang SAVE America \"mbutuhake kabeh wong kanggo ndhaptar maneh kanggo milih kanthi pribadi lan lisensi driver, REAL ID, utawa ID militer sampeyan ora cukup apik.\"",
@@ -3793,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Banyu lemon lan uyah watu kanthi efektif bisa mbubarake watu ginjel.",
@@ -3813,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Pesen resmi saka Kementerian Perminyakan lan Gas Bumi ngumumake kenaikan ₹ 10 / liter bensin lan ₹ 12,50 / liter solar.",
@@ -3833,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ted Lieu ngadhepi Kash Patel kanthi rekaman rahasia Epstein, ujar \"Trump ngandhani aku supaya dikubur\"",
@@ -3853,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kanggo 29 kumulatif saka 60 taun Nigeria minangka negara, negara kasebut wis dikuwasani militer.’",
@@ -3873,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Kepala Menteri Bihar Nitish Kumar njaluk ngapura marang komunitas Muslim amarga narik jilbab wanita sajrone acara pemerintah ing Patna.",
@@ -3893,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Jembatan Ambruk ing Bihar",
@@ -3913,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Bernice King, putri Rev. Martin Luther King Jr., njaluk Presiden AS Donald Trump supaya ngeculake \"file Epstein\" sawise administrasine ngeculake file FBI babagan bapake ing Juli 2025.",
@@ -3933,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Balung St. Nicholas, inspirasi ing mburi Santa Claus, wis bocor cairan suwene 1.700 taun.",
@@ -3953,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Pasa mateni sel kanker sajrone 15 dina",
@@ -3973,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Priksa Fakta: Pilot Angkatan Laut Chili salah ngomong online minangka pilot Israel sing ditangkap ing Iran",
@@ -3993,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"Pegawe Amerika rata-rata wis ndeleng kenaikan upah $ 500 taun iki.\"",
@@ -4013,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Perusahaan pharmaceutical Veterinary ngembangake pil kanggo asu senior kanthi tujuan kanggo nambah umur.",
@@ -4033,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "titik akupresur siji bisa mbantu nyuda nyeri haid",
@@ -4053,7 +4087,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Ing undang-undang pajak sing mentas ditandatangani Presiden Donald Trump, \"Sing nggawe kurang saka $ 50,000 nampa potongan (pajak) paling gedhe.\"",
@@ -4073,7 +4109,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kanggo 29 kumulatif saka 60 taun eksistensi kita minangka bangsa, kita wis dikuwasani militer.",
@@ -4093,7 +4131,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Sepur barang pupuk saka Visakhapatnam (Andhra Pradesh) menyang Basti (Uttar Pradesh) butuh luwih saka telung taun kanggo tekan tujuane.",
@@ -4113,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Skema Siklus Listrik Gratis kanggo Siswa ing Misi Green India",
@@ -4133,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"[Petani ireng] duwe yuta yuta hektar. Kira-kira 50% saka kabeh wilayah tanah nalika sampeyan nambah tanah negara.\"",
@@ -4153,7 +4197,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Perusahaan sing didhukung dening dermawan miliarder Bill Gates wis ngasilake mentega digawe laboratorium nggunakake karbon.",
@@ -4173,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Klompok biksu Kamboja matur nuwun marang Presiden AS Donald Trump ing musim panas 2025 amarga mungkasi perang antarane Kamboja lan Thailand.",
@@ -4193,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Cole Tomas Allen, tersangka serangan ing nedha bengi Asosiasi Koresponden Gedung Putih 2026, minangka Demokrat kadhaptar sing nyumbang kanggo kampanye presiden 2024 mantan Wakil Presiden Kamala Harris.",
@@ -4213,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Ing intelijen buatan, \"Kita mimpin China kanthi akeh.\"",
@@ -4233,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nalika nedha awan Natal ing taun 1943, sawijining biarawati Kanada sing manggon ing Belgia ngracun lan mateni 45 perwira Nazi kanthi nyedhot sup karo arsenik.",
@@ -4253,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Black Lives Matter pengin numpes kulawarga nuklir.",
@@ -4273,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Aktor Shah Rukh Khan lan Sanjay Dutt ngritik Kepala Menteri Bihar Nitish Kumar lan njaluk ngapura babagan kontroversi jilbab.",
@@ -4293,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Palsu: Pengungsi Ukraina Ngrampok Louvre",
@@ -4313,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Virat Kohli lan Rohit Sharma ora kalebu saka peringkat batting ICC ODI paling anyar, nyebabake spekulasi pensiun.",
@@ -4333,7 +4395,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sawise Swami Prasad Maurya, MLA BJP Yogesh Verma ditampani",
@@ -4353,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Audio sing nyebar ing September 2025 yaiku saka telpon 911 nyata ing North Carolina, ing ngendi sing nelpon keprungu nguwuh: \"Iki dudu manungsa.\"",
@@ -4373,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Visual nyata saka konflik Juni 2025 Israel–Iran.",
@@ -4393,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kira-kira 274 agen FBI sing menyamar dipasang ing wong akeh ing Washington, D.C., tanggal 6 Januari 2021, nyebabake kekerasan sing nyebabake kerusuhan ing Capitol AS.",
@@ -4413,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nominasi Amy Coney Barrett menyang Mahkamah Agung bakal dikonfirmasi ing Oktober 2020, dening mayoritas Senat sing makili 15 yuta wong luwih sithik tinimbang partai minoritas.",
@@ -4433,7 +4505,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Pusat data intelijen buatan \"nyopir tagihan listrik nganti 30 utawa 40%\" lan \"nyedhot 500.000 galon banyu saben dina.\"",
@@ -4453,7 +4527,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Telung puluh persen warga medis AS minangka lulusan medis internasional, lan 10,000 saka 43,000 panggonan residensi diisi dening pemegang visa H-1B.",
@@ -4473,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Presiden AS Donald Trump, ngandika ing acara kanggo chain pangan cepet McDonald's, ngeluh babagan watesan ing banyu sing \"teka saka swarga\" lan ngandika: \"Dadi sampeyan pengin wisuh tangan? Utawa, kaya aku, aku pengin wisuh rambute. Aku lather munggah. Lan ... duwe waralaba McDonald's.\"",
@@ -4493,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Balen Shah minangka Perdana Menteri Anyar Nepal",
@@ -4513,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ing 2016, Senator AS Ted Cruz saka Texas, banjur calon presiden Republik, ngandika, \"Kita tanggung jawab kanggo tangi siji esuk lan Donald, yen dheweke dadi presiden, bakal nuked Denmark.\"",
@@ -4533,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"California nyedhiyakake $ 83.1 milyar luwih saka sing ditampa saka pamrentah federal. Texas? Nampa $ 71.1 milyar luwih akeh tinimbang sing diwenehake marang pamrentah federal. 71% saka PDB AS asale saka kabupaten biru. \"",
@@ -4553,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Panglima Tentara India Jenderal Upendra Dwivedi ngakoni manawa 250 prajurit mati syahid ing LOC sajrone konflik anyar karo Pakistan.",
@@ -4573,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Hardik Pandya Meninggal Dunia Jelang Piala Asia 2025",
@@ -4593,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kongres mbusak Bagian 9 lan 10 Artikel 1 Konstitusi saka situs web",
@@ -4613,7 +4703,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kasunyatan Priksa: Trade deal tax break ora kanggo kabeh buruh India ing UK, nalisir claims online",
@@ -4633,7 +4725,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Donald Trump ngirim 5 Juni 2025 kanggo nyerang Elon Musk amarga nggunakake ketamin",
@@ -4653,7 +4747,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Insinyur ing Norwegia nggawe \"es pods\" gawean ngambang kanggo segel kanggo ngganti habitat es laut Arktik sing ilang.",
@@ -4673,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Surya lan angin durung tekan \"3% energi global.\"",
@@ -4693,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Tanggal 6 Mei 2026, menteri evangelis Mark Burns nganakake upacara dedikasi patung emas Presiden AS Donald Trump ing resort Mar-a-Lago Trump ing Florida.",
@@ -4713,7 +4813,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "LA Umume Damai Jihad Musim Panas Cinta Protes Sengaja ngobong Jeep.",
@@ -4733,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Penyanyi lan aktor Cher tau ngandika saka Presiden AS Donald Trump: \"Dheweke iku sawijining ** bolongan. Dheweke dadi mbebayani, lan apa kang ndadekke kanggo negaraku, apa kang awakened ing negaraku iku bigotry lan ora percaya lan jenis tartamtu saka supremasi ing kelompok tartamtu.",
@@ -4753,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Presiden AS Trump nglarang produksi Tesla ing AS sawise kejatuhan karo CEO perusahaan Elon Musk.",
@@ -4773,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kelompok militan Afghan ngelingake ISI, sumpah bakal mbales serangan teror Pahalgam.",
@@ -4793,7 +4901,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Wiwit awal November 2025, pamrentahan Presiden AS Donald Trump wis nggunakake pendapatan tarif $750 yuta kanggo mbiayai Program Nutrisi Tambahan Khusus kanggo Wanita, Bayi, lan Bocah-bocah.",
@@ -4813,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Presiden AS Donald Trump nyaranake para sopir truk sing nggunakake solar kudu ngalih menyang bensin kanggo nyuda biaya bahan bakar.",
@@ -4833,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Pemain tim kriket Bangladesh Mustafizur Rahman njaluk boikot IPL 2026 sawise dijatuhake dening Kolkata Knight Riders (KKR).",
@@ -4853,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Buruh mbalikke 4,400 pemotongan tenaga kesehatan dening LNP.",
@@ -4873,7 +4989,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Serangan Iran ing pangkalan AS ing Riyadh, Arab Saudi.",
@@ -4893,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kejahatan ing Minneapolis \"mudhun 25, 30% amarga kita wis ngilangi ewonan penjahat saka wilayah kasebut.\"",
@@ -4913,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Présidhèn AS Donald Trump ngapura penipu sing lagi nglakoni ukuman amarga nyolong dhuwit luwih akeh tinimbang sing dijupuk ing penipuan kesejahteraan massive ing Minnesota sing nglibatake anggota komunitas Somalia negara.",
@@ -4933,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "wiwit pungkasan perang, rezim Islam wis nangkep 700 wong Yahudi Iran, 1/10 saka kabeh komunitas Yahudi ing Iran. Dheweke salah nuduh dheweke dadi 'agen Mossad' lan nggantung saka crane.",
@@ -4953,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Mantan Presiden AS Barack Obama mbusak dhadha mantan Perdana Menteri Inggris Winston Churchill saka Kantor Oval lan dikirim bali menyang Inggris.",
@@ -4973,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Florida: # 51 ing perawatan kesehatan mental, # 1 ing biaya asuransi omah, # 1 ing penipuan sepuh, # 1 ing kenaikan sewa.",
@@ -4993,7 +5121,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari ujar manawa agen Pakistan lungguh ing Parlemen India.",
@@ -5013,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Wong sing duwe asuransi liwat Undhang-undhang Perawatan Terjangkau bakal weruh \"tambah 75% ing premi wiwit 1 November\" yen subsidi sing ditambah ora ditambahi, kalebu \"kaping pindho ing wilayah deso.\"",
@@ -5033,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Komentar Wakil Menteri Sri Lanka babagan putusan pengadilan ukuman pati",
@@ -5053,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Ing Agustus 2025, Senator Florida Rick Scott ngumumake luwih saka $26 yuta ing perdagangan saham luwih saka setahun luwih saka tenggat wektu sing dibutuhake dening hukum.",
@@ -5073,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ing November 2025, Presiden AS Trump njaluk Departemen Perhubungan kanggo ngenalake silihan mobil 15 taun.",
@@ -5093,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Wong dudu warga AS milih Mamdani ing pemilihan walikota NYC.",
@@ -5113,7 +5253,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Frontman ratu Freddie Mercury ora nyanyi \"dunia\" ing pungkasan lagu band kasebut \"We Are the Champions,\" sing pisanan dirilis ing taun 1977.",
@@ -5133,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Jendral AS George Patton Jr. nate ngendika, \"Muga-muga Gusti Allah melasi marang mungsuhku, amarga aku ora bakal.\"",
@@ -5153,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Presiden sayap wanita AIMIM ngucapake salam marang Deepak Kumar.",
@@ -5173,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Kita wis mbalekake nganti 35 jalur [rel penumpang] sing ora aktif utawa ora aktif.\" - Ramaphosa",
@@ -5193,7 +5341,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Palsu: Bocah cilik Saiki Layak kanggo Kontrak Militer ing Ukraina",
@@ -5213,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi nindakake aarti kanggo Lord Hanuman ing kuil.",
@@ -5233,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Surat sing dienggo bareng online ing Maret 2026 minangka pesen sing asline Joe Kent, kepala Pusat Kontraterorisme Nasional AS, ngumumake mundur amarga perang AS lan Israel ing Iran.",
@@ -5253,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Ing film 1994 \"Forrest Gump,\" karakter utama ngandika, \"Urip iku kaya kothak coklat,\" ora \"Urip iku kaya kothak coklat.\"",
@@ -5273,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Suplemen nambah GLP-1 lan mbantu resistensi insulin",
@@ -5293,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ngandika dheweke wis mimpin upaya House kanggo mbangun fasilitas semikonduktor Micron gedhe cedhak Syracuse.",
@@ -5313,7 +5473,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "benturan antarane menteri BJP lan kolektor distrik ing Uttar Pradesh",
@@ -5333,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sekretaris Pertahanan AS Pete Hegseth ngandika: \"Iku kesel kanggo katon metu ing formasi pertempuran, utawa tenan formasi apa wae, lan ndeleng pasukan lemak. Kajaba iku, iku pancene ora biso ditompo kanggo ndeleng jenderal lemak lan admiral ing aula Pentagon lan anjog printah ing saindhenging negara lan donya.",
@@ -5353,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Memo pamrentah AS sing bocor dikonfirmasi manawa pamrentahan Presiden AS Donald Trump nyoba \"watesan perjalanan internal\" ing wates negara ing pertengahan 2025.",
@@ -5373,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Polisi: Aktivis Politik Ora Nimbulake Kebakaran liar ing Oregon",
@@ -5393,7 +5561,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Visual nuduhake ledakan Benteng Merah Delhi sing kedadeyan ing 10 November 2025.",
@@ -5413,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Survei nemokake mung 23% wong Amerika sing bisa nuding Iran ing peta.",
@@ -5433,7 +5605,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Wong Arkansas ngakoni guilty kanggo mbebayani anak sawise impregnating cah wadon 15 taun, ngindhari wektu kunjara.",
@@ -5453,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Kiriman salah nuduhake laporan riset Kongres AS kanggo ngrusak presiden Korea Selatan",
@@ -5473,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Aktor Helen Hunt menehi hadiah marang guru nalika isih cilik, \"Miss Eleanor,\" $ 3 yuta saka kamenangan Oscar sawise guru kasebut kelangan pakaryan amarga menehi tutor ekstra kanggo mbantu Hunt karo disleksia.",
@@ -5493,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kiriman media sosial viral sing dituduhake ing taun 2024 kanthi akurat nggambarake Paul McCartney sing tuku layang saka pernikahane John Lennon sing sepisanan lan bali menyang mantan garwane Lennon kanthi cathetan sing ngandhani supaya ora ngedol kenangan.",
@@ -5513,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Donald Trump tweeted manawa dheweke nyumbang $ 500,000 saben kanggo biaya loro timbalan sheriff Los Angeles County sing ditembak lan tatu kritis ing 12 September 2020.",
@@ -5555,7 +5737,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nalika isih enom, Presiden Lee Jae-myung didakwa amarga rudo pekso lan pembunuhan.",
@@ -5575,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Anggota parlemen Indiana nyoba nggawe undang-undang sing ngidini negara ngeksekusi wong liwat kamar gas lan regu tembak.",
@@ -5595,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Italia ora ngidini perwira SSU ngiringi tim Ukrainia ing Olimpiade - Reuters",
@@ -5615,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Amarga kritik Imran Khan marang komentar Macron babagan Islam, panguwasa Prancis mbatalake visa 183 warga Pakistan lan ngusir 118 saka negara kasebut.",
@@ -5635,7 +5825,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ing taun 2022, Jaksa Agung Virginia sing dipilih Jay Jones ngirim pesen teks kasar babagan mantan Ketua Dewan Perwakilan Virginia Todd Gilbert lan anak-anake.",
@@ -5655,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Sedina sadurunge mundur kanthi kaget, mantan wakil presiden Jagdeep Dhankhar kanthi cepet nanggapi pratelan presiden Kongres Mallikarjun Kharge ing Rajya Sabha yen dheweke wedi karo pamrentah. \"Babagan pratelan iki bakal dibusak. Kenapa? Amarga petani India lan anak-anake ora wedi karo sapa wae ing kahanan apa wae, \"ujare Dhankhar.",
@@ -5675,7 +5869,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Utang umum kira-kira udakara 67% nganti saiki GDP.\"",
@@ -5695,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Mantan Presiden AS Barack Obama \"menehi\" Iran $ 1,7 milyar ing awis ing 2016, ngirim pallets dhuwit kanggo negara.",
@@ -5715,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Prentah eksekutif Juli 2025 saka Presiden AS Donald Trump tujuane \"melembagaake sapa wae sing cacat.\"",
@@ -5735,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Presiden AS Donald Trump nggawe transfer kabel 4,725 menyang pemodal sing pungkasan, disruput lan pelanggar seks Jeffrey Epstein kanthi total $ 1,1 milyar.",
@@ -5755,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Pamrentah sementara sing dipimpin Muhammad Yunus ing Bangladesh mbatalake preian kanggo festival Hindu utama, kalebu Durga Puja, Janmashtami, lan Saraswati Puja.",
@@ -5775,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nalika kamardikan, Nigeria nduwe populasi 45 yuta.",
@@ -5795,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nigeria minangka produser utama singkong ing Afrika lan donya.",
@@ -5815,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Ing 2025, Imigrasi lan Penegak Bea Cukai AS nawakake karyawan anyar gaji $100,000 ing ndhuwur bonus penandatanganan $45,000, luwih akeh tinimbang sing ditindakake dening guru ing Amerika Serikat.",
@@ -5835,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"Kasongo teka lan mbuwang sistem kasebut lan nggawa barang sing diarani SHA lan SHIF kanthi biaya KSh104 milyar.\"",
@@ -5855,7 +6067,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Ing Desember 2025, Departemen Kehakiman AS nerbitake tip FBI ing ngendi wong sing ngeluh miturut omongane uwong Presiden Donald Trump nyekseni pamane mateni bayi sing nembe lair lan mbuwang mayat ing Lake Michigan nalika umure 13 taun lan diperdagangkan kanggo jinis dening Jeffrey Epstein.",
@@ -5875,7 +6089,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Patung Gandhi dirusak ing Thiruvananthapuram sawise BJP dadi kuwasa ing perusahaan kutha.",
@@ -5895,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Palsu: Penasihat Zelensky Chrystia Freeland Iku Keturunan Kolaborator Nazi",
@@ -5915,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Ing pungkasan taun 2025, Departemen Pendidikan ujar manawa ora bakal nggolongake kredensial kasebut minangka gelar profesional: pendhidhikan (kalebu gelar master ngajar), keperawatan (MSN, DNP), kerja sosial (MSW, DSW), kesehatan umum (MPH, DrPH), asisten dokter, terapi kerja, terapi fisik, audiologi, patologi wicara lan gelar konseling lan terapi.",
@@ -5935,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Ekonomi iki mesthi dudu ekonomi $ 188 milyar - paling ora ekonomi $ 350 milyar.\"",
@@ -5955,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Banyu godhong sirih kanthi cengkeh bisa nambani bau mulut.",
@@ -5975,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ing Maret 2026, Jenderal Prancis Michel Yakovleff, sing njabat ing posisi pimpinan ing NATO, ujar manawa Prancis mbantu AS kanggo ngamanake Selat Hormuz bakal padha karo \"tuku tiket murah menyang Titanic.\"",
@@ -5995,7 +6221,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"Uganda duwe entri, udakara 1,2 yuta turis sing mlebu.\"",
@@ -6015,7 +6243,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "George Stephanopoulos, host saka ABC \"Minggu Iki,\" nyetop wawancara karo Wakil Presiden AS JD Vance sawise Vance nolak pitakonan babagan tsar tapel wates Tom Homan.",
@@ -6035,7 +6265,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Karyawan Inggris sing ora bisa kerja ing wilayah tingkat 3 bakal entuk kombinasi Skema Dhukungan Kerja lan Kredit Universal, sing tegese entuk 80% saka upah.",
@@ -6055,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Penjabat kepala petugas keamanan ing Departemen Keamanan Dalam Negeri AS wiwit Maret 2026 dijenengi Iwona B. Horyn.",
@@ -6075,7 +6309,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Negara Edo ing Nigeria nduweni tingkat pengangguran 19%.",
@@ -6095,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Wong tuwane wanita pertama Melania Trump teka ing Amerika Serikat liwat sponsor adhedhasar kulawarga, uga diarani kanthi derogatif minangka \"migrasi rantai.\"",
@@ -6115,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "China plans kanggo nglarang telpon Samsung liwat ditempelake 'unremovable Israel spyware",
@@ -6135,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Visual nuduhake para demonstran Nepal mlaku kanggo ndhukung Modi",
@@ -6155,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Iklan saka pamaréntah Ontario, Kanada, \"misrepresents\" Presiden Ronald Reagan 25 April 1987, alamat bab tariffs.",
@@ -6175,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Sajrone mangsa Gov. Hochul, ana \"luwih akeh kejahatan ing lurung-lurung kita.\"",
@@ -6195,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Amit Shah ujar manawa influencer media sosial saka kabeh pihak urip kanthi jatah 5kg.",
@@ -6215,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Agen Imigrasi lan Bea Cukai AS sing nembak lan mateni Renee Nicole Good ing Minneapolis tanggal 7 Januari 2026, jenenge Steve Grove.",
@@ -6235,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Organisasi nirlaba konservatif Turning Point USA ngumumake alternatif pertunjukan paruh waktu Super Bowl 2026.",
@@ -6255,7 +6507,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Megan Byron, garwane mantan CEO Astronomer Andy Byron, sing miturut omongane uwong dicethakaké dening tampilan cam kiss nalika konser Coldplay ing Juli 2025, nerbitaké statement sumpah CEO bakal \"ngrasakake\" tumindak.",
@@ -6275,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Bom infrastruktur kekuwatan sipil minangka kejahatan perang.\"",
@@ -6295,7 +6551,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Pusat data sing diusulake ing negara bagian New York bakal nggunakake \"kira-kira tikel kaping pindho panggunaan energi kabeh rumah tangga ing negara gabungan.\"",
@@ -6315,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Ing Maret 2026, Presiden AS Donald Trump ujar babagan Putra Mahkota Arab Saudi Mohammed bin Salman, \"Dheweke ora ngira yen dheweke bakal ngambung a**ku.\"",
@@ -6335,6 +6595,8 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]

@@ -4241,7 +4241,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2026年のホワイトハウス記者協会晩餐会襲撃事件の容疑者であるコール・トーマス・アレンは、登録済みの民主党員であり、カマラ・ハリス元副大統領の2024年大統領選キャンペーンに献金していた。",
@@ -4261,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "人工知能の分野では、「我々は中国を大きくリードしている」。",
@@ -4281,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "1943年のクリスマスランチの席で、ベルギーに駐在していたカナダ人修道女が、ナチス将校45人のスープにヒ素を混入させ、彼らを毒殺した。",
@@ -4301,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ブラック・ライブズ・マターは核家族を破壊しようとしている。",
@@ -4321,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "俳優のシャー・ルク・カーンとサンジャイ・ダットは、ビハール州首相のニティシュ・クマールを批判し、ヒジャブをめぐる論争について謝罪を要求した。",
@@ -4341,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "偽情報：ウクライナ難民がルーブル美術館を強盗した",
@@ -4361,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ヴィラット・コーリとロヒット・シャルマが最新のICCワンデイ国際試合打撃ランキングから除外され、引退の憶測が広がっている。",
@@ -4381,7 +4395,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "スワミ・プラサード・マウリヤに続き、BJP所属の州議会議員ヨゲシュ・ヴェルマも平手打ちされる",
@@ -4401,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年9月に流布した音声は、ノースカロライナ州で実際に911番にかけられた通報の音声で、通報者が「あれは人間じゃない」と叫んでいるのが聞こえた。",
@@ -4421,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年6月に発生したイスラエル・イラン紛争の実際の映像。",
@@ -4441,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2021年1月6日、ワシントンD.C.では約274人のFBI潜入捜査官が群衆の中に紛れ込み、米国議会議事堂での暴動につながる暴力行為を扇動した。",
@@ -4461,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "エイミー・コニー・バレット氏の最高裁判事指名は、2020年10月に承認される予定だが、その承認を左右する上院の多数派は、少数派政党よりも1500万人少ない人口を代表している。",
@@ -4481,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "人工知能データセンターは「電気料金を30～40％押し上げ」、「1日に50万ガロンもの水を消費する」。",
@@ -4501,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "米国の研修医の30％は海外の医学部卒業生であり、4万3000人の研修医枠のうち1万人はH-1Bビザ保持者によって占められている。",
@@ -4521,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ドナルド・トランプ米大統領は、ファストフードチェーンのマクドナルドのイベントで演説し、「天から降ってくる」水の使用制限について不満を述べ、「手を洗いたいですか？それとも、私のように髪を洗いたいですか？泡立てて洗うと…水がないんです。…トイレの3つ目の項目については、いつも批判されるので触れません。…私が何を言っているのか分からないなら、マクドナルドのフランチャイズを経営する資格はありません」と語った。",
@@ -4541,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "バレン・シャー氏がネパールの新首相に就任",
@@ -4561,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2016年、当時共和党の大統領候補だったテキサス州選出のテッド・クルーズ上院議員は、「もしドナルドが大統領だったら、ある朝目覚めたらデンマークに核攻撃を仕掛けていたかもしれない」と述べた。",
@@ -4581,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "「カリフォルニア州は連邦政府から受け取る額より831億ドル多く拠出している。テキサス州は？連邦政府に拠出する額より711億ドル多く受け取っている。米国のGDPの71%は民主党支持の郡から生み出されている。」",
@@ -4601,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "インド陸軍参謀総長のウペンドラ・ドゥイヴェディ大将は、パキスタンとの最近の紛争において、管理ライン沿いで250人の兵士が殉職したことを認めた。",
@@ -4621,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ハーディク・パンディヤ氏が2025年アジアカップを前に死去",
@@ -4641,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "議会は憲法第1条第9項および第10項をウェブサイトから削除した。",
@@ -4661,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "事実確認：貿易協定による税制優遇措置は、ネット上の主張とは異なり、英国在住のインド人労働者全員に適用されるわけではない。",
@@ -4681,7 +4725,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ドナルド・トランプは2025年6月5日、ケタミン使用をめぐりイーロン・マスクを攻撃する投稿をした。",
@@ -4701,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ノルウェーの技術者たちは、アザラシの生息地である北極海の海氷が減少するのを補うため、アザラシ用の人工浮遊式「氷のポッド」を開発した。",
@@ -4721,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "太陽光発電と風力発電は「世界のエネルギーの3％」にはまだ達していない。",
@@ -4741,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2026年5月6日、福音派牧師のマーク・バーンズは、フロリダ州にあるトランプ氏のマール・ア・ラゴ・リゾートで、ドナルド・トランプ米大統領の黄金像の除幕式を行った。",
@@ -4761,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ロサンゼルスで「愛の夏」を掲げる平和的なジハード運動の参加者たちが、故意にジープに火を放つ。",
@@ -4781,7 +4835,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "歌手で女優のシェールはかつて、ドナルド・トランプ米大統領についてこう語った。「彼はろくでなしよ。とても危険な人物だし、彼が私の国にもたらしたもの、私の国で目覚めさせたものは、偏見と不信感、そして特定の集団におけるある種の優越感なのよ。」",
@@ -4801,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "トランプ米大統領は、テスラのイーロン・マスクCEOとの対立を受け、米国内でのテスラ車の生産を禁止した。",
@@ -4821,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "アフガニスタンの武装勢力がパキスタン軍統合情報局（ISI）に警告を発し、パハルガムでのテロ攻撃への報復を誓った。",
@@ -4841,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年11月初旬の時点で、ドナルド・トランプ米大統領政権は、関税収入7億5000万ドルを女性・乳幼児・児童向け特別栄養補助プログラムの資金として活用していた。",
@@ -4861,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ドナルド・トランプ米大統領は、ディーゼル燃料を使用しているトラック運転手は燃料費削減のためにガソリンに切り替えるべきだと示唆した。",
@@ -4881,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "バングラデシュのクリケット代表選手、ムスタフィズル・ラフマンは、コルカタ・ナイトライダーズ（KKR）からメンバーから外されたことを受け、IPL 2026のボイコットを呼びかけた。",
@@ -4901,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "労働党は、自由国民党（LNP）による4400人の医療従事者削減を覆した。",
@@ -4921,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "イランによるサウジアラビアのリヤドにある米軍基地への攻撃。",
@@ -4941,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ミネアポリスの犯罪率は「数千人の犯罪者を地域から排除したおかげで、25～30％減少した」。",
@@ -4961,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ドナルド・トランプ米大統領は、ミネソタ州で発生したソマリア系住民が関与した大規模な福祉詐欺事件で盗まれた金額をはるかに上回る金額を盗んだ罪で服役していた詐欺師に恩赦を与えた。",
@@ -4981,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "戦争終結以来、イスラム政権はイランのユダヤ人コミュニティ全体の10分の1にあたる700人のイラン系ユダヤ人を逮捕した。彼らは「モサドのスパイ」だと虚偽の告発をし、クレーンで吊るして処刑している。",
@@ -5001,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "バラク・オバマ前米大統領は、ホワイトハウスの大統領執務室からウィンストン・チャーチル元英国首相の胸像を取り外し、英国に送り返した。",
@@ -5021,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "フロリダ州：精神医療費で51位、住宅保険料で1位、高齢者詐欺で1位、家賃値上げで1位。",
@@ -5041,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ビラワル・ブット・ザルダリ氏は、パキスタンの工作員がインド議会に居座っていると述べた。",
@@ -5061,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "医療費負担適正化法（オバマケア）に基づく保険に加入している人々は、補助金の増額が延長されない場合、「11月1日から保険料が75％値上がりする」ことになり、「地方ではその2倍の値上がりとなる」。",
@@ -5081,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "スリランカ副大臣による死刑判決に関するコメント",
@@ -5101,7 +5187,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年8月、フロリダ州選出のリック・スコット上院議員は、法律で定められた期限から1年以上遅れて、2600万ドルを超える株式取引を公表した。",
@@ -5121,7 +5209,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025年11月、トランプ米大統領は運輸省に対し、15年間の自動車ローンを導入するよう要請した。",
@@ -5141,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ニューヨーク市長選挙でアメリカ国民ではない男性がマムダニに投票。",
@@ -5161,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "クイーンのフロントマン、フレディ・マーキュリーは、1977年に初めてリリースされたバンドの楽曲「伝説のチャンピオン」の最後に「世界の」とは歌っていなかった。",
@@ -5181,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "U.S. Gen. George Patton Jr. once said, \"May God have mercy upon my enemies, because I won't.\"",
@@ -5201,7 +5297,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "The president of the AIMIM women’s wing felicitates Deepak Kumar.",
@@ -5221,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"We have already recovered up to 35 [passenger rail] lines that were either dormant or nonfunctional.\" – Ramaphosa",
@@ -5241,7 +5341,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Fake: Minors Now Eligible for Military Contracts in Ukraine",
@@ -5261,7 +5363,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi performing aarti for Lord Hanuman in a temple.",
@@ -5281,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "A letter shared online in March 2026 is authentically a message in which Joe Kent, head of the U.S. National Counterterrorism Center, announced his resignation over the U.S. and Israel's war on Iran.",
@@ -5301,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "In the 1994 film \"Forrest Gump,\" the main character says, \"Life was like a box of chocolates,\" not \"Life is like a box of chocolates.\"",
@@ -5321,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Supplement boosts GLP-1 and helps with insulin resistance",
@@ -5341,7 +5451,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Said she has led the House effort to build a large Micron semiconductor facility near Syracuse.",
@@ -5361,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "a clash between a BJP minister and a district collector in Uttar Pradesh",
@@ -5381,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ピート・ヘグセス米国防長官は、「戦闘部隊、いや、どんな部隊でも、太った兵士ばかりを見るのはうんざりする。同様に、ペンタゴンの庁舎や国内外の司令部で太った将軍や提督を見るのは全く容認できない」と述べた。",
@@ -5401,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "流出した米国政府のメモによると、ドナルド・トランプ米大統領政権は2025年半ばに、米国内で「国内旅行制限」を試験的に導入する予定だったことが確認された。",
@@ -5421,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "警察：オレゴン州の山火事は政治活動家が原因ではない",
@@ -5441,7 +5561,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "この映像は、2025年11月10日に発生したデリーのレッドフォート爆破事件を描いている。",
@@ -5461,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ある調査によると、地図上でイランの位置を指し示すことができるアメリカ人はわずか23％だった。",
@@ -5481,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "アーカンソー州の男性が15歳の少女を妊娠させたとして児童虐待の罪を認め、刑務所行きを免れた。",
@@ -5501,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "米議会の調査報告書を歪曲して韓国大統領の信用を失墜させる投稿",
@@ -5521,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "女優のヘレン・ハントは、幼い頃の教師である「ミス・エレノア」に、アカデミー賞の賞金から300万ドルを贈った。この教師は、ハントの失読症を克服するために特別指導を行ったことで職を失った。",
@@ -5541,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2024年に拡散されたソーシャルメディアの投稿は、ポール・マッカートニーがジョン・レノンの最初の結婚相手からの手紙を買い取り、それをレノンの元妻に返送する際に、「思い出を売らないで」というメモを添えたという内容を正確に描写していた。",
@@ -5561,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ドナルド・トランプ氏は、2020年9月12日に銃撃を受けて重傷を負ったロサンゼルス郡保安官代理2名の治療費として、それぞれ50万ドルを寄付するとツイートした。",
@@ -5603,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "李在明大統領は10代の頃、強姦と殺人の罪で有罪判決を受けていた。",
@@ -5623,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "インディアナ州の議員たちは、州がガス室や銃殺隊による死刑執行を可能にする法案を可決しようと試みた。",
@@ -5643,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "イタリアは、SSU（特別保安部隊）の隊員がオリンピックでウクライナ代表チームに同行することを認めなかった ― ロイター通信",
@@ -5663,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "イムラン・カーン首相がマクロン大統領のイスラム教に関する発言を批判したことを受け、フランス当局はパキスタン国民183人のビザを取り消し、118人を国外追放した。",
@@ -5683,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2022年、バージニア州司法長官に選出されたジェイ・ジョーンズは、バージニア州下院議長を務めたトッド・ギルバートとその子供たちについて、暴力的な内容のテキストメッセージを送信した。",
@@ -5703,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "衝撃的な辞任の前日、ジャグディープ・ダンカール元副大統領は、ラージヤ・サバー（上院）でインド国民会議派のマリカルジュン・カルゲ総裁が政府を恐れていると述べたことに対し、鋭く反論した。「この発言は削除されるだろう。なぜなら、インドの農民とその息子たちは、いかなる状況下でも誰にも恐れを抱かないからだ」とダンカール氏は述べたとされる。",
@@ -5723,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "「公的債務は現在までにGDPの約67％に達している。」",
@@ -5743,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "バラク・オバマ元米大統領は2016年、イランに17億ドルの現金を「供与」し、パレットいっぱいの現金をイランに送った。",
@@ -5763,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ドナルド・トランプ米大統領が2025年7月に出した大統領令は、「障害のある者を全員施設に収容する」ことを目的としている。",
@@ -5783,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ドナルド・トランプ米大統領は、故ジェフリー・エプスタイン（不名誉な金融家で性犯罪者として有罪判決を受けた人物）に対し、総額11億ドルに上る4,725回の電信送金を行っていた。",
@@ -5803,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ムハマド・ユヌス率いるバングラデシュの暫定政権は、ドゥルガー・プージャ、ジャナシュタミ、サラスワティ・プージャなど、ヒンドゥー教の主要な祭りの祝日を取り消した。",
@@ -5823,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "独立当時、ナイジェリアの人口は4500万人だった。",
@@ -5843,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ナイジェリアはアフリカおよび世界最大のキャッサバ生産国である。",
@@ -5863,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年、米国移民税関執行局は、新規採用者に対し、4万5000ドルの契約ボーナスに加えて10万ドルの給与を提示した。これは、米国の教師の給与をはるかに上回る額である。",
@@ -5883,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "「カソンゴ氏が就任し、その制度を廃止して、SHAとSHIFと呼ばれる制度を導入したが、その費用は1040億ケニアシリングに上った。」",
@@ -5903,7 +6067,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年12月、米国司法省はFBIからの情報提供を公表した。その情報提供によると、告発者は、13歳の時にジェフリー・エプスタインによって性的搾取を受けていた際、ドナルド・トランプ大統領が自分の叔父が生まれたばかりの子供を殺害し、遺体をミシガン湖に遺棄するのを目撃したと主張していた。",
@@ -5923,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "インド人民党（BJP）がティルヴァナンタプラム市議会で政権を握った後、同市でガンジー像が破壊された。",
@@ -5943,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "偽情報：ゼレンスキー大統領顧問のクリスティア・フリーランドはナチス協力者の子孫である",
@@ -5963,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年後半、教育省は、教育（教員養成修士号を含む）、看護（MSN、DNP）、ソーシャルワーク（MSW、DSW）、公衆衛生（MPH、DrPH）、医師助手、作業療法、理学療法、聴覚学、言語聴覚療法、カウンセリングおよびセラピーの学位を、専門職学位として分類しなくなると発表した。",
@@ -5983,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "「この経済規模は決して1880億ドルの経済規模ではない。少なくとも3500億ドルの経済規模だ。」",
@@ -6003,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "キンマの葉とクローブを混ぜた水は、口臭を抑えるのに効果がある。",
@@ -6023,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026年3月、NATOで指導的立場を務めたフランスのミシェル・ヤコブレフ将軍は、フランスが米国によるホルムズ海峡の安全確保を支援することは、「タイタニック号の格安チケットを買うようなものだ」と述べた。",
@@ -6043,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "「ウガンダには年間約120万人の観光客が訪れます。」",
@@ -6063,7 +6243,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ABCの番組「ディス・ウィーク」の司会者ジョージ・ステファノプロスは、JD・ヴァンス米副大統領が国境警備責任者トム・ホーマンに関する質問をはぐらかしたため、ヴァンス氏とのインタビューを打ち切った。",
@@ -6083,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "英国の従業員で、ティア3地域で働くことができない場合は、雇用支援制度とユニバーサル・クレジットの組み合わせによる給付を受けられ、賃金の80％を受け取ることになる。",
@@ -6103,7 +6287,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026年3月時点で、米国国土安全保障省の暫定最高セキュリティ責任者はイウォナ・B・ホリン氏に任命された。",
@@ -6123,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ナイジェリアのエド州の失業率は19％である。",
@@ -6143,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "メラニア・トランプ大統領夫人の両親は、家族を基盤とした移民制度、いわゆる「連鎖移民」と呼ばれる制度を通じて米国に移住した。",
@@ -6163,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "中国は、サムスン製スマートフォンに「削除不可能なイスラエル製スパイウェア」が埋め込まれているとして、サムスン製スマートフォンの販売禁止を計画している。",
@@ -6183,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "映像には、モディ首相を支持するネパールの抗議デモ参加者の姿が映っている。",
@@ -6203,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "カナダのオンタリオ州政府が出した広告が、ロナルド・レーガン大統領が1987年4月25日に行った関税に関する演説を「誤って伝えている」。",
@@ -6223,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ホーチュル知事の在任期間中、「街頭での犯罪が増加した」。",
@@ -6243,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "アミット・シャー氏は、あらゆる政党のソーシャルメディア・インフルエンサーたちが5キロの配給食で生活していると述べた。",
@@ -6263,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026年1月7日にミネアポリスでレネー・ニコール・グッドを射殺した米国移民税関捜査局の捜査官は、スティーブ・グローブという名前だった。",
@@ -6283,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "保守系の非営利団体であるターニング・ポイントUSAは、2026年のスーパーボウルのハーフタイムショーの代替案を発表した。",
@@ -6303,7 +6507,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025年7月のコールドプレイのコンサート中にキス・カムの映像によって不倫が発覚した、元天文学者CEOアンディ・バイロンの妻、メーガン・バイロンは、CEOは自分の行いの報いを受けるだろうと誓う声明を発表した。",
@@ -6323,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "「民間電力インフラへの爆撃は戦争犯罪である。」",
@@ -6343,7 +6551,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ニューヨーク州で計画されているデータセンターは、「州内の全世帯のエネルギー消費量の約2倍」のエネルギーを消費するだろう。",
@@ -6363,7 +6573,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026年3月、ドナルド・トランプ米大統領はサウジアラビアのムハンマド・ビン・サルマン皇太子について、「彼は自分が私の尻にキスすることになるとは思っていなかっただろう」と述べた。",
@@ -6383,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]

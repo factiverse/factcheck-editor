@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2020년 인구 조사 이후 플로리다는 \"민주당 다수에서 150만 명 이상의 공화당 우위로 바뀌었습니다.\"",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"2025년 세입 분배법에 따라 우리는 전례 없는 4,150억 케냐 실링을 각 카운티에 배정했는데, 이는 작년 배정액보다 거의 300억 케냐 실링 더 많은 금액입니다.\"",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "보바에르와 덴마크 소 농장에 대해 우리가 알고 있는 것",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "수감 중인 파키스탄 전 총리 임란 칸의 여동생 알리마 카눔은 스카이 뉴스 인터뷰에서 파키스탄 육군 참모총장 아심 무니르를 인도와의 전쟁을 갈망하는 \"극단주의 이슬람주의자\"라고 비난했다.",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "최근 스페인의 가뭄으로 인해 이집트 피라미드보다 오래된 7,000년 된 거석 기념물이 드러났습니다.",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 캘리포니아 주지사 개빈 뉴섬을 \"미국 대통령, 개빈 뉴섬\"이라고 불렀다.",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 12월, 미국과 팔라우는 미국이 범죄와 무관한 추방자 최대 75명을 팔라우로 보낼 수 있도록 하는 750만 달러 규모의 협정을 체결했습니다.",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "말린 코코넛은 구내염을 치료할 수 있습니다.",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "나이지리아의 독립 당시 도시 인구는 약 700만 명이었다.",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "월그린은 2025년 8월경부터 흑인 전용 인사 카드 브랜드인 홀마크 마호가니 카드를 판매하기 시작했습니다.",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "가짜 뉴스: 우크라이나가 전쟁연구소에 뇌물을 주려 했다",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "사실 확인: 영국에서 LGBTQ+ 기념 행사에 대한 자금 지원이 중단되고 있다는 주장에 핵심적인 맥락이 누락되어 있습니다.",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "케랄라주 구루바유르 기차역의 휴게실 침대를 온라인으로 예약하려던 한 승객은 빈방이 없다는 안내를 받았음에도 불구하고, 막상 가보니 휴게실이 완전히 비어 있는 것을 발견했습니다.",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "미국 육군 참전 용사의 아들로 독일의 군사 기지에서 태어난 저메인 토마스는 자메이카로 추방당했습니다.",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 8월, 도널드 트럼프 미국 대통령은 성조기 소각 행위를 1년 징역형에 처할 수 있도록 하는 행정 명령에 서명했습니다.",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "주택 가격이 비싼 이유는 \"3천만 명의 불법 이민자들이 나라에 쏟아져 들어왔기 때문\"이며, 또 주택 부족 현상 때문이기도 합니다.",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "독일 함부르크에서는 무슬림들이 음악 수업을 금지하는 것을 금지법(하람)으로 규정하고 있습니다.",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 12월 중순, 도널드 트럼프 미국 대통령은 미국 전역의 주와 자치령 출신 젊은 남녀들이 참가하는 4일간의 육상 경기 대회인 패트리어트 게임을 발표했습니다.",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 12월 백악관 내각 회의에서 피트 헤그세스 미국 국방장관의 명패에 직함이 \"전쟁부 장관(Secretary of War)\"으로 잘못 표기되었다.",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "인도 국가정보국(NIA)은 '사랑 지하드'와 테러와 같은 '반국가적' 활동을 신고할 수 있는 헬프라인을 개설했습니다.",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"나이지리아의 무역 흑자는 2025년 2분기에 44.3% 증가하여 7조 4600억 나이라(47억 4천만 달러)를 기록했습니다...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미국인 중 약 3%만이 농업에 종사하고 있습니다.",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"우리는 2주 전에 가자지구 식량 지원을 위해 6천만 달러를 제공했습니다.\"",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 과거 어머니의 날을 맞아 \"모든 어머니들께, 특히 한때 위대했던 우리 나라를 파괴하고 말살하기 위해 온갖 수단을 동원하는 급진 좌파 파시스트, 마르크스주의자, 공산주의자들의 어머니, 아내, 연인들에게 행복한 어머니의 날을 기원합니다.\"라는 메시지를 게시한 적이 있습니다.",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "프론트라인 매거진 표지, 투표를 앞두고 타밀나두에서 비자이의 물결이 일어날 것이라고 예측",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "서벵골 주지사 마마타 바네르지는 국가를 모욕하는 행위를 하고 국가가 끝나기도 전에 무대를 떠났다.",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "사실 확인: 영국인의 1%가 출산 직전까지 낙태 합법화를 지지한다는 주장에 핵심적인 맥락이 누락되었습니다.",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미네소타주에서는 총기 소지 허가증을 소지한 사람은 시위 현장에서 장전된 총기를 휴대할 수 있습니다.",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "폭스 뉴스는 플로리다의 한 남성이 자신이 지출을 승인하지 않았다는 이유로 세금 납부를 거부하고 있다고 보도했습니다.",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 6월 5일, 운전 중 휴대전화 사용을 금지하는 \"휴대전화 사용 금지법\"이 미국 31개 주에서 발효되었습니다.",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2000년, 미주리주의 한 남성은 13년형을 선고받았지만, 행정 착오로 인해 13년이 지나서야 복역을 시작했습니다.",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "1892년, 로널드 맥도날드라는 이름의 떠돌이가 미국 중서부 지역의 박람회장에서 12명의 어린이를 살해했고, 이 사건은 오늘날 맥도날드 패스트푸드 체인의 마스코트인 동명의 캐릭터에 영감을 주었습니다.",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "정부는 니미샤 프리야를 돕기 위해 8천만 루피(약 8천만 원)를 모금하는 기부 캠페인을 시작했습니다.",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "수닐 가바스카르는 \"비랏 코흘리는 봉쇄 기간 동안 아누슈카 샤르마의 공만 가지고 훈련했다\"고 말했다.",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "과학자이자 교육자인 칼 세이건은 \"오류가 있는 논증을 치료하는 방법은 아이디어를 억압하는 것이 아니라 더 나은 논증을 제시하는 것이다\"라고 말했습니다.",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "이스라엘에서 공개된 영상에는 최근 이란의 공격으로 불타는 모사드 본부의 모습이 담겨 있습니다.",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "한국 경찰은 서울에서 중국 공안 요원이 활동하고 있다는 신고는 없다고 밝혔습니다.",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "싱어송라이터 조쉬 그로반은 도널드 트럼프 미국 대통령이 한 밴드에게 유명한 노래 \"You Raise Me Up\"을 연주해달라고 요청한 것에 대해 항의했다.",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "AP 싱 공군참모총장은 테자스 전투기에 대해 중앙 정부에 경고했으며, 인도 공군 조종사들을 훈련을 위해 파키스탄으로 파견할 것이라고 밝혔습니다.",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "국민당 대표 주디스 콜린스가 경찰부 장관으로 재임했을 당시 경찰 인력은 감소했다.",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "동부 부르드완의 만카르 숲에서 걷는 벵골 호랑이",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 8월, 전문가들은 콜로라도주 포트 콜린스에서 목격된, 얼굴에 촉수나 뿔이 달린 감염된 \"프랑켄슈타인 토끼\"들이 미국을 \"침략\"했다고 경고했습니다.",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "예멘 당국이 케랄라 출신 간호사 니미샤 프리야에 대한 사형 선고를 취소했다.",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "서벵골주 경찰이 모래와 돌을 가득 실은 트럭을 막지 못하자 돌을 던지고 있다.",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "러시아 지진을 경고하는 좌초된 고래 사진 등 근거 없는 게시물이 온라인에 확산되고 있습니다.",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "파상풍은 과산화수소로 치료할 수 있으며 동물을 통해서만 감염됩니다.",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "샤룩 칸은 반대에도 불구하고 무스타피주르 라흐만이 KKR에서 뛸 것이라고 밝히며, 기업가 가우탐 아다니를 비판했다.",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 3월 4주 동안 시카고에서 사망한 미국인의 수는 미국과 이스라엘이 이란을 상대로 전쟁을 발발한 이후 전사한 미국인의 수보다 많습니다.",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "최초의 스노우볼은 누군가가 더 밝은 조명을 만들려고 하다가 우연히 만들어졌습니다.",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 12월, 미국 상원 소수당 대표인 척 슈머는 뉴욕주 버팔로의 NFL 팀을 언급하며 \"빌스 파이팅!\"이라고 말한 후, 호주 시드니와 브라운 대학교에서 발생한 총격 사건에 대해 언급했습니다.",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미국 올림픽 남자 아이스하키 대표팀 선수들은 2026년 2월 백악관 방문 기간 동안 맥도날드 패스트푸드를 제공받았습니다.",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "연구 결과에 따르면 2100년까지 국내총생산(GDP) 성장률이 62% 둔화될 것으로 나타났습니다.",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "인스타그램 사용자 'bjeshruchi'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "사실 확인: 캘리포니아에서 발견된 '인간 가죽 곰인형'은 살점이 아닌 라텍스로 만들어졌습니다.",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "텍사스주는 2025년 9월부터 노숙 학생들의 정학 처분을 시작할 예정입니다.",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "애플의 수석 디자이너인 존 용푹은 iOS 26의 새로운 '리퀴드 글래스' 디자인 공개 이후 해고당했다.",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "HAARP 기상 관측소의 연구가 허리케인 에린의 원인입니다.",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "터닝 포인트 USA의 CEO이자 공동 설립자인 찰리 커크는 다음과 같이 말했습니다. \"수정헌법 제2조는 사냥이나 자기방어를 위한 것이 아닙니다. 만약 정부가 폭정으로 변하여 시민들을 탄압하는 불상사가 발생할 경우, 자유로운 사람들이 스스로를 방어할 수 있도록 보장하기 위한 것입니다.\"",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"Karte seksalice\"는 자그레브 초등학교의 보건 수업에서 사용될 예정입니다.",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "오하이오주는 공연자나 연예인의 생물학적 성별과 다른 성 정체성을 암시하는 화장, 의상 또는 보철 신체 부위를 착용하는 것을 범죄로 규정하는 법을 통과시켜 사실상 공개적인 드래그 쇼를 금지했습니다.",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "아미트 샤 연방 장관이 2025년 독립기념일에 국기를 게양하는 도중 국기를 떨어뜨리고 있다.",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 12월, 도널드 트럼프 미국 대통령은 자신의 뇌 자기공명영상(MRI) 검사 결과 \"아무것도 발견되지 않았다\"고 발표했습니다.",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"미국은 트럼프 대통령 재임 시절인 2020년에 아이스크림 무역에서 흑자를 기록했지만, 바이든 대통령 재임 기간에는 4060만 달러의 무역 적자로 전환되었습니다.\"",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 6월 미네소타주 민주당 소속 주 의원 두 명과 그 배우자들을 총격한 혐의로 기소된 밴스 보엘터(한 부부는 사망)는 과거 팀 월즈 미네소타 주지사(민주당)에 의해 자문위원회 위원으로 임명된 적이 있다.",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "거짓 주장 프랑스의 La Jument 등대는 직원들에게 수백만 달러를 온라인으로 지급합니다.",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "백악관 대변인 캐롤라인 리빗은 WNBA 선수 브리트니 그리너의 성별에 대한 \"진실\"을 밝혔고, WNBA는 의무적인 \"성별 검사\"를 발표했습니다.",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "트럼프 행정부는 \"국립기상청뿐만 아니라 NOAA(미국 해양대기청)의 예산도 삭감했다.\"",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "미국, 이란 포르도 핵시설 공습",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "드미트리 메드베데프 전 러시아 대통령은 2025년 6월 \"여러 국가들이 이란에 자국의 핵탄두를 직접 공급할 준비가 되어 있다\"고 말했다.",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "해당 게시물에는 2025년 2월 팸 본디 미국 법무장관이 카쉬 파텔 FBI 국장에게 엡스타인 사건과 관련하여 보낸 편지가 실제로 공개되었습니다.",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "일론 머스크는 X에 \"내가 없었다면 트럼프는 선거에서 졌을 것이고, 민주당은 하원을 장악했을 것이며, 공화당은 상원에서 51대 49가 되었을 것이다\"라는 메시지를 게시했습니다.",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "인도 육군 참모총장 우펜드라 드위베디 장군은 최근 파키스탄과의 충돌에서 전투기 6대가 손실되고 병사 250명이 전사했다고 인정했습니다.",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "보수 논평가 찰리 커크는 만약 자신의 10살짜리 딸이 강간으로 임신하게 된다면, 딸이 직접 아이를 낳기를 바랄 것이라고 말한 적이 있다.",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "사실 확인: WHO는 코로나19에 대한 민간요법을 승인하지 않았습니다. 잘못된 정보에 속지 마세요.",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "인도 정부는 코로나19 사망자 유가족에게 지원금을 제공하고 있습니다. 코로나19 사망에 대한 보험 혜택은 PMJJBY 및 PMSBY 제도를 통해 청구할 수 있습니다.",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2025년 11월, 도널드 트럼프 미국 대통령에게 압도적인 표를 던진 몬태나 주의 한 마을에서 MAGA 관련 상품을 불태우는 \"소아성애자 모닥불\" 행사가 열렸습니다.",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 9월 초, 미국 부통령 JD 밴스는 노동절이 \"출산의 고통을 겪는 여성들을 기념하는 날\"이 되어야 한다고 말했습니다.",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "트럼프 행정부는 유출된 문서에서 작곡가 빌리 아일리시가 미국을 망치고 있다고 주장했다.",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2013년 당시 사업가이자 리얼리티 TV 진행자였던 도널드 트럼프는 이렇게 말했습니다. \"정부 셧다운은 대통령의 리더십 부재 때문입니다. 문제는 최고위층에서 시작되고 최고위층에서 해결해야 합니다. 셧다운은 대통령이 약하다는 것을 의미합니다.\"",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"지방분권이 시작된 지 불과 12년 만에 우리는 총 4조 케냐 실링을 각 카운티에 이전했습니다.\"",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "'악어 알카트라즈'로 알려진 이민자 구금 시설이 2025년 플로리다에 개장될 예정이었다.",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "캄보디아 시위대, 태국 국경 인근 군인 소재 파악에 도움 요청",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "공화당 소속 전 하원의장 뉴트 깅리치는 호르무즈 해협의 대체 항로 역할을 할 운하를 건설하기 위해 핵폭발을 이용하자는 내용의 게시물을 공유했습니다.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "도널드 트럼프는 2020년 9월 12일 총격으로 중상을 입은 로스앤젤레스 카운티 보안관 두 명의 치료비로 각각 50만 달러씩 기부한다고 트위터를 통해 밝혔습니다.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "조지아주 선거 관리 당국은 2020년 대선에서 투표 집계표(영수증과 유사한 효력을 지닌)에 투표소 직원들의 서명이 없는 것을 이용해 투표를 인증했으며, 이는 조지아주 선거 규정을 위반한 것이라고 인정했습니다.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미국 하원의장 마이크 존슨은 훗날 성추행 혐의로 기소된 폴 프레슬러 판사의 이름을 딴 로스쿨의 학장을 맡았지만, 그 학교는 공식적으로 개교하지 못했다.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 12월, 가수 돌리 파튼은 아마존 창립자 제프 베조스가 도널드 트럼프 미국 대통령과 뜻을 같이한다는 이유로 아마존에서 자신의 모든 음악을 내리겠다고 발표했습니다.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "사워솝은 항암화학요법보다 1만 배 더 강력합니다.",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "비하르 주 청년들이 주 의회 선거를 앞두고 BJP 지도자의 차량을 파손했습니다.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "“They are not getting the traditional five months training. … The training for the ICE agents now is 47 days.”",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Emails written by the late sex offender Jeffrey Epstein claimed he provided Microsoft co-founder Bill Gates drugs for an STD in order \"to deal with consequences of sex with Russian girls.\"",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Former Australia captain Ricky Ponting called India a ‘perpetual sore loser’ for not shaking hands with Pakistan after the Asia Cup match.",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Truck driver seen cooking inside his vehicle moments before a deadly crash on the 10 Freeway in Ontario, California.",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Education ministry statement on SPM results",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Donald Trump tweeted that he was donating $500,000 each toward the expenses of the two Los Angeles County sheriff's deputies who were shot and critically injured on September 12, 2020.",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "The U.S. Centers for Disease Control and Prevention's acting director, Jim O'Neill, once said: \"There are plenty of healthy, spare kidneys walking around unused.\"",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "In 2022, a user on X  — then known as Twitter — posted: \"2023: Corona ended … 2026: Hantavirus.\"",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Fairfax County mail ballot envelope reveals vote for attorney general",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "A Muslim man named Abdul killed his live-in partner, a Hindu woman, in Delhi.",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "이스라엘 시위대가 가자지구로 향하는 구호 트럭을 막았습니다.",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 12월 13일에 전국적으로 실시될 예정인 국가 민사 조정 위원회(National Lok Adalat)에서 미납된 교통 범칙금에 대해 대폭 할인 혜택을 제공할 예정입니다.",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "인도의 한 식당에서 무슬림 남성이 여성을 폭행하는 모습",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 워싱턴 D.C. 경찰이 \"사람들이 얼굴에 침을 뱉는데도 아무것도 할 수 없었는데, 이제는 마음대로 행동할 수 있게 됐다\"고 말했다.",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "서벵골주 선거를 앞두고 중앙예비경찰(CRPF)이 통제력을 강화하고 있다.",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 6월을 기준으로, 마지막 개체가 죽으면서 북부 흰코뿔소는 멸종되었습니다.",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "영국의 한 동물원에서 아프리카 회색 앵무새 다섯 마리가 방문객과 직원들에게 욕설을 퍼붓는 바람에 무리를 나눠야 했습니다.",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "이란은 히잡 착용 의무화 법을 폐지했습니다.",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "뉴욕 시장 당선자 조란 맘다니는 베냐민 네타냐후 이스라엘 총리가 뉴욕에 오면 체포 명령을 내리겠다고 밝혔습니다.",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "조작: 체코 대통령 페트르 파벨, 우크라이나의 영토 포기에 \"생존을 위해\" 동의",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "아이폰 12에는 이어폰과 충전 어댑터가 포함되어 있지 않습니다.",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "프랑스 잡지 샤를리 에브도가 예언자의 신성한 얼굴을 모욕한 것은 용서할 수 없는 중대한 죄악이며, 이는 서구 세계의 정치 및 문화 기관들이 이슬람과 무슬림 공동체에 대해 품고 있는 증오와 적대감을 다시 한번 드러냈다.",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "비트, 암라, 당근 주스는 40일 만에 4기 암을 치료할 수 있습니다.",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "이란이 이스라엘 정보기관 모사드의 텔아비브 본부를 미사일로 공격했다는 주장을 담은 세 장의 영상이 공개됐다.",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "휴스턴의 한 소아과 병원에서 크리스티나 프로프스트 박사를 해고했습니다. 그녀는 2025년 7월 텍사스 홍수 피해자들이 도널드 트럼프 대통령 지지자들이었고, 그들이 투표한 결과에 대한 대가를 치른 것이라고 온라인에 글을 올렸기 때문입니다.",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2020년 대선 이후까지 루스 베이더 긴즈버그 후임 대법관 임명을 보류해 달라는 청원에 서명하려면 50409번으로 RBG라고 문자를 보내세요.",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 9월, 소셜 미디어 게시물에는 변호사 앨런 더쇼위츠가 제프리 엡스타인의 50번째 생일 앨범에 실린 '배니티 페어' 기사를 언급하는 메모가 진짜처럼 보였다.",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "에어인디아 AI 315편, 델리 착륙 중 화재 발생, 탑승객 무사",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2025년 11월 하원 감독위원회가 공개한 제프리 엡스타인과 그의 측근인 기슬레인 맥스웰 간의 이메일 교환 내용에 따르면, 엡스타인은 도널드 트럼프 미국 대통령을 \"짖지 않는 개\"라고 부르며 트럼프 대통령이 자신의 집에서 성매매 피해자와 몇 시간 동안 시간을 보냈다고 언급했습니다.",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"식료품 가격이 떨어졌어요. 에너지 가격도 크게 떨어졌고요. ... 휘발유 1갤런에 4달러, 5달러였는데 말이죠.\"",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "디사나야케는 스리랑카 재난 관리 센터를 폐쇄했습니다.",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "미국 하원의장 마이크 존슨(공화당, 루이지애나주)은 \"민주당은 정부를 재개해야 한다. 그들은 공화당이 정부를 장악하고 있다고 계속 주장하지만, 그렇지 않다. 상원에서는 더욱 그렇다. 상원은 과반수가 아니라 60표로 결정된다\"고 말했다.",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2020년 대선 이후까지 루스 베이더 긴즈버그 후임 대법관 임명을 보류해 달라는 청원에 서명하려면 50409번으로 RBG라고 문자를 보내세요.",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "낸시 펠로시는 중국이 조 바이든을 더 선호할 것이라고 말했다.",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미국 농장 노동자의 약 40%는 불법 이민자입니다.",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "연구원 체포에도 불구하고 MMR 백신과 자폐증 사이에는 연관성이 없는 것으로 드러났습니다.",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "최근 온라인상에서 확산되고 있는 주장에 따르면 아지트 도발 전 국무장관이 관세 전쟁에서 미국에 압력을 가하기 위해 인도인들에게 아마존 앱을 삭제하라고 촉구했다고 합니다.",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 12월, 미니애폴리스에서 미국 이민세관집행국(ICE) 요원들이 작전을 관찰하던 55세 미국 시민 수 틴처를 체포했습니다.",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "배우 크리스찬 베일은 캘리포니아주 팜데일에 2200만 달러 규모의 마을을 건설하여 위탁 양육 시스템에 있는 형제자매들이 함께 지낼 수 있도록 12채의 주택을 마련하고 있습니다.",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "아프가니스탄 외무장관 아미르 칸 무타키는 인도의 재정 지원을 받아 카불과 칸다하르에 힌두 사원을 건설할 계획이라고 발표했습니다.",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프는 \"지난달, 저는 거대 제약회사들을 상대로 싸웠습니다. 그게 쉬울 것 같습니까? 저는 여러분이 처방받는 약값을 대폭 낮추는 행정명령에 서명했습니다.\"라고 말했습니다.",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "래퍼 니키 미나지의 남편인 케네스 페티는 성범죄자로 등록되어 있습니다.",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2026년 5월 11일 늦은 밤부터 5월 12일 이른 아침까지 3시간 동안 도널드 트럼프 미국 대통령은 자신의 트루스 소셜 계정에 55개의 게시물을 올렸습니다.",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년, 초바니는 자사 요구르트에 호르몬 교란과 관련된 화학물질인 프탈레이트가 함유되어 있다는 주장을 제기하는 집단 소송에 직면했습니다.",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "코로나19 백신은 \"누구나 접종받을 수 있습니다.\"",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "마스크 착용은 저산소증을 유발합니다.",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "알렉시스 코세트-트루델이 진행하는 음모론 네트워크인 라디오 퀘벡의 콘텐츠는 페이스북에서 차단되었습니다.",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "17세 소녀 재키 미첼은 1931년 채터누가 루카우츠와 뉴욕 양키스 간의 경기에서 야구계의 전설 베이브 루스와 루 게릭을 연달아 삼진으로 잡아냈다.",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "교황 레오 14세는 2026년 5월 이란 대사 모하마드 호세인 모크타리에게 바티칸 최고의 외교 훈장을 수여했습니다.",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "현재 상황: 바이든이 제안했던 것처럼 동성애자 깃발 모양으로 조명되는 대신, 오늘 밤 백악관은 빨강, 하양, 파랑색으로 조명되었습니다.",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "미국 대통령 도널드 트럼프는 에어포스 원에서 기자들과 만난 자리에서 제프리 엡스타인 관련 파일 공개에 대해 질문하는 기자에게 \"조용히 해, 돼지야!\"라고 말했다.",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"2022년 9.6%였던 인플레이션이 지난달 기준 4.6%까지 꾸준히 하락했습니다.\"",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "일론 머스크의 13번째 아이의 어머니로 알려진 작가 애슐리 세인트 클레어가 X라는 사이트에 도널드 트럼프 미국 대통령에게 \"이별 조언\"을 하는 글을 올렸다.",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "왜 당신은 도널드 트럼프보다 더 많은 세금을 내야 합니까? 이건 사실입니다. 겨우 750달러밖에 차이가 나지 않습니다. 예전에 그 문제가 제기됐을 때 트럼프가 뭐라고 했는지 기억하시나요? 그는 \"내가 똑똑해서 세금 제도를 교묘하게 이용하는 법을 안다\"고 말했었죠.",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "암 치료에 사용되는 화학 요법 약물은 겨자 가스에서 발명되었습니다.",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "규모 8.8의 지진이 발생하기 하루 전, 벨루가 고래 다섯 마리가 러시아 캄차카 해안으로 밀려왔습니다.",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 터닝 포인트 USA의 CEO인 에리카 커크를 공군사관학교 자문위원회 위원으로 임명했습니다.",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 8월 11일, 필리핀과 말레이시아 해군 함정이 사바 인근 해역에서 대치 상황을 벌였다.",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "DMK 집회에서 파키스탄 국기가 게양되었습니다.",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "유엔은 미국이 해외 군사기지를 폐쇄할 것을 요구하는 결의안을 통과시켰다.",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "뉴욕 메츠는 2025년 6월 13일 야구 경기에서 국가가 연주되는 동안 미국 국기 대신 프라이드 깃발을 게양했습니다.",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "크리스티 노엠 미국 국토안보부 장관은 도널드 트럼프 대통령에게 2025년 미국의 허리케인 시즌이 별다른 사건 없이 지나간 것에 대해 감사를 표하며 \"대통령님 덕분에 허리케인이 오지 않았습니다.\"라고 말했습니다.",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 4월 말, 미네소타 주 상원 민주당 의원들은 사망자를 주 유권자 명부에서 삭제하는 것에 만장일치로 반대하는 결의안을 통과시켰다.",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"남아프리카 공화국에는 1240만 명의 실업자가 있습니다.\" - 음무시 마이마네",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "스탠리 텀블러에는 정상적인 사용 중에도 납 중독을 일으킬 수 있는 위험한 수준의 납이 함유되어 있습니다.",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "수닐 가바스카르는 \"비랏 코흘리는 봉쇄 기간 동안 아누슈카 샤르마의 공만 가지고 훈련했다\"고 말했다.",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미시간 주지사 그레첸 휘트머 재임 기간 동안 전임자 시절보다 \"빈곤층에 속하는 가구 수가 줄었다\".",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "메이시스는 조란 맘다니 뉴욕 시장 당선인이 5번가 사용료로 백화점에 100억 달러를 요구하자 2025년 뉴욕시 추수감사절 퍼레이드를 취소했습니다.",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "태어날 때 버려진 원숭이 펀치가 봉제인형에서 위안을 찾았다는 이야기는 실화입니다.",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "현 인도 대법원장인 B. R. 가바이는 찬드라추드 전 대법원장 재임 시절 'Yato Dharmastato Jayah'로 변경되었던 'Satyameva Jayate'라는 표어가 새겨진 원래의 대법원 로고를 복원했습니다.",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "'미국을 구하자 법안'은 \"미국인들이 직접 등록해야만 투표할 수 있도록 강제하는 법안인데, 현재 직접 등록하는 미국인은 5%에 불과하다\"고 지적합니다.",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "NASA의 기술이 \"이상한 신호\"를 방출하는 \"슈퍼지구\" 외계행성을 발견했습니다.",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2025년 6월, 영국의 방송인 피어스 모건과 스코틀랜드 출신 가수 수잔 보일은 약혼했고 결혼을 계획하고 있었다.",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "근거 없는 주장이 방글라데시의 장티푸스 백신 접종 사업을 겨냥하고 있다.",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "이스라엘 공습으로 인해 이란 부셰르의 다예르 항구가 불타는 모습이 담긴 영상입니다.",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2025년 11월 하원 감독위원회가 공개한 제프리 엡스타인과 그의 측근인 기슬레인 맥스웰 간의 이메일 교환 내용에 따르면, 엡스타인은 도널드 트럼프 미국 대통령을 \"짖지 않는 개\"라고 부르며 트럼프 대통령이 자신의 집에서 성매매 피해자와 단둘이 몇 시간을 보냈다고 주장했다.",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "국제 크리켓 평의회(ICC)는 파키스탄 크리켓 위원회에 1년간 자격 정지 처분을 내리는 성명을 발표했습니다.",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 12월 18일, 하리드와르 상공에서 셸드 구름이 관측되었습니다.",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 2025년 10월 연설에서 예산관리국장 러셀 보우트를 \"다스 베이더\"라고 불렀습니다.",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 10월, 피트 헤그세스 국방장관이 존 해리슨 해군 참모총장을 해임하자, 당국은 해리슨을 반역죄로 체포했다.",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "나이지리아가 IMF 대출금을 상환한 후 '부채가 없었다'는 허위 주장이 게시글에 퍼졌습니다.",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 2026년 1월 6일 하원 공화당 의원 연수회 연설에서 민주당이 2026년 중간선거에서 승리하면 \"모든 사람에게 트랜스젠더를 강요할 것\"이라고 말했다.",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "SAVE America 법안은 \"모든 사람이 직접 투표하려면 재등록을 해야 하며, 운전면허증, REAL ID 또는 군인 신분증으로는 충분하지 않습니다.\"",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "레몬물과 암염은 신장 결석을 효과적으로 용해시킬 수 있습니다.",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "석유천연가스부의 공식 명령에 따라 휘발유는 리터당 10루피, 디젤은 리터당 12.50루피 인상됩니다.",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "테드 리우는 캐시 파텔에게 엡스타인의 비밀 녹음 파일을 제시하며 \"트럼프가 내게 그 파일을 묻어버리라고 했다\"고 말했다.",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "나이지리아가 국가로서 존재해 온 60년 중 총 29년 동안 군사 통치하에 있었습니다.",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "비하르 주지사 니티시 쿠마르는 파트나에서 열린 정부 행사 도중 한 여성의 히잡을 잡아당긴 것에 대해 무슬림 공동체에 사과했습니다.",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "비하르에서 다리 붕괴",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "마틴 루터 킹 목사의 딸인 버니스 킹은 도널드 트럼프 미국 대통령 행정부가 2025년 7월 아버지에 대한 FBI 파일을 공개한 후, 트럼프 대통령에게 \"엡스타인 파일\"을 공개할 것을 촉구했다.",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "산타클로스의 모티브가 된 성 니콜라스의 유골에서는 1,700년 동안 액체가 새어 나오고 있다.",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "단식으로 15일 만에 암세포를 죽일 수 있다",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "사실 확인: 칠레 해군 조종사가 이란에 포로로 잡힌 이스라엘 조종사라는 허위 정보가 온라인에 유포되었습니다.",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"미국 노동자들은 올해 이미 평균 500달러의 임금 인상을 경험했습니다.\"",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "한 동물약국이 노령견의 수명을 연장하는 것을 목표로 알약을 개발하고 있다.",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "특정 지압점 하나만으로도 생리통 완화에 도움이 될 수 있습니다.",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "도널드 트럼프 대통령이 새로 서명한 세법에 따르면, \"연소득 5만 달러 미만인 사람들이 가장 큰 (세금) 감면 혜택을 받습니다.\"",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "우리나라는 건국 60년 중 29년 동안 군사 통치하에 있었습니다.",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "비사카파트남(안드라프라데시주)에서 바스티(우타르프라데시주)까지 비료를 실은 화물 열차가 목적지에 도착하는 데 3년 이상이 걸렸습니다.",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "녹색 인도 사업의 일환으로 학생들에게 무료 전기 자전거를 제공하는 사업",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"[흑인 농부들은] 수백만 헥타르의 땅을 소유하고 있습니다. 국유지를 포함하면 전체 토지 면적의 약 50%에 해당합니다.\"",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "억만장자 자선사업가 빌 게이츠의 지원을 받는 한 회사가 탄소를 이용해 실험실에서 인공 버터를 생산했습니다.",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 여름, 캄보디아 승려들이 도널드 트럼프 미국 대통령에게 캄보디아와 태국 간의 전쟁을 종식시켜준 것에 대해 감사를 표했습니다.",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2026년 백악관 출입기자협회 만찬 공격 용의자인 콜 토마스 앨런은 등록된 민주당원이며, 카말라 해리스 전 부통령의 2024년 대선 캠페인에 기부한 경력이 있다.",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "인공지능 분야에서 \"우리는 중국을 크게 앞서고 있습니다.\"",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "1943년 크리스마스 점심 식사 중, 벨기에에 거주하던 캐나다 수녀가 나치 장교 45명의 수프에 비소를 넣어 독살했습니다.",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Black Lives Matter는 핵가족을 파괴하려 한다.",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "배우 샤룩 칸과 산제이 더트가 비하르 주지사 니티시 쿠마르를 비판하며 히잡 논란에 대한 사과를 요구했다.",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "가짜 뉴스: 우크라이나 난민들이 루브르 박물관을 털었다",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "비라트 코흘리와 로히트 샤르마가 최근 ICC ODI 타격 순위에서 제외되면서 은퇴설이 확산되고 있다.",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "스와미 프라사드 마우리아에 이어, BJP 소속 요게시 베르마 의원도 뺨을 맞았다.",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 9월에 유포된 음성 파일은 노스캐롤라이나에서 실제로 걸려온 911 신고 전화 녹음으로, 신고자가 \"저건 인간이 아니야\"라고 외치는 소리가 담겨 있었습니다.",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 6월 현재 진행 중인 이스라엘-이란 분쟁의 실제 영상입니다.",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2021년 1월 6일, 워싱턴 D.C.에서 274명의 FBI 사복 요원들이 군중 속에 잠입하여 미국 국회의사당에서 발생한 폭동을 선동했습니다.",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "에이미 코니 배럿의 대법관 지명은 2020년 10월에 상원 다수당의 찬성으로 인준될 것이며, 상원 다수당은 소수당보다 1500만 명 적은 의석을 대표할 것이다.",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "인공지능 데이터 센터는 \"전기 요금을 30~40% 인상시키고\" \"하루에 50만 갤런의 물을 소비한다\"고 합니다.",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "미국 의대 레지던트의 30%는 외국 의대 졸업생이며, 43,000개의 레지던트 자리 중 10,000개는 H-1B 비자 소지자가 차지합니다.",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 패스트푸드 체인 맥도날드 행사에서 \"하늘에서 내려온\" 물에 대한 제한을 비판하며 다음과 같이 말했습니다. \"손을 씻고 싶으세요? 아니면 저처럼 머리를 감고 싶으세요? 거품을 내서 씻는데… 물이 없어요. … 화장실에 있는 세 번째 물건에 대해서는 언급하지 않겠습니다. 항상 비난을 받으니까요. … 제가 무슨 말을 하는지 모르겠다면 맥도날드 가맹점을 운영해서는 안 됩니다.\"",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "발렌 샤가 네팔의 새 총리로 임명되었습니다.",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2016년 당시 공화당 대선 후보였던 텍사스주 상원의원 테드 크루즈는 \"어느 날 아침 눈을 뜨면 도널드 트럼프가 대통령이었다면 덴마크에 핵폭탄을 투하했을지도 모른다\"고 말했다.",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"캘리포니아는 연방 정부로부터 받는 것보다 831억 달러를 더 많이 납부합니다. 텍사스는요? 연방 정부에 납부하는 것보다 711억 달러를 더 받습니다. 미국 GDP의 71%는 민주당이 장악한 지역에서 나옵니다.\"",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "인도 육군 참모총장 우펜드라 드위베디 장군은 최근 파키스탄과의 충돌 과정에서 통제선(LOC)을 따라 250명의 병사가 전사했다고 인정했습니다.",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "하르딕 판디아, 2025 아시아컵을 앞두고 별세",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "의회는 헌법 제1조 9항과 10항을 웹사이트에서 삭제했습니다.",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "사실 확인: 온라인 주장과 달리 무역 협정으로 인한 세금 감면 혜택은 영국에 있는 모든 인도 노동자에게 적용되는 것이 아닙니다.",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "도널드 트럼프는 2025년 6월 5일, 일론 머스크의 케타민 사용을 비난하는 글을 올렸다.",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "노르웨이의 엔지니어들은 북극해의 사라져가는 바다표범 서식지를 대체하기 위해 바다표범을 위한 인공 \"얼음 캡슐\"을 만들었습니다.",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "태양광과 풍력은 아직 \"전 세계 에너지의 3%\"에 도달하지 못했습니다.",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2026년 5월 6일, 복음주의 목사 마크 번스는 플로리다에 있는 트럼프의 마라라고 리조트에서 도널드 트럼프 미국 대통령의 황금 동상 제막식을 열었습니다.",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "LA에서 대체로 평화로웠던 '사랑의 여름' 시위대가 고의로 지프차에 불을 질렀습니다.",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "가수 겸 배우 셰어는 도널드 트럼프 미국 대통령에 대해 \"그는 개자식이에요. 그는 너무 위험하고, 그가 우리나라에 가져다주는 것, 그가 우리나라에 불러일으킨 것은 편견과 불신, 그리고 특정 집단의 우월주의입니다.\"라고 말한 적이 있습니다.",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 테슬라 CEO 일론 머스크와의 갈등 끝에 미국 내 테슬라 생산을 금지했다.",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "아프가니스탄 무장단체, 파키스탄 정보기관(ISI)에 경고… 파할감 테러 공격에 대한 복수 다짐.",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 11월 초 기준으로, 도널드 트럼프 미국 대통령 행정부는 관세 수입 7억 5천만 달러를 여성, 영유아 및 아동을 위한 특별 영양 보충 프로그램(WIC) 자금으로 사용했습니다.",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 디젤을 사용하는 트럭 운전사들이 연료비를 절감하기 위해 휘발유로 전환해야 한다고 제안했다.",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "방글라데시 크리켓 국가대표팀 선수 무스타피주르 라흐만은 콜카타 나이트 라이더스(KKR)에서 제외된 후 2026년 IPL 보이콧을 촉구했다.",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "노동당은 자유국민당이 단행한 의료 종사자 4,400명 감축 조치를 철회했습니다.",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "이란이 사우디아라비아 리야드의 미군 기지를 공격했습니다.",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "미니애폴리스의 범죄율은 \"수천 명의 범죄자를 이 지역에서 제거했기 때문에 25~30% 감소했습니다.\"",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 미네소타주 소말리아계 주민들을 대상으로 한 대규모 복지 사기 사건에서 횡령한 금액보다 훨씬 더 많은 돈을 훔친 혐의로 복역 중이던 사기꾼을 사면했습니다.",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ince the end of the war, the Islamic regime has arrested 700 Jewish Iranians, 1/10 of the entire Jewish community in Iran. They are falsely accusing them of being ‘Mossad agents’ and hanging them from cranes.",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Former U.S. President Barack Obama removed a bust of former British Prime Minister Winston Churchill from the Oval Office and sent it back to England.",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari said that Pakistani agents are sitting in Indian Parliament.",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "People with insurance through the Affordable Care Act will see a “75% increase in premiums starting Nov. 1” if enhanced subsidies are not extended, including “twice as much in the rural areas.”",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Sri Lankan deputy minister's comment on death sentence court verdict",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "In August 2025, Florida Sen. Rick Scott disclosed more than $26 million in stock trades more than a year later than the deadline required by law.",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "In November 2025, U.S. President Trump asked the Department of Transportation to introduce 15-year car loans.",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Man not US citizen votes Mamdani in NYC mayor election.",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Queen frontman Freddie Mercury did not sing \"of the world\" at the end of the band’s song \"We Are the Champions,\" which was first released in 1977.",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "미국 육군 장군 조지 패튼 주니어는 \"내 적들에게 신의 자비가 있기를 바라지만, 나는 그러지 않을 것이다\"라고 말한 적이 있다.",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "AIMIM 여성 지부 회장이 디팍 쿠마르를 축하하고 있다.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"우리는 이미 운행이 중단되었거나 중단된 상태였던 여객 철도 노선 35개를 복구했습니다.\" - 라마포사",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "가짜 뉴스: 우크라이나에서 미성년자도 군사 계약에 참여할 수 있게 됐다",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi가 사원에서 하누만 경을 위해 aarti를 공연하고 있습니다.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 3월 온라인에 공유된 편지는 미국 국가대테러센터 소장인 조 켄트가 미국과 이스라엘의 이란 전쟁에 대한 반발로 사임을 발표한 내용의 실제 편지입니다.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "1994년 영화 \"포레스트 검프\"에서 주인공은 \"인생은 초콜릿 상자 같았다(Life was like a box of chocolates)\"라고 말하지, \"인생은 초콜릿 상자와 같다(Life is like a box of chocolates)\"라고 말하지 않습니다.",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "이 보충제는 GLP-1 수치를 높여 인슐린 저항성 개선에 도움을 줍니다.",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "그녀는 시러큐스 인근에 마이크론의 대규모 반도체 시설을 건설하기 위한 하원 차원의 노력을 주도해 왔다고 말했다.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "우타르프라데시 주에서 BJP 장관과 지역 행정관 사이에 충돌이 발생했습니다.",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "피트 헤그세스 미국 국방장관은 \"전투 대형이든 어떤 대형이든 간에 뚱뚱한 병사들을 보는 것은 피곤한 일이다. 마찬가지로, 펜타곤에서 뚱뚱한 장군과 제독들이 나라 안팎의 사령부를 지휘하는 것을 보는 것도 절대 용납할 수 없다\"고 말했다.",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "유출된 미국 정부 문건에 따르면 도널드 트럼프 미국 대통령 행정부는 2025년 중반에 미국 국경 내에서 \"국내 여행 제한\"을 시험 시행하고 있는 것으로 확인되었습니다.",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "경찰: 정치 활동가들이 오리건 산불을 일으킨 게 아니다",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "해당 영상은 2025년 11월 10일에 발생한 델리 레드 포트 폭발 장면을 보여줍니다.",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "한 설문조사에 따르면 미국인 중 단 23%만이 지도에서 이란을 정확히 짚어낼 수 있는 것으로 나타났습니다.",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "아칸소 주에 사는 한 남성이 15세 소녀를 임신시킨 혐의로 아동 학대죄를 인정했지만, 징역형은 면했다.",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "미국 의회 연구 보고서를 왜곡하여 한국 대통령의 신뢰도를 떨어뜨리려는 게시물들이 올라왔다.",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "배우 헬렌 헌트는 어린 시절 자신을 가르쳤던 선생님, \"엘리너 선생님\"에게 오스카 상금 중 3백만 달러를 선물했습니다. 엘리너 선생님은 헌트의 난독증 치료를 위해 특별 지도를 했다는 이유로 직장을 잃었기 때문입니다.",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2024년에 소셜 미디어에 퍼진 입소문 게시물은 폴 매카트니가 존 레논의 첫 번째 결혼 생활에서 주고받은 편지들을 사서 레논의 전 부인에게 돌려보내면서 \"당신의 소중한 추억을 팔지 마세요\"라는 메모를 남겼다는 내용을 정확하게 묘사했습니다.",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프는 2020년 9월 12일 총격으로 중상을 입은 로스앤젤레스 카운티 보안관 두 명의 치료비로 각각 50만 달러씩 기부한다고 트위터를 통해 밝혔습니다.",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "키이우의 주거 지역 상공에서 드론과 미사일을 고의로 격추하여 주민들에게 공포감을 조성하고 있습니다.",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "이재명 대통령은 10대 시절 강간 및 살인 혐의로 유죄 판결을 받았다.",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "인디애나 주 의원들은 가스실과 총살형을 통해 사형을 집행할 수 있도록 하는 법안을 통과시키려 시도했습니다.",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "이탈리아는 우크라이나 올림픽 대표팀에 소련 국가안보국(SSU) 장교들의 동행을 허용하지 않았다 - 로이터",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "임란 칸이 마크롱 대통령의 이슬람 관련 발언을 비판하자, 프랑스 당국은 파키스탄 시민 183명의 비자를 취소하고 그중 118명을 추방했다.",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2022년, 버지니아주 법무장관 당선자 제이 존스는 버지니아주 하원의장을 지낸 토드 길버트와 그의 자녀들에 대해 폭력적인 내용의 문자 메시지를 보냈습니다.",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "전 부통령 자그딥 단카르는 갑작스러운 사임 하루 전, 말리카르준 카르게 인도 국민회의 총재가 라자 사바(상원)에서 자신이 정부를 두려워한다고 발언한 것에 대해 날카롭게 반박했다. 단카르는 \"그 발언의 해당 부분은 삭제될 것이다. 왜냐하면 인도의 농민과 그들의 아들들은 어떤 상황에서도 누구도 두려워하지 않기 때문이다\"라고 말했다고 전해진다.",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"현재 공공 부채는 GDP의 약 67% 수준입니다.\"",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "버락 오바마 전 미국 대통령은 2016년 이란에 현금 17억 달러를 \"지원\"하면서 돈이 가득 담긴 팔레트를 이란으로 보냈다.",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "도널드 트럼프 미국 대통령이 2025년 7월에 발표한 행정명령은 \"장애인을 모두 시설에 수용\"하는 것을 목표로 한다.",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "도널드 트럼프 미국 대통령은 금융계에서 불명예스럽게 퇴진한 성범죄자 제프리 엡스타인에게 총 11억 달러를 4,725건의 송금으로 전달했습니다.",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "무함마드 유누스가 이끄는 방글라데시 임시 정부는 두르가 푸자, 잔마슈타미, 사라스와티 푸자 등 주요 힌두교 축제 휴일을 취소했습니다.",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "나이지리아는 독립 당시 인구가 4500만 명이었다.",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "나이지리아는 아프리카뿐 아니라 전 세계에서 카사바 생산량 1위 국가입니다.",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 미국 이민세관집행국(ICE)은 신규 직원에게 4만 5천 달러의 계약 보너스 외에 10만 달러의 연봉을 제시했는데, 이는 미국 교사들의 평균 연봉보다 훨씬 높은 금액입니다.",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"카송고는 부임하여 기존 시스템을 폐기하고 1,040억 케냐 실링(KSh)을 들여 SHA와 SHIF라는 새로운 시스템을 도입했습니다.\"",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025년 12월, 미국 법무부는 FBI가 입수한 정보를 공개했는데, 그 정보에 따르면 한 제보자는 도널드 트럼프 대통령이 자신의 삼촌이 갓 태어난 아이를 살해하고 시신을 미시간 호수에 버리는 것을 목격했다고 주장했다. 당시 그녀는 13세였으며 제프리 엡스타인에게 성매매를 강요당하고 있었다.",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "BJP가 티루바난타푸람 시의회에서 집권한 후 간디 동상이 파괴되었습니다.",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "가짜 뉴스: 젤렌스키 고문 크리스티아 프리랜드는 나치 협력자의 후손이다",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2025년 말, 교육부는 교육학(교사 양성 석사 학위 포함), 간호학(MSN, DNP), 사회복지학(MSW, DSW), 공중보건학(MPH, DrPH), 의사 보조, 작업 치료, 물리 치료, 청각학, 언어 병리학 및 상담 치료 학위를 더 이상 전문 학위로 분류하지 않겠다고 발표했습니다.",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"이 경제는 확실히 1,880억 달러 규모의 경제가 아닙니다. 적어도 3,500억 달러 규모의 경제입니다.\"",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "베텔 잎에 정향을 넣은 물은 구취를 제거하는 데 효과적입니다.",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 3월, 나토에서 고위직을 역임했던 프랑스의 미셸 야코블레프 장군은 프랑스가 미국의 호르무즈 해협 안보 확보를 돕는 것은 \"타이타닉호에 싸게 타는 것과 같다\"고 말했다.",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"우간다에는 연간 약 120만 명의 관광객이 방문합니다.\"",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ABC 방송의 '디스 위크' 진행자 조지 스테파노풀로스는 톰 호먼 국경 책임자에 대한 질문을 JD 밴스 미국 부통령이 회피하자 인터뷰를 중단시켰다.",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "영국 내 3단계 제한 지역에서 근무할 수 없는 근로자는 고용 지원 제도와 유니버설 크레딧을 합쳐 임금의 80%를 받게 됩니다.",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 3월 현재 미국 국토안보부의 최고 보안 책임자 대행으로는 이워나 B. 호린이 임명되었습니다.",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "나이지리아 에도 주의 실업률은 19%입니다.",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "멜라니아 트럼프 영부인의 부모님은 가족 초청 이민, 즉 경멸적으로 \"연쇄 이민\"이라고도 불리는 제도를 통해 미국에 입국했습니다.",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "중국은 '제거 불가능한 이스라엘 스파이웨어'가 내장된 삼성 휴대폰의 사용 금지를 추진하고 있다.",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "영상에는 네팔 시위대가 모디 총리를 지지하며 행진하는 모습이 담겨 있습니다.",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "캐나다 온타리오 주 정부의 광고가 로널드 레이건 대통령이 1987년 4월 25일에 관세에 대해 발표한 연설을 \"왜곡\"했습니다.",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "호철 주지사 재임 기간 동안 \"거리에서 범죄가 더 많이 발생했습니다.\"",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "아미트 샤는 모든 정당의 소셜 미디어 인플루언서들이 5kg의 식량 배급량으로 생활하고 있다고 말했다.",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 1월 7일 미니애폴리스에서 르네 니콜 굿을 총으로 쏴 죽인 미국 이민세관집행국(ICE) 요원의 신원은 스티브 그로브로 밝혀졌다.",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "보수 성향의 비영리 단체인 터닝 포인트 USA는 2026년 슈퍼볼 하프타임 쇼에 대한 대안을 발표했습니다.",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "앤디 바이런 전 애스트롬 CEO의 아내인 메건 바이런은 2025년 7월 콜드플레이 콘서트 도중 키스캠에 포착된 영상으로 불륜 사실이 폭로된 남편이 자신의 행동에 대한 대가를 \"치게 될 것\"이라고 경고하는 성명을 발표했다.",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"민간 전력 기반 시설을 폭격하는 것은 전쟁 범죄입니다.\"",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "뉴욕주에 건설될 예정인 데이터 센터들은 \"뉴욕주 전체 가구의 에너지 사용량을 합친 것보다 약 두 배나 많은 에너지를 소비할 것\"이라고 합니다.",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2026년 3월, 도널드 트럼프 미국 대통령은 사우디아라비아의 무함마드 빈 살만 왕세자에 대해 \"그는 자기가 내 엉덩이에 키스하게 될 줄은 생각도 못했을 것이다\"라고 말했다.",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   }
 ]

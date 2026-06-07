@@ -4241,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Cole Tomas Allen, grunaður um árásina á kvöldverði blaðamannafélags Hvíta hússins 2026, er skráður demókrati sem gaf til forsetaherferðar fyrrverandi varaforseta Kamala Harris árið 2024.",
@@ -4261,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Í gervigreind, \"Við erum að leiða Kína með miklu.\"",
@@ -4281,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Í jólahádegisverði árið 1943 eitraði og drap kanadísk nunna með aðsetur í Belgíu 45 nasistaforingja með því að blanda súpu þeirra með arseni.",
@@ -4301,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Black Lives Matter vill eyða kjarnafjölskyldunni.",
@@ -4321,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Leikararnir Shah Rukh Khan og Sanjay Dutt gagnrýna Nitish Kumar yfirráðherra Bihar og krefjast afsökunar vegna hijab-deilunnar.",
@@ -4341,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Fölsuð: Úkraínskir ​​flóttamenn rændu Louvre",
@@ -4361,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Virat Kohli og Rohit Sharma voru útilokaðir frá nýjustu ICC ODI batting röðum, sem ýtir undir vangaveltur um starfslok.",
@@ -4381,7 +4395,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Eftir Swami Prasad Maurya, er Yogesh Verma, þingmaður BJP, sleginn",
@@ -4401,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Hljóð sem kom í umferð í september 2025 var frá alvöru 911 símtali í Norður-Karólínu, þar sem hringjandinn heyrðist hrópa: „Þetta er ekki mannlegt.“",
@@ -4421,7 +4439,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Raunverulegt myndefni frá yfirstandandi júní 2025 Ísrael og Íran átökum.",
@@ -4441,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Um 274 leyniþjónustumenn FBI voru felldir inn í mannfjöldann í Washington, D.C., 6. janúar 2021, sem ýttu undir ofbeldi sem leiddi til óeirða við þinghúsið í Bandaríkjunum.",
@@ -4461,7 +4483,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Tilnefning Amy Coney Barrett í Hæstarétt yrði staðfest í október 2020, með meirihluta í öldungadeildinni sem er 15 milljónum færri en minnihlutaflokkurinn.",
@@ -4481,7 +4505,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Gervigreindargagnaver „hækka rafmagnsreikninga um 30 eða 40%“ og „suga upp 500.000 lítra af vatni á dag“.",
@@ -4501,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Þrjátíu prósent læknisbúa í Bandaríkjunum eru alþjóðlegir útskrifaðir læknar og 10.000 af 43.000 dvalarstöðum eru fylltir af H-1B vegabréfsáritunarhöfum.",
@@ -4521,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Donald Trump Bandaríkjaforseti, sem talaði á viðburði fyrir skyndibitakeðjuna McDonald's, kvartaði undan takmörkunum á vatni sem „kemur af himnum“ og sagði: „Svo viltu þvo þér um hendurnar? Eða, eins og ég, vil ég þvo hárið á mér. Ég suðaði upp. Og … það er ekkert vatn. … ég mun ekki nefna þriðja hlutinn sem þú talar um á klósettinu því ég veit alltaf hvað þú ert gagnrýndur á baðherberginu. ætti ekki að eiga McDonald's sérleyfi.\"",
@@ -4541,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Balen Shah er nýr forsætisráðherra Nepal",
@@ -4561,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Árið 2016 sagði bandaríski öldungadeildarþingmaðurinn Ted Cruz frá Texas, þáverandi forsetaframbjóðandi repúblikana, „Við erum líkleg til að vakna einn morguninn og Donald, ef hann væri forseti, hefði byrt Danmörku með kjarnorkuvopnum.“",
@@ -4581,7 +4615,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"Kalifornía leggur til 83,1 milljarð dollara meira en við fáum frá alríkisstjórninni. Texas? Fær 71,1 milljarði dollara meira en þeir leggja til alríkisstjórnarinnar. 71% af landsframleiðslu Bandaríkjanna kemur frá bláum sýslum.\"",
@@ -4601,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Yfirmaður indverska hersins, Upendra Dwivedi, viðurkenndi að 250 hermenn hafi verið píslarvottar meðfram LOC í nýlegum átökum við Pakistan.",
@@ -4621,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Hardik Pandya lést í undankeppni Asia Cup 2025",
@@ -4641,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Þingið fjarlægði 9. og 10. hluta 1. greinar stjórnarskrárinnar af vefsíðu sinni",
@@ -4661,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Staðreyndaathugun: Skattaafsláttur viðskiptasamninga er ekki fyrir alla indverska starfsmenn í Bretlandi, þvert á fullyrðingar á netinu",
@@ -4681,7 +4725,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Donald Trump sendi frá sér 5. júní 2025 til að ráðast á Elon Musk vegna ketamínnotkunar",
@@ -4701,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Verkfræðingar í Noregi bjuggu til fljótandi gervi „ísbelg“ fyrir seli til að koma í stað hafíss á norðurskautssvæðinu sem hverfur dýra.",
@@ -4721,7 +4769,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sól og vindur hafa ekki náð „3% af orku í heiminum“.",
@@ -4741,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Þann 6. maí 2026 hélt evangelíski ráðherrann Mark Burns vígsluathöfn gullstyttu af Donald Trump forseta Bandaríkjanna á Mar-a-Lago dvalarstað Trumps í Flórída.",
@@ -4761,7 +4813,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "LA Mostly Peaceful Jihad Summer of Love mótmælendur kveikja viljandi í jeppa.",
@@ -4781,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Söngvarinn og leikarinn Cher sagði eitt sinn um Donald Trump Bandaríkjaforseta: \"Hann er a**gat. Hann er svo hættulegur, og það sem hann færir landinu mínu, það sem hann hefur vakið í mínu landi er ofstæki og vantraust og ákveðin tegund af yfirburði í ákveðnum hópum.\"",
@@ -4801,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Trump Bandaríkjaforseti bannar framleiðslu Tesla í Bandaríkjunum eftir að hann lenti í samskiptum við Elon Musk forstjóra fyrirtækisins.",
@@ -4821,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Afganskir ​​herskáir hópar vara ISI við, heita því að hefna Pahalgam hryðjuverkaárásarinnar.",
@@ -4841,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Í byrjun nóvember 2025 hafði ríkisstjórn Donalds Trump Bandaríkjaforseta notað 750 milljónir dala í gjaldskrártekjur til að fjármagna sérstaka viðbótarnæringaráætlun fyrir konur, ungbörn og börn.",
@@ -4861,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Donald Trump, forseti Bandaríkjanna, lagði til að vörubílstjórar sem nota dísil ættu að skipta yfir í bensín til að draga úr eldsneytiskostnaði.",
@@ -4881,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Mustafizur Rahman, leikmaður Bangladess krikketliðs, krefst þess að sniðganga IPL 2026 eftir að Kolkata Knight Riders (KKR) sleppti honum.",
@@ -4901,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Verkamannaflokkurinn sneri við niðurskurði LNP um 4.400 heilbrigðisstarfsmanna.",
@@ -4921,7 +4989,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Árás Írans á bækistöð Bandaríkjanna í Riyadh í Sádi-Arabíu.",
@@ -4941,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Glæpum í Minneapolis „fækkar um 25, 30% vegna þess að við höfum fjarlægt þúsundir glæpamanna frá svæðinu.",
@@ -4961,7 +5033,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Donald Trump, forseti Bandaríkjanna, náðaði svindlara sem var að afplána dóm fyrir að stela miklu meira fé en tekið var í gríðarlegu velferðarsvikum í Minnesota þar sem meðlimir sómalska samfélags ríkisins komu við sögu.",
@@ -4981,7 +5055,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Eftir stríðslok hefur íslamska stjórnin handtekið 700 gyðinga Írana, 1/10 af öllu gyðingasamfélaginu í Íran. Þeir saka þá ranglega um að vera „umboðsmenn Mossad“ og hengja þá í krana.",
@@ -5001,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Barack Obama, fyrrverandi forseti Bandaríkjanna, fjarlægði brjóstmynd af Winston Churchill, fyrrverandi forsætisráðherra Bretlands, úr Oval Office og sendi hana aftur til Englands.",
@@ -5021,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Flórída: #51 í geðheilbrigðisþjónustu, #1 í heimilistryggingakostnaði, #1 í öldrunarsvikum, #1 í leiguhækkunum.",
@@ -5041,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari sagði að pakistanskir ​​fulltrúar sitja á indverska þinginu.",
@@ -5061,7 +5143,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Fólk með tryggingar í gegnum Affordable Care Act mun sjá „75% hækkun á iðgjöldum frá og með 1. nóvember“ ef auknar niðurgreiðslur verða ekki framlengdar, þar á meðal „tvisvar sinnum meira á landsbyggðinni“.",
@@ -5081,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Athugasemd vararáðherra Sri Lanka um dauðadóm dómstólsins",
@@ -5101,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Í ágúst 2025 birti Rick Scott öldungadeildarþingmaður frá Flórída meira en 26 milljónir dollara í hlutabréfaviðskiptum meira en ári síðar en fresturinn sem lög gera ráð fyrir.",
@@ -5121,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Í nóvember 2025 bað Trump, forseti Bandaríkjanna, samgönguráðuneytið um að taka upp 15 ára bílalán.",
@@ -5141,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Maður sem ekki er bandarískur ríkisborgari kýs Mamdani í borgarstjórakosningum í NYC.",
@@ -5161,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Freddie Mercury, söngvari Queen, söng ekki „heimsins“ í lok lags sveitarinnar „We Are the Champions“ sem kom fyrst út árið 1977.",
@@ -5181,7 +5275,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Bandaríski hershöfðinginn George Patton yngri sagði eitt sinn: \"Megi Guð miskunna óvinum mínum, því ég mun ekki.\"",
@@ -5201,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Forseti AIMIM-kvennadeildar kveður Deepak Kumar.",
@@ -5221,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "„Við höfum þegar endurheimt allt að 35 [farþegalestar] línur sem voru annaðhvort sofandi eða óvirkar. — Ramaphosa",
@@ -5241,7 +5341,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Fölsuð: Ólögráða börn eru nú gjaldgeng fyrir hersamninga í Úkraínu",
@@ -5261,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi flytur aarti fyrir Lord Hanuman í musteri.",
@@ -5281,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Bréf sem deilt var á netinu í mars 2026 er ósvikin skilaboð þar sem Joe Kent, yfirmaður bandarísku miðstöðvarinnar gegn hryðjuverkum, tilkynnti afsögn sína vegna stríðs Bandaríkjanna og Ísraels gegn Íran.",
@@ -5301,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Í kvikmyndinni \"Forrest Gump\" frá 1994 segir aðalpersónan: \"Lífið var eins og konfektkassi,\" ekki \"Lífið er eins og súkkulaðikassa.\"",
@@ -5321,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Viðbót eykur GLP-1 og hjálpar við insúlínviðnám",
@@ -5341,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sagðist hafa leitt átak hússins til að byggja stóra Micron hálfleiðaraaðstöðu nálægt Syracuse.",
@@ -5361,7 +5473,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "átök milli ráðherra BJP og héraðssafnara í Uttar Pradesh",
@@ -5381,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Pete Hegseth, varnarmálaráðherra Bandaríkjanna, sagði: \"Það er þreytandi að horfa út á bardagasveitir, eða í raun hvaða skipan sem er, og sjá feita hermenn. Sömuleiðis er algjörlega óviðunandi að sjá feita hershöfðingja og aðmírála í sölum Pentagon og leiðandi hersveitir um landið og heiminn.\"",
@@ -5401,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Lekið minnisblöð bandarískra stjórnvalda staðfestu að ríkisstjórn Donalds Trump Bandaríkjaforseta væri að prófa „innri ferðatakmarkanir“ innan landamæra landsins um mitt ár 2025.",
@@ -5421,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Lögregla: Pólitískir aðgerðarsinnar ollu ekki skógareldum í Oregon",
@@ -5441,7 +5561,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Myndin sýnir sprenginguna í Rauða virkinu í Delhi sem varð 10. nóvember 2025.",
@@ -5461,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Könnun leiddi í ljós að aðeins 23% Bandaríkjamanna geta bent á Íran á korti.",
@@ -5481,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Maður í Arkansas játaði sekan um að hafa stofnað börnum í hættu eftir að hafa fætt 15 ára stúlku og forðast fangelsisvist.",
@@ -5501,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Færslur gefa ranga mynd af rannsóknarskýrslu bandaríska þingsins til að vanvirða forseta Suður-Kóreu",
@@ -5521,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Leikarinn Helen Hunt gaf æskukennara sínum, „Miss Eleanor,“ 3 milljónir dala af Óskarsverðlaunum sínum eftir að kennarinn missti vinnuna fyrir að veita aukakennslu til að hjálpa Hunt með lesblindu sína.",
@@ -5541,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Veirufærslur á samfélagsmiðlum sem deilt var árið 2024 lýstu nákvæmlega því að Paul McCartney keypti bréf úr fyrsta hjónabandi John Lennons og skilaði þeim til fyrrverandi eiginkonu Lennons með miða þar sem henni var sagt að selja ekki minningar sínar.",
@@ -5561,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Donald Trump tísti að hann væri að gefa 500.000 dollara hvor í kostnað tveggja sýslumannanna í Los Angeles-sýslu sem voru skotnir og alvarlega særðir 12. september 2020.",
@@ -5603,7 +5737,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sem unglingur var forseti Lee Jae-myung dæmdur fyrir nauðgun og morð.",
@@ -5623,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Lögreglumenn í Indiana reyndu að setja lög sem myndi leyfa ríkinu að taka fólk af lífi í gasklefum og skotsveitum.",
@@ -5643,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Ítalía leyfði ekki foringjum SSU að fara með úkraínska liðinu á Ólympíuleikana — Reuters",
@@ -5663,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Vegna gagnrýni Imran Khan á ummæli Macrons um íslam, ógiltu frönsk yfirvöld vegabréfsáritanir 183 pakistanska ríkisborgara og vísuðu 118 úr landi.",
@@ -5683,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Árið 2022 sendi Jay Jones, kjörinn dómsmálaráðherra í Virginíu, ofbeldisfull textaskilaboð um fyrrverandi forseta fulltrúadeildar Virginíu, Todd Gilbert, og börn hans.",
@@ -5703,7 +5847,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Dagi áður en hann sagði af sér áfall, svaraði fyrrverandi varaforseti Jagdeep Dhankhar harðlega yfirlýsingu forseta þingsins, Mallikarjun Kharge, í Rajya Sabha um að hann væri hræddur við ríkisstjórnina. \"Þessum hluta fullyrðingarinnar verður eytt. Af hverju? Vegna þess að bændur á Indlandi og synir þeirra eru ekki hræddir við neinn undir neinum kringumstæðum,\" sagði Dhankhar að sögn.",
@@ -5723,7 +5869,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "„Opinberar skuldir eru um það bil 67% það sem af er landsframleiðslu.",
@@ -5743,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Barack Obama, fyrrverandi forseti Bandaríkjanna, „gaf“ Íran 1,7 milljarða dala í reiðufé árið 2016 og sendi þar með bretti af peningum til landsins.",
@@ -5763,7 +5913,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Framkvæmdaskipun frá Donald Trump Bandaríkjaforseta í júlí 2025 miðar að því að „stofnafesta alla fatlaða“.",
@@ -5783,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Donald Trump, forseti Bandaríkjanna, millifærði 4.725 millifærslur til hins látna, svívirðilega fjármálamanns og dæmda kynferðisafbrotamanns Jeffrey Epstein fyrir samtals 1,1 milljarð dala.",
@@ -5803,7 +5957,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Bráðabirgðastjórnin undir forystu Muhammad Yunus í Bangladess hefur aflýst frídögum fyrir helstu hindúahátíðir, þar á meðal Durga Puja, Janmashtami og Saraswati Puja.",
@@ -5823,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Við sjálfstæði bjuggu 45 milljónir íbúa í Nígeríu.",
@@ -5843,7 +6001,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nígería er leiðandi framleiðandi kassava í Afríku og heiminum.",
@@ -5863,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Árið 2025 bauð bandarísk innflytjenda- og tollgæsla nýjum starfsmönnum $100.000 laun ofan á $45.000 undirskriftarbónus, mun meira en kennarar í Bandaríkjunum græða.",
@@ -5883,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "„Kasongo kom og fleygði þessu kerfi og kom með eitthvað sem heitir SHA og SHIF á kostnað KSh104 milljarða.",
@@ -5903,7 +6067,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Í desember 2025 gaf bandaríska dómsmálaráðuneytið út ábendingu frá FBI þar sem kvartandi, meintur Donald Trump Bandaríkjaforseti, varð vitni að frænda sínum að drepa nýfætt barn sitt og farga líkinu í Michigan-vatni þegar hún var 13 ára og seldur til kynlífs af Jeffrey Epstein.",
@@ -5923,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Gandhi stytta var eyðilögð í Thiruvananthapuram eftir að BJP komst til valda í borgarfélaginu",
@@ -5943,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Fölsuð: Zelensky ráðgjafi Chrystia Freeland er afkomandi samstarfsmanns nasista",
@@ -5963,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Seint á árinu 2025 sagði menntamálaráðuneytið að það myndi ekki lengur flokka þessar skírteini sem faggráður: menntun (þar á meðal kennslu meistaragráður), hjúkrunarfræði (MSN, DNP), félagsráðgjöf (MSW, DSW), lýðheilsu (MPH, DrPH), aðstoðarlæknir, iðjuþjálfun, sjúkraþjálfun, heyrnarfræði, talmeinafræði og talmeinafræði.",
@@ -5983,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"Þetta hagkerfi er vissulega ekki 188 milljarða dollara hagkerfi - það er að minnsta kosti 350 milljarða dollara hagkerfi.\"",
@@ -6003,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Betellaufavatn með negul þolir illa lykt í munni.",
@@ -6023,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Í mars 2026 sagði franski hershöfðinginn Michel Yakovleff, sem gegndi leiðtogastöðu hjá NATO, að ef Frakkar aðstoðuðu Bandaríkin við að tryggja Hormuz-sund væri jafngildi þess að „kaupa ódýra miða á Titanic“.",
@@ -6043,7 +6221,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"Úganda hefur færslur, um 1,2 milljónir ferðamanna sem koma inn.\"",
@@ -6063,7 +6243,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "George Stephanopoulos, þáttastjórnandi ABC \"This Week\", sleit viðtali við varaforseta Bandaríkjanna JD Vance eftir að Vance sveigði spurningu um landamærakeisarann ​​Tom Homan.",
@@ -6083,7 +6265,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Starfsmenn í Bretlandi sem geta ekki unnið á þrepi 3 svæðum munu fá blöndu af starfsstuðningskerfi og Universal Credit, sem þýðir að þeir fá 80% af launum sínum.",
@@ -6103,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Starfandi aðalöryggisfulltrúi hjá bandaríska heimavarnarráðuneytinu í mars 2026 hét Iwona B. Horyn.",
@@ -6123,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Edo fylki í Nígeríu er með 19% atvinnuleysi.",
@@ -6143,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Foreldrar forsetafrúar Melaniu Trump komu til Bandaríkjanna í gegnum fjölskylduaðstoð, einnig nefnt niðrandi sem „keðjuflutningar“.",
@@ -6163,7 +6353,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Kína ætlar að banna Samsung síma vegna innbyggðs „ófjarlægjanlegs ísraelsks njósnahugbúnaðar“",
@@ -6183,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Myndefni sýnir mótmælendur í Nepal ganga til stuðnings Modi",
@@ -6203,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Auglýsing frá ríkisstjórn Ontario, Kanada, „rangrar“ ávarp Ronald Reagan forseta 25. apríl 1987 um gjaldtöku.",
@@ -6223,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Í valdatíð Hochul ríkisstjóra hefur verið „meiri glæpir á götum okkar“.",
@@ -6243,7 +6441,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Amit Shah sagði að áhrifamenn á samfélagsmiðlum frá öllum flokkum lifi á 5 kg skammtinum sínum.",
@@ -6263,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Bandaríski innflytjenda- og tollgæslumaðurinn sem skaut og drap Renee Nicole Good í Minneapolis 7. janúar 2026 hét Steve Grove.",
@@ -6283,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Íhaldssama sjálfseignarstofnunin Turning Point USA tilkynnti um aðra sýningu í hálfleik í Super Bowl árið 2026.",
@@ -6303,7 +6507,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Megan Byron, eiginkona fyrrverandi forstjóra stjörnufræðingsins Andy Byron, en meint framhjáhald hans var opinberað með kossmyndavél á tónleikum Coldplay í júlí 2025, gaf út yfirlýsingu þar sem hún hét því að forstjórinn myndi „finna fyrir“ gjörðum hans.",
@@ -6323,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "„Að sprengja borgaralega valdainnviði er stríðsglæpur.",
@@ -6343,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Fyrirhugaðar gagnaver í New York fylki myndu nota „um það bil tvöfalt meiri orkunotkun allra heimila í fylkinu samanlagt.",
@@ -6363,7 +6573,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Í mars 2026 sagði Donald Trump, forseti Bandaríkjanna, um Mohammed bin Salman krónprins Sádi-Arabíu: „Hann hélt ekki að hann myndi kyssa mig.",
@@ -6383,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]

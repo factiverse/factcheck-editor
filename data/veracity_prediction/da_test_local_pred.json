@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Siden folketællingen i 2020 har Florida \"flyttet sig fra et demokratisk flertal til en republikansk fordel på 1,5 millioner.\"",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"I henhold til Division of Revenue Act 2025 har vi allokeret hidtil usete 415 milliarder KSh til amter, næsten 30 milliarder KSh mere end sidste års tildeling.\"",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Hvad vi ved om Bovær og danske kvægbrug",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Aleema Khanum, søster til den fængslede tidligere pakistanske premierminister Imran Khan, kalder Pakistans hærchef Asim Munir for en \"radikaliseret islamist\", der længes efter en krig med Indien under et interview på Sky News.",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En nylig tørke i Spanien afslørede et 7.000 år gammelt megalitisk monument, ældre end Egyptens pyramider.",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "USA's præsident, Donald Trump, kaldte Californiens guvernør Gavin Newsom for \"USA's præsident, Gavin Newscum\".",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I december 2025 underskrev USA og Palau en aftale på 7,5 millioner dollars, der vil give USA mulighed for at sende op til 75 ikke-kriminelle deporterede til ø-nationen.",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Tørret kokos kan helbrede mundsår",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nigerias bybefolkning ved uafhængigheden var cirka 7 millioner.",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Walgreens begyndte at sælge Hallmark Mahogni-kort, et mærke af lykønskningskort eksklusivt til sorte mennesker i eller omkring august 2025.",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Falsk: Ukraine forsøgte at bestikke instituttet for undersøgelse af krig",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Faktatjek: Nøglekontekst mangler fra påstanden om LGBTQ+-fejring i Storbritannien bliver defunderet",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En passager fandt, på trods af at han blev underrettet om nul ledige stillinger, mens han forsøgte at bestille en seng online i pensioneringsværelset på Guruvayur-banegården i Kerala, at sovesalen var helt tom, da han gik dertil.",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jermaine Thomas, en amerikansk hærs veteransøn født på en militærbase i Tyskland, blev deporteret til Jamaica.",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I august 2025 underskrev den amerikanske præsident, Donald Trump, en bekendtgørelse, der gør, at afbrændingen af ​​det amerikanske flag kan straffes med et års fængsel.",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Boliger er dyre \"fordi vi oversvømmede landet med 30 millioner illegale immigranter\" og på grund af boligmangel.",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Musikundervisning er blevet forbudt i Hamborg Tyskland, fordi muslimer siger, at de er haram.",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I midten af ​​december 2025 annoncerede den amerikanske præsident, Donald Trump, Patriot Games, en fire-dages atletikkonkurrence mellem unge mænd og kvinder fra alle amerikanske stater og territorier.",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Under et kabinetsmøde i Det Hvide Hus i december 2025 blev den amerikanske forsvarsminister Pete Hegseths titel stavet forkert på hans plakat som \"Krigssekretær\".",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "NIA lancerede en hjælpelinje for folk til at rapportere 'anti-nationale' aktiviteter såsom kærlighedsjihad og terror i Indien.",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Nigerias handelsoverskud steg med 44,3 % i Q2 2025 til N7,46 billioner ($4,74 milliarder) ...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Kun omkring 3% af amerikanerne er til landbrug",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Vi gav $60 millioner for to uger siden\" til fødevarehjælp til Gaza.",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den amerikanske præsident, Donald Trump, udsendte engang en besked om Mors dag, der begyndte: \"Glædelig mors dag til ALLE, især mødrene, hustruerne og elskerne af de radikale venstrefascister, marxister og kommunister, som gør alt, hvad der står i deres magt for at ødelægge og udslette vores engang så store land.\"",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Frontline Magazines forside forudsiger Vijay Wave i Tamil Nadu forud for afstemningen",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Vestbengals chefminister Mamata Banerjee respekterede nationalsangen og forlod scenen, før nationalsangen sluttede.",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Faktatjek: Nøglekontekst mangler i påstanden 1 % af Storbritannien støtter legalisering af abort op til fødslen",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I Minnesota har licenserede våbenejere tilladelse til at bære et ladt skydevåben ved en protest.",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fox News rapporterer, at en Florida-mand nægter at betale skat, fordi han ikke personligt har godkendt noget af udgifterne.",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den 5. juni 2025 trådte en \"berøringslov\", der forbyder brugen af ​​håndholdte mobiltelefoner under kørsel, i kraft i 31 amerikanske stater.",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I 2000 modtog en mand fra Missouri en fængselsdom på 13 år, men afsonede først 13 år senere på grund af en skrivefejl.",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En drifter ved navn Ronald McDonald myrdede 12 børn på amtsmesser i det amerikanske midtvest i 1892 og inspirerede den moderne McDonald's fastfood-kædemaskot af samme navn.",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Regeringen lancerede en donationskampagne for at rejse 8 crore Rs for at hjælpe Nimisha Priya",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar sagde, at \"Virat Kohli kun har trænet mod Anushka [Sharma]s bolde under lockdownen\"",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Videnskabsmanden og pædagogen Carl Sagan sagde engang: \"Kuren mod et fejlagtigt argument er et bedre argument, ikke undertrykkelsen af ​​ideer.\"",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Billedbilleder fra Israel viser Mossads hovedkvarter i brand efter et nyligt iransk angreb.",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sydkoreansk politi siger, at ingen rapporter om en kinesisk offentlig sikkerhedsofficer, der opererer i Seoul",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Singer-songwriter Josh Groban konfronterede den amerikanske præsident Donald Trump over at have bedt et band om at spille den berømte sang \"You Raise Me Up\".",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Air Chief Marshal AP Singh talte om at advare centralregeringen om Tejas-flyene og sagde, at IAF-piloter vil blive sendt til Pakistan til træning.",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Antallet af politi falder, da National Party-leder Judith Collins var politiminister.",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Royal Bengal Tiger går i Mankar-skoven i East Burdwan",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I august 2025 advarede eksperter om, at inficerede \"Frankenstein-kaniner\" med tentakler eller horn på deres ansigter set i Fort Collins, Colorado, har \"invaderet\" USA.",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dødsdommen over Kerala-sygeplejersken Nimisha Priya er blevet annulleret af de yemenitiske myndigheder.",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Vestbengals politi kaster sten efter at have undladt at standse en lastbil med sand og sten.",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Grundløse indlæg om strandede hvaler 'advarsel om russisk jordskælv' spredte sig online",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Stivkrampe kan dræbes med peroxid og kun smittes gennem dyr",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Shah Rukh Khan siger, at Mustafizur Rahman vil spille for KKR trods modstand og kritiserer industrimanden Gautam Adani.",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Flere amerikanere blev dræbt i Chicago i en fire-ugers periode af marts 2026, end der er blevet dræbt i aktion siden udbruddet af USA-Israel-krigen mod Iran.",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Den første snekugle blev skabt ved et uheld, mens nogen forsøgte at bygge et lysere lys.",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "I december 2025 sagde mindretalslederen i det amerikanske senat, Chuck Schumer, \"Go Bills\", med henvisning til Buffalo, New York, NFL-holdet, før han talte om dødbringende skyderier i Sydney, Australien og på Brown University.",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Medlemmer af det amerikanske olympiske herrehockeyhold fik McDonald's fastfood under deres besøg i Det Hvide Hus i februar 2026.",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Undersøgelser viser, at BNP vil falde med 62 procent i 2100",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Instagram-bruger 'bjeshruchi'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Faktatjek: 'Human skin bamse' fundet i Californien er lavet af latex, ikke kød",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fra september 2025 vil Texas begynde at suspendere hjemløse studerende.",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Apples hoveddesigner, Jon Yongfook, blev fyret efter afsløringen af ​​det nye 'Liquid Glass'-design til iOS 26.",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Forskning på HAARP vejrstation er ansvarlig for orkanen Erin",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Turning Point USAs administrerende direktør og medstifter Charlie Kirk sagde engang: \"Den 2. ændring er ikke til jagt, den er ikke til selvbeskyttelse. Den er der for at sikre, at frie mennesker kan forsvare sig selv, hvis gud forbyde regeringen blev tyrannisk og vendte sig mod dens borgere.\"",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Karte seksalice\" vil blive brugt i sundhedsklasser i Zagrebs grundskoler",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Delstaten Ohio vedtog en lov, der kriminaliserer at bære makeup, tøj eller protetiske kropsdele, der antyder \"en kønsidentitet, der er forskellig fra kunstnerens eller entertainerens biologiske køn\", der i det væsentlige forbyder offentlige dragshows.",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Unionsminister Amit Shah dropper det nationale flag, mens han folder det ud under uafhængighedsdagen i 2025.",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I december 2025 annoncerede den amerikanske præsident Donald Trump, at en magnetisk resonansbilledscanning på hans hjerne \"intet fandt\".",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Amerika havde et handelsoverskud i is i 2020 under præsident Trumps ledelse, men det overskud blev til et handelsunderskud på 40,6 millioner dollars under præsident Bidens vagt.\"",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vance Boelter, anklaget for at have skudt to lovgivere i staten Minnesota og deres ægtefæller i juni 2025 (et par døde), blev engang udpeget til et rådgivende udvalg af den demokratiske Minnesota-guvernør Tim Walz.",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Falsk påstand Frankrigs fyrtårn i La Jument betaler personalet millioner, fortsætter online",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pressesekretær i Det Hvide Hus, Karoline Leavitt, afslørede \"sandheden\" om WNBA-spilleren Brittney Griners køn, og WNBA annoncerede obligatorisk \"sextest\".",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Trump-administrationen \"har defunderet ikke kun National Weather Service, men også det, der er kendt som NOAA.\"",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "USA's luftangreb på Irans Fordow-atomanlæg",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den tidligere russiske præsident Dmitrij Medvedev sagde i juni 2025, at \"en række lande er klar til direkte at forsyne Iran med deres egne atomsprænghoveder.\"",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Opslag viste autentisk et brev, som den amerikanske justitsminister Pam Bondi sendte til FBI-direktør Kash Patel om Epstein-sagerne i februar 2025.",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Elon Musk postede en besked på X, der lød: \"Uden mig ville Trump have tabt valget, Dems ville kontrollere Parlamentet, og republikanerne ville være 51-49 i Senatet.\"",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Den indiske hærchef, general Upendra Dwivedi, indrømmede, at seks jetfly var tabt, og 250 soldater blev martyrdøden i den nylige konflikt med Pakistan.",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den konservative kommentator Charlie Kirk sagde engang, at hvis han havde en 10-årig datter, der blev gravid efter at være blevet voldtaget, ville han have hende til at føde barnet.",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Faktatjek: WHO har ikke godkendt hjemmemedicin mod COVID-19, fald ikke for misinformation",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Indiens regering giver penge til efterladte familier med COVID-19 - Forsikringsydelser for Covid-19 dødsfald kan kræves under ordningerne fra PMJJBY og PMSBY.",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "I november 2025 afholdt en by i Montana, der stemte overvældende på den amerikanske præsident, Donald Trump, et \"pædofilt bål\" for at brænde MAGA-varer.",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I begyndelsen af ​​september 2025 sagde den amerikanske vicepræsident JD Vance, at Labor Day skulle være en fejring af \"kvinder, der går gennem fødsel.\"",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Trump-administrationen hævdede, at sangskriveren Billie Eilish ødelægger vores land i lækkede dokumenter",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I 2013 sagde den daværende forretningsmand og reality-tv-vært Donald Trump: \"En regeringsnedlukning falder på præsidentens mangel på lederskab. Jeg mener, problemer starter fra toppen, og de skal løses fra toppen. En nedlukning betyder, at præsidenten er svag.\"",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"På kun 12 år siden decentraliseringens fødsel har vi overført i alt 4 billioner KSh til amter.\"",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Et migrantfængsel kendt som \"Alligator Alcatraz\" forventedes at åbne i Florida i 2025.",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cambodjanske demonstranter beder lederen om at hjælpe med at lokalisere soldater nær den thailandske grænse.",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den republikanske tidligere formand for Repræsentanternes Hus, Newt Gingrich, delte et indlæg, der advokerer for at bruge atomdetonationer til at skabe en kanal, der ville tjene som en alternativ sejlrute til Hormuz-strædet.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump tweetede, at han donerede $500.000 hver til udgifterne til de to Los Angeles County sheriffs deputerede, der blev skudt og kritisk såret den 12. september 2020.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Georgiens valgembedsmænd indrømmede, at de bekræftede stemmesedlerne ved præsidentvalget i 2020 med tabulatorbånd - svarende til kvitteringer - der ikke var underskrevet af meningsmålingsarbejdere i strid med delstatens valgregler i Georgia.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mike Johnson, formand for det amerikanske Repræsentanternes Hus, var dekan for en juraskole opkaldt efter dommer Paul Pressler, som senere blev anklaget for seksuelt misbrug, men skolen åbnede aldrig officielt.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I december 2025 meddelte sangerinden Dolly Parton, at hun ville trække al sin musik fra Amazon, med henvisning til grundlæggeren Jeff Bezos' tilpasning til den amerikanske præsident, Donald Trump.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Soursop er 10.000 gange stærkere end kemoterapi",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Unge i Bihar vandaliserede en BJP-leders bil forud for statsforsamlingens meningsmålinger.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"De får ikke den traditionelle fem måneders træning ... Uddannelsen for ICE-agenterne er nu 47 dage.\"",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "E-mails skrevet af den afdøde seksualforbryder Jeffrey Epstein hævdede, at han gav Microsofts medstifter Bill Gates medicin til en kønssygdom for \"at håndtere konsekvenserne af sex med russiske piger.\"",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Den tidligere australske anfører Ricky Ponting kaldte Indien for en 'evig øm taber' for ikke at trykke hånd med Pakistan efter Asia Cup-kampen.",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Lastbilchauffør set lave mad inde i sit køretøj øjeblikke før et dødbringende styrt på 10 Freeway i Ontario, Californien.",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Undervisningsministeriets redegørelse om SPM-resultater",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump tweetede, at han donerede $500.000 hver til udgifterne til de to Los Angeles County sheriffs deputerede, der blev skudt og kritisk såret den 12. september 2020.",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U.S. Centers for Disease Control and Preventions fungerende direktør, Jim O'Neill, sagde engang: \"Der er masser af sunde, ekstra nyrer, der går ubrugte rundt.\"",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I 2022 skrev en bruger på X - dengang kendt som Twitter -: \"2023: Corona sluttede ... 2026: Hantavirus.\"",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fairfax County poststemmekonvolut afslører stemme for justitsministeren",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En muslimsk mand ved navn Abdul dræbte sin live-in partner, en hinduistisk kvinde, i Delhi.",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Israelske demonstranter stopper nødhjælpsbiler i at køre ind i Gaza",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En landsdækkende National Lok Adalat, der er planlagt til den 13. december 2025, vil tilbyde store rabatter på afventende trafikudfordringer.",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Muslimsk mand overfalder en kvinde på en restaurant i Indien",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "USA's præsident, Donald Trump, sagde, at Washington, D.C., politiet \"står der, og folk spytter dem i ansigtet, og de må ikke gøre noget. Men nu har de lov til at gøre, hvad fanden de vil.\"",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "CRPF strammer grebet inden valget i Vestbengalen.",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fra juni 2025 var det nordlige hvide næsehorn uddød efter det sidste næsehorn døde.",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En zoologisk have i Det Forenede Kongerige måtte opdele en gruppe på fem afrikanske grå papegøjer, fordi fuglene råbte udråb til gæster og personale.",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Iran har afskaffet lov om obligatorisk brug af hijab",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "New Yorks nyvalgte borgmester Zohran Mamdani sagde, at han ville beordre arrestationen af ​​den israelske premierminister Benjamin Netanyahu, hvis han kom til New York City.",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Manipulation: Den tjekkiske præsident Petr Pavel er enig med Ukraines tab af territorier \"for overlevelse\"",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "iPhone 12 kommer ikke med høretelefoner og en opladningsadapter.",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Et fransk magasin Charlie Hebdos kardinale og utilgivelige synd i at fornærme profetens hellige ansigt afslørede endnu en gang had og fjendtlighed hos de politiske og kulturelle institutioner i den vestlige verden mod islam og det muslimske samfund.",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Rødbede amla gulerodsjuice kan helbrede fase 4 kræft på 40 dage",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tre billeder, der hævder at vise Irans påståede missilangreb på Israels efterretningstjeneste Mossads hovedkvarter i Tel Aviv.",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En pædiatrisk praksis i Houston fyrede Dr. Christina Propst, efter at hun skrev på nettet, at ofre for oversvømmelser i Texas i juli 2025 var tilhængere af præsident Donald Trump, som fik, hvad de stemte for.",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Du kan sende en sms til RBG til 50409 for at underskrive en underskriftsindsamling om at fortælle din senator om ikke at erstatte Ruth Bader Ginsberg i højesteret før efter valget i 2020",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I september 2025 viste indlæg på sociale medier på autentisk vis en note fra advokat Alan Dershowitz, der refererede til Vanity Fair-dækning i Jeffrey Epsteins 50-års fødselsdagsalbum.",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Air India fly AI 315 brød i brand ved landing i Delhi, passagererne i sikkerhed",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "I en e-mail-udveksling med sin kollega Ghislaine Maxwell udgivet af House Oversight Committee i november 2025, kaldte seksualforbryderen Jeffrey Epstein den amerikanske præsident Donald Trump for \"hunden, der ikke har gøet\" og udtalte, at Trump tilbragte timer med et offer for sexhandel i Epsteins hjem.",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Dagligvarer er nede. Energi er langt nede. ... Var $4 og $5 for en gallon gas.\"",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dissanayake deaktiverede Sri Lankas Disaster Management Center",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "USA's husformand Mike Johnson, R-La., sagde: \"Demokraterne er forpligtet til at åbne regeringen. De bliver ved med at sige, at republikanerne er ansvarlige for regeringen. Det er vi ikke. Ikke i Senatet. Tres stemmer kontrollerer Senatet, ikke et rent flertal.\"",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Du kan sende en sms til RBG til 50409 for at underskrive en underskriftsindsamling om at fortælle din senator om ikke at erstatte Ruth Bader Ginsberg i højesteret før efter valget i 2020",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nancy Pelosi siger, at Kina ville foretrække Joe Biden.",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Omkring 40 % af alle amerikanske landarbejdere er papirløse immigranter.",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ingen sammenhæng mellem MFR-vaccine og autisme på trods af forskerens arrestation",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En viral påstand tyder på, at Ajit Doval opfordrede indianerne til at afinstallere Amazon for at presse USA i toldkrigen.",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I december 2025 arresterede amerikanske immigrations- og toldmyndigheder i Minneapolis en 55-årig amerikansk statsborger ved navn Sue Tincher, som observerede deres operation.",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Skuespiller Christian Bale bygger 12 hjem i en landsby til $22 millioner i Palmdale, Californien, der har til formål at holde søskende i plejesystemet sammen.",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Den afghanske udenrigsminister Amir Khan Muttaqi annoncerede planer om at bygge hinduistiske templer i Kabul og Kandahar med økonomisk hjælp fra Indien.",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump sagde: \"Sidste måned tog jeg fat på Big Pharma. Synes du, det er nemt? Jeg underskrev ordrer, der ville sænke prisen på dine receptpligtige lægemidler massivt.\"",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kenneth Petty, rapperen Nicki Minajs mand, er en registreret sexforbryder.",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I løbet af tre timer fra slutningen af ​​den 11. maj til begyndelsen af ​​den 12. maj 2026 skrev USA's præsident, Donald Trump, 55 gange på sin Truth Social-konto.",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I 2025 stod Chobani over for et gruppesøgsmål med påstand om, at dets yoghurt indeholder phthalater, kemikalier, der er blevet forbundet med hormonforstyrrelser.",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Alle kan få\" COVID-19-vaccinen.",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ansigtsmasker forårsager hypoxi.",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Indholdet af konspirationsnetværket Radio Quebec, der er hostet af Alexis Cossette-Trudel, er forbudt af Facebook.",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jackie Mitchell, en 17-årig pige, slog baseballlegenderne Babe Ruth og Lou Gehrig ryg mod ryg i en kamp fra 1931 mellem Chattanooga Lookouts og New York Yankees.",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Pave Leo XIV overrakte Irans ambassadør Mohammad Hossein Mokhtari Vatikanets højeste diplomatiske hæder i maj 2026.",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "NU: I stedet for at blive oplyst som BOSOS-FLAGET, som Biden havde det, er Det Hvide Hus oplyst i rødt, hvidt og blåt i aften",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Under et pressemøde om Air Force One sagde USA's præsident, Donald Trump, \"Stille, piggy!\" til en journalist, der spørger om frigivelsen af ​​Jeffrey Epstein-filerne.",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Inflationen, som lå på 9,6 % i 2022, er støt faldet til 4,6 % i sidste måned.\"",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Forfatteren Ashley St. Clair, der angiveligt er mor til Elon Musks 13. barn, skrev et indlæg på X og gav \"opbrudsråd\" til den amerikanske præsident, Donald Trump.",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Hvorfor skal du betale mere skat, end Donald Trump betaler? Og det er et faktum. $750. Husk, hvad han sagde, da det blev rejst for et stykke tid siden, hvordan han kun betaler ... Han sagde: 'Fordi jeg er klog. Jeg ved, hvordan man spiller systemet.'",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kemoterapimedicin til behandling af kræft blev opfundet ud fra sennepsgas.",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Fem hvidhvaler skyllede i land i det russiske Kamchatka, dagen før jordskælvet med en styrke på 8,8 ramte regionen.",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "USA's præsident, Donald Trump, udnævnte Turning Point USAs CEO Erika Kirk til Air Force Academy Board of Visitors.",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Filippinske og malaysiske flådeskibe havde en standoff nær Sabah den 11. august 2025.",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pakistans nationale flag blev hejst ved et stævne i DMK",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "FN vedtog en resolution, der pålægger USA at lukke oversøiske militærbaser",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "New York Mets erstattede det amerikanske flag med Pride-flaget, mens nationalsangen blev opført ved en baseballkamp den 13. juni 2025.",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den amerikanske minister for indenrigssikkerhed, Kristi Noem, takkede præsident Donald Trump for en begivenhedsløs orkansæson i 2025 i USA og sagde: \"Du holdt orkanerne væk.\"",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I slutningen af ​​april 2026 stemte Minnesota Senatdemokrater enstemmigt for at modsætte sig fjernelse af døde mennesker fra statens vælgerlister.",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"12,4 millioner sydafrikanere er arbejdsløse.\" – Mmusi Maimane",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Stanley tumblere indeholder farlige niveauer af bly, der kan forårsage blyforgiftning under normal brug.",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar sagde, at \"Virat Kohli kun har trænet mod Anushka [Sharma]s bolde under lockdownen\"",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Under Michigans guvernør Gretchen Whitmer er der \"færre familier, der lever i fattigdom\" end under hendes forgænger.",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Macy's aflyste sin Thanksgiving-parade i New York City i 2025, fordi den valgte borgmester Zohran Mamdani ønskede at opkræve varehuset $10 milliarder for at bruge Fifth Avenue.",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Historien om Punch the Abe, der finder trøst i et udstoppet dyr efter at være blevet forladt ved fødslen, er virkelig.",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Den nuværende øverste dommer i Indien, B. R. Gavai, har gendannet højesterets originale logo med mottoet 'Satyameva Jayate', som blev ændret til 'Yato Dharmastato Jayah' under overdommer Chandrachuds embedsperiode.",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "SAVE America Act \"ville tvinge amerikanere til kun at registrere sig (for at stemme) personligt, noget kun 5% af amerikanerne gør i dag.\"",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "NASA-teknologien opdagede en \"superjord\" exoplanet, der udsender \"mærkelige signaler\".",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I juni 2025 var den britiske tv-station Piers Morgan og den skotske sangerinde Susan Boyle forlovet og planlagde at blive gift.",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Grundløse påstande retter sig mod Bangladeshs tyfusvaccinedrift",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Scener fra Iran, der viser Dayyer Port i Bushehr, der brænder som følge af de israelske luftangreb.",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "I en e-mail-udveksling med sin kollega Ghislaine Maxwell udgivet af House Oversight Committee i november 2025, kaldte seksualforbryderen Jeffrey Epstein den amerikanske præsident Donald Trump for \"hunden, der ikke har gøet\" og udtalte, at Trump tilbragte timer alene med et offer for sexhandel i Epsteins hjem.",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "International Cricket Council (ICC) har udsendt en erklæring, der forbyder Pakistans cricketboard i et år.",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sheld Cloud set over spottet over Haridwar den 18. december 2025.",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den amerikanske præsident, Donald Trump, kaldte Russell Vought, direktør for Office of Management and Budget, \"Darth Vader\" i en tale i oktober 2025.",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Efter at forsvarsminister Pete Hegseth fyrede flådens stabschef John Harrison i oktober 2025, arresterede myndighederne Harrison på mistanke om forræderi.",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Indlæg hævder fejlagtigt, at Nigeria var 'gældsfrit' efter at have afviklet IMF-lån",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I en tale den 6. januar 2026 ved et retræte for republikanerne i Repræsentanternes Hus sagde USA's præsident, Donald Trump, at demokraterne vil tvinge \"transkønnede til alle\", hvis de vinder midtvejsvalget i 2026.",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "SAVE America Act \"kræver, at alle omregistrerer sig for at stemme personligt, og dit kørekort, RIGTIGE ID eller militær-ID er ikke engang gode nok.\"",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Citronvand og stensalt kan effektivt opløse nyresten.",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En officiel ordre fra ministeriet for olie og naturgas annoncerer stigninger på 10 INR/liter benzin og 12,50 INR/liter diesel.",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ted Lieu konfronterede Kash Patel med en hemmelig Epstein-optagelse og sagde \"Trump fortalte mig at begrave den\"",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I akkumulerede 29 af Nigerias 60 års eksistens som nation har det været under militærstyre.'",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bihars chefminister Nitish Kumar undskyldte over for det muslimske samfund for at have revet en kvindes hijab ned under en regeringsbegivenhed i Patna.",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Brokollaps i Bihar",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bernice King, præsten Martin Luther King Jr.'s datter, opfordrede USA's præsident, Donald Trump, til at frigive \"Epstein-filerne\", efter at hans administration frigav FBI's sager om hendes far i juli 2025.",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Skt. Nicholas knogler, inspirationen bag julemanden, har lækker væske i 1.700 år.",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Faste dræber kræftceller på 15 dage",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Faktatjek: Pilot fra den chilenske flåde sagde falsk online at være en israelsk pilot taget til fange i Iran",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Den gennemsnitlige amerikanske arbejder har allerede set en lønstigning på $500 i år.\"",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Et veterinærmedicinsk firma er ved at udvikle en pille til seniorhunde med det mål at forlænge deres levetid.",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "et enkelt akupressurpunkt kan hjælpe med at lindre menstruationssmerter",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Under præsident Donald Trumps nyligt underskrevne skattelov: \"De, der tjener mindre end 50.000 dollars, modtager de største (skatte)nedsættelser.\"",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I akkumulerede 29 af vores 60 års eksistens som nation har vi været under militærstyre.",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Et gødningsgodstog fra Visakhapatnam (Andhra Pradesh) til Basti (Uttar Pradesh) tog mere end tre år at nå sin destination.",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Gratis elektrisk cyklusordning for studerende under Green India Mission",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"[Sorte landmænd] ejer millioner af hektar jord. Cirka 50 % af alt jordarealet, når man tilføjer statsjord.\"",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Et firma støttet af milliardærfilantropen Bill Gates har produceret laboratoriefremstillet smør ved hjælp af kulstof.",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En gruppe cambodjanske munke takkede i sommeren 2025 den amerikanske præsident Donald Trump for at afslutte en krig mellem Cambodja og Thailand.",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cole Tomas Allen, mistænkt for angrebet på 2026 White House Correspondents' Association-middagen, er en registreret demokrat, der donerede til tidligere vicepræsident Kamala Harris' præsidentkampagne i 2024.",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Inden for kunstig intelligens: \"Vi leder Kina med meget.\"",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Under en julefrokost i 1943 forgiftede og dræbte en canadisk nonne med base i Belgien 45 nazistiske officerer ved at snøre deres suppe med arsenik.",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Black Lives Matter ønsker at ødelægge kernefamilien.",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Skuespillerne Shah Rukh Khan og Sanjay Dutt kritiserer Bihars chefminister Nitish Kumar og kræver en undskyldning over hijab-kontroversen.",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Falsk: ukrainske flygtninge røvet Louvre",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Virat Kohli og Rohit Sharma udelukket fra seneste ICC ODI batting-ranglister, hvilket giver næring til spekulationer om pensionering.",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Efter Swami Prasad Maurya bliver BJP MLA Yogesh Verma tæsk",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Lyden, der cirkulerede i september 2025, var fra et rigtigt 911-opkald i North Carolina, hvor opkalderen blev hørt råbe: \"Det er ikke menneskeligt.\"",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ægte billeder fra den igangværende konflikt mellem Israel og Iran i juni 2025.",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Omkring 274 undercover FBI-agenter var indlejret i mængden i Washington, D.C. den 6. januar 2021, hvilket opildnede til vold, der resulterede i optøjer ved U.S. Capitol.",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Amy Coney Barretts nominering til højesteret ville blive bekræftet i oktober 2020 af et flertal i Senatet, der repræsenterer 15 millioner færre mennesker end mindretalspartiet.",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Datacentre med kunstig intelligens \"øger elregningen med 30 eller 40 %\" og \"suger 500.000 liter vand op om dagen.\"",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Tredive procent af amerikanske læger er internationale medicinske kandidater, og 10.000 ud af 43.000 opholdspladser er besat af H-1B visumindehavere.",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "USA's præsident Donald Trump, der talte ved et arrangement for fastfoodkæden McDonald's, klagede over restriktioner for vand, der \"kommer fra himlen\" og sagde: \"Så du vil vaske dine hænder? Eller, ligesom jeg, vil jeg vaske mit hår. Jeg skummer op. Og ... der er intet vand. ... jeg vil ikke nævne det tredje emne på badeværelset, fordi jeg altid ved, hvad du taler om, fordi jeg altid ved, hvad du taler om på badeværelset. burde ikke eje en McDonald's-franchise.\"",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Balen Shah er Nepals nye premierminister",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I 2016 sagde den amerikanske senator Ted Cruz fra Texas, dengang en republikansk præsidentkandidat, \"Vi er tilbøjelige til at vågne op en morgen, og Donald, hvis han var præsident, ville have atomvåben Danmark.\"",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Californien giver $83,1 milliarder mere, end vi modtager fra den føderale regering. Texas? Modtager $71,1 milliarder mere, end de giver til den føderale regering. 71% af USA's BNP kommer fra blå amter.\"",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Den indiske hærs chefgeneral Upendra Dwivedi indrømmede, at 250 soldater blev martyrdøden langs LOC under den nylige konflikt med Pakistan.",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Hardik Pandya gik bort forud for Asia Cup 2025",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Kongressen fjernede afsnit 9 og 10 i artikel 1 i forfatningen fra sin hjemmeside",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Faktatjek: Skattefradrag for handelsaftaler er ikke for alle indiske arbejdere i Storbritannien, i modsætning til online påstande",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump skrev 5. juni 2025 for at angribe Elon Musk på grund af ketaminbrug",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ingeniører i Norge skabte flydende kunstige \"isbælg\" til sæler for at erstatte dyrenes forsvindende levested for arktisk havis.",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sol og vind har ikke nået \"3% af den globale energi.\"",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den 6. maj 2026 afholdt den evangeliske minister Mark Burns en indvielsesceremoni af en gylden statue af den amerikanske præsident Donald Trump på Trumps Mar-a-Lago resort i Florida.",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "LA Mostly Peaceful Jihad Summer of Love-demonstranter sætter med vilje en jeep i brand.",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sangeren og skuespilleren Cher sagde engang om den amerikanske præsident Donald Trump: \"Han er et hul. Han er så farlig, og hvad han bringer til mit land, hvad han har vækket i mit land, er bigotteri og mistillid og en vis form for overherredømme i visse grupper.\"",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "USA's præsident Trump forbyder Tesla-produktion i USA efter hans nedfald med firmaets administrerende direktør Elon Musk.",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Afghansk militant gruppe advarer ISI, der lover at hævne Pahalgam-terrorangrebet.",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fra begyndelsen af ​​november 2025 havde den amerikanske præsident Donald Trumps administration brugt 750 millioner dollars i toldindtægter til at finansiere det særlige supplerende ernæringsprogram for kvinder, spædbørn og børn.",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "USA's præsident, Donald Trump, foreslog, at vognmænd, der bruger diesel, skulle skifte til benzin for at reducere brændstofomkostningerne.",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Bangladeshisk cricketholdspiller Mustafizur Rahman opfordrer til en boykot af IPL 2026 efter at være blevet droppet af Kolkata Knight Riders (KKR).",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Labour vendte de 4.400 nedskæringer af sundhedspersonale fra LNP.",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Irans angreb på den amerikanske base i Riyadh, Saudi-Arabien.",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Kriminaliteten i Minneapolis \"falder med 25, 30%, fordi vi har fjernet tusindvis af kriminelle fra området.\"",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den amerikanske præsident, Donald Trump, benådede en svindler, der afsonede en dom for at stjæle langt flere penge, end der blev truffet i massiv velfærdssvindel i Minnesota, der involverede medlemmer af statens somaliske samfund.",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "efter krigens afslutning har det islamiske regime arresteret 700 jødiske iranere, 1/10 af hele det jødiske samfund i Iran. De beskylder dem falsk for at være 'Mossad-agenter' og hænger dem fra kraner.",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den tidligere amerikanske præsident Barack Obama fjernede en buste af den tidligere britiske premierminister Winston Churchill fra det ovale kontor og sendte den tilbage til England.",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Florida: #51 i mental sundhedspleje, #1 i husforsikringsomkostninger, #1 i ældresvindel, #1 i huslejestigninger.",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari sagde, at pakistanske agenter sidder i det indiske parlament.",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Personer med forsikring gennem Affordable Care Act vil se en \"75 % stigning i præmier fra 1. november\", hvis forbedrede tilskud ikke forlænges, herunder \"dobbelt så meget i landdistrikterne.\"",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Sri Lankas viceministers kommentar til dødsdommens dom",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I august 2025 afslørede Florida-senator Rick Scott mere end $26 millioner i aktiehandler mere end et år senere end deadline, der kræves ved lov.",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I november 2025 bad USA's præsident Trump Transportministeriet om at indføre 15-årige billån.",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mand, der ikke er amerikansk statsborger, stemmer Mamdani til borgmestervalget i NYC.",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dronningens frontmand Freddie Mercury sang ikke \"of the world\" i slutningen af ​​bandets sang \"We Are the Champions\", som først blev udgivet i 1977.",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Den amerikanske general George Patton Jr. sagde engang: \"Må Gud forbarme sig over mine fjender, for det vil jeg ikke.\"",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Præsidenten for AIMIMs kvindefløj lykønsker Deepak Kumar.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Vi har allerede genoprettet op til 35 [passagertog]-linjer, der enten var i dvale eller ikke fungerede.\" – Ramaphosa",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Falsk: Mindreårige er nu berettiget til militærkontrakter i Ukraine",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi udfører aarti for Lord Hanuman i et tempel.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Et brev, der blev delt online i marts 2026, er autentisk en besked, hvori Joe Kent, leder af U.S. National Counterterrorism Center, annoncerede sin tilbagetræden på grund af USA og Israels krig mod Iran.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I filmen \"Forrest Gump\" fra 1994 siger hovedpersonen: \"Livet var som en æske chokolade\", ikke \"Livet er som en æske chokolade.\"",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Supplement booster GLP-1 og hjælper med insulinresistens",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sagde, at hun har ledet husets indsats for at bygge et stort Micron-halvlederanlæg nær Syracuse.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "et sammenstød mellem en BJP-minister og en distriktssamler i Uttar Pradesh",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "USA's forsvarsminister Pete Hegseth sagde: \"Det er trættende at kigge ud på kampformationer, eller egentlig enhver formation, og se fede tropper. Ligeledes er det fuldstændig uacceptabelt at se fede generaler og admiraler i Pentagons haller og ledende kommandoer rundt om i landet og i verden.\"",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Lækkede amerikanske regeringsmemoer bekræftede, at den amerikanske præsident Donald Trumps administration testede \"interne rejserestriktioner\" inden for landets grænser i midten af ​​2025.",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Politi: Politiske aktivister forårsagede ikke Oregons skovbrande",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Billederne viser eksplosionen i Delhi Red Fort, der fandt sted den 10. november 2025.",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En undersøgelse viste, at kun 23% af amerikanerne kan pege på Iran på et kort.",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En mand fra Arkansas erkendte sig skyldig i fare for børn efter at have befrugtet en 15-årig pige og undgik fængsel.",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Indlæg repræsenterer den amerikanske kongres forskningsrapport for at miskreditere den sydkoreanske præsident",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Skuespilleren Helen Hunt gav sin barndomslærer, \"Miss Eleanor\", 3 millioner dollars fra hendes Oscar-gevinster, efter at læreren mistede sit job for at give ekstra vejledning for at hjælpe Hunt med hendes ordblindhed.",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Virale indlæg på sociale medier, der blev delt i 2024, beskrev nøjagtigt, at Paul McCartney købte breve fra John Lennons første ægteskab og returnerede dem til Lennons tidligere kone med en seddel, der fortalte hende, at hun ikke måtte sælge sine minder.",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Donald Trump tweetede, at han donerede $500.000 hver til udgifterne til de to Los Angeles County sheriffs deputerede, der blev skudt og kritisk såret den 12. september 2020.",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Droner og missiler bliver bevidst skudt ned over boligområder i Kiev for at holde befolkningen i frygt",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Som teenager blev præsident Lee Jae-myung dømt for voldtægt og mord.",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Indiana-lovgivere forsøgte at vedtage lovgivning, der ville tillade staten at henrette mennesker via gaskamre og skydehold.",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Italien tillod ikke SSU-officerer at ledsage det ukrainske hold ved de olympiske lege — Reuters",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "På grund af Imran Khans kritik af Macrons kommentarer om islam annullerede franske myndigheder 183 pakistanske statsborgeres visa og deporterede 118 fra landet.",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I 2022 sendte Virginia Attorney General-elect Jay Jones voldelige tekstbeskeder om den tidligere formand for Virginia House of Delegates Todd Gilbert og hans børn.",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En dag før hans chokfratræden reagerede tidligere vicepræsident Jagdeep Dhankhar skarpt på kongrespræsident Mallikarjun Kharges udtalelse i Rajya Sabha om, at han var bange for regeringen. \"Denne del af påstanden vil blive slettet. Hvorfor? Fordi Indiens bønder og deres sønner ikke er bange for nogen under nogen omstændigheder,\" sagde Dhankhar angiveligt.",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Den offentlige gæld ligger på omkring 67 % til dato af BNP.\"",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Den tidligere amerikanske præsident Barack Obama \"gav\" Iran 1,7 milliarder dollars i kontanter i 2016, og sendte paller med penge til landet.",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En bekendtgørelse fra juli 2025 fra USA's præsident Donald Trump har til formål at \"institutionalisere alle handicappede.\"",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den amerikanske præsident, Donald Trump, foretog 4.725 bankoverførsler til den afdøde, vanærede finansmand og dømte seksualforbryder Jeffrey Epstein for i alt 1,1 mia.",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den Muhammad Yunus-ledede midlertidige regering i Bangladesh har aflyst helligdage for store hinduistiske festivaler, herunder Durga Puja, Janmashtami og Saraswati Puja.",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ved uafhængigheden havde Nigeria en befolkning på 45 millioner.",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nigeria er den førende producent af kassava i Afrika og verden.",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I 2025 tilbød US Immigration and Customs Enforcement nye medarbejdere en løn på 100.000 USD oven i en underskriftsbonus på 45.000 USD, langt mere end hvad lærere i USA tjener.",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Kasongo kom og kasserede det system og bragte noget kaldet SHA og SHIF til en pris af KSh104 milliarder.\"",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "I december 2025 udgav det amerikanske justitsministerium et FBI-tip, hvori en klager påstået, at præsident Donald Trump så sin onkel dræbe sit nyfødte barn og bortskaffe liget i Lake Michigan, da hun var 13 og blev handlet for sex af Jeffrey Epstein.",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En Gandhi-statue blev ødelagt i Thiruvananthapuram, efter at BJP kom til magten i byens selskab",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Falsk: Zelensky-rådgiver Chrystia Freeland er efterkommer af nazistisk samarbejdspartner",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I slutningen af ​​2025 sagde Uddannelsesministeriet, at det ikke længere ville klassificere disse legitimationsoplysninger som professionelle grader: uddannelse (herunder undervisning af kandidatgrader), sygepleje (MSN, DNP), socialt arbejde (MSW, DSW), folkesundhed (MPH, DrPH), lægeassistent, ergoterapi, fysioterapi, audiologi, patologi- og taleterapi-uddannelser.",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Denne økonomi er bestemt ikke en økonomi på 188 milliarder dollars – den er en økonomi på mindst 350 milliarder dollars.\"",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Betelbladvand med nelliker kan håndtere ildelugtende oral lugt.",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I marts 2026 sagde den franske general Michel Yakovleff, som tjente i ledende stillinger i NATO, at for Frankrig at hjælpe USA med at sikre Hormuz-strædet ville det svare til \"at købe billige billetter til Titanic\".",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Uganda har indgange, omkring 1,2 millioner turister, der kommer ind.\"",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "George Stephanopoulos, vært for ABC's \"This Week\", afbrød et interview med den amerikanske vicepræsident JD Vance, efter at Vance afledte et spørgsmål om grænsezaren Tom Homan.",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "UK-ansatte, der ikke er i stand til at arbejde i niveau 3-områder, vil få en kombination af Job Support Scheme og Universal Credit, hvilket vil betyde, at de får 80 % af deres løn.",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den fungerende sikkerhedschef i det amerikanske departement for indenrigssikkerhed i marts 2026 hed Iwona B. Horyn.",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Edo State i Nigeria har en arbejdsløshed på 19 %.",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Førstedame Melania Trumps forældre kom til USA gennem et familiebaseret sponsorat, også kaldet nedsættende som \"kædemigrering\".",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kina planlægger at forbyde Samsung-telefoner over indlejret 'uaftagelig israelsk spyware'",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Billederne viser demonstranter i Nepal, der marcherer til støtte for Modi",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En annonce fra regeringen i Ontario, Canada, \"forkert\" præsident Ronald Reagans tale den 25. april 1987 om tariffer.",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Under guvernør Hochuls embedsperiode har der været \"mere kriminalitet på vores gader.\"",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Amit Shah sagde, at sociale mediers influencers fra alle parter lever af deres 5 kg ration.",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den amerikanske immigrations- og toldmyndighedsagent, der skød og dræbte Renee Nicole Good i Minneapolis den 7. januar 2026, hed Steve Grove.",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Den konservative nonprofitorganisation Turning Point USA annoncerede et alternativt halvtidsshow i 2026 i Super Bowl.",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Megan Byron, hustru til den tidligere astronom-administrerende direktør Andy Byron, hvis påståede affære blev afsløret af et kyssekamera-display under en Coldplay-koncert i juli 2025, udgav en erklæring, der lovede, at den administrerende direktør ville \"føle\" hans handlinger.",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"At bombe civil magtinfrastruktur er en krigsforbrydelse.\"",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Foreslåede datacentre i staten New York vil bruge \"ca. det dobbelte af energiforbruget for alle husstande i staten tilsammen.\"",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "I marts 2026 sagde USA's præsident, Donald Trump, om Saudi-Arabiens kronprins Mohammed bin Salman: \"Han troede ikke, han ville kysse min a**.\"",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   }
 ]

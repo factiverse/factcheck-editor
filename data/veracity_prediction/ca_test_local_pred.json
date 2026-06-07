@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Des del cens del 2020, Florida ha \"passat d'una majoria demòcrata a un avantatge republicà d'1,5 milions\".",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"En virtut de la Llei de divisió d'ingressos de 2025, hem assignat 415.000 milions de KSh sense precedents als comtats, gairebé 30.000 milions de KSh més que l'assignació de l'any passat\".",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El que sabem de Bovaer i les granges de bestiar daneses",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Aleema Khanum, germana de l'ex primer ministre pakistanès empresonat Imran Khan, anomena el cap de l'exèrcit pakistanès Asim Munir un \"islamista radicalitzat\" que anhela una guerra amb l'Índia durant una entrevista a Sky News.",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una recent sequera a Espanya va descobrir un monument megalític de 7.000 anys, més antic que les piràmides d'Egipte.",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va anomenar el governador de Califòrnia Gavin Newsom \"el president dels Estats Units, Gavin Newscum\".",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El desembre de 2025, els Estats Units i Palau van signar un acord de 7,5 milions de dòlars que permetrà als EUA enviar fins a 75 deportats no criminals a la nació insular.",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El coco sec pot curar les úlceres bucals",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La població urbana de Nigèria a la independència era d'aproximadament 7 milions.",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Walgreens va començar a vendre targetes Hallmark Mahogany, una marca de targetes de felicitació exclusivament per a persones negres a l'agost de 2025 o als voltants.",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Fals: Ucraïna va intentar subornar l'Institut per a l'Estudi de la Guerra",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Comprovació de fets: el context clau que falta a la reivindicació de la celebració LGBTQ+ a Gran Bretanya s'està desfinançant",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un passatger, tot i que s'havia notificat de zero vacants mentre intentava reservar un llit en línia a l'habitació de jubilació de l'estació de ferrocarril de Guruvayur a Kerala, es va trobar que el dormitori estava completament buit quan va anar-hi.",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jermaine Thomas, fill d'un veterà de l'exèrcit dels Estats Units nascut en una base militar a Alemanya, va ser deportat a Jamaica.",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'agost de 2025, el president dels Estats Units, Donald Trump, va signar una ordre executiva que sancionava la crema de la bandera americana amb un any de presó.",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'habitatge és car “perquè hem inundat el país amb 30 milions d'immigrants il·legals” i per manca d'habitatge.",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Les lliçons de música han estat prohibides a Hamburg, Alemanya, perquè els musulmans diuen que són haram.",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A mitjans de desembre de 2025, el president dels Estats Units, Donald Trump, va anunciar els Patriot Games, una competició d'atletisme de quatre dies entre homes i dones joves de tots els estats i territoris dels Estats Units.",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Durant una reunió del gabinet de la Casa Blanca el desembre de 2025, el títol del secretari de Defensa dels Estats Units, Pete Hegseth, es va escriure malament al seu cartell com a \"Secretari de Guerra\".",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La NIA va llançar una línia d'ajuda perquè la gent denunciés activitats \"antinacionals\" com ara la gihad amorosa i el terror a l'Índia.",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"L'excedent comercial de Nigèria va augmentar un 44,3% el segon trimestre del 2025 fins a 7,46 bilions de naira (4,74 mil milions de dòlars)...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Al voltant del 3% dels nord-americans es dedica a l'agricultura",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Fa dues setmanes vam donar 60 milions de dòlars\" per a ajuda alimentària a Gaza.",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va publicar una vegada un missatge del Dia de la Mare que començava: \"Feliç Dia de la Mare a TOTS, en particular a les mares, esposes i amants de l'esquerra radical, feixistes, marxistes i comunistes que estan fent tot el que està al seu abast per destruir i esborrar el nostre abans gran país\".",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La portada de la revista Frontline prediu Vijay Wave a Tamil Nadu abans de la votació",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La ministra en cap de Bengala Occidental, Mamata Banerjee, no va respectar l'himne nacional i va abandonar l'escenari abans que acabés l'himne nacional.",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Comprovació de fets: el context clau que falta a la reclamació L'1% del Regne Unit dóna suport a la legalització de l'avortament fins al naixement",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A Minnesota, els propietaris d'armes amb llicència poden portar una arma de foc carregada en una protesta.",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fox News informa que un home de Florida es nega a pagar impostos perquè no va aprovar personalment cap despesa.",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El 5 de juny de 2025, una \"llei tàctil\" que prohibia l'ús de telèfons mòbils de mà mentre es conduïa va entrar en vigor a 31 estats dels Estats Units.",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'any 2000, un home de Missouri va rebre una condemna de 13 anys de presó, però no va complir cap temps fins 13 anys més tard a causa d'un error clerical.",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Un vagabund anomenat Ronald McDonald va assassinar 12 nens a les fires del comtat del mig oest dels Estats Units el 1892 i va inspirar la mascota actual de la cadena de menjar ràpid McDonald's del mateix nom.",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El govern va llançar una campanya de donacions per recaptar 8 milions de rupies per ajudar Nimisha Priya",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar va dir que \"Virat Kohli només s'ha entrenat contra les pilotes d'Anushka [Sharma] durant el confinament\"",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El científic i pedagog Carl Sagan va dir una vegada: \"La cura per a un argument fal·laç és un argument millor, no la supressió de les idees\".",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Les imatges d'Israel mostren la seu del Mossad en flames després d'un recent atac iranià.",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La policia sud-coreana diu que no hi ha informes d'un oficial de seguretat pública xinès que operen a Seül",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El cantautor Josh Groban es va enfrontar al president dels Estats Units, Donald Trump, per demanar a una banda que toqués la famosa cançó \"You Raise Me Up\".",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El mariscal en cap de l'aire AP Singh va parlar d'advertir el govern central sobre l'avió Tejas i va dir que els pilots de l'IAF seran enviats al Pakistan per a la formació.",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El nombre de policies disminueix quan la líder del Partit Nacional Judith Collins era ministra de policia.",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tigre reial de Bengala caminant pel bosc de Mankar de East Burdwan",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'agost de 2025, els experts van advertir que els \"conills Frankenstein\" infectats amb tentacles o banyes a la cara vistos a Fort Collins, Colorado, havien \"envaït\" els Estats Units.",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les autoritats del Iemen han cancel·lat la condemna a mort de la infermera de Kerala Nimisha Priya.",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La policia de Bengala Occidental llança pedres després de no poder aturar un camió carregat de sorra i pedres.",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Publicacions sense fonament de balenes encallades \"advertint sobre el terratrèmol rus\" es van estendre en línia",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El tètanus es pot matar amb peròxid i només es pot contreure a través dels animals",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Shah Rukh Khan diu que Mustafizur Rahman jugarà al KKR malgrat l'oposició i critica l'industrial Gautam Adani.",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Més nord-americans van ser assassinats a Chicago en un període de quatre setmanes del març del 2026 dels que n'han estat assassinats en acció des de l'esclat de la guerra entre els Estats Units i Israel contra l'Iran.",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El primer globus de neu es va crear per accident mentre algú intentava construir una llum més brillant.",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El desembre de 2025, el líder de la minoria del Senat dels Estats Units, Chuck Schumer, va dir: \"Go Bills\", referint-se a l'equip de la NFL de Buffalo, Nova York, abans d'abordar els tiroteigs mortals a Sydney, Austràlia, i a la Universitat de Brown.",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els membres de l'equip d'hoquei masculí olímpic dels Estats Units van rebre menjar ràpid de McDonald's durant la seva visita a la Casa Blanca el febrer de 2026.",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'estudi demostra que el PIB es reduirà un 62% el 2100",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Usuari d'Instagram 'bjeshruchi'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Comprovació de fets: \"l'ós de peluix de pell humana\" que es troba a Califòrnia està fet de làtex, no de carn",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A partir del setembre de 2025, Texas començarà a suspendre els estudiants sense llar.",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El dissenyador principal d'Apple, Jon Yongfook, va ser acomiadat després de la presentació del nou disseny \"Liquid Glass\" per a iOS 26.",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La investigació de l'estació meteorològica HAARP és responsable de l'huracà Erin",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El CEO i cofundador de Turning Point USA, Charlie Kirk, va dir una vegada: \"La segona esmena no és per a la caça, no és per a l'autoprotecció. Està allà per garantir que les persones lliures puguin defensar-se si Déu no ho permeti el govern es torna tirànic i es torna contra els seus ciutadans\".",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Karte seksalice\" s'utilitzarà a les classes de salut a les escoles primàries de Zagreb",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'estat d'Ohio va aprovar una llei que criminalitza l'ús de maquillatge, roba o parts del cos protèsiques que suggereixin \"una identitat de gènere diferent del sexe biològic de l'intèrpret o de l'animador\", que prohibeix essencialment els espectacles d'arrossegament públics.",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El ministre de la Unió, Amit Shah, deixa caure la bandera nacional mentre la desplega durant el Dia de la Independència del 2025.",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El desembre de 2025, el president dels Estats Units, Donald Trump, va anunciar que una exploració per ressonància magnètica al seu cervell \"no va trobar res\".",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Els Estats Units van tenir un superàvit comercial de gelats el 2020 sota el lideratge del president Trump, però aquest superàvit es va convertir en un dèficit comercial de 40,6 milions de dòlars sota el control del president Biden\".",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vance Boelter, acusat d'haver afusellat dos legisladors de l'estat demòcrata de Minnesota i els seus cònjuges el juny de 2025 (una parella va morir), va ser nomenat una vegada per formar part d'un consell assessor pel governador demòcrata de Minnesota Tim Walz.",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La falsa afirmació que el far de La Jument de França paga milions de personal persisteix en línia",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La secretària de premsa de la Casa Blanca, Karoline Leavitt, va revelar \"la veritat\" sobre el gènere de la jugadora de la WNBA Brittney Griner, i la WNBA va anunciar \"proves de sexe\" obligatòries.",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'administració de Trump \"ha desfinançat no només el Servei Meteorològic Nacional, sinó també el que es coneix com NOAA\".",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Atac aeri dels Estats Units a la instal·lació nuclear iraniana de Fordow",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'expresident rus Dmitri Medvedev va dir el juny de 2025 que \"alguns països estan disposats a subministrar directament l'Iran amb les seves pròpies ogives nuclears\".",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Les publicacions mostraven autènticament una carta que la fiscal general dels Estats Units, Pam Bondi, va enviar al director de l'FBI, Kash Patel, sobre els fitxers d'Epstein el febrer de 2025.",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Elon Musk va publicar un missatge a X que deia: \"Sense mi, Trump hauria perdut les eleccions, els demòcrates controlarien la Cambra i els republicans tindrien 51-49 al Senat\".",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El cap de l'exèrcit indi, el general Upendra Dwivedi, va admetre que es van perdre sis avions i que 250 soldats van ser martiritzats en el recent conflicte amb Pakistan.",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El comentarista conservador Charlie Kirk va dir una vegada que si tenia una filla de 10 anys que es va quedar embarassada després de ser violada, voldria que parís el nadó.",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Comprovació de fets: l'OMS no ha aprovat un remei casolà per a la COVID-19, no caigueu en la desinformació",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El govern de l'Índia proporciona diners a les famílies en dol per COVID-19: es poden reclamar els beneficis d'assegurança per morts per Covid-19 sota els esquemes de PMJJBY i PMSBY.",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El novembre de 2025, una ciutat de Montana que va votar majoritàriament pel president dels Estats Units, Donald Trump, va fer una \"foguera pedòfila\" per cremar mercaderies MAGA.",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A principis de setembre de 2025, el vicepresident dels Estats Units, JD Vance, va dir que el Dia del Treball hauria de ser una celebració de \"les dones que passen pel treball\".",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'administració Trump va afirmar que la compositora Billie Eilish està destruint el nostre país en documents filtrats",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El 2013, l'aleshores home de negocis i presentador de televisió de realitat Donald Trump va dir: \"Un tancament del govern recau en la manca de lideratge del president. Vull dir, els problemes comencen des de dalt i s'han de resoldre des de dalt. Un tancament significa que el president és feble\".",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"En només 12 anys des del naixement de la devolució, hem transferit un total de 4 bilions de KSh a comtats\".",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "S'esperava que un centre de detenció de migrants conegut com \"Alligator Alcatraz\" s'obre a Florida el 2025.",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Manifestants cambodjanes demanen al líder que ajudi a localitzar soldats a prop de la frontera tailandesa.",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'expresident republicà de la Cambra, Newt Gingrich, va compartir una publicació que defensava l'ús de detonacions nuclears per crear un canal que serviria com a ruta de navegació alternativa a l'estret d'Ormuz.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump va tuitejar que donava 500.000 dòlars cadascun per a les despeses dels dos adjunts del xèrif del comtat de Los Angeles que van resultar ferits de manera crítica el 12 de setembre de 2020.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els funcionaris electorals de Geòrgia van admetre que van certificar les paperetes a les eleccions presidencials del 2020 amb cintes tabuladores, semblants a rebuts, que no van ser signades pels treballadors electorals en violació de les regles electorals de l'estat de Geòrgia.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mike Johnson, president de la Cambra de Representants dels Estats Units, era degà d'una escola de dret que portava el nom del jutge Paul Pressler, que més tard va ser acusat d'abús sexual, però l'escola mai es va obrir oficialment.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El desembre de 2025, la cantant Dolly Parton va anunciar que retiraria tota la seva música d'Amazon, citant l'alineació del fundador Jeff Bezos amb el president dels Estats Units, Donald Trump.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La guanábana és 10.000 vegades més forta que la quimioteràpia",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els joves de Bihar van vandalitzar el cotxe d'un líder del BJP abans de les urnes de l'assemblea estatal.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"No estan rebent la formació tradicional de cinc mesos... La formació dels agents de l'ICE ara és de 47 dies\".",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Els correus electrònics escrits pel difunt delinqüent sexual Jeffrey Epstein van afirmar que va proporcionar al cofundador de Microsoft, Bill Gates, medicaments per a una ETS per \"fer front a les conseqüències del sexe amb noies russes\".",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'excapità d'Austràlia, Ricky Ponting, va qualificar l'Índia de \"perpetua adolorida\" per no donar la mà al Pakistan després del partit de la Copa Àsia.",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un conductor de camió vist cuinant dins del seu vehicle moments abans d'un accident mortal a l'autopista 10 a Ontario, Califòrnia.",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Declaració del Ministeri d'Educació sobre els resultats de l'SPM",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump va tuitejar que donava 500.000 dòlars cadascun per a les despeses dels dos adjunts del xèrif del comtat de Los Angeles que van resultar ferits de manera crítica el 12 de setembre de 2020.",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El director en funcions dels Centres per al Control i la Prevenció de Malalties dels Estats Units, Jim O'Neill, va dir una vegada: \"Hi ha molts ronyons sans i sense utilitzar\".",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El 2022, un usuari de X, llavors conegut com a Twitter, va publicar: \"2023: Corona va acabar... 2026: Hantavirus\".",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El sobre de la votació per correu del comtat de Fairfax revela el vot per al fiscal general",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un home musulmà anomenat Abdul va matar la seva parella que vivia, una dona hindú, a Delhi.",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Manifestants israelians impedeixen que el camió d'ajuda entri a Gaza",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un National Lok Adalat programat per al 13 de desembre de 2025 oferirà importants descomptes en els desafiaments de trànsit pendents.",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Home musulmà agredeix una dona en un restaurant de l'Índia",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va dir que la policia de Washington, D.C., està \"allà parada, i la gent els escupe a la cara i no se'ls permet fer res. Però ara se'ls permet fer el que vulguin\".",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "CRPF reforça el seu control abans de les eleccions a Bengala Occidental.",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Al juny de 2025, el rinoceront blanc del nord es va extingir després de la mort de l'últim rinoceront.",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un zoològic del Regne Unit va haver de dividir un grup de cinc lloros grisos africans perquè els ocells van cridar insults als convidats i al personal.",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'Iran ha abolit la llei obligatòria de portar hijab",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'alcalde electe de la ciutat de Nova York, Zohran Mamdani, va dir que ordenaria l'arrest del primer ministre israelià Benjamin Netanyahu si vingués a la ciutat de Nova York.",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Manipulació: el president txec, Petr Pavel, accepta que Ucraïna perdi territoris \"per a la supervivència\"",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'iPhone 12 no inclou auriculars ni adaptador de càrrega.",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El pecat cardinal i imperdonable d'una revista francesa Charlie Hebdo en insultar el sant rostre del Profeta va revelar una vegada més l'odi i l'hostilitat de les institucions polítiques i culturals del món occidental contra l'islam i la comunitat musulmana.",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El suc de pastanaga amla de remolatxa pot curar el càncer de l'etapa 4 en 40 dies",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tres imatges que afirmen mostrar els suposats atacs de míssils de l'Iran a la seu de l'agència d'intel·ligència d'Israel Mossad a Tel Aviv.",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una consulta pediàtrica de Houston va acomiadar la doctora Christina Propst després que va publicar en línia que les víctimes de les inundacions de Texas el juliol del 2025 eren partidaris del president Donald Trump que va aconseguir el que van votar.",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Podeu enviar un missatge de text a RBG al 50409 per signar una petició per dir-li al vostre senador que no substitueixi Ruth Bader Ginsberg al Tribunal Suprem fins després de les eleccions del 2020.",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El setembre de 2025, les publicacions a les xarxes socials mostraven autènticament una nota de l'advocat Alan Dershowitz que feia referència a la cobertura de Vanity Fair a l'àlbum del 50è aniversari de Jeffrey Epstein.",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El vol AI 315 d'Air India s'ha incendiat en aterrar a Delhi, els passatgers estan segurs",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En un intercanvi de correu electrònic amb la seva associada Ghislaine Maxwell publicat pel Comitè de Supervisió de la Cambra el novembre de 2025, l'agressor sexual Jeffrey Epstein va anomenar el president dels Estats Units, Donald Trump, el \"gos que no ha bordat\" i va declarar que Trump va passar hores amb una víctima de tràfic sexual a casa d'Epstein.",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Els queviures han baixat. L'energia ha baixat molt... Era de 4 dòlars i 5 dòlars per un galó de gasolina\".",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dissanayake va desactivar el Centre de Gestió de Desastres de Sri Lanka",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president de la Cambra dels Estats Units, Mike Johnson, R-La., va dir: \"Els demòcrates estan obligats a obrir el govern. Continuen dient que els republicans estan a càrrec del govern. Nosaltres no. No al Senat. Seixanta vots controlen el Senat, no una majoria absoluta\".",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Podeu enviar un missatge de text a RBG al 50409 per signar una petició per dir-li al vostre senador que no substitueixi Ruth Bader Ginsberg al Tribunal Suprem fins després de les eleccions del 2020.",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Nancy Pelosi diu que la Xina preferiria Joe Biden.",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Al voltant del 40% de tots els treballadors agrícolas dels Estats Units són immigrants sense papers.",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "No hi ha cap vincle entre la vacuna MMR i l'autisme, malgrat la detenció de l'investigador",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Una afirmació viral suggereix que Ajit Doval va instar els indis a desinstal·lar Amazon per pressionar els EUA en la guerra d'aranzels.",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El desembre de 2025, els agents d'Immigració i Control de Duanes dels Estats Units a Minneapolis van arrestar una ciutadana nord-americana de 55 anys anomenada Sue Tincher que estava observant la seva operació.",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'actor Christian Bale està construint 12 cases en un poble de 22 milions de dòlars a Palmdale, Califòrnia, que té com a objectiu mantenir junts els germans en el sistema d'acollida.",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El ministre d'Afers Exteriors afganès, Amir Khan Muttaqi, va anunciar plans per construir temples hindús a Kabul i Kandahar amb l'ajuda financera de l'Índia.",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump va dir: \"El mes passat, vaig assumir Big Pharma. Creus que és fàcil? Vaig signar comandes que reduirien massivament el cost dels teus medicaments amb recepta\".",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kenneth Petty, el marit del raper Nicki Minaj, és un delinqüent sexual registrat.",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En un període de tres hores des de finals de l'11 de maig fins a principis del 12 de maig de 2026, el president dels Estats Units, Donald Trump, va publicar 55 vegades al seu compte de Truth Social.",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El 2025, Chobani s'enfrontava a una demanda col·lectiva al·legant que els seus iogurts contenien ftalats, substàncies químiques que s'han relacionat amb la interrupció hormonal.",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Tothom pot obtenir\" la vacuna COVID-19.",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les màscares facials causen hipòxia.",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El contingut de la xarxa de conspiració, Radio Quebec, presentada per Alexis Cossette-Trudel està prohibit per Facebook.",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jackie Mitchell, una noia de 17 anys, va colpejar dos llegendes del beisbol Babe Ruth i Lou Gehrig en un partit de 1931 entre els Chattanooga Lookouts i els New York Yankees.",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El papa Lleó XIV va lliurar a l'ambaixador de l'Iran Mohammad Hossein Mokhtari el màxim honor diplomàtic del Vaticà el maig de 2026.",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "ARA: en lloc d'il·luminar-se com la BANDERA GAY com ho feia Biden, la Casa Blanca s'il·lumina en vermell, blanc i blau aquesta nit",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Durant una reunió de premsa a l'Air Force One, el president dels Estats Units, Donald Trump, va dir: \"Tranquil, garrot!\" a un periodista preguntant sobre l'alliberament dels fitxers de Jeffrey Epstein.",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"La inflació, que es va situar en el 9,6% el 2022, ha baixat constantment fins al 4,6% el mes passat\".",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'autor Ashley St. Clair, la mare del 13è fill d'Elon Musk, va publicar a X oferint \"consells de ruptura\" al president dels Estats Units, Donald Trump.",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Per què hauríeu de pagar més impostos dels que paga Donald Trump? I això és un fet. $750. Recordeu el que va dir quan això es va plantejar fa un temps, com només paga... Va dir: \"Perquè sóc intel·ligent\". Sé com jugar amb el sistema.",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els fàrmacs de quimioteràpia per tractar el càncer es van inventar a partir del gas mostassa.",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cinc balenes beluga van arribar a terra a Kamtxatka, a Rússia, un dia abans que el terratrèmol de magnitud 8,8 assolí la regió.",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va nomenar la CEO de Turning Point USA, Erika Kirk, a la Junta de Visitants de l'Acadèmia de la Força Aèria.",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els vaixells de la marina filipina i malàisia van tenir un enfrontament a prop de Sabah l'11 d'agost de 2025.",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les banderes nacionals del Pakistan es van hissar en una manifestació de DMK",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'ONU va aprovar una resolució que obligava els Estats Units a tancar bases militars a l'estranger",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els Mets de Nova York van substituir la bandera dels Estats Units per la bandera de l'Orgull mentre l'himne nacional es va interpretar en un partit de beisbol el 13 de juny de 2025.",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La secretària de Seguretat Nacional dels Estats Units, Kristi Noem, va agrair el president Donald Trump per una temporada d'huracans 2025 sense incidents als Estats Units, dient: \"Vostè va mantenir allunyats els huracans\".",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "A finals d'abril de 2026, els demòcrates del Senat de Minnesota van votar per unanimitat en contra de l'eliminació de les persones mortes dels cens de votants de l'estat.",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"12,4 milions de sud-africans estan a l'atur\". – Mmusi Maimane",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els gots Stanley contenen nivells perillosos de plom que poden causar intoxicació per plom durant l'ús normal.",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar va dir que \"Virat Kohli només s'ha entrenat contra les pilotes d'Anushka [Sharma] durant el confinament\"",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sota la governadora de Michigan, Gretchen Whitmer, hi ha \"menys famílies que viuen en la pobresa\" que sota el seu predecessor.",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Macy's va cancel·lar la seva desfilada d'Acció de Gràcies a la ciutat de Nova York el 2025 perquè l'alcalde electe Zohran Mamdani volia cobrar als grans magatzems 10.000 milions de dòlars per utilitzar la Cinquena Avinguda.",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La història de Punch, el mico, trobant consol en un animal de peluix després de ser abandonat en néixer és real.",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'actual president del president de l'Índia, B. R. Gavai, ha restaurat el logotip original del Tribunal Suprem, amb el lema \"Satyameva Jayate\", que es va canviar per \"Yato Dharmastato Jayah\" durant el mandat del president del tribunal Chandrachud.",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La Llei SAVE America \"obligaria els nord-americans a registrar-se (per votar) només en persona, cosa que només fa el 5% dels nord-americans avui\".",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "La tecnologia de la NASA va descobrir un exoplaneta \"super-Terra\" que emetia \"senyals estranys\".",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El juny de 2025, l'emissora britànica Piers Morgan i la cantant escocesa Susan Boyle es van comprometre i planejaven casar-se.",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Afirmacions sense fonament es dirigeixen a la vacunació contra la tifoide de Bangla Desh",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Escenes de l'Iran que mostren el port de Dayyer a Bushehr cremant com a resultat dels atacs aeris israelians.",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En un intercanvi de correu electrònic amb la seva associada Ghislaine Maxwell publicat pel Comitè de Supervisió de la Cambra el novembre de 2025, el delinqüent sexual Jeffrey Epstein va anomenar el president dels Estats Units, Donald Trump, el \"gos que no ha bordat\" i va declarar que Trump passava hores sol amb una víctima de tràfic sexual a casa d'Epstein.",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'International Cricket Council (ICC) ha emès un comunicat, prohibint la junta de cricket del Pakistan durant un any.",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sheld Cloud es va veure sobre Haridwar el 18 de desembre de 2025.",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va trucar a Russell Vought, director de l'Oficina de Gestió i Pressupost, \"Darth Vader\" en un discurs de l'octubre de 2025.",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Després que el secretari de Defensa Pete Hegseth va acomiadar el cap d'estat major de la Marina John Harrison l'octubre de 2025, les autoritats van arrestar Harrison sota sospita de traïció.",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les publicacions afirmen falsament que Nigèria estava \"lliure de deutes\" després de liquidar els préstecs de l'FMI",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En un discurs del 6 de gener de 2026 en una retirada dels republicans de la Cambra, el president dels Estats Units, Donald Trump, va dir que els demòcrates obligaran a \"transgènere per a tothom\" si guanyen les eleccions de mig mandat del 2026.",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La Llei SAVE America \"exigeix ​​que tothom es torni a registrar per votar en persona i el vostre carnet de conduir, REAL ID o identificació militar ni tan sols són prou bons\".",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "L'aigua de llimona i la sal de roca poden dissoldre eficaçment els càlculs renals.",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una ordre oficial del Ministeri de Petroli i Gas Natural anuncia augments de 10 ₹/litre de gasolina i 12,50 ₹/litre de dièsel.",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ted Lieu es va enfrontar a Kash Patel amb una gravació secreta d'Epstein, dient que \"Trump em va dir que l'enterrava\".",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Durant un total de 29 dels 60 anys d'existència de Nigèria com a nació, ha estat sota domini militar.",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El ministre en cap de Bihar, Nitish Kumar, va demanar disculpes a la comunitat musulmana per haver tirat el hijab d'una dona durant un esdeveniment governamental a Patna.",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Col·lapse del pont a Bihar",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bernice King, la filla del reverend Martin Luther King Jr., va demanar al president dels Estats Units, Donald Trump, que alliberés els \"arxius Epstein\" després que la seva administració publicés els fitxers de l'FBI sobre el seu pare el juliol del 2025.",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els ossos de Sant Nicolau, la inspiració del Pare Noel, fa 1.700 anys que perden líquid.",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El dejuni mata les cèl·lules canceroses en 15 dies",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Verificació dels fets: el pilot de la Marina xilena va dir falsament en línia que era un pilot israelià capturat a l'Iran",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"El treballador nord-americà mitjà ja ha vist un augment salarial de 500 dòlars aquest any\".",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Una empresa farmacèutica veterinària està desenvolupant una píndola per a gossos grans amb l'objectiu d'allargar la seva vida útil.",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "un únic punt d'acupressió pot ajudar a alleujar el dolor menstrual",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Segons la llei fiscal recentment signada del president Donald Trump, \"els que guanyen menys de 50.000 dòlars reben les retallades (d'impostos) més grans\".",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Durant un total de 29 dels nostres 60 anys d'existència com a nació, hem estat sota domini militar.",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un tren de mercaderies fertilitzants des de Visakhapatnam (Andhra Pradesh) fins a Basti (Uttar Pradesh) va trigar més de tres anys a arribar al seu destí.",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Programa de cicle elèctric gratuït per a estudiants amb missió de l'Índia Verda",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"[Els agricultors negres] posseeixen milions d'hectàrees de terra. Aproximadament el 50% de tota la superfície terrestre quan s'afegeixen terres estatals\".",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una empresa recolzada pel filantrop multimilionari Bill Gates ha produït mantega de laboratori amb carboni.",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un grup de monjos cambodjans va agrair al president dels Estats Units, Donald Trump, l'estiu del 2025, per posar fi a una guerra entre Cambodja i Tailàndia.",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Cole Tomas Allen, el sospitós de l'atac al sopar de l'Associació de Corresponsals de la Casa Blanca de 2026, és un demòcrata registrat que va fer una donació a la campanya presidencial de 2024 de l'exvicepresidenta Kamala Harris.",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En intel·ligència artificial, \"estem liderant molt la Xina\".",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Durant un dinar de Nadal el 1943, una monja canadenca amb seu a Bèlgica va enverinar i va matar 45 oficials nazis amb arsènic en la seva sopa.",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Black Lives Matter vol destruir la família nuclear.",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els actors Shah Rukh Khan i Sanjay Dutt critiquen el ministre en cap de Bihar, Nitish Kumar, i demanen disculpes per la controvèrsia del hijab.",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fals: els refugiats ucraïnesos van robar el Louvre",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Virat Kohli i Rohit Sharma exclosos dels últims rànquings de bateig de l'ICC ODI, alimentant l'especulació de la jubilació.",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Després de Swami Prasad Maurya, el MLA del BJP Yogesh Verma rep una bufetada",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'àudio que circulava el setembre del 2025 era d'una trucada real al 911 a Carolina del Nord, en la qual es va sentir que la persona que trucava cridava: \"Això no és humà\".",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Imatges reals del conflicte Israel-Iran en curs de juny de 2025.",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Uns 274 agents encoberts de l'FBI es van incrustar entre la multitud a Washington, D.C., el 6 de gener de 2021, incitant a la violència que va provocar els disturbis al Capitoli dels Estats Units.",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La nominació d'Amy Coney Barrett al Tribunal Suprem es confirmaria l'octubre del 2020, per una majoria del Senat que representa 15 milions de persones menys que el partit minoritari.",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els centres de dades d'intel·ligència artificial \"augmenten les factures d'electricitat un 30 o un 40%\" i \"aspiren 500.000 litres d'aigua al dia\".",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El trenta per cent dels residents mèdics dels Estats Units són graduats en medicina internacional i 10.000 de 43.000 places de residència estan ocupades per titulars de visats H-1B.",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, parlant en un esdeveniment per a la cadena de menjar ràpid McDonald's, es va queixar de les restriccions a l'aigua que \"vé del cel\" i va dir: \"Així que vols rentar-te les mans? O, com jo, vull rentar-me els cabells. Em faig espuma. I... no hi ha aigua... No esmentaré el tercer element al bany. no hauria de ser propietari d'una franquícia de McDonald's\".",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Balen Shah és el nou primer ministre del Nepal",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El 2016, el senador nord-americà Ted Cruz de Texas, llavors candidat a la presidència republicà, va dir: \"Podem despertar-nos un matí i Donald, si fos president, hauria atacat Dinamarca\".",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Califòrnia proporciona 83.100 milions de dòlars més del que rebem del govern federal. Texas? Rep 71.100 milions de dòlars més del que proporcionen al govern federal. El 71% del PIB dels Estats Units prové dels comtats blaus\".",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El general en cap de l'exèrcit indi Upendra Dwivedi va admetre que 250 soldats van ser martiritzats al llarg del LOC durant el recent conflicte amb Pakistan.",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Hardik Pandya va morir abans de la Copa Àsia 2025",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El Congrés va eliminar les seccions 9 i 10 de l'article 1 de la Constitució del seu lloc web",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Comprovació de fets: la desgravació fiscal de l'acord comercial no és per a tots els treballadors indis al Regne Unit, al contrari de les afirmacions en línia",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump va publicar el 5 de juny de 2025 per atacar Elon Musk per l'ús de ketamina",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els enginyers de Noruega van crear \"beines de gel\" artificials flotants per a les foques per substituir l'hàbitat desaparegut dels animals del gel marí àrtic.",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El solar i el vent no han arribat al \"3% de l'energia global\".",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El 6 de maig de 2026, el ministre evangèlic Mark Burns va celebrar una cerimònia de dedicació d'una estàtua daurada del president dels Estats Units, Donald Trump, al complex Mar-a-Lago de Trump a Florida.",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els manifestants d'estiu d'amor de la gihad majoritàriament pacífica de LA incendien intencionadament un jeep.",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La cantant i actor Cher va dir una vegada sobre el president dels Estats Units, Donald Trump: \"És un ** forat. És tan perillós, i el que porta al meu país, el que ha despertat al meu país és fanatisme i desconfiança i un cert tipus de supremacia en determinats grups\".",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El president dels Estats Units, Trump, prohibeix la producció de Tesla als Estats Units després de les seves conseqüències amb el CEO de l'empresa, Elon Musk.",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un grup militant afganès adverteix l'ISI, promet venjar l'atac terrorista de Pahalgam.",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A principis de novembre de 2025, l'administració del president dels Estats Units, Donald Trump, havia utilitzat 750 milions de dòlars en ingressos aranzels per finançar el Programa Especial de Nutrició Suplementària per a Dones, Nadons i Nens.",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va suggerir que els camioners que utilitzen dièsel haurien de canviar a la gasolina per reduir els costos del combustible.",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El jugador de l'equip de cricket de Bangla Desh, Mustafizur Rahman, demana un boicot a IPL 2026 després de ser abandonat per Kolkata Knight Riders (KKR).",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Labor va revertir les retallades de 4.400 treballadors sanitaris de l'LNP.",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Atac de l'Iran a la base nord-americana de Riad, Aràbia Saudita.",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La delinqüència a Minneapolis \"ha baixat un 25, 30% perquè hem eliminat milers de delinqüents de la zona\".",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va indultar un estafador que complia una condemna per robar molts més diners dels que es van endur en un frau massiu de benestar social a Minnesota amb membres de la comunitat somali de l'estat.",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "des del final de la guerra, el règim islàmic ha detingut 700 jueus iranians, 1/10 de tota la comunitat jueva de l'Iran. Els estan acusant falsament de ser ‘agents del Mossad’ i ​​els pengen de grues.",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'expresident dels Estats Units Barack Obama va treure un bust de l'antic primer ministre britànic Winston Churchill de l'Oficina Oval i el va enviar de tornada a Anglaterra.",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Florida: número 51 en atenció a la salut mental, número 1 en costos d'assegurança de la llar, número 1 en frau a la gent gran, número 1 en augments de lloguer.",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari va dir que els agents pakistanesos estan asseguts al Parlament indi.",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les persones amb assegurança a través de la Llei d'atenció assequible veuran un \"augment del 75% de les primes a partir de l'1 de novembre\" si no s'amplien els subsidis millorats, inclòs \"el doble a les zones rurals\".",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Comentari del viceministre de Sri Lanka sobre el veredicte de la condemna a mort",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'agost de 2025, el senador de Florida Rick Scott va revelar més de 26 milions de dòlars en operacions d'accions més d'un any després del termini exigit per la llei.",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El novembre de 2025, el president dels Estats Units Trump va demanar al Departament de Transport que introduís préstecs per a cotxes a 15 anys.",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un home que no és ciutadà nord-americà vota Mamdani a les eleccions a l'alcalde de Nova York.",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El líder de Queen, Freddie Mercury, no va cantar \"del món\" al final de la cançó de la banda \"We Are the Champions\", que es va publicar per primera vegada el 1977.",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "El general nord-americà George Patton Jr. va dir una vegada: \"Que Déu tingui pietat dels meus enemics, perquè no ho faré\".",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La presidenta de l'ala femenina AIMIM felicita Deepak Kumar.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Ja hem recuperat fins a 35 línies [de ferrocarril de passatgers] que estaven latents o no funcionals\". – Ramaphosa",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fals: els menors ara són elegibles per a contractes militars a Ucraïna",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi interpretant aarti per a Lord Hanuman en un temple.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una carta compartida en línia el març de 2026 és autènticament un missatge en què Joe Kent, cap del Centre Nacional de Lluita contra el Terrorisme dels Estats Units, va anunciar la seva dimissió per la guerra dels Estats Units i Israel contra l'Iran.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "A la pel·lícula de 1994 \"Forrest Gump\", el personatge principal diu: \"La vida era com una caixa de bombons\", no \"La vida és com una caixa de bombons\".",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El suplement augmenta el GLP-1 i ajuda amb la resistència a la insulina",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Va dir que ha liderat l'esforç de la Casa per construir una gran instal·lació de semiconductors Micron a prop de Syracuse.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "un enfrontament entre un ministre del BJP i un col·leccionista del districte a Uttar Pradesh",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El secretari de Defensa dels Estats Units, Pete Hegseth, va dir: \"És cansat mirar les formacions de combat, o realment qualsevol formació, i veure tropes grosses. De la mateixa manera, és completament inacceptable veure generals i almiralls grossos als vestíbuls del Pentàgon i comandaments líders a tot el país i el món\".",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Les notes del govern dels Estats Units filtrades van confirmar que l'administració del president dels Estats Units, Donald Trump, estava provant \"restriccions internes de viatge\" a les fronteres del país a mitjans del 2025.",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Policia: els activistes polítics no van provocar els incendis forestals d'Oregon",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Les imatges mostren l'explosió del Fort Roig de Delhi que es va produir el 10 de novembre de 2025.",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Una enquesta va trobar que només el 23% dels nord-americans poden assenyalar l'Iran en un mapa.",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Un home d'Arkansas es va declarar culpable de posar en perill els nens després d'haver embarassat una noia de 15 anys, evitant la presó.",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Les publicacions tergiversen l'informe d'investigació del Congrés dels EUA per desacreditar el president de Corea del Sud",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'actor Helen Hunt va regalar a la seva mestra de la infància, \"Miss Eleanor\", 3 milions de dòlars dels seus premis Oscar després que la professora perdés la feina per oferir una tutoria addicional per ajudar a Hunt amb la seva dislèxia.",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les publicacions virals a les xarxes socials compartides el 2024 van descriure amb precisió que Paul McCartney comprava cartes del primer matrimoni de John Lennon i les tornava a l'antiga dona de Lennon amb una nota que li deia que no vengués els seus records.",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump va tuitejar que donava 500.000 dòlars cadascun per a les despeses dels dos adjunts del xèrif del comtat de Los Angeles que van resultar ferits de manera crítica el 12 de setembre de 2020.",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els drons i els míssils són abatuts deliberadament sobre zones residencials de Kíev per mantenir la por a la població",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Quan era adolescent, el president Lee Jae-myung va ser condemnat per violació i assassinat.",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Els legisladors d'Indiana van intentar aprovar una legislació que permetés a l'estat executar persones mitjançant càmeres de gas i esquadrons d'afusellament.",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Itàlia no va permetre que els oficials de l'SSU acompanyessin l'equip ucraïnès als Jocs Olímpics - Reuters",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A causa de les crítiques d'Imran Khan als comentaris de Macron sobre l'islam, les autoritats franceses van cancel·lar els visats de 183 ciutadans pakistanesos i en van deportar 118 del país.",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El 2022, el fiscal general electe de Virgínia, Jay Jones, va enviar missatges de text violents sobre l'antic president de la Cambra de Delegats de Virgínia Todd Gilbert i els seus fills.",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Un dia abans de la seva renúncia, l'exvicepresident Jagdeep Dhankhar va respondre amb contundència a la declaració del president del Congrés Mallikarjun Kharge al Rajya Sabha que tenia por del govern. \"Aquesta part de l'afirmació s'eliminarà. Per què? Perquè els agricultors de l'Índia i els seus fills no tenen por de ningú sota cap circumstància\", suposadament va dir Dhankhar.",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"El deute públic se situa aproximadament al voltant del 67% fins ara del PIB\".",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'expresident dels Estats Units, Barack Obama, va \"donar\" a l'Iran 1.700 milions de dòlars en efectiu el 2016, enviant palets de diners al país.",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Una ordre executiva del juliol de 2025 del president dels Estats Units, Donald Trump, pretén \"institucionalitzar qualsevol persona amb discapacitat\".",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El president dels Estats Units, Donald Trump, va fer 4.725 transferències bancàries al difunt, deshonrat financer i delinqüent sexual condemnat Jeffrey Epstein per un total de 1.100 milions de dòlars.",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El govern interí dirigit per Muhammad Yunus a Bangla Desh ha cancel·lat les vacances dels principals festivals hindús, com ara Durga Puja, Janmashtami i Saraswati Puja.",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A la independència, Nigèria tenia una població de 45 milions.",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nigèria és el principal productor de mandioca a l'Àfrica i al món.",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El 2025, l'Administració d'Immigració i Duanes dels Estats Units va oferir als nous empleats un sou de 100.000 dòlars a més d'una bonificació de signatura de 45.000 dòlars, molt més del que guanyen els professors dels Estats Units.",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Kasongo va venir i va descartar aquest sistema i va portar una cosa anomenada SHA i SHIF amb un cost de 104.000 milions de KSh\".",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "El desembre de 2025, el Departament de Justícia dels Estats Units va publicar un consell de l'FBI en què un denunciant al·legava que el president Donald Trump va presenciar com el seu oncle matava el seu fill nounat i eliminava el cos al llac Michigan quan tenia 13 anys i Jeffrey Epstein la traficava amb finalitats sexuals.",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Una estàtua de Gandhi va ser destruïda a Thiruvananthapuram després que el BJP arribés al poder a la corporació de la ciutat",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fals: l'assessora de Zelensky, Chrystia Freeland, és descendent del col·laborador nazi",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "A finals de 2025, el Departament d'Educació va dir que ja no classificaria aquestes credencials com a títols professionals: educació (inclosos màsters d'ensenyament), infermeria (MSN, DNP), treball social (MSW, DSW), salut pública (MPH, DrPH), assistent mèdic, teràpia ocupacional, teràpia física, audiologia, teràpia de la parla i assessorament lingüístic.",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Aquesta economia no és certament una economia de 188.000 milions de dòlars; és almenys una economia de 350.000 milions de dòlars\".",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'aigua de fulla de betel amb clau d'olor pot manejar la mala olor oral.",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El març de 2026, el general francès Michel Yakovleff, que va ocupar càrrecs de lideratge a l'OTAN, va dir que per a França ajudar els Estats Units a assegurar l'estret d'Ormuz seria l'equivalent a \"comprar bitllets barats per al Titanic\".",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Uganda té entrades, uns 1,2 milions de turistes que entren\".",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "George Stephanopoulos, presentador de \"This Week\" d'ABC, va tallar una entrevista amb el vicepresident dels Estats Units JD Vance després que Vance desviés una pregunta sobre el tsar de la frontera Tom Homan.",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els empleats del Regne Unit que no puguin treballar a les àrees de nivell 3 tindran una combinació de Pla de suport laboral i crèdit universal, el que significarà que rebran el 80% del seu salari.",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'oficial en cap de seguretat en funcions del Departament de Seguretat Nacional dels Estats Units a partir del març de 2026 es deia Iwona B. Horyn.",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "L'estat d'Edo a Nigèria té una taxa d'atur del 19%.",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els pares de la primera dama Melania Trump van arribar als Estats Units a través d'un patrocini familiar, també anomenat despectivament \"migració en cadena\".",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La Xina té previst prohibir els telèfons Samsung per \"programari espia israelià no extraïble\".",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Les imatges mostren manifestants del Nepal marxant en suport de Modi",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Un anunci del govern d'Ontario, Canadà, \"tergiversa\" el discurs del president Ronald Reagan el 25 d'abril de 1987 sobre els aranzels.",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Durant el mandat del governador Hochul, hi ha hagut \"més crims als nostres carrers\".",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Amit Shah va dir que els influencers de les xarxes socials de totes les parts viuen de la seva ració de 5 kg.",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'agent d'Immigració i Control de Duanes dels Estats Units que va disparar i va matar Renee Nicole Good a Minneapolis el 7 de gener de 2026, es deia Steve Grove.",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "L'organització conservadora sense ànim de lucre Turning Point USA va anunciar un espectacle alternatiu de mig temps del Super Bowl 2026.",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Megan Byron, dona de l'antic conseller delegat d'Astronomer Andy Byron, la suposada aventura del qual va ser revelada per una pantalla de càmeres de petó durant un concert de Coldplay el juliol de 2025, va publicar un comunicat prometent que el CEO \"sentiria\" les seves accions.",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"El bombardeig de la infraestructura d'energia civil és un crim de guerra\".",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Els centres de dades proposats a l'estat de Nova York utilitzarien \"aproximadament el doble de l'ús d'energia de totes les llars de l'estat juntes\".",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "El març de 2026, el president dels Estats Units, Donald Trump, va dir sobre el príncep hereu de l'Aràbia Saudita Mohammed bin Salman: \"No pensava que em besaria el cul**\".",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   }
 ]

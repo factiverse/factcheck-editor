@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ekde la censo de 2020, Florido \"pasis de demokrata plimulto al 1.5 milionoj Respublikana avantaĝo\".",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Laŭ la Divido de Enspeza Leĝo 2025, ni asignis senprecedencan KSh415 miliardojn al gubernioj, preskaŭ KSh30 miliardojn pli ol la pasintjara asigno.\"",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kion ni scias pri Bovaer kaj danaj brutfarmoj",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Aleema Khanum, fratino de malliberigita iama pakistana ĉefministro Imran Khan, nomas pakistana armeestro Asim Munir \"radikaligita islamisto\" kiu sopiras militon kun Hindio dum intervjuo en Sky News.",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Lastatempa sekeco en Hispanio malkovris 7.000-jaran megalitan monumenton, pli malnovan ol la piramidoj de Egiptio.",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Usona prezidento Donald Trump nomis Kalifornia guberniestro Gavin Newsom \"la prezidanto de Usono, Gavin Newscum.\"",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En decembro 2025, Usono kaj Palaŭo subskribis interkonsenton de 7,5 milionoj USD, kiu permesos al Usono sendi ĝis 75 ne-krimajn forpelitojn al la insula nacio.",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sekigita kokoso povas kuraci buŝajn ulcerojn",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La urba populacio de Niĝerio ĉe sendependeco estis proksimume 7 milionoj.",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Walgreens komencis vendi Hallmark Mahogany-kartojn, markon de salutkartoj ekskluzive por nigruloj en aŭ ĉirkaŭ aŭgusto 2025.",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Falso: Ukrainio Provis Subaĉeti la Instituton por la Studo de Milito",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Faktkontrolo: Ŝlosila kunteksto mankanta de aserto LGBTQ+-festado en Britio estas senfinancita",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Pasaĝero, malgraŭ esti sciigita pri nul vakantaĵoj provante rezervi liton interrete en la emerita ĉambro ĉe la Guruvayur stacidomo en Kerala, trovis la dormejon esti tute malplena kiam li iris tien.",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jermaine Thomas, la filo de veterano de la usona armeo naskita sur armea bazo en Germanio, estis deportita al Jamajko.",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En aŭgusto 2025, usona prezidento Donald Trump subskribis plenuman ordon igante la forbruligo de la usona flago puninda je unu jaro en malliberejo.",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Loĝado estas multekosta \"ĉar ni inundis la landon per 30 milionoj da kontraŭleĝaj enmigrintoj\" kaj pro manko de loĝejoj.",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Muzikaj lecionoj estis malpermesitaj en Hamburgo Germanio ĉar islamanoj diras ke ili estas haram.",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Meze de decembro 2025, usona prezidanto Donald Trump anoncis la Patriotajn Ludojn, kvartagan atletikan konkurson inter junaj viroj kaj virinoj el ĉiuj usonaj ŝtatoj kaj teritorioj.",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dum kunveno de la Kabineto de la Blanka Domo en decembro 2025, la titolo de usona sekretario pri defendo Pete Hegseth estis misliterumita sur lia afiŝo kiel \"Sekretario de Milito\".",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La NIA lanĉis helplinion por homoj por raporti \"kontraŭ-naciajn\" agadojn kiel ekzemple amĝihado kaj teruro en Hindio.",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"La komerca pluso de Niĝerio pliiĝis je 44.3% en Q2 2025 al N7.46 duilionoj ($4.74 miliardoj) ...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nur ĉirkaŭ 3% de usonanoj estas en agrikulturo",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Ni donis 60 milionojn da dolaroj antaŭ du semajnoj\" por manĝa helpo al Gazao.",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona prezidanto Donald Trump iam afiŝis mesaĝon pri la Tago de la Patrino komencante, \"Feliĉan Tagon de la Patrino al ĈIUJ, precipe la Patrinoj, Edzinoj kaj Amantoj de la Radikala Maldekstra Faŝistoj, Marksistoj kaj Komunistoj, kiuj faras ĉion en sia povo por detrui kaj detrui nian iam grandan Landon.\"",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Frontline Magazine-kovraĵo antaŭdiras Vijay Wave en Tamilnado antaŭ voĉdonado",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Okcident bengala ŝtatministro Mamata Banerjee malrespektis la nacian himnon kaj forlasis la scenejon antaŭ ol la nacia himno finiĝis.",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Faktkontrolo: Ŝlosila kunteksto mankas de aserto 1% de UK subtenas leĝigi aborton ĝis naskiĝo",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En Minesoto, aprobitaj pafilposedantoj estas licaj porti ŝarĝitan pafilon ĉe protesto.",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fox News raportas, ke Florida viro rifuzas pagi impostojn ĉar li persone ne aprobis iun ajn el la elspezado.",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La 5-an de junio 2025, \"tuŝleĝo\" malpermesanta la uzon de porteblaj poŝtelefonoj dum veturado ekvalidis tra 31 usonaj ŝtatoj.",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En 2000, Misouri viro ricevis 13-jaran malliberecan punon sed ne servis ajnan tempon ĝis 13 jaroj poste pro klerikala eraro.",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Vaganto nomita Ronald McDonald murdis 12 infanojn ĉe distriktfoiroj trans la Usona Mezokcidento en 1892 kaj inspiris la nuntempan McDonald's rapidmanĝejan ĉenmaskoton de la sama nomo.",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La registaro lanĉis donackampanjon por akiri 8 krorojn por helpi Nimisha Priya",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar diris ke \"Virat Kohli nur trejnis kontraŭ la pilkoj de Anushka [Sharma] dum la seruro\"",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sciencisto kaj edukisto Carl Sagan iam diris, \"La kuraco kontraŭ erara argumento estas pli bona argumento, ne la subpremado de ideoj.\"",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vidaĵoj de Israelo montras Mossad HQ en fajro post lastatempa irana atako.",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sudkorea polico diras neniujn raportojn pri ĉina publika sekureca oficisto funkcianta en Seulo",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kantaŭtoro Josh Groban alfrontis usonan prezidanton Donald Trump pro petado al grupo ludi la faman kanton \"You Raise Me Up\".",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Aera ĉefo marŝalo AP Singh parolis pri avertado de la centra registaro pri la aviadilo Tejas kaj diris ke IAF-pilotoj estos senditaj al Pakistano por trejnado.",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La nombro da polico malkreskas kiam Nacipartia gvidanto Judith Collins estis policministro.",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Reĝa bengala tigro piediranta en la Mankar-arbaro de Orienta Burdwan",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En aŭgusto 2025, spertuloj avertis ke infektitaj \"Frankenstein-kunikloj\" kun tentakloj aŭ kornoj sur siaj vizaĝoj viditaj en Fort Collins, Kolorado, \"invadis\" Usonon.",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Mortkondamno de Kerala flegistino Nimisha Priya estis nuligita fare de jemenaj aŭtoritatoj.",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Okcident bengala polico ĵetante ŝtonojn post malsukcesado maldaŭrigi sablon kaj ŝtonŝarĝitan kamionon.",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Senbazaj afiŝoj de senhelpaj balenoj \"avertaj pri rusa tertremo\" disvastiĝis interrete",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Tetanuso povas esti mortigita per peroksido kaj nur kuntiriĝis per bestoj",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Shah Rukh Khan diras, ke Mustafizur Rahman ludos por KKR malgraŭ opozicio kaj kritikas industriiston Gautam Adani.",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pli da usonanoj estis mortigitaj en Ĉikago en kvarsemajna periodo de marto 2026 ol estis mortigitaj en ago ekde la eksplodo de la usona-israela milito kontraŭ Irano.",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La unua neĝglobo estis kreita hazarde dum iu provis konstrui pli helan lumon.",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En decembro 2025, U.S. Senate Minority Leader Chuck Schumer diris, \"Go Bills\", rilatante al la Buffalo, New York, NFL-teamo, antaŭ trakti mortigajn pafadojn en Sidnejo, Aŭstralio, kaj en Brown University.",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Membroj de la usona olimpika vira hoketeamo ricevis McDonald's-rapidmanĝejon dum sia vizito al la Blanka Domo en februaro 2026.",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Studo pruvas, ke MEP malrapidiĝos je 62 procentoj antaŭ 2100",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Instagram-uzanto 'bjeshruchi'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Faktkontrolo: \"Homa haŭto pluŝa urso\" trovita en Kalifornio estas farita el latekso, ne karno",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ekde septembro 2025, Teksaso komencos suspendi senhejmajn studentojn.",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La ĉefa dizajnisto de Apple, Jon Yongfook, estis maldungita post la inaŭguro de la nova dezajno \"Likva Vitro\" por iOS 26.",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Esplorado ĉe HAARP veterstacio respondecas pri Uragano Erin",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Turning Point USA CEO kaj kunfondinto Charlie Kirk iam diris: \"La dua amendo ne estas por ĉasado, ĝi ne estas por memprotekto. Ĝi estas tie por certigi ke liberaj homoj povas defendi sin se dio malpermesu registaro iĝis tirana kaj turnis kontraŭ siaj civitanoj.\"",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Karte seksalice\" estos uzata en sanaj klasoj en zagrebaj bazlernejoj",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La ŝtato Ohio pasigis leĝon krimigantan porti ŝminkon, vestaĵon aŭ prostetajn korpopartojn kiuj sugestas \"seksan identecon kiu estas diferenca de la biologia sekso de la prezentisto aŭ distristo\", esence malpermesante publikajn trenspektaklojn.",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Unia ministro Amit Shah faligas la nacian flagon disvolvante ĝin dum Sendependectago en 2025.",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En decembro 2025, usona prezidento Donald Trump anoncis skanadon de Magnetic Resonance Imaging sur sia cerbo \"trovis nenion.\"",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Ameriko havis komercan pluson en glaciaĵo en 2020 sub la gvidado de prezidanto Trump, sed tiu pluso fariĝis komerca deficito de $ 40.6 milionoj sub la gardado de prezidanto Biden.\"",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vance Boelter, akuzita je pafado de du Demokrataj Minesotaj ŝtatleĝdonantoj kaj iliaj geedzoj en junio 2025 (unu paro mortis), iam estis nomumita al konsila komisiono fare de Demokrata Minesota guberniestro Tim Walz.",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Malvera aserto, ke la lumturo La Jument de Francio pagas milionojn da dungitoj, persistas interrete",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Blankdoma Gazetara sekretario Karoline Leavitt rivelis \"la veron\" pri la sekso de WNBA-ludanto Brittney Griner, kaj la WNBA sciigis devigan \"sekstestadon\".",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La Trump-administrado \"malfondis ne nur la Nacian Veterservon sed ankaŭ tion, kio estas konata kiel NOAA.\"",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona aviadila atako kontraŭ la atominstalaĵo Fordow de Irano",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Eksa rusa prezidento Dmitrij Medvedev diris en junio 2025, ke \"kelkaj landoj pretas rekte provizi Iranon per siaj propraj atomkapoj.\"",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Afiŝoj aŭtentike montris leteron, kiun la Ĝenerala Prokuroro de Usono Pam Bondi sendis al FBI-direktoro Kash Patel pri la dosieroj de Epstein en februaro 2025.",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Elon Musk publikigis mesaĝon sur X, kiu legis: \"Sen mi, Trump perdus la elekton, Dems kontrolus la Domon kaj la Respublikanoj estus 51-49 en la Senato.\"",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Indian Army Chief General Upendra Dwivedi koncedis ke ses jetoj estis perditaj, kaj 250 soldatoj estis martirigitaj en la lastatempa konflikto kun Pakistano.",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Konservativa komentisto Charlie Kirk siatempe diris ke se li havus 10-jaraĝan filinon kiu iĝis graveda post estado seksperfortita, li volus ke ŝi nasku la bebon.",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Fakte Kontrolo: OMS ne aprobis hejman kuracilon por COVID-19, ne falu en misinformado",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Barato provizas monon al funebrigitaj familioj de COVID-19 - Asekuraj avantaĝoj por Covid-19-mortoj povas esti postulataj laŭ la skemoj de PMJJBY kaj PMSBY.",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En novembro 2025, urbo en Montano kiu voĉdonis superforte por la usona prezidanto Donald Trump okazigis \"pedofilan ĝojfajron\" por bruligi MAGA-varojn.",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Komence de septembro 2025, usona vicprezidanto JD Vance diris, ke Labortago devus esti festo de \"virinoj kiuj trapasas laboron.\"",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Trump Administration asertis ke kantverkisto Billie Eilish Detruas Nian Landon En Filtritaj Dokumentoj",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En 2013, tiama komercisto kaj reality show-gastiganto Donald Trump diris: \"registara ĉesigo falas sur la manko de gvidado de la prezidanto. Mi volas diri, problemoj komenciĝas de la supro kaj ili devas esti solvitaj de la supro. Ĉesigo signifas ke la prezidanto estas malforta.\"",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"En nur 12 jaroj ekde la naskiĝo de transdono, ni transdonis entute KSh4 bilionoj al gubernioj.\"",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En 2025 estis atendita malfermiĝi en Florido migranta arestejo konata kiel \"Alligator Alcatraz\".",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kamboĝaj manifestacianoj petas gvidanton helpi lokalizi soldatojn proksime de tajlanda limo.",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Respublikana iama House Speaker Newt Gingrich dividis afiŝon rekomendantan por uzado de atomdetonacioj por krei kanalon kiu funkcius kiel alternativa ŝipvojo al la Markolo de Hormuz.",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump ĉifris, ke li donacis po 500,000 USD por la elspezoj de la du deputitoj de la ŝerifo de Los-Anĝeleso, kiuj estis pafitaj kaj grave vunditaj la 12-an de septembro 2020.",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Kartveliaj elektoficistoj konfesis, ke ili atestis balotojn en la prezidant-elekto de 2020 per tabelbendoj - similaj al kvitancoj - kiuj ne estis subskribitaj de balotlaboristoj malobee al kartvelaj ŝtatbalotaj reguloj.",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Mike Johnson, Parolanto de la Usona Ĉambro de Reprezentantoj, estis dekano de jurstudo nomita laŭ juĝisto Paul Pressler kiu poste estis akuzita je seksmisuzo, sed la lernejo neniam oficiale malfermiĝis.",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En decembro 2025, kantisto Dolly Parton sciigis ke ŝi eltiros sian tutan muzikon de Amazon, citante la paraleligon de fondinto Jeff Bezos kun la usona prezidanto Donald Trump.",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Antano estas 10,000 fojojn pli forta ol kemioterapio",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Junuloj en Biharo vandaligis aŭton de gvidanto de BJP antaŭ la balotenketoj de la ŝtata asembleo.",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Ili ne ricevas la tradician kvinmonatan trejnadon... La trejnado por la ICE-agentoj nun estas 47 tagoj.\"",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Retpoŝtoj skribitaj fare de la forpasinta sekskrimulo Jeffrey Epstein asertis ke li disponigis al Microsoft kunfondinto Bill Gates medikamentojn por STD por \"trakti sekvojn de sekso kun rusaj knabinoj.\"",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Iama Aŭstralia kapitano Ricky Ponting nomis Hindion \"ĉiama dolora perdanto\" pro ne manpremi al Pakistano post la matĉo de Azia Pokalo.",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Kamionisto vidita kuiri ene de sia veturilo momentoj antaŭ mortiga kraŝo sur la 10 Aŭtovojo en Ontario, Kalifornio.",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Deklaro pri Eduka Ministerio pri SPM-rezultoj",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump ĉifris, ke li donacis po 500,000 USD por la elspezoj de la du deputitoj de la ŝerifo de Los-Anĝeleso, kiuj estis pafitaj kaj grave vunditaj la 12-an de septembro 2020.",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La portempa direktoro de la Usonaj Centroj por Malsanoj-Kontrolo kaj Antaŭzorgo, Jim O'Neill, iam diris: \"Estas multe da sanaj, rezervaj renoj promenas neuzataj.\"",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En 2022, uzanto en X - tiam konata kiel Twitter - afiŝis: \"2023: Krono finiĝis ... 2026: Hantavirus.\"",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La poŝta balotkoverto de la Kantono Fairfax rivelas voĉdonon por ĝenerala prokuroro",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Islama viro nomita Abdul mortigis sian loĝantan partneron, hinduanino, en Delhio.",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Israelaj manifestacianoj ĉesigas helpkamionon eniri Gazaon",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Tutlanda Nacia Lok Adalat planita por la 13-a de decembro 2025 ofertos gravajn rabatojn pri atendataj trafikaj ĉaloj.",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Islama viro atakante virinon en restoracio en Hindio",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona prezidanto Donald Trump diris, ke la polico de Vaŝingtono \"staras tie, kaj homoj kraĉas en sian vizaĝon kaj ili ne rajtas fari ion ajn. Sed nun ili rajtas fari kion ajn diable ili volas.\"",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "CRPF streĉas sian tenon antaŭ elektoj en Okcident-Bengalio.",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En junio 2025, la norda blanka rinocero estis formortinta post kiam la lasta rinocero mortis.",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Zoo en Britio devis dividi grupon de kvin afrikaj grizaj papagoj, ĉar la birdoj kriegis al gastoj kaj dungitoj.",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Irano aboliciis devigan hijab-portadon de leĝo",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Novjorka Urbestro-elektita Zohran Mamdani diris, ke li ordigos la areston de israela ĉefministro Benjamin Netanyahu se li venos al Novjorko.",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Manipulado: Ĉeĥa prezidanto Petr Pavel konsentas kun Ukrainio Perdanta Teritoriojn \"Por Supervivo\"",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La iPhone 12 ne venos kun aŭdiloj kaj ŝarĝa adaptilo.",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La kardinala kaj nepardonebla peko de franca revuo Charlie Hebdo insultante la sanktan vizaĝon de la Profeto denove malkaŝis la malamon kaj malamikecon de la politikaj kaj kulturaj institucioj de la okcidenta mondo kontraŭ Islamo kaj la islama komunumo.",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Beetroot amla karota suko povas kuraci la 4-an kanceron en 40 tagoj",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Tri bildoj asertante montri la kvazaŭajn misilajn atakojn de Irano kontraŭ la ĉefsidejo de la israela spionagentejo Mossad en Tel-Avivo.",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Houston pediatria praktiko maldungis D-ro Christina Propst post kiam ŝi afiŝis interrete, ke Teksasaj inundoviktimoj en julio 2025 estis subtenantoj de prezidanto Donald Trump, kiu ricevis tion, por kio ili voĉdonis.",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vi povus teksti RBG al 50409 por subskribi peticion por diri al via senatano ne anstataŭigi Ruth Bader Ginsberg en la kasacia kortumo ĝis post la elekto de 2020.",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En septembro 2025, afiŝoj en sociaj amaskomunikiloj aŭtentike montris noton de advokato Alan Dershowitz referencante Vanity Fair-priraportadon en la 50-a naskiĝtaga albumo de Jeffrey Epstein.",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Flugo AI 315 de Air India ekbrulis surteriĝante en Delhio, pasaĝeroj sekuraj",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En retpoŝta interŝanĝo kun lia partnero Ghislaine Maxwell publikigita fare de la Doma Kontrola Komitato en novembro 2025, sekskrimulo Jeffrey Epstein nomis usonan prezidanton Donald Trump la \"hundo kiu ne bojis\" kaj deklaris ke Trump pasigis horojn kun seks-kontrabanda viktimo ĉe la hejmo de Epstein.",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Nutraĵvaroj estas malpliigitaj. Energio estas multe malpliigita. ... Estis $4 kaj $5 por galono da gaso.\"",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dissanayake malaktivigis la Disaster Management Center de Sri-Lanko",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "U.S. House Speaker Mike Johnson, R-La., diris, \"La demokratoj estas postulataj por malfermi la registaron. Ili daŭre diras ke respublikanoj estas en pagendaĵo de la registaro. Ni ne estas. Ne en la Senato. Sesdek voĉoj kontrolas la Senaton, ne nuda plimulto.\"",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Vi povus teksti RBG al 50409 por subskribi peticion por diri al via senatano ne anstataŭigi Ruth Bader Ginsberg en la kasacia kortumo ĝis post la elekto de 2020.",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Nancy Pelosi diras, ke Ĉinio preferus Joe Biden.",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ĉirkaŭ 40% de ĉiuj usonaj kamplaboristoj estas nedokumentitaj enmigrintoj.",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Neniu ligo inter MMR-vakcino kaj aŭtismo, malgraŭ la aresto de esploristo",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Virusa aserto sugestas, ke Ajit Doval instigis indianojn malinstali Amazonon por premadi Usonon en la dogana milito.",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En decembro 2025, usonaj agentoj pri Enmigrado kaj Customs Enforcement en Minneapolis arestis 55-jaraĝan amerikan civitanon nomitan Sue Tincher kiu observis ilian operacion.",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Aktoro Christian Bale konstruas 12 hejmojn en vilaĝo de 22 milionoj USD en Palmdale, Kalifornio, kiu celas teni gefratojn en la vartadsistemo kune.",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Afgana ministro pri eksteraj aferoj Amir Khan Muttaqi anoncis planojn konstrui hindutemplojn en Kabulo kaj Kandaharo kun financa helpo de Hindio.",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump diris \"Lastan monaton, mi akceptis Big Pharma. Vi pensas, ke tio estas facila? Mi subskribis mendojn, kiuj amase malaltigus la koston de viaj preskribaj medikamentoj.\"",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kenneth Petty, la edzo de repisto Nicki Minaj, estas registrita sekskrimulo.",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En tri-hora daŭro de malfrua 11-a de majo ĝis frua 12-a de majo 2026, usona prezidanto Donald Trump afiŝis 55 fojojn sur sia Vero-Socia konto.",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En 2025, Chobani renkontis grupproceson asertante ke ĝiaj jahurtoj enhavas ftalatojn, kemiaĵojn kiuj estis ligitaj al hormoninterrompo.",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Ĉiuj povas akiri\" la vakcinon COVID-19.",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Vizaĝaj maskoj kaŭzas hipoksion.",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "La enhavo de la konspira reto, Radio Quebec, gastigita de Alexis Cossette-Trudel estas malpermesita de Facebook.",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Jackie Mitchell, 17-jaraĝa knabino, forstrekis basballegendojn Babe Ruth kaj Lou Gehrig dors-al-dorsaj en matĉo (1931) inter la Chattanooga Observejoj kaj la New York Usonanoj.",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Leono la 14-a donacis al Irana Ambasadoro Mohammad Hossein Mokhtari la plej altan diplomatian honoron de Vatikano en majo 2026.",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "NUN: Anstataŭ esti lumigita kiel la GAJ FLAGO kiel Biden havis ĝin, la Blanka Domo estas lumigita en Ruĝa, Blanka kaj Blua ĉi-vespere.",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Dum gazetaro pri Air Force One, usona prezidanto Donald Trump diris \"Trankvila, porketo!\" al raportisto demandanta pri la liberigo de la Jeffrey Epstein dosieroj.",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Inflacio, kiu staris je 9.6% en 2022, konstante malpliiĝis al 4.6% en la pasinta monato.\"",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Aŭtoro Ashley St. Clair, laŭdire la patrino de la 13-a infano de Elon Musk, afiŝis sur X proponante \"konsilon pri rompo\" al usona prezidanto Donald Trump.",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kial vi pagu pli da impostoj ol Donald Trump pagas? Kaj tio estas fakto. $750. Memoru, kion li diris, kiam tio estis levita antaŭ iom da tempo, kiel li nur pagas... Li diris, 'Ĉar mi estas saĝa. Mi scias kiel ludi la sistemon.’",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kemioterapiaj medikamentoj por trakti kanceron estis inventitaj el iperita gaso.",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Kvin belugaj balenoj marborde en Kamĉatko de Rusio, tagon antaŭ ol la tertremo kun magnitudo 8,8 trafis la regionon.",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona prezidanto Donald Trump nomumis la CEO de Turning Point USA Erika Kirk al la Estraro de Vizitantoj de la Aera Forto-Akademio.",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Filipinaj kaj malajziaj mararmeaj ŝipoj havis alfrontiĝon proksime de Sabah la 11-an de aŭgusto 2025.",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La naciaj flagoj de Pakistano estis levitaj ĉe amaskunveno de DMK",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "UN pasigis rezolucion postulante Usonon fermi eksterlandajn armeajn bazojn",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La New York Mets anstataŭigis la usonan flagon kun la Pride-flago dum la nacia himno estis prezentita ĉe basballudo la 13-an de junio 2025.",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La Usona Sekurecsekretario Kristi Noem dankis prezidanton Donald Trump pro senokaza uragansezono de 2025 en Usono, dirante, \"Vi tenis la uraganojn for.\"",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En malfrua aprilo 2026, Minnesota Senate Democrats voĉdonis unuanime kontraŭbatali forigi mortintojn de la balotruloj de la ŝtato.",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"12.4 milionoj da sudafrikanoj estas senlaboruloj.\" – Mmusi Maimane",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Stanley-tubeloj enhavas danĝerajn nivelojn de plumbo kiu povas kaŭzi plumbovenenadon dum normala uzo.",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sunil Gavaskar diris ke \"Virat Kohli nur trejnis kontraŭ la pilkoj de Anushka [Sharma] dum la seruro\"",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sub Miĉigana guberniestro Gretchen Whitmer, ekzistas \"malpli da familioj vivantaj en malriĉeco\" ol sub ŝia antaŭulo.",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Macy's nuligis sian dankfestparadon en Novjorko en 2025 ĉar la urbestro-elektita Zohran Mamdani volis ŝargi al la grandmagazeno 10 miliardojn USD por uzi la Kvinan Avenuon.",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La rakonto de Punch la simio trovanta konsolon en plenbesto post estado prirezignita ĉe naskiĝo estas reala.",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La nuna ĉefĵuĝisto de Hindio, B. R. Gavai, reestigis la originan emblemon de la kasacia kortumo, havante la moton \"Satyameva Jayate\", kiu estis ŝanĝita al \"Yato Dharmastato Jayah\" dum la permanenta ofico de ĉefĵuĝisto Chandrachud.",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La SAVE America Act \"devigus usonanojn registri (voĉdoni) nur persone, ion nur 5% de usonanoj faras hodiaŭ.\"",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "NASA-teknologio malkovris \"super-teran\" eksoplanedon elsendante \"strangajn signalojn.\"",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En junio 2025, brita dissendanto Piers Morgan kaj skota kantisto Susan Boyle estis engaĝitaj kaj planis geedziĝi.",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Senbazaj asertoj celas la tifan vakcinan veturadon de Bangladeŝo",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Scenoj de Irano montranta Dayyer Port en Bushehr brulanta kiel rezulto de la israelaj aviadilaj atakoj.",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En retpoŝta interŝanĝo kun lia partnero Ghislaine Maxwell publikigita fare de la House Kontrola Komitato en novembro 2025, sekskrimulo Jeffrey Epstein nomis usonan prezidanton Donald Trump la \"hundo kiu ne bojis\" kaj deklaris ke Trump pasigis horojn sole kun seks-kontrabanda viktimo ĉe la hejmo de Epstein.",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La Internacia Kriketo-Konsilio (ICC) publikigis deklaron, malpermesante la Pakistanan kriketkomisionon dum jaro.",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Sheld Cloud ekvidita super Haridwar la 18-an de decembro 2025.",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona prezidanto Donald Trump nomis Russell Vought, direktoron de la Oficejo pri Administrado kaj Buĝeto, \"Darth Vader\" en parolado de oktobro 2025.",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Post kiam Sekretario pri Defendo Pete Hegseth maldungis la Mararmean Ĉefon de Kunlaborantaro John Harrison en oktobro 2025, aŭtoritatoj arestis Harrison pro suspekto de ŝtatperfido.",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Afiŝoj false asertas ke Niĝerio estis \"senŝulda\" post aranĝado de IMF-pruntoj",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En parolado de la 6-a de januaro 2026 en retiriĝo de Respublikanoj de la Domo, usona prezidanto Donald Trump diris, ke demokratoj devigos \"transgenrulojn por ĉiuj\" se ili gajnos la mezperiodajn elektojn de 2026.",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "La SAVE Ameriko-Leĝo \"devigas, ke ĉiuj reregistru por voĉdoni persone kaj via stirpermesilo, REAL ID aŭ armea ID eĉ ne sufiĉas.\"",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Citronakvo kaj roka salo povas efike solvi renajn ŝtonojn.",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Oficiala ordo de la Ministerio de Nafto kaj Tergaso anoncas altiĝon de ₹ 10/litro da benzino kaj ₹ 12.50/litro da dizelo.",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ted Lieu alfrontis Kash Patel pri sekreta Epstein-registrado, dirante \"Trump rakontis al mi enterigi ĝin\"",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dum akumulaj 29 el la 60 jaroj de ekzisto de Niĝerio kiel nacio, ĝi estis sub armea regado.’",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ĉefministro de Biharo Nitish Kumar pardonpetis al la islama komunumo pro malkonstruo de virina hijabo dum registara evento en Patna.",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ponta Kolapso En Biharo",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Bernice King, la filino de la pastro Martin Luther King Jr., vokis la usonan prezidanton Donald Trump liberigi la \"Epstein-dosierojn\" post kiam lia administrado publikigis la dosierojn de la FBI pri ŝia patro en julio 2025.",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La ostoj de Sankta Nikolao, la inspiro malantaŭ Santa Claus, likas likvaĵon dum 1 700 jaroj.",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Fastado Mortigas Kancerajn Ĉelojn en 15 Tagoj",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Faktkontrolo: Ĉilia Mararmeo-piloto malvere diris interrete, ke li estas israela piloto kaptita en Irano",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"La averaĝa usona laboristo jam vidis pliiĝon de $500-salajro ĉi-jare.\"",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Veterinara farmacia firmao disvolvas pilolon por altrangaj hundoj kun la celo plilongigi ilian vivdaŭron.",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "ununura akuprempunkto povas helpi malpezigi menstruan doloron",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Laŭ la lastatempe subskribita impostleĝo de prezidanto Donald Trump, \"Tiuj enspezi malpli ol $ 50,000 ricevas la plej grandajn (impostajn) reduktojn.\"",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dum akumulaj 29 el niaj 60 jaroj da ekzisto kiel nacio, ni estis sub armea regado.",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Sterkvaroj trajno de Visakhapatnam (Andra-Pradeŝo) ĝis Basti (Utar-Pradeŝo) daŭris pli ol tri jarojn por atingi sian cellokon.",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Senpaga Elektra Cikla Skemo por Studentoj Sub Verda Barata Misio",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"[Nigraj farmistoj] posedas milionojn da hektaroj da tero. Ĉirkaŭ 50% de la tuta kampara regiono kiam vi aldonas ŝtatan teron.\"",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Firmao subtenata de miliardulo filantropo Bill Gates produktis labfaritan buteron uzante karbonon.",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Grupo de kamboĝaj monaĥoj dankis usonan prezidanton Donald Trump en somero 2025 pro la fino de milito inter Kamboĝo kaj Tajlando.",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Cole Tomas Allen, la suspektato en la atako dum la vespermanĝo de la Blanka Domo de Korespondantoj de Asocio en 2026, estas registrita demokrato kiu donacis al la prezidanta kampanjo de 2024 de iama Vicprezidanto Kamala Harris.",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "En artefarita inteligenteco, \"Ni multe gvidas Ĉinion.\"",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Dum kristnaska tagmanĝo en 1943, kanada monaĥino bazita en Belgio venenis kaj mortigis 45 naziajn oficirojn laĉante ilian supon kun arseniko.",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Black Lives Matter volas detrui la nuklean familion.",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Aktoroj Shah Rukh Khan kaj Sanjay Dutt kritikas Biharan Chief Minister Nitish Kumar kaj postulas pardonpeton super la hijabkonflikto.",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Falsaĵo: Ukrainaj Rifuĝintoj Prirabitaj Luvro",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Virat Kohli kaj Rohit Sharma ekskluditaj de plej novaj ICC ODI-batilrangotabeloj, instigante konjekton pri emeritiĝo.",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Post Swami Prasad Maurya, BJP MLA Yogesh Verma estas vangofrapita",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Aŭdio cirkulanta en septembro 2025 estis de vera 911-voko en Norda Karolino, en kiu la alvokanto estis aŭdita krii: \"Tio ne estas homa.\"",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Realaj bildoj de la daŭranta Israel-irana konflikto de junio 2025.",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Proksimume 274 inkognitaj FBI-agentoj estis enigitaj en la homamaso en Vaŝingtono, la 6-an de januaro 2021, instigante perforton kiu rezultigis la tumulton ĉe la Usona Kapitolo.",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La nomumo de Amy Coney Barrett al la Supera Kortumo estus konfirmita en oktobro 2020, de senata plimulto, kiu reprezentas 15 milionojn malpli da homoj ol la minoritata partio.",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Datumcentroj de artefarita inteligenteco \"pliigas elektrajn fakturojn je 30 aŭ 40%\" kaj \"suĉas 500,000 galonojn da akvo tage.\"",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Tridek procentoj de usonaj medicinaj loĝantoj estas internaciaj medicinaj diplomiĝintoj, kaj 10,000 el 43,000 loĝlokoj estas plenigitaj de H-1B-vizposedantoj.",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Usona prezidento Donald Trump, parolante ĉe evento por rapidmanĝeja ĉeno McDonald's, plendis pri limigoj al akvo, kiu \"venas el la ĉielo\" kaj diris: \"Do vi volas lavi viajn manojn? Aŭ, kiel mi, mi volas lavi miajn harojn. Mi ŝaŭmas. Kaj... ne estas akvo.... Mi ne mencios la trian objekton en la banĉambro. ... Mi ne mencios la trian objekton en la banĉambro. Mi ne mencios la trian objekton en la banĉambro, ĉar mi ĉiam priparolas vin, ĉar mi ĉiam priparolas vin. ne devus posedi McDonald's franĉizon.\"",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Balen Shah Estas la Nova Ĉefministro de Nepalo",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En 2016, usona senatano Ted Cruz de Teksaso, tiam Respublikana prezidenta kandidato, diris, \"Ni verŝajne vekiĝos unu matenon kaj Donaldo, se li estus prezidanto, atombombus Danion.\"",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Kalifornio provizas $ 83.1 miliardojn pli ol ni ricevas de la federacia registaro. Teksaso? Ricevas $ 71.1 miliardojn pli ol ili provizas al la federacia registaro. 71% de la usona MEP venas de bluaj gubernioj.\"",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Indian Army Chief General Upendra Dwivedi koncedis ke 250 soldatoj estis martirigitaj laŭ la LOC dum la lastatempa konflikto kun Pakistano.",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Hardik Pandya Forpasis antaŭ Azia Pokalo 2025",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La Kongreso forigis Sekciojn 9 kaj 10 el Artikolo 1 de la Konstitucio de sia retejo",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Faktkontrolo: Komerca interkonsento ne estas por ĉiuj hindaj laboristoj en Britio, male al interretaj asertoj",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Donald Trump afiŝis la 5-an de junio 2025 por ataki Elon Musk pro ketamino-uzo",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Inĝenieroj en Norvegio kreis ŝvebantajn artefaritajn \"glacibalkojn\" por fokoj por anstataŭigi la malaperantan vivejon de la bestoj de arkta marglacio.",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Suna kaj vento ne atingis \"3% de tutmonda energio.\"",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La 6-an de majo 2026, evangelia ministro Mark Burns okazigis dediĉceremonion de ora statuo de usona prezidanto Donald Trump ĉe la feriejo Mar-a-Lago de Trump en Florido.",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "LA Mostly Peaceful Jihad Summer of Love Protesters Intencite ekbruligas Ĵipon.",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Kantisto kaj aktoro Cher iam diris pri usona prezidento Donald Trump: \"Li estas a**truo. Li estas tiel danĝera, kaj kion li alportas al mia lando, kion li vekis en mia lando estas bigoteco kaj malfido kaj certa speco de supereco en certaj grupoj.\"",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Usona prezidanto Trump malpermesas Teslan produktadon en Usono post sia falo kun la ĉefoficisto de la firmao Elon Musk.",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Afgana batalema grupo avertas ISI, ĵuras venĝi Pahalgam teroran atakon.",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Komence de novembro 2025, la administrado de usona prezidento Donald Trump uzis 750 milionojn USD en tarifenspezo por financi la Specialan Suplementan Nutradon Programon por Virinoj, Beboj kaj Infanoj.",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Usona prezidanto Donald Trump sugestis, ke kamionistoj, kiuj uzas dizelon, ŝanĝu al benzino por redukti fuelkostojn.",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Bangladeŝa kriketteamludanto Mustafizur Rahman postulas bojkoto de IPL 2026 post estado faligita fare de Kolkata Knight Riders (KKR).",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Labour inversigis la 4,400 sanlaboristojn tranĉojn de la LNP.",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Atako de Irano kontraŭ la usona bazo en Rijado, Saud-Arabio.",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Krimo en Minneapolis \"malpliiĝas je 25, 30% ĉar ni forigis milojn da krimuloj de la areo.\"",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona prezidento Donald Trump pardonis trompiston, kiu plenumis punon pro ŝtelado de multe pli da mono ol estis prenita en masiva bonfara fraŭdo en Minesoto implikanta membrojn de la somala komunumo de la ŝtato.",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "post la fino de la milito, la islama reĝimo arestis 700 judajn irananojn, 1/10 el la tuta juda komunumo en Irano. Ili malvere akuzas ilin esti \"Mossad-agentoj\" kaj pendigas ilin de gruoj.",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La iama usona prezidento Barack Obama forigis buston de iama brita ĉefministro Winston Churchill de la Ovala Oficejo kaj resendis ĝin al Anglio.",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Florido: numero 51 en menshigienservo, numero 1 en hejma asekurkostoj, numero 1 en pliaĝa fraŭdo, numero 1 en lupago.",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari diris, ke pakistanaj agentoj sidas en hinda parlamento.",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Homoj kun asekuro per la Leĝo pri Altkosta Prizorgo vidos \"75% pliiĝon en superpagoj ekde la 1-a de novembro\" se plifortigitaj subvencioj ne estas etenditaj, inkluzive de \"duoble pli en la kamparaj areoj.\"",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La komento de srilanka vicministro pri mortkondamna tribunalverdikto",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En aŭgusto 2025, Florida senatano Rick Scott malkaŝis pli ol 26 milionojn USD en akciokomercoj pli ol jaron poste ol la limdato postulita per leĝo.",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En novembro 2025, usona prezidanto Trump petis al la Sekcio de Transportado enkonduki 15-jarajn aŭtopruntojn.",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Viro ne usona civitano voĉdonas Mamdani en la elekto de urbestro de Novjorko.",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Queen-fronta figuro Freddie Mercury ne kantis \"de la mondo\" ĉe la fino de la kanto de la grupo \"We Are the Champions\", kiu unue estis publikigita en 1977.",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "La usona generalo George Patton Jr. iam diris: \"Dio kompatu miajn malamikojn, ĉar mi ne faros.\"",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La prezidanto de la virina alo de AIMIM gratulas Deepak Kumar.",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Ni jam reakiris ĝis 35 [pasaĝeraj fervojoj] linioj kiuj estis aŭ neaktivaj aŭ nefunkciaj.\" – Ramaphosa",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Falsa: Neplenaĝuloj Nun Elekteblaj por Militaj Kontraktoj en Ukrainio",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Asaduddin Owaisi elfarante aarti por Lord Hanuman en templo.",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Letero dividita interrete en marto 2026 estas aŭtentike mesaĝo en kiu Joe Kent, estro de la Usona Nacia Kontraŭterorismo-Centro, anoncis sian eksiĝon pro la milito de Usono kaj Israelo kontraŭ Irano.",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En la filmo \"Forrest Gump\" (1994) la ĉeffiguro diras, \"Vivo estis kiel skatolo da bombonoj\", ne \"Vivo estas kiel skatolo da bombonoj.\"",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Suplemento pliigas GLP-1 kaj helpas kun insulina rezisto",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Diris, ke ŝi gvidis la House-klopodon por konstrui grandan Micron-semikonduktaĵinstalaĵon proksime de Sirakuzo.",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "kolizio inter BJP-ministro kaj distrikta kolektanto en Utar-Pradeŝo",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Usona Defenda Sekretario Pete Hegseth diris: \"Estas lacige rigardi batalformaciojn, aŭ vere ajnan formacion, kaj vidi grasajn trupojn. Same, estas tute neakcepteble vidi grasajn generalojn kaj admiralojn en la salonoj de la Pentagono kaj gvidantaj komandojn tra la lando kaj la mondo.\"",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Likitaj notoj de la usona registaro konfirmis, ke la administrado de la usona prezidanto Donald Trump testis \"internajn vojaĝlimigojn\" ene de la landlimoj meze de 2025.",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Police: Politikaj Aktivuloj Ne Kaŭzis la Arbarfajrojn de Oregono",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La bildoj montras la Delhi Red Fort eksplodon kiu okazis la 10an de novembro 2025.",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Enketo trovis, ke nur 23% de usonanoj povas montri Iranon sur mapo.",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Arkansasa viro deklaris sin kulpa al infandanĝero post impregnido de 15-jaraĝa knabino, evitante malliberejotempon.",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Afiŝoj misprezentas esplorraporton de la Usona Kongreso por misfamigi sudkorean prezidanton",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Aktoro Helen Hunt donacis sian infanaĝan instruiston, \"Miss Eleanor\", 3 milionojn USD de ŝiaj Oscar-gajno post kiam la instruisto perdis sian laboron por disponigado de ekstra instruado por helpi Hunt kun ŝia disleksio.",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Virusaj sociaj amaskomunikiloj dividitaj en 2024 precize priskribis Paul McCartney aĉeti leterojn de la unua geedziĝo de John Lennon kaj resendi ilin al la iama edzino de Lennon kun noto dirante al ŝi ne vendi ŝiajn memorojn.",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Donald Trump ĉifris, ke li donacis po 500,000 USD por la elspezoj de la du deputitoj de la ŝerifo de Los-Anĝeleso, kiuj estis pafitaj kaj grave vunditaj la 12-an de septembro 2020.",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Virabeloj kaj misiloj estas intence malflugigitaj super loĝkvartaloj de Kyiv por teni la loĝantaron en timo",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Kiel adoleskanto, prezidanto Lee Jae-myung estis juĝita pro seksperforto kaj murdo.",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Indianaaj leĝdonantoj provis pasigi leĝaron kiu permesus al la ŝtato ekzekuti homojn per gasĉambroj kaj ekzekuttrupoj.",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Italio ne permesis al oficiroj de SSU akompani la ukrainan teamon ĉe la Olimpikoj - Reuters",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Pro la kritiko de Imran Khan de la komentoj de Macron pri Islamo, francaj aŭtoritatoj nuligis la vizojn de 183 pakistanaj civitanoj kaj deportis 118 el la lando.",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En 2022, Virginia General Attorney-elektita Jay Jones sendis perfortajn tekstmesaĝojn pri iama Parolanto de la Virginia House of Delegates Todd Gilbert kaj liaj infanoj.",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Tagon antaŭ sia ŝoka eksiĝo, iama vicprezidanto Jagdeep Dhankhar akre respondis al la deklaro de la kongresa prezidanto Mallikarjun Kharge en la Rajya Sabha, ke li timas la registaron. \"Ĉi tiu parto de la aserto estos forigita. Kial? Ĉar la farmistoj de Barato kaj iliaj filoj ne timas neniun ajn, \"Dhankhar laŭdire diris.",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Publika ŝuldo staras proksimume ĉirkaŭ 67% ĝis nun de MEP.\"",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La iama usona prezidento Barack Obama \"donis\" al Irano 1,7 miliardojn USD en kontantmono en 2016, sendante paletojn da mono al la lando.",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Plenuma ordono de julio 2025 de usona prezidanto Donald Trump celas \"instituciigi iun ajn handikapulon\".",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La usona prezidanto Donald Trump faris 4 725 teletranspagojn al la forpasinta, malhonorita financisto kaj kondamnita sekskrimulo Jeffrey Epstein por entute 1,1 miliardoj USD.",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La provizora registaro gvidata de Muhammad Yunus en Bangladeŝo nuligis feriojn por gravaj hinduaj festivaloj, inkluzive de Durga Puja, Janmashtami, kaj Saraswati Puja.",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Ĉe sendependeco, Niĝerio havis populacion de 45 milionoj.",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Niĝerio estas la ĉefa produktanto de manioko en Afriko kaj la mondo.",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En 2025, Usona Enmigrado kaj Dogana Devigo ofertis al novaj dungitoj 100,000 USD salajron aldone al 45,000 USD subskriba gratifiko, multe pli ol tio, kion faras instruistoj en Usono.",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Kasongo venis kaj forĵetis tiun sistemon kaj alportis ion nomitan SHA kaj SHIF je kosto de KSh104-miliardo.\"",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "En decembro 2025, la Usona Sekcio de Justeco publikigis FBI-konsilon en kiu plendanto supozis, ke prezidanto Donald Trump atestis, ke ŝia onklo mortigis sian novnaskitan infanon kaj forigi la korpon en Lago de Miĉigano kiam ŝi estis 13-jara kaj estante kontrabandita por sekso fare de Jeffrey Epstein.",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Gandhi-statuo estis detruita en Thiruvananthapuram post kiam la BJP ekregis en la urba korporacio",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Falsa: Zelensky Adviser Chrystia Freeland Estas Posteulo de Nazia Kunlaboranto",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Fine de 2025, la Departemento pri Edukado diris, ke ĝi ne plu klasifikos ĉi tiujn akreditaĵojn kiel profesiajn gradojn: edukado (inkluzive de instruado de magistroj), flegado (MSN, DNP), socia laboro (MSW, DSW), publika sano (MPH, DrPH), kuracisto-asistanto, okupacia terapio, fizika terapio, aŭdologio, parolado-lingvo kaj patologio.",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "\"Ĉi tiu ekonomio certe ne estas ekonomio de $ 188 miliardoj - ĝi estas almenaŭ $ 350 miliardoj ekonomio.\"",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Betela folia akvo kun kadro povas trakti buŝan malbonodoron.",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En marto 2026, franca generalo Michel Yakovleff, kiu deĵoris en gvidaj postenoj ĉe NATO, diris ke por Francio helpi Usonon sekurigi la Hormuzan Markolo estus la ekvivalento de \"aĉetado de malmultekostaj biletoj al la Titanic\".",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "\"Ugando havas enirojn, ĉirkaŭ 1,2 milionoj da turistoj kiuj eniras.\"",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "George Stephanopoulos, gastiganto de \"This Week\" de ABC, interrompis intervjuon kun usona Vicprezidanto JD Vance post kiam Vance deturnis demandon pri landlima caro Tom Homan.",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "UK Dungitoj nekapablaj labori en la 3-nivela areoj ricevos kombinaĵon de Labora Subtena Skemo kaj Universala Kredito, kio signifos, ke ili ricevas 80% de siaj salajroj.",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La portempa ĉefa sekureca oficisto ĉe la Usona Sekcio pri Ŝtatsekureco en marto 2026 estis nomita Iwona B. Horyn.",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Edo Ŝtato en Niĝerio havas 19% senlaborecoprocenton.",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "La gepatroj de unua damo Melania Trump venis al Usono per familia sponsorado, nomata ankaŭ malestimate \"ĉena migrado\".",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Ĉinio planas malpermesi Samsung-telefonojn pro enigita \"neforigebla israela spionvaro\".",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Vidaĵoj montras Nepalajn manifestacianojn marŝantajn en subteno de Modi",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Anonco de la registaro de Ontario, Kanado, \"misprezentas\" la adreson de la 25-an de aprilo 1987 de prezidanto Ronald Reagan pri tarifoj.",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Dum la mandato de Guberniestro Hochul, okazis \"pli da krimo sur niaj stratoj.\"",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "MIXED",
+    "gpt5_int_label": 2
   },
   {
     "claim": "Amit Shah diris, ke influantoj de sociaj amaskomunikiloj el ĉiuj partioj vivas per sia porcio de 5 kg.",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "La usona agento pri Enmigrado kaj Dogano, kiu pafis kaj mortigis Renee Nicole Good en Minneapolis la 7-an de januaro 2026, nomiĝis Steve Grove.",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "Konservativa neprofitocela organizo Turning Point USA sciigis alternativan 2026 Super Bowl duontempospektaklon.",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Megan Byron, edzino de iama Astronomer CEO Andy Byron, kies supozata afero estis rivelita per kiskamera ekrano dum Coldplay-koncerto en julio 2025, publikigis deklaron ĵurante, ke la ĉefoficisto \"sentos\" siajn agojn.",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "\"Bombi civilan povinfrastrukturon estas militkrimo.\"",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "claude-opus-4-6_label": "MIXED",
-    "claude-opus-4-6_int_label": 2
+    "claude-opus-4-6_int_label": 2,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   },
   {
     "claim": "Proponitaj datumcentroj en Novjorka ŝtato uzus \"proksimume duoble la energiuzon de ĉiuj domanaroj en la ŝtato kombinitaj.\"",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "REFUTES",
-    "claude-opus-4-6_int_label": 0
+    "claude-opus-4-6_int_label": 0,
+    "gpt5_label": "REFUTES",
+    "gpt5_int_label": 0
   },
   {
     "claim": "En marto 2026, usona prezidento Donald Trump diris pri la kronprinco de Saud-Arabio Mohammed bin Salman, \"Li ne pensis, ke li kisos mian pugon**.\"",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "claude-opus-4-6_label": "SUPPORTS",
-    "claude-opus-4-6_int_label": 1
+    "claude-opus-4-6_int_label": 1,
+    "gpt5_label": "SUPPORTS",
+    "gpt5_int_label": 1
   }
 ]

@@ -21,7 +21,7 @@ LABEL_TO_ID = {
 }
 
 MODEL_SPECS = [
-    ("mmbert", "facti_local_int_label", "facti_local_label", "MMbert fine-tuned", "blue"),
+    ("mmbert", "facti_local_int_label", "facti_local_label", "MMbert-base fine-tuned (Factiverse)", "blue"),
     ("claude", "claude-opus-4-6_int_label", "claude-opus-4-6_label", "Claude Opus 4.6", "yellow"),
     ("gpt5", "gpt5_int_label", "gpt5_label", "GPT-5.2", "red"),
     ("qwen3", "ollama/qwen3:8b_int_label", "ollama/qwen3:8b_label", "Qwen3-8B", "green"),

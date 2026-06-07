@@ -942,8 +942,8 @@
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
     "gpt5_int_label": 0,
-    "claude-opus-4-6_label": "ERROR",
-    "claude-opus-4-6_int_label": -1
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kerala infirmière Nimisha Priya ka saya jalaki dabilalen don Yemen faamaw fɛ.",

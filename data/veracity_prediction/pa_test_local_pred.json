@@ -17,7 +17,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2020 ਦੀ ਮਰਦਮਸ਼ੁਮਾਰੀ ਤੋਂ ਲੈ ਕੇ, ਫਲੋਰਿਡਾ \"ਡੈਮੋਕਰੇਟ ਬਹੁਮਤ ਤੋਂ 1.5 ਮਿਲੀਅਨ ਰਿਪਬਲਿਕਨ ਫਾਇਦੇ ਵੱਲ ਵਧਿਆ ਹੈ।\"",
@@ -37,7 +39,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਡਿਵੀਜ਼ਨ ਆਫ਼ ਰੈਵੇਨਿਊ ਐਕਟ 2025 ਦੇ ਤਹਿਤ, ਅਸੀਂ ਕਾਉਂਟੀਆਂ ਨੂੰ ਇੱਕ ਬੇਮਿਸਾਲ KSh415 ਬਿਲੀਅਨ ਅਲਾਟ ਕੀਤੇ ਹਨ, ਜੋ ਕਿ ਪਿਛਲੇ ਸਾਲ ਦੀ ਵੰਡ ਨਾਲੋਂ ਲਗਭਗ KSh30 ਬਿਲੀਅਨ ਵੱਧ ਹੈ।\"",
@@ -57,7 +61,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਸੀਂ ਬੋਵੇਰ ਅਤੇ ਡੈਨਿਸ਼ ਪਸ਼ੂ ਫਾਰਮਾਂ ਬਾਰੇ ਕੀ ਜਾਣਦੇ ਹਾਂ",
@@ -77,7 +83,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਜੇਲ ਵਿਚ ਬੰਦ ਪਾਕਿਸਤਾਨ ਦੇ ਸਾਬਕਾ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਇਮਰਾਨ ਖਾਨ ਦੀ ਭੈਣ ਅਲੀਮਾ ਖਾਨਮ ਨੇ ਸਕਾਈ ਨਿਊਜ਼ 'ਤੇ ਇਕ ਇੰਟਰਵਿਊ ਦੌਰਾਨ ਪਾਕਿਸਤਾਨੀ ਫੌਜ ਦੇ ਮੁਖੀ ਆਸਿਮ ਮੁਨੀਰ ਨੂੰ \"ਕੱਟੜਪੰਥੀ ਇਸਲਾਮਿਸਟ\" ਕਿਹਾ ਜੋ ਭਾਰਤ ਨਾਲ ਯੁੱਧ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ।",
@@ -97,7 +105,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਪੇਨ ਵਿੱਚ ਇੱਕ ਤਾਜ਼ਾ ਸੋਕੇ ਨੇ ਇੱਕ 7,000 ਸਾਲ ਪੁਰਾਣੇ ਮੇਗੈਲਿਥਿਕ ਸਮਾਰਕ ਦਾ ਪਰਦਾਫਾਸ਼ ਕੀਤਾ, ਜੋ ਕਿ ਮਿਸਰ ਦੇ ਪਿਰਾਮਿਡਾਂ ਤੋਂ ਵੀ ਪੁਰਾਣਾ ਹੈ।",
@@ -117,7 +127,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਕੈਲੀਫੋਰਨੀਆ ਦੇ ਗਵਰਨਰ ਗੇਵਿਨ ਨਿਊਜ਼ਮ ਨੂੰ \"ਸੰਯੁਕਤ ਰਾਜ ਦਾ ਰਾਸ਼ਟਰਪਤੀ, ਗੇਵਿਨ ਨਿਊਜ਼ਕਮ\" ਕਿਹਾ ਹੈ।",
@@ -137,7 +149,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ, ਯੂਐਸ ਅਤੇ ਪਲਾਊ ਨੇ $7.5 ਮਿਲੀਅਨ ਦੇ ਸਮਝੌਤੇ 'ਤੇ ਹਸਤਾਖਰ ਕੀਤੇ ਜੋ ਯੂਐਸ ਨੂੰ 75 ਤੱਕ ਗੈਰ-ਅਪਰਾਧਿਕ ਦੇਸ਼ ਨਿਕਾਲੇ ਨੂੰ ਟਾਪੂ ਦੇਸ਼ ਵਿੱਚ ਭੇਜਣ ਦੀ ਆਗਿਆ ਦੇਵੇਗਾ।",
@@ -157,7 +171,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਸੁੱਕਾ ਨਾਰੀਅਲ ਮੂੰਹ ਦੇ ਛਾਲਿਆਂ ਨੂੰ ਠੀਕ ਕਰ ਸਕਦਾ ਹੈ",
@@ -177,7 +193,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਆਜ਼ਾਦੀ ਵੇਲੇ ਨਾਈਜੀਰੀਆ ਦੀ ਸ਼ਹਿਰੀ ਆਬਾਦੀ ਲਗਭਗ 7 ਮਿਲੀਅਨ ਸੀ।",
@@ -197,7 +215,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Walgreens ਨੇ ਹਾਲਮਾਰਕ ਮਹੋਗਨੀ ਕਾਰਡਾਂ ਨੂੰ ਵੇਚਣਾ ਸ਼ੁਰੂ ਕੀਤਾ, ਗ੍ਰੀਟਿੰਗ ਕਾਰਡਾਂ ਦਾ ਇੱਕ ਬ੍ਰਾਂਡ, ਖਾਸ ਤੌਰ 'ਤੇ ਅਗਸਤ 2025 ਵਿੱਚ ਜਾਂ ਆਸ-ਪਾਸ ਕਾਲੇ ਲੋਕਾਂ ਲਈ।",
@@ -217,7 +237,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਜਾਅਲੀ: ਯੂਕਰੇਨ ਨੇ ਯੁੱਧ ਦੇ ਅਧਿਐਨ ਲਈ ਸੰਸਥਾ ਨੂੰ ਰਿਸ਼ਵਤ ਦੇਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
@@ -237,7 +259,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਤੱਥਾਂ ਦੀ ਜਾਂਚ: ਬ੍ਰਿਟੇਨ ਵਿੱਚ LGBTQ+ ਜਸ਼ਨ ਦੇ ਦਾਅਵੇ ਵਿੱਚੋਂ ਮੁੱਖ ਸੰਦਰਭ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ",
@@ -257,7 +281,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਕੇਰਲ ਦੇ ਗੁਰੂਵਾਯੂਰ ਰੇਲਵੇ ਸਟੇਸ਼ਨ 'ਤੇ ਰਿਟਾਇਰਿੰਗ ਰੂਮ 'ਚ ਔਨਲਾਈਨ ਬਿਸਤਰਾ ਬੁੱਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਜ਼ੀਰੋ ਖਾਲੀ ਅਸਾਮੀਆਂ ਬਾਰੇ ਸੂਚਿਤ ਕੀਤੇ ਜਾਣ ਦੇ ਬਾਵਜੂਦ, ਜਦੋਂ ਉਹ ਉੱਥੇ ਗਿਆ ਤਾਂ ਡੌਰਮੇਟਰੀ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖਾਲੀ ਪਾਈ ਗਈ।",
@@ -277,7 +303,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਜਰਮਨੀ ਦੇ ਇੱਕ ਫੌਜੀ ਬੇਸ 'ਤੇ ਪੈਦਾ ਹੋਏ ਅਮਰੀਕੀ ਫੌਜ ਦੇ ਸਾਬਕਾ ਫੌਜੀ ਦੇ ਬੇਟੇ ਜਰਮੇਨ ਥਾਮਸ ਨੂੰ ਜਮਾਇਕਾ ਭੇਜ ਦਿੱਤਾ ਗਿਆ ਸੀ।",
@@ -297,7 +325,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਗਸਤ 2025 ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਇੱਕ ਕਾਰਜਕਾਰੀ ਆਦੇਸ਼ 'ਤੇ ਦਸਤਖਤ ਕੀਤੇ ਸਨ ਜਿਸ ਵਿੱਚ ਅਮਰੀਕੀ ਝੰਡੇ ਨੂੰ ਸਾੜਨ ਦੀ ਸਜ਼ਾ ਇੱਕ ਸਾਲ ਦੀ ਸਜ਼ਾ ਹੋ ਸਕਦੀ ਸੀ।",
@@ -317,7 +347,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਰਿਹਾਇਸ਼ ਮਹਿੰਗਾ ਹੈ \"ਕਿਉਂਕਿ ਅਸੀਂ 30 ਮਿਲੀਅਨ ਗੈਰ-ਕਾਨੂੰਨੀ ਪ੍ਰਵਾਸੀਆਂ ਨਾਲ ਦੇਸ਼ ਭਰ ਦਿੱਤਾ ਹੈ\" ਅਤੇ ਰਿਹਾਇਸ਼ ਦੀ ਘਾਟ ਕਾਰਨ।",
@@ -337,7 +369,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਹੈਮਬਰਗ ਜਰਮਨੀ ਵਿਚ ਸੰਗੀਤ ਦੇ ਪਾਠਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ ਕਿਉਂਕਿ ਮੁਸਲਮਾਨ ਕਹਿੰਦੇ ਹਨ ਕਿ ਉਹ ਹਰਾਮ ਹਨ।",
@@ -357,7 +391,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਦੇ ਮੱਧ ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਪੈਟ੍ਰੀਅਟ ਗੇਮਜ਼ ਦੀ ਘੋਸ਼ਣਾ ਕੀਤੀ, ਜੋ ਕਿ ਸਾਰੇ ਯੂਐਸ ਰਾਜਾਂ ਅਤੇ ਪ੍ਰਦੇਸ਼ਾਂ ਦੇ ਨੌਜਵਾਨ ਪੁਰਸ਼ਾਂ ਅਤੇ ਔਰਤਾਂ ਵਿਚਕਾਰ ਚਾਰ-ਦਿਨਾ ਅਥਲੈਟਿਕਸ ਮੁਕਾਬਲਾ ਹੈ।",
@@ -377,7 +413,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ ਵ੍ਹਾਈਟ ਹਾਊਸ ਦੀ ਕੈਬਨਿਟ ਮੀਟਿੰਗ ਦੌਰਾਨ, ਯੂਐਸ ਰੱਖਿਆ ਸਕੱਤਰ ਪੀਟ ਹੇਗਸੈਥ ਦੇ ਸਿਰਲੇਖ ਨੂੰ ਉਸਦੇ ਪਲੇਕਾਰਡ ਉੱਤੇ \"ਸੈਕਰੇਟਰੀ ਆਫ਼ ਵਾਰ\" ਵਜੋਂ ਗਲਤ ਸ਼ਬਦ-ਜੋੜ ਲਿਖਿਆ ਗਿਆ ਸੀ।",
@@ -397,7 +435,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "NIA ਨੇ ਭਾਰਤ ਵਿੱਚ ਲਵ ਜਿਹਾਦ ਅਤੇ ਦਹਿਸ਼ਤ ਵਰਗੀਆਂ 'ਰਾਸ਼ਟਰ ਵਿਰੋਧੀ' ਗਤੀਵਿਧੀਆਂ ਦੀ ਰਿਪੋਰਟ ਕਰਨ ਲਈ ਲੋਕਾਂ ਲਈ ਇੱਕ ਹੈਲਪਲਾਈਨ ਸ਼ੁਰੂ ਕੀਤੀ ਹੈ।",
@@ -417,7 +457,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"ਨਾਈਜੀਰੀਆ ਦਾ ਵਪਾਰ ਸਰਪਲੱਸ Q2 2025 ਵਿੱਚ 44.3% ਵੱਧ ਕੇ N7.46 ਟ੍ਰਿਲੀਅਨ ($4.74 ਬਿਲੀਅਨ) ਹੋ ਗਿਆ ...\"",
@@ -437,7 +479,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਲਗਭਗ 3% ਅਮਰੀਕੀ ਖੇਤੀਬਾੜੀ ਵਿੱਚ ਹਨ",
@@ -457,7 +501,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਗਾਜ਼ਾ ਨੂੰ ਭੋਜਨ ਸਹਾਇਤਾ ਲਈ \"ਅਸੀਂ ਦੋ ਹਫ਼ਤੇ ਪਹਿਲਾਂ $ 60 ਮਿਲੀਅਨ ਦਿੱਤੇ\"।",
@@ -477,7 +523,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਇੱਕ ਵਾਰ ਮਦਰਜ਼ ਡੇਅ ਸੁਨੇਹਾ ਪੋਸਟ ਕੀਤਾ, \"ਸਾਰਿਆਂ ਨੂੰ ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਮੁਬਾਰਕਾਂ, ਖਾਸ ਤੌਰ 'ਤੇ ਕੱਟੜਪੰਥੀ ਖੱਬੇ ਪੱਖੀ ਫਾਸ਼ੀਵਾਦੀਆਂ, ਮਾਰਕਸਵਾਦੀਆਂ ਅਤੇ ਕਮਿਊਨਿਸਟਾਂ ਦੀਆਂ ਮਾਵਾਂ, ਪਤਨੀਆਂ ਅਤੇ ਪ੍ਰੇਮੀਆਂ ਨੂੰ, ਜੋ ਸਾਡੇ ਇੱਕ ਮਹਾਨ ਦੇਸ਼ ਨੂੰ ਤਬਾਹ ਅਤੇ ਮਿਟਾਉਣ ਲਈ ਆਪਣੀ ਸ਼ਕਤੀ ਦੇ ਅੰਦਰ ਸਭ ਕੁਝ ਕਰ ਰਹੇ ਹਨ।\"",
@@ -497,7 +545,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਫਰੰਟਲਾਈਨ ਮੈਗਜ਼ੀਨ ਕਵਰ ਨੇ ਵੋਟਿੰਗ ਤੋਂ ਪਹਿਲਾਂ ਤਾਮਿਲਨਾਡੂ ਵਿੱਚ ਵਿਜੇ ਲਹਿਰ ਦੀ ਭਵਿੱਖਬਾਣੀ ਕੀਤੀ ਹੈ",
@@ -517,7 +567,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਪੱਛਮੀ ਬੰਗਾਲ ਦੀ ਮੁੱਖ ਮੰਤਰੀ ਮਮਤਾ ਬੈਨਰਜੀ ਨੇ ਰਾਸ਼ਟਰੀ ਗੀਤ ਦਾ ਨਿਰਾਦਰ ਕੀਤਾ ਅਤੇ ਰਾਸ਼ਟਰੀ ਗੀਤ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਸਟੇਜ ਤੋਂ ਚਲੇ ਗਏ।",
@@ -537,7 +589,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਤੱਥਾਂ ਦੀ ਜਾਂਚ: ਦਾਅਵੇ ਤੋਂ ਮੁੱਖ ਸੰਦਰਭ ਗੁੰਮ ਹੈ, ਯੂਕੇ ਦਾ 1% ਜਨਮ ਤੱਕ ਗਰਭਪਾਤ ਨੂੰ ਕਾਨੂੰਨੀ ਬਣਾਉਣ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ",
@@ -557,7 +611,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਮਿਨੀਸੋਟਾ ਵਿੱਚ, ਲਾਇਸੰਸਸ਼ੁਦਾ ਬੰਦੂਕ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਇੱਕ ਵਿਰੋਧ ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਇੱਕ ਲੋਡਡ ਹਥਿਆਰ ਚੁੱਕਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।",
@@ -577,7 +633,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਫੌਕਸ ਨਿਊਜ਼ ਰਿਪੋਰਟ ਕਰਦਾ ਹੈ ਕਿ ਫਲੋਰੀਡਾ ਦੇ ਵਿਅਕਤੀ ਨੇ ਟੈਕਸ ਅਦਾ ਕਰਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਕਿਉਂਕਿ ਉਸਨੇ ਨਿੱਜੀ ਤੌਰ 'ਤੇ ਕਿਸੇ ਵੀ ਖਰਚੇ ਨੂੰ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਦਿੱਤੀ ਸੀ।",
@@ -597,7 +655,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "5 ਜੂਨ, 2025 ਨੂੰ, ਡ੍ਰਾਈਵਿੰਗ ਕਰਦੇ ਸਮੇਂ ਹੱਥ ਵਿੱਚ ਫੜੇ ਸੈਲਫੋਨ ਦੀ ਵਰਤੋਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਵਾਲਾ ਇੱਕ \"ਟਚ ਕਾਨੂੰਨ\" 31 ਯੂਐਸ ਰਾਜਾਂ ਵਿੱਚ ਲਾਗੂ ਹੋਇਆ।",
@@ -617,7 +677,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2000 ਵਿੱਚ, ਇੱਕ ਮਿਸੌਰੀ ਦੇ ਵਿਅਕਤੀ ਨੂੰ 13 ਸਾਲ ਦੀ ਕੈਦ ਦੀ ਸਜ਼ਾ ਮਿਲੀ ਪਰ ਇੱਕ ਕਲੈਰੀਕਲ ਗਲਤੀ ਕਾਰਨ 13 ਸਾਲ ਬਾਅਦ ਤੱਕ ਕੋਈ ਸਮਾਂ ਨਹੀਂ ਰਿਹਾ।",
@@ -637,7 +699,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਰੋਨਾਲਡ ਮੈਕਡੋਨਲਡ ਨਾਮਕ ਇੱਕ ਡਰਾਫਟ ਨੇ 1892 ਵਿੱਚ ਯੂਐਸ ਮਿਡਵੈਸਟ ਵਿੱਚ ਕਾਉਂਟੀ ਮੇਲਿਆਂ ਵਿੱਚ 12 ਬੱਚਿਆਂ ਦੀ ਹੱਤਿਆ ਕੀਤੀ ਅਤੇ ਉਸੇ ਨਾਮ ਦੇ ਆਧੁਨਿਕ ਸਮੇਂ ਦੇ ਮੈਕਡੋਨਲਡ ਦੀ ਫਾਸਟ-ਫੂਡ ਚੇਨ ਮਾਸਕੌਟ ਨੂੰ ਪ੍ਰੇਰਿਤ ਕੀਤਾ।",
@@ -657,7 +721,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਰਕਾਰ ਨੇ ਨਿਮਿਸ਼ਾ ਪ੍ਰਿਆ ਦੀ ਮਦਦ ਲਈ 8 ਕਰੋੜ ਰੁਪਏ ਇਕੱਠੇ ਕਰਨ ਲਈ ਦਾਨ ਮੁਹਿੰਮ ਚਲਾਈ",
@@ -677,7 +743,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੁਨੀਲ ਗਾਵਸਕਰ ਨੇ ਕਿਹਾ ਕਿ \"ਵਿਰਾਟ ਕੋਹਲੀ ਨੇ ਲੌਕਡਾਊਨ ਦੌਰਾਨ ਅਨੁਸ਼ਕਾ [ਸ਼ਰਮਾ] ਦੀਆਂ ਗੇਂਦਾਂ ਦੇ ਖਿਲਾਫ ਸਿਖਲਾਈ ਲਈ ਹੈ\"।",
@@ -697,7 +765,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਵਿਗਿਆਨੀ ਅਤੇ ਸਿੱਖਿਅਕ ਕਾਰਲ ਸਾਗਨ ਨੇ ਇੱਕ ਵਾਰ ਕਿਹਾ ਸੀ, \"ਇੱਕ ਗਲਤ ਦਲੀਲ ਦਾ ਇਲਾਜ ਇੱਕ ਬਿਹਤਰ ਦਲੀਲ ਹੈ, ਨਾ ਕਿ ਵਿਚਾਰਾਂ ਨੂੰ ਦਬਾਉਣ.\"",
@@ -717,7 +787,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਇਜ਼ਰਾਈਲ ਦੇ ਵਿਜ਼ੂਅਲ ਹਾਲ ਹੀ ਵਿੱਚ ਈਰਾਨੀ ਹਮਲੇ ਤੋਂ ਬਾਅਦ ਮੋਸਾਦ ਦੇ ਮੁੱਖ ਦਫਤਰ ਨੂੰ ਅੱਗ ਵਿੱਚ ਦਿਖਾਉਂਦੇ ਹਨ।",
@@ -737,7 +809,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਦੱਖਣੀ ਕੋਰੀਆ ਦੀ ਪੁਲਿਸ ਦਾ ਕਹਿਣਾ ਹੈ ਕਿ ਸਿਓਲ ਵਿਚ ਚੀਨੀ ਜਨਤਕ ਸੁਰੱਖਿਆ ਅਧਿਕਾਰੀ ਦੇ ਕੰਮ ਕਰਨ ਦੀ ਕੋਈ ਰਿਪੋਰਟ ਨਹੀਂ ਹੈ",
@@ -757,7 +831,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਗਾਇਕ-ਗੀਤਕਾਰ ਜੋਸ਼ ਗਰੋਬਨ ਨੇ ਮਸ਼ਹੂਰ ਗੀਤ \"ਯੂ ਰਾਈਜ਼ ਮੀ ਅੱਪ\" ਬੈਂਡ ਨੂੰ ਵਜਾਉਣ ਲਈ ਕਹਿਣ 'ਤੇ ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦਾ ਸਾਹਮਣਾ ਕੀਤਾ।",
@@ -777,7 +853,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਏਅਰ ਚੀਫ ਮਾਰਸ਼ਲ ਏਪੀ ਸਿੰਘ ਨੇ ਤੇਜਸ ਜਹਾਜ਼ ਬਾਰੇ ਕੇਂਦਰ ਸਰਕਾਰ ਨੂੰ ਚੇਤਾਵਨੀ ਦੇਣ ਦੀ ਗੱਲ ਕੀਤੀ ਅਤੇ ਕਿਹਾ ਕਿ ਭਾਰਤੀ ਹਵਾਈ ਸੈਨਾ ਦੇ ਪਾਇਲਟਾਂ ਨੂੰ ਸਿਖਲਾਈ ਲਈ ਪਾਕਿਸਤਾਨ ਭੇਜਿਆ ਜਾਵੇਗਾ।",
@@ -797,7 +875,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨੈਸ਼ਨਲ ਪਾਰਟੀ ਦੇ ਨੇਤਾ ਜੂਡਿਥ ਕੋਲਿਨਜ਼ ਦੇ ਪੁਲਿਸ ਮੰਤਰੀ ਹੋਣ 'ਤੇ ਪੁਲਿਸ ਦੀ ਗਿਣਤੀ ਵਿੱਚ ਗਿਰਾਵਟ ਆਈ।",
@@ -817,7 +897,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪੂਰਬੀ ਬਰਦਵਾਨ ਦੇ ਮਾਨਕਰ ਜੰਗਲ ਵਿੱਚ ਘੁੰਮਦਾ ਰਾਇਲ ਬੰਗਾਲ ਟਾਈਗਰ",
@@ -837,7 +919,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਗਸਤ 2025 ਵਿੱਚ, ਮਾਹਰਾਂ ਨੇ ਚੇਤਾਵਨੀ ਦਿੱਤੀ ਸੀ ਕਿ ਫੋਰਟ ਕੋਲਿਨਸ, ਕੋਲੋਰਾਡੋ ਵਿੱਚ ਦੇਖੇ ਗਏ ਉਨ੍ਹਾਂ ਦੇ ਚਿਹਰਿਆਂ 'ਤੇ ਤੰਬੂ ਜਾਂ ਸਿੰਗਾਂ ਵਾਲੇ ਸੰਕਰਮਿਤ \"ਫ੍ਰੈਂਕਨਸਟਾਈਨ ਖਰਗੋਸ਼ਾਂ\" ਨੇ ਸੰਯੁਕਤ ਰਾਜ 'ਤੇ \"ਹਮਲਾ\" ਕੀਤਾ ਹੈ।",
@@ -857,7 +941,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਕੇਰਲ ਦੀ ਨਰਸ ਨਿਮਿਸ਼ਾ ਪ੍ਰਿਆ ਦੀ ਮੌਤ ਦੀ ਸਜ਼ਾ ਯਮਨ ਦੇ ਅਧਿਕਾਰੀਆਂ ਨੇ ਰੱਦ ਕਰ ਦਿੱਤੀ ਹੈ।",
@@ -877,7 +963,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਪੱਛਮੀ ਬੰਗਾਲ ਪੁਲਿਸ ਰੇਤ ਅਤੇ ਪੱਥਰ ਨਾਲ ਭਰੇ ਟਰੱਕ ਨੂੰ ਰੋਕਣ ਵਿੱਚ ਅਸਫਲ ਰਹਿਣ ਤੋਂ ਬਾਅਦ ਪੱਥਰ ਸੁੱਟਦੀ ਹੋਈ।",
@@ -897,7 +985,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਫਸੇ ਹੋਏ ਵ੍ਹੇਲ 'ਰੂਸੀ ਭੂਚਾਲ ਬਾਰੇ ਚੇਤਾਵਨੀ' ਦੀਆਂ ਬੇਬੁਨਿਆਦ ਪੋਸਟਾਂ ਆਨਲਾਈਨ ਫੈਲ ਗਈਆਂ",
@@ -917,7 +1007,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਟੈਟਨਸ ਨੂੰ ਪਰਆਕਸਾਈਡ ਨਾਲ ਮਾਰਿਆ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਸਿਰਫ ਜਾਨਵਰਾਂ ਦੁਆਰਾ ਸੰਕੁਚਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ",
@@ -937,7 +1029,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸ਼ਾਹਰੁਖ ਖਾਨ ਦਾ ਕਹਿਣਾ ਹੈ ਕਿ ਮੁਸਤਫਿਜ਼ੁਰ ਰਹਿਮਾਨ ਵਿਰੋਧ ਦੇ ਬਾਵਜੂਦ ਕੇਕੇਆਰ ਲਈ ਖੇਡੇਗਾ ਅਤੇ ਉਦਯੋਗਪਤੀ ਗੌਤਮ ਅਡਾਨੀ ਦੀ ਆਲੋਚਨਾ ਕਰਦਾ ਹੈ।",
@@ -957,7 +1051,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਾਰਚ 2026 ਦੇ ਚਾਰ ਹਫ਼ਤਿਆਂ ਦੀ ਮਿਆਦ ਵਿੱਚ ਸ਼ਿਕਾਗੋ ਵਿੱਚ ਇਰਾਨ ਉੱਤੇ ਯੂਐਸ-ਇਜ਼ਰਾਈਲ ਯੁੱਧ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਬਾਅਦ ਕਾਰਵਾਈ ਵਿੱਚ ਮਾਰੇ ਗਏ ਨਾਲੋਂ ਵੱਧ ਅਮਰੀਕੀ ਮਾਰੇ ਗਏ ਸਨ।",
@@ -977,7 +1073,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪਹਿਲਾ ਬਰਫ਼ ਦਾ ਗਲੋਬ ਦੁਰਘਟਨਾ ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ ਸੀ ਜਦੋਂ ਕੋਈ ਇੱਕ ਚਮਕਦਾਰ ਰੋਸ਼ਨੀ ਬਣਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ।",
@@ -997,7 +1095,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ, ਯੂਐਸ ਸੈਨੇਟ ਦੇ ਘੱਟ ਗਿਣਤੀ ਨੇਤਾ ਚੱਕ ਸ਼ੂਮਰ ਨੇ ਸਿਡਨੀ, ਆਸਟਰੇਲੀਆ ਅਤੇ ਬ੍ਰਾਊਨ ਯੂਨੀਵਰਸਿਟੀ ਵਿੱਚ ਮਾਰੂ ਗੋਲੀਬਾਰੀ ਨੂੰ ਸੰਬੋਧਿਤ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਬਫੇਲੋ, ਨਿਊਯਾਰਕ, ਐਨਐਫਐਲ ਟੀਮ ਦਾ ਹਵਾਲਾ ਦਿੰਦੇ ਹੋਏ, \"ਗੋ ਬਿਲਸ\" ਕਿਹਾ।",
@@ -1017,7 +1117,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਯੂਐਸ ਓਲੰਪਿਕ ਪੁਰਸ਼ ਹਾਕੀ ਟੀਮ ਦੇ ਮੈਂਬਰਾਂ ਨੂੰ ਫਰਵਰੀ 2026 ਵਿੱਚ ਵ੍ਹਾਈਟ ਹਾਊਸ ਦੇ ਦੌਰੇ ਦੌਰਾਨ ਮੈਕਡੋਨਲਡ ਦਾ ਫਾਸਟ ਫੂਡ ਦਿੱਤਾ ਗਿਆ ਸੀ।",
@@ -1037,7 +1139,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਧਿਐਨ ਇਹ ਸਾਬਤ ਕਰਦਾ ਹੈ ਕਿ 2100 ਤੱਕ ਜੀਡੀਪੀ 62 ਪ੍ਰਤੀਸ਼ਤ ਤੱਕ ਘੱਟ ਜਾਵੇਗੀ",
@@ -1057,7 +1161,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਇੰਸਟਾਗ੍ਰਾਮ ਯੂਜ਼ਰ 'ਬਜੇਸ਼ਰੁਚੀ'",
@@ -1077,7 +1183,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਤੱਥਾਂ ਦੀ ਜਾਂਚ: ਕੈਲੀਫੋਰਨੀਆ ਵਿੱਚ ਮਿਲਿਆ 'ਮਨੁੱਖੀ ਚਮੜੀ ਦਾ ਟੈਡੀ ਬੀਅਰ' ਲੇਟੈਕਸ ਦਾ ਬਣਿਆ ਹੈ, ਮਾਸ ਨਹੀਂ",
@@ -1097,7 +1205,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਸਤੰਬਰ 2025 ਤੋਂ, ਟੈਕਸਾਸ ਬੇਘਰ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਮੁਅੱਤਲ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦੇਵੇਗਾ।",
@@ -1117,7 +1227,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਐਪਲ ਦੇ ਲੀਡ ਡਿਜ਼ਾਈਨਰ, ਜੋਨ ਯੋਂਗਫੁਕ, ਨੂੰ iOS 26 ਲਈ ਨਵੇਂ 'ਲਿਕਵਿਡ ਗਲਾਸ' ਡਿਜ਼ਾਈਨ ਦੇ ਉਦਘਾਟਨ ਤੋਂ ਬਾਅਦ ਬਰਖਾਸਤ ਕਰ ਦਿੱਤਾ ਗਿਆ ਸੀ।",
@@ -1137,7 +1249,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "HAARP ਮੌਸਮ ਸਟੇਸ਼ਨ 'ਤੇ ਖੋਜ ਹਰੀਕੇਨ ਏਰਿਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ",
@@ -1157,7 +1271,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਟਰਨਿੰਗ ਪੁਆਇੰਟ ਯੂਐਸਏ ਦੇ ਸੀਈਓ ਅਤੇ ਸਹਿ-ਸੰਸਥਾਪਕ ਚਾਰਲੀ ਕਿਰਕ ਨੇ ਇੱਕ ਵਾਰ ਕਿਹਾ ਸੀ: \"ਦੂਜੀ ਸੋਧ ਸ਼ਿਕਾਰ ਲਈ ਨਹੀਂ ਹੈ, ਇਹ ਸਵੈ-ਰੱਖਿਆ ਲਈ ਨਹੀਂ ਹੈ। ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹੈ ਕਿ ਆਜ਼ਾਦ ਲੋਕ ਆਪਣੀ ਰੱਖਿਆ ਕਰ ਸਕਦੇ ਹਨ ਜੇਕਰ ਸਰਕਾਰ ਜ਼ਾਲਮ ਬਣ ਜਾਂਦੀ ਹੈ ਅਤੇ ਆਪਣੇ ਨਾਗਰਿਕਾਂ ਦੇ ਵਿਰੁੱਧ ਹੋ ਜਾਂਦੀ ਹੈ।\"",
@@ -1177,7 +1293,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਕਾਰਤੇ ਸੇਕਸਾਲਿਸ\" ਦੀ ਵਰਤੋਂ ਜ਼ਗਰੇਬ ਪ੍ਰਾਇਮਰੀ ਸਕੂਲਾਂ ਵਿੱਚ ਸਿਹਤ ਕਲਾਸਾਂ ਵਿੱਚ ਕੀਤੀ ਜਾਵੇਗੀ",
@@ -1197,7 +1315,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਓਹੀਓ ਰਾਜ ਨੇ ਮੇਕਅਪ, ਕਪੜੇ ਜਾਂ ਨਕਲੀ ਸਰੀਰ ਦੇ ਅੰਗਾਂ ਨੂੰ ਪਹਿਨਣ ਨੂੰ ਅਪਰਾਧੀ ਬਣਾਉਣ ਵਾਲਾ ਕਾਨੂੰਨ ਪਾਸ ਕੀਤਾ ਜੋ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ ਕਿ \"ਇੱਕ ਲਿੰਗ ਪਛਾਣ ਜੋ ਪੇਸ਼ਕਾਰ ਜਾਂ ਮਨੋਰੰਜਨ ਕਰਨ ਵਾਲੇ ਦੇ ਜੀਵ-ਵਿਗਿਆਨਕ ਲਿੰਗ ਤੋਂ ਵੱਖਰੀ ਹੈ,\" ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਜਨਤਕ ਡਰੈਗ ਸ਼ੋਅ' ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ।",
@@ -1217,7 +1337,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਕੇਂਦਰੀ ਮੰਤਰੀ ਅਮਿਤ ਸ਼ਾਹ 2025 ਵਿੱਚ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਮੌਕੇ ਰਾਸ਼ਟਰੀ ਝੰਡਾ ਲਹਿਰਾਉਂਦੇ ਹੋਏ।",
@@ -1237,7 +1359,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਘੋਸ਼ਣਾ ਕੀਤੀ ਕਿ ਉਸਦੇ ਦਿਮਾਗ 'ਤੇ ਮੈਗਨੈਟਿਕ ਰੈਜ਼ੋਨੈਂਸ ਇਮੇਜਿੰਗ ਸਕੈਨ \"ਕੁਝ ਨਹੀਂ ਮਿਲਿਆ\"।",
@@ -1257,7 +1381,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"ਰਾਸ਼ਟਰਪਤੀ ਟਰੰਪ ਦੀ ਅਗਵਾਈ ਵਿੱਚ 2020 ਵਿੱਚ ਅਮਰੀਕਾ ਕੋਲ ਆਈਸਕ੍ਰੀਮ ਵਿੱਚ ਵਪਾਰ ਸਰਪਲੱਸ ਸੀ, ਪਰ ਇਹ ਸਰਪਲੱਸ ਰਾਸ਼ਟਰਪਤੀ ਬਿਡੇਨ ਦੀ ਨਿਗਰਾਨੀ ਵਿੱਚ $ 40.6 ਮਿਲੀਅਨ ਦੇ ਵਪਾਰ ਘਾਟੇ ਵਿੱਚ ਬਦਲ ਗਿਆ।\"",
@@ -1277,7 +1403,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਜੂਨ 2025 (ਇੱਕ ਜੋੜੇ ਦੀ ਮੌਤ) ਵਿੱਚ ਦੋ ਡੈਮੋਕਰੇਟਿਕ ਮਿਨੀਸੋਟਾ ਰਾਜ ਦੇ ਸੰਸਦ ਮੈਂਬਰਾਂ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਜੀਵਨ ਸਾਥੀ ਨੂੰ ਗੋਲੀ ਮਾਰਨ ਦੇ ਦੋਸ਼ੀ ਵੈਂਸ ਬੋਏਲਟਰ ਨੂੰ ਇੱਕ ਵਾਰ ਡੈਮੋਕਰੇਟਿਕ ਮਿਨੇਸੋਟਾ ਗਵਰਨਰ ਟਿਮ ਵਾਲਜ਼ ਦੁਆਰਾ ਇੱਕ ਸਲਾਹਕਾਰ ਬੋਰਡ ਵਿੱਚ ਨਿਯੁਕਤ ਕੀਤਾ ਗਿਆ ਸੀ।",
@@ -1297,7 +1425,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਝੂਠਾ ਦਾਅਵਾ ਫਰਾਂਸ ਦਾ ਲਾ ਜੁਮੈਂਟ ਲਾਈਟਹਾਊਸ ਸਟਾਫ਼ ਨੂੰ ਲੱਖਾਂ ਦਾ ਭੁਗਤਾਨ ਕਰਦਾ ਹੈ ਆਨਲਾਈਨ ਜਾਰੀ ਹੈ",
@@ -1317,7 +1447,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਵ੍ਹਾਈਟ ਹਾਊਸ ਦੀ ਪ੍ਰੈਸ ਸਕੱਤਰ ਕੈਰੋਲਿਨ ਲੀਵਿਟ ਨੇ ਡਬਲਯੂਐਨਬੀਏ ਖਿਡਾਰੀ ਬ੍ਰਿਟਨੀ ਗ੍ਰੀਨਰ ਦੇ ਲਿੰਗ ਬਾਰੇ \"ਸੱਚਾਈ\" ਦਾ ਖੁਲਾਸਾ ਕੀਤਾ, ਅਤੇ ਡਬਲਯੂਐਨਬੀਏ ਨੇ ਲਾਜ਼ਮੀ \"ਲਿੰਗ ਜਾਂਚ\" ਦਾ ਐਲਾਨ ਕੀਤਾ।",
@@ -1337,7 +1469,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਟਰੰਪ ਪ੍ਰਸ਼ਾਸਨ ਨੇ \"ਨਾ ਸਿਰਫ਼ ਰਾਸ਼ਟਰੀ ਮੌਸਮ ਸੇਵਾ ਨੂੰ ਹੀ ਨਹੀਂ ਬਲਕਿ NOAA ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ, ਨੂੰ ਵੀ ਡਿਫੰਡ ਕੀਤਾ ਹੈ।\"",
@@ -1357,7 +1491,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਮਰੀਕਾ ਨੇ ਈਰਾਨ ਦੇ ਫੋਰਡੋ ਪ੍ਰਮਾਣੂ ਪਲਾਂਟ 'ਤੇ ਹਵਾਈ ਹਮਲਾ ਕੀਤਾ",
@@ -1377,7 +1513,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਾਬਕਾ ਰੂਸੀ ਰਾਸ਼ਟਰਪਤੀ ਦਮਿਤਰੀ ਮੇਦਵੇਦੇਵ ਨੇ ਜੂਨ 2025 ਵਿੱਚ ਕਿਹਾ ਸੀ ਕਿ \"ਕਈ ਦੇਸ਼ ਸਿੱਧੇ ਈਰਾਨ ਨੂੰ ਆਪਣੇ ਪ੍ਰਮਾਣੂ ਹਥਿਆਰਾਂ ਦੀ ਸਪਲਾਈ ਕਰਨ ਲਈ ਤਿਆਰ ਹਨ।\"",
@@ -1397,7 +1535,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪੋਸਟਾਂ ਨੇ ਪ੍ਰਮਾਣਿਕਤਾ ਨਾਲ ਇੱਕ ਪੱਤਰ ਦਿਖਾਇਆ ਜੋ ਯੂਐਸ ਅਟਾਰਨੀ ਜਨਰਲ ਪਾਮ ਬੋਂਡੀ ਨੇ ਫਰਵਰੀ 2025 ਵਿੱਚ ਐਪਸਟੀਨ ਫਾਈਲਾਂ ਬਾਰੇ ਐਫਬੀਆਈ ਡਾਇਰੈਕਟਰ ਕਸ਼ ਪਟੇਲ ਨੂੰ ਭੇਜਿਆ ਸੀ।",
@@ -1417,7 +1557,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਐਲੋਨ ਮਸਕ ਨੇ ਐਕਸ 'ਤੇ ਇਕ ਸੰਦੇਸ਼ ਪੋਸਟ ਕੀਤਾ ਜਿਸ ਵਿਚ ਲਿਖਿਆ ਸੀ, \"ਮੇਰੇ ਬਿਨਾਂ, ਟਰੰਪ ਚੋਣ ਹਾਰ ਜਾਂਦੇ, ਡੈਮਸ ਸਦਨ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰ ਲੈਂਦੇ ਅਤੇ ਰਿਪਬਲੀਕਨ ਸੈਨੇਟ ਵਿਚ 51-49 ਹੁੰਦੇ।\"",
@@ -1437,7 +1579,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਭਾਰਤੀ ਥਲ ਸੈਨਾ ਦੇ ਮੁਖੀ ਜਨਰਲ ਉਪੇਂਦਰ ਦਿਵੇਦੀ ਨੇ ਮੰਨਿਆ ਕਿ ਪਾਕਿਸਤਾਨ ਨਾਲ ਹਾਲ ਹੀ ਵਿੱਚ ਹੋਏ ਸੰਘਰਸ਼ ਵਿੱਚ ਛੇ ਜੈੱਟ ਜਹਾਜ਼ ਗੁਆਚ ਗਏ ਸਨ ਅਤੇ 250 ਸੈਨਿਕ ਸ਼ਹੀਦ ਹੋਏ ਸਨ।",
@@ -1457,7 +1601,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਕੰਜ਼ਰਵੇਟਿਵ ਟਿੱਪਣੀਕਾਰ ਚਾਰਲੀ ਕਿਰਕ ਨੇ ਇੱਕ ਵਾਰ ਕਿਹਾ ਸੀ ਕਿ ਜੇ ਉਸਦੀ ਇੱਕ 10 ਸਾਲ ਦੀ ਧੀ ਹੈ ਜੋ ਬਲਾਤਕਾਰ ਤੋਂ ਬਾਅਦ ਗਰਭਵਤੀ ਹੋ ਗਈ ਸੀ, ਤਾਂ ਉਹ ਚਾਹੇਗਾ ਕਿ ਉਹ ਬੱਚੇ ਨੂੰ ਜਨਮ ਦੇਵੇ।",
@@ -1477,7 +1623,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਤੱਥਾਂ ਦੀ ਜਾਂਚ: WHO ਨੇ ਕੋਵਿਡ-19 ਲਈ ਘਰੇਲੂ ਉਪਚਾਰ ਨੂੰ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਦਿੱਤੀ ਹੈ, ਗਲਤ ਜਾਣਕਾਰੀ ਵਿੱਚ ਨਾ ਫਸੋ",
@@ -1497,7 +1645,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਭਾਰਤ ਸਰਕਾਰ COVID-19 ਦੇ ਦੁਖੀ ਪਰਿਵਾਰਾਂ ਨੂੰ ਪੈਸੇ ਪ੍ਰਦਾਨ ਕਰ ਰਹੀ ਹੈ - ਕੋਵਿਡ -19 ਮੌਤਾਂ ਲਈ ਬੀਮਾ ਲਾਭਾਂ ਦਾ ਦਾਅਵਾ PMJJBY ਅਤੇ PMSBY ਦੀਆਂ ਸਕੀਮਾਂ ਦੇ ਤਹਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
@@ -1517,7 +1667,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਨਵੰਬਰ 2025 ਵਿੱਚ, ਮੋਂਟਾਨਾ ਵਿੱਚ ਇੱਕ ਕਸਬੇ ਜਿਸਨੇ ਯੂ.ਐੱਸ. ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੂੰ ਭਾਰੀ ਵੋਟਾਂ ਪਾਈਆਂ, ਨੇ MAGA ਵਪਾਰ ਨੂੰ ਸਾੜਨ ਲਈ \"ਪੀਡੋਫਾਈਲ ਬੋਨਫਾਇਰ\" ਦਾ ਆਯੋਜਨ ਕੀਤਾ।",
@@ -1537,7 +1689,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਤੰਬਰ 2025 ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ, ਯੂਐਸ ਦੇ ਉਪ ਰਾਸ਼ਟਰਪਤੀ ਜੇਡੀ ਵੈਂਸ ਨੇ ਕਿਹਾ ਕਿ ਮਜ਼ਦੂਰ ਦਿਵਸ \"ਔਰਤਾਂ ਜੋ ਮਜ਼ਦੂਰੀ ਵਿੱਚੋਂ ਲੰਘਦੀਆਂ ਹਨ\" ਦਾ ਜਸ਼ਨ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
@@ -1557,7 +1711,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਟਰੰਪ ਪ੍ਰਸ਼ਾਸਨ ਨੇ ਦਾਅਵਾ ਕੀਤਾ ਕਿ ਗੀਤਕਾਰ ਬਿਲੀ ਆਈਲਿਸ਼ ਲੀਕ ਹੋਏ ਦਸਤਾਵੇਜ਼ਾਂ ਵਿੱਚ ਸਾਡੇ ਦੇਸ਼ ਨੂੰ ਤਬਾਹ ਕਰ ਰਹੀ ਹੈ",
@@ -1577,7 +1733,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2013 ਵਿੱਚ, ਉਸ ਸਮੇਂ ਦੇ ਕਾਰੋਬਾਰੀ ਅਤੇ ਰਿਐਲਿਟੀ ਟੀਵੀ ਹੋਸਟ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਕਿਹਾ: \"ਸਰਕਾਰੀ ਸ਼ਟਡਾਊਨ ਰਾਸ਼ਟਰਪਤੀ ਦੀ ਅਗਵਾਈ ਦੀ ਘਾਟ 'ਤੇ ਪੈਂਦਾ ਹੈ। ਮੇਰਾ ਮਤਲਬ ਹੈ, ਸਮੱਸਿਆਵਾਂ ਸਿਖਰ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦੀਆਂ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਸਿਖਰ ਤੋਂ ਹੱਲ ਕਰਨਾ ਪੈਂਦਾ ਹੈ। ਇੱਕ ਬੰਦ ਦਾ ਮਤਲਬ ਰਾਸ਼ਟਰਪਤੀ ਕਮਜ਼ੋਰ ਹੈ।\"",
@@ -1597,7 +1755,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"ਡਿਵੋਲਿਊਸ਼ਨ ਦੇ ਜਨਮ ਤੋਂ ਸਿਰਫ਼ 12 ਸਾਲਾਂ ਵਿੱਚ, ਅਸੀਂ ਕਾਉਂਟੀਆਂ ਵਿੱਚ ਕੁੱਲ KSh4 ਟ੍ਰਿਲੀਅਨ ਟ੍ਰਾਂਸਫਰ ਕੀਤੇ ਹਨ।\"",
@@ -1617,7 +1777,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 ਵਿੱਚ ਫਲੋਰੀਡਾ ਵਿੱਚ \"ਐਲੀਗੇਟਰ ਅਲਕਾਟਰਾਜ਼\" ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਇੱਕ ਪ੍ਰਵਾਸੀ ਨਜ਼ਰਬੰਦੀ ਕੇਂਦਰ ਖੋਲ੍ਹਣ ਦੀ ਉਮੀਦ ਸੀ।",
@@ -1637,7 +1799,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਕੰਬੋਡੀਆ ਦੇ ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੇ ਨੇਤਾ ਨੂੰ ਥਾਈ ਸਰਹੱਦ ਨੇੜੇ ਸੈਨਿਕਾਂ ਦਾ ਪਤਾ ਲਗਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਕਿਹਾ।",
@@ -1657,7 +1821,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਰਿਪਬਲਿਕਨ ਸਾਬਕਾ ਸਦਨ ​​ਸਪੀਕਰ ਨਿਊਟ ਗਿੰਗਰਿਚ ਨੇ ਇੱਕ ਨਹਿਰ ਬਣਾਉਣ ਲਈ ਪ੍ਰਮਾਣੂ ਧਮਾਕਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਵਕਾਲਤ ਕਰਨ ਵਾਲੀ ਇੱਕ ਪੋਸਟ ਸਾਂਝੀ ਕੀਤੀ ਜੋ ਸਟ੍ਰੇਟ ਆਫ ਹਾਰਮੁਜ਼ ਲਈ ਇੱਕ ਵਿਕਲਪਿਕ ਸ਼ਿਪਿੰਗ ਰੂਟ ਵਜੋਂ ਕੰਮ ਕਰੇਗੀ।",
@@ -1677,7 +1843,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਟਵੀਟ ਕੀਤਾ ਕਿ ਉਹ ਲਾਸ ਏਂਜਲਸ ਕਾਉਂਟੀ ਸ਼ੈਰਿਫ ਦੇ ਦੋ ਡਿਪਟੀਆਂ ਦੇ ਖਰਚਿਆਂ ਲਈ $500,000 ਹਰੇਕ ਦਾਨ ਕਰ ਰਿਹਾ ਹੈ ਜੋ 12 ਸਤੰਬਰ, 2020 ਨੂੰ ਗੋਲੀ ਮਾਰ ਕੇ ਗੰਭੀਰ ਰੂਪ ਵਿੱਚ ਜ਼ਖਮੀ ਹੋ ਗਏ ਸਨ।",
@@ -1697,7 +1865,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਜਾਰਜੀਆ ਦੇ ਚੋਣ ਅਧਿਕਾਰੀਆਂ ਨੇ ਮੰਨਿਆ ਕਿ ਉਨ੍ਹਾਂ ਨੇ 2020 ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ ਵਿੱਚ ਟੇਬੂਲੇਟਰ ਟੇਪਾਂ ਨਾਲ ਬੈਲਟ ਪ੍ਰਮਾਣਿਤ ਕੀਤੇ - ਰਸੀਦਾਂ ਦੇ ਸਮਾਨ - ਜੋ ਜਾਰਜੀਆ ਰਾਜ ਦੇ ਚੋਣ ਨਿਯਮਾਂ ਦੀ ਉਲੰਘਣਾ ਵਿੱਚ ਪੋਲ ਵਰਕਰਾਂ ਦੁਆਰਾ ਹਸਤਾਖਰ ਨਹੀਂ ਕੀਤੇ ਗਏ ਸਨ।",
@@ -1717,7 +1887,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਮਾਈਕ ਜੌਹਨਸਨ, ਯੂਐਸ ਹਾਊਸ ਆਫ ਰਿਪ੍ਰਜ਼ੈਂਟੇਟਿਵਜ਼ ਦੇ ਸਪੀਕਰ, ਜੱਜ ਪਾਲ ਪ੍ਰੈਸਲਰ ਦੇ ਨਾਮ ਤੇ ਇੱਕ ਲਾਅ ਸਕੂਲ ਦਾ ਡੀਨ ਸੀ, ਜਿਸ ਉੱਤੇ ਬਾਅਦ ਵਿੱਚ ਜਿਨਸੀ ਸ਼ੋਸ਼ਣ ਦਾ ਦੋਸ਼ ਲਗਾਇਆ ਗਿਆ ਸੀ, ਪਰ ਸਕੂਲ ਕਦੇ ਵੀ ਅਧਿਕਾਰਤ ਤੌਰ 'ਤੇ ਨਹੀਂ ਖੋਲ੍ਹਿਆ ਗਿਆ ਸੀ।",
@@ -1737,7 +1909,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ, ਗਾਇਕਾ ਡੌਲੀ ਪਾਰਟਨ ਨੇ ਘੋਸ਼ਣਾ ਕੀਤੀ ਕਿ ਉਹ ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੇ ਨਾਲ ਸੰਸਥਾਪਕ ਜੈਫ ਬੇਜੋਸ ਦੀ ਅਲਾਈਨਮੈਂਟ ਦਾ ਹਵਾਲਾ ਦਿੰਦੇ ਹੋਏ, ਐਮਾਜ਼ਾਨ ਤੋਂ ਆਪਣਾ ਸਾਰਾ ਸੰਗੀਤ ਕੱਢੇਗੀ।",
@@ -1757,7 +1931,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੋਰਸੋਪ ਕੀਮੋਥੈਰੇਪੀ ਨਾਲੋਂ 10,000 ਗੁਣਾ ਮਜ਼ਬੂਤ ​​ਹੈ",
@@ -1777,7 +1953,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਬਿਹਾਰ 'ਚ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ ਤੋਂ ਪਹਿਲਾਂ ਨੌਜਵਾਨਾਂ ਨੇ ਭਾਜਪਾ ਨੇਤਾ ਦੀ ਕਾਰ ਦੀ ਭੰਨਤੋੜ ਕੀਤੀ।",
@@ -1797,7 +1975,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"ਉਹ ਰਵਾਇਤੀ ਪੰਜ ਮਹੀਨਿਆਂ ਦੀ ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਰਹੇ ਹਨ। … ICE ਏਜੰਟਾਂ ਲਈ ਸਿਖਲਾਈ ਹੁਣ 47 ਦਿਨਾਂ ਦੀ ਹੈ।\"",
@@ -1817,7 +1997,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਮਰਹੂਮ ਸੈਕਸ ਅਪਰਾਧੀ ਜੈਫਰੀ ਐਪਸਟਾਈਨ ਦੁਆਰਾ ਲਿਖੀਆਂ ਈਮੇਲਾਂ ਨੇ ਦਾਅਵਾ ਕੀਤਾ ਕਿ ਉਸਨੇ \"ਰੂਸੀ ਕੁੜੀਆਂ ਨਾਲ ਸੈਕਸ ਦੇ ਨਤੀਜਿਆਂ ਨਾਲ ਨਜਿੱਠਣ ਲਈ\" ਇੱਕ STD ਲਈ ਮਾਈਕ੍ਰੋਸਾੱਫਟ ਦੇ ਸਹਿ-ਸੰਸਥਾਪਕ ਬਿਲ ਗੇਟਸ ਨੂੰ ਦਵਾਈਆਂ ਪ੍ਰਦਾਨ ਕੀਤੀਆਂ।",
@@ -1837,7 +2019,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਆਸਟ੍ਰੇਲੀਆ ਦੇ ਸਾਬਕਾ ਕਪਤਾਨ ਰਿਕੀ ਪੋਂਟਿੰਗ ਨੇ ਏਸ਼ੀਆ ਕੱਪ ਮੈਚ ਤੋਂ ਬਾਅਦ ਪਾਕਿਸਤਾਨ ਨਾਲ ਹੱਥ ਨਾ ਮਿਲਾਉਣ ਲਈ ਭਾਰਤ ਨੂੰ 'ਸਦੀਵੀ ਹਾਰਨ ਵਾਲਾ' ਕਿਹਾ।",
@@ -1857,7 +2041,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਓਨਟਾਰੀਓ, ਕੈਲੀਫੋਰਨੀਆ ਵਿੱਚ 10 ਫ੍ਰੀਵੇਅ 'ਤੇ ਇੱਕ ਘਾਤਕ ਹਾਦਸੇ ਤੋਂ ਕੁਝ ਪਲ ਪਹਿਲਾਂ ਟਰੱਕ ਡਰਾਈਵਰ ਨੇ ਆਪਣੇ ਵਾਹਨ ਦੇ ਅੰਦਰ ਖਾਣਾ ਬਣਾਉਂਦੇ ਦੇਖਿਆ।",
@@ -1877,7 +2063,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "SPM ਨਤੀਜਿਆਂ 'ਤੇ ਸਿੱਖਿਆ ਮੰਤਰਾਲੇ ਦਾ ਬਿਆਨ",
@@ -1897,7 +2085,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਟਵੀਟ ਕੀਤਾ ਕਿ ਉਹ ਲਾਸ ਏਂਜਲਸ ਕਾਉਂਟੀ ਸ਼ੈਰਿਫ ਦੇ ਦੋ ਡਿਪਟੀਆਂ ਦੇ ਖਰਚਿਆਂ ਲਈ $500,000 ਹਰੇਕ ਦਾਨ ਕਰ ਰਿਹਾ ਹੈ ਜੋ 12 ਸਤੰਬਰ, 2020 ਨੂੰ ਗੋਲੀ ਮਾਰ ਕੇ ਗੰਭੀਰ ਰੂਪ ਵਿੱਚ ਜ਼ਖਮੀ ਹੋ ਗਏ ਸਨ।",
@@ -1917,7 +2107,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੂ.ਐੱਸ. ਸੈਂਟਰ ਫਾਰ ਡਿਜ਼ੀਜ਼ ਕੰਟਰੋਲ ਐਂਡ ਪ੍ਰੀਵੈਂਸ਼ਨ ਦੇ ਕਾਰਜਕਾਰੀ ਨਿਰਦੇਸ਼ਕ, ਜਿਮ ਓ'ਨੀਲ ਨੇ ਇੱਕ ਵਾਰ ਕਿਹਾ ਸੀ: \"ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਸਿਹਤਮੰਦ, ਖਾਲੀ ਗੁਰਦੇ ਹਨ ਜੋ ਅਣਵਰਤੇ ਚੱਲਦੇ ਹਨ।\"",
@@ -1937,7 +2129,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2022 ਵਿੱਚ, ਐਕਸ 'ਤੇ ਇੱਕ ਉਪਭੋਗਤਾ - ਜਿਸ ਨੂੰ ਟਵਿੱਟਰ ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਸੀ - ਨੇ ਪੋਸਟ ਕੀਤਾ: \"2023: ਕੋਰੋਨਾ ਖਤਮ ਹੋਇਆ ... 2026: ਹੰਟਾਵਾਇਰਸ।\"",
@@ -1957,7 +2151,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਫੇਅਰਫੈਕਸ ਕਾਉਂਟੀ ਮੇਲ ਬੈਲਟ ਲਿਫ਼ਾਫ਼ਾ ਅਟਾਰਨੀ ਜਨਰਲ ਲਈ ਵੋਟ ਦਾ ਖੁਲਾਸਾ ਕਰਦਾ ਹੈ",
@@ -1977,7 +2173,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਬਦੁਲ ਨਾਮ ਦੇ ਇੱਕ ਮੁਸਲਿਮ ਵਿਅਕਤੀ ਨੇ ਦਿੱਲੀ ਵਿੱਚ ਆਪਣੇ ਲਿਵ-ਇਨ ਪਾਰਟਨਰ, ਇੱਕ ਹਿੰਦੂ ਔਰਤ ਦਾ ਕਤਲ ਕਰ ਦਿੱਤਾ।",
@@ -1997,7 +2195,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਇਜ਼ਰਾਈਲੀ ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੇ ਸਹਾਇਤਾ ਟਰੱਕ ਨੂੰ ਗਾਜ਼ਾ ਵਿੱਚ ਦਾਖਲ ਹੋਣ ਤੋਂ ਰੋਕ ਦਿੱਤਾ",
@@ -2017,7 +2217,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "13 ਦਸੰਬਰ 2025 ਨੂੰ ਹੋਣ ਵਾਲੀ ਦੇਸ਼ ਵਿਆਪੀ ਨੈਸ਼ਨਲ ਲੋਕ ਅਦਾਲਤ ਬਕਾਇਆ ਟਰੈਫਿਕ ਚਲਾਨਾਂ 'ਤੇ ਵੱਡੀਆਂ ਛੋਟਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰੇਗੀ।",
@@ -2037,7 +2239,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਭਾਰਤ ਵਿੱਚ ਇੱਕ ਰੈਸਟੋਰੈਂਟ ਵਿੱਚ ਇੱਕ ਔਰਤ ਨਾਲ ਕੁੱਟਮਾਰ ਕਰਨ ਵਾਲਾ ਮੁਸਲਿਮ ਆਦਮੀ",
@@ -2057,7 +2261,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਕਿਹਾ ਕਿ ਵਾਸ਼ਿੰਗਟਨ, ਡੀ.ਸੀ., ਪੁਲਿਸ \"ਉੱਥੇ ਖੜੀ ਹੈ, ਅਤੇ ਲੋਕ ਉਨ੍ਹਾਂ ਦੇ ਮੂੰਹ 'ਤੇ ਥੁੱਕ ਰਹੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਕੁਝ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਪਰ ਹੁਣ ਉਨ੍ਹਾਂ ਨੂੰ ਜੋ ਮਰਜ਼ੀ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।\"",
@@ -2077,7 +2283,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪੱਛਮੀ ਬੰਗਾਲ ਵਿੱਚ ਚੋਣਾਂ ਤੋਂ ਪਹਿਲਾਂ ਸੀਆਰਪੀਐਫ ਨੇ ਆਪਣੀ ਪਕੜ ਮਜ਼ਬੂਤ ​​ਕਰ ਲਈ ਹੈ।",
@@ -2097,7 +2305,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਜੂਨ 2025 ਤੱਕ, ਆਖਰੀ ਗੈਂਡੇ ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ ਉੱਤਰੀ ਚਿੱਟਾ ਗੈਂਡਾ ਅਲੋਪ ਹੋ ਗਿਆ ਸੀ।",
@@ -2117,7 +2327,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੂ.ਕੇ. ਵਿੱਚ ਇੱਕ ਚਿੜੀਆਘਰ ਨੂੰ ਪੰਜ ਅਫਰੀਕਨ ਸਲੇਟੀ ਤੋਤਿਆਂ ਦੇ ਇੱਕ ਸਮੂਹ ਨੂੰ ਵੰਡਣਾ ਪਿਆ ਕਿਉਂਕਿ ਪੰਛੀ ਮਹਿਮਾਨਾਂ ਅਤੇ ਸਟਾਫ਼ 'ਤੇ ਚੀਕਦੇ ਸਨ।",
@@ -2137,7 +2349,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਈਰਾਨ ਨੇ ਲਾਜ਼ਮੀ ਹਿਜਾਬ ਪਹਿਨਣ ਵਾਲੇ ਕਾਨੂੰਨ ਨੂੰ ਖਤਮ ਕਰ ਦਿੱਤਾ ਹੈ",
@@ -2157,7 +2371,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਿਊਯਾਰਕ ਸਿਟੀ ਦੇ ਚੁਣੇ ਹੋਏ ਮੇਅਰ ਜ਼ੋਹਰਾਨ ਮਮਦਾਨੀ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਇਜ਼ਰਾਈਲ ਦੇ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਬੈਂਜਾਮਿਨ ਨੇਤਨਯਾਹੂ ਦੀ ਗ੍ਰਿਫਤਾਰੀ ਦਾ ਹੁਕਮ ਦੇਣਗੇ ਜੇਕਰ ਉਹ ਨਿਊਯਾਰਕ ਸਿਟੀ ਆਉਂਦੇ ਹਨ।",
@@ -2177,7 +2393,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਹੇਰਾਫੇਰੀ: ਚੈੱਕ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਪੈਟਰ ਪਾਵੇਲ \"ਬਚਾਅ ਲਈ\" ਖੇਤਰ ਗੁਆਉਣ ਵਾਲੇ ਯੂਕਰੇਨ ਨਾਲ ਸਹਿਮਤ ਹਨ",
@@ -2197,7 +2415,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਆਈਫੋਨ 12 ਈਅਰਫੋਨ ਅਤੇ ਚਾਰਜਿੰਗ ਅਡੈਪਟਰ ਦੇ ਨਾਲ ਨਹੀਂ ਆਵੇਗਾ।",
@@ -2217,7 +2437,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਇੱਕ ਫਰਾਂਸੀਸੀ ਮੈਗਜ਼ੀਨ ਚਾਰਲੀ ਹੇਬਡੋ ਦੁਆਰਾ ਪੈਗੰਬਰ ਦੇ ਪਵਿੱਤਰ ਚਿਹਰੇ ਦਾ ਅਪਮਾਨ ਕਰਨ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਅਤੇ ਨਾ ਮਾਫਯੋਗ ਪਾਪ ਨੇ ਇੱਕ ਵਾਰ ਫਿਰ ਇਸਲਾਮ ਅਤੇ ਮੁਸਲਿਮ ਭਾਈਚਾਰੇ ਦੇ ਵਿਰੁੱਧ ਪੱਛਮੀ ਸੰਸਾਰ ਦੀਆਂ ਰਾਜਨੀਤਕ ਅਤੇ ਸੱਭਿਆਚਾਰਕ ਸੰਸਥਾਵਾਂ ਦੀ ਨਫ਼ਰਤ ਅਤੇ ਦੁਸ਼ਮਣੀ ਨੂੰ ਪ੍ਰਗਟ ਕੀਤਾ ਹੈ।",
@@ -2237,7 +2459,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਚੁਕੰਦਰ ਆਂਵਲਾ ਗਾਜਰ ਦਾ ਜੂਸ ਸਟੇਜ 4 ਦੇ ਕੈਂਸਰ ਨੂੰ 40 ਦਿਨਾਂ ਵਿੱਚ ਠੀਕ ਕਰ ਸਕਦਾ ਹੈ",
@@ -2257,7 +2481,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਤੇਲ ਅਵੀਵ ਵਿੱਚ ਇਜ਼ਰਾਈਲ ਦੀ ਖੁਫੀਆ ਏਜੰਸੀ ਮੋਸਾਦ ਦੇ ਹੈੱਡਕੁਆਰਟਰ 'ਤੇ ਈਰਾਨ ਦੇ ਕਥਿਤ ਮਿਜ਼ਾਈਲ ਹਮਲੇ ਦਿਖਾਉਣ ਦਾ ਦਾਅਵਾ ਕਰਨ ਵਾਲੇ ਤਿੰਨ ਵਿਜ਼ੂਅਲ।",
@@ -2277,7 +2503,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਹਿਊਸਟਨ ਦੇ ਇੱਕ ਬਾਲ ਚਿਕਿਤਸਕ ਅਭਿਆਸ ਨੇ ਡਾ. ਕ੍ਰਿਸਟੀਨਾ ਪ੍ਰੌਪਸਟ ਨੂੰ ਨੌਕਰੀ ਤੋਂ ਕੱਢ ਦਿੱਤਾ ਜਦੋਂ ਉਸਨੇ ਔਨਲਾਈਨ ਪੋਸਟ ਕੀਤਾ ਕਿ ਜੁਲਾਈ 2025 ਵਿੱਚ ਟੈਕਸਾਸ ਦੇ ਹੜ੍ਹ ਪੀੜਤ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੇ ਸਮਰਥਕ ਸਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਉਨ੍ਹਾਂ ਨੇ ਵੋਟ ਦਿੱਤੀ ਸੀ।",
@@ -2297,7 +2525,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਤੁਸੀਂ ਆਪਣੇ ਸੈਨੇਟਰ ਨੂੰ 2020 ਦੀਆਂ ਚੋਣਾਂ ਤੋਂ ਬਾਅਦ ਸੁਪਰੀਮ ਕੋਰਟ ਵਿੱਚ ਰੂਥ ਬੈਡਰ ਗਿਨਸਬਰਗ ਦੀ ਥਾਂ ਨਾ ਲੈਣ ਲਈ ਦੱਸਣ ਲਈ ਇੱਕ ਪਟੀਸ਼ਨ 'ਤੇ ਦਸਤਖਤ ਕਰਨ ਲਈ RBG ਨੂੰ 50409 'ਤੇ ਟੈਕਸਟ ਕਰ ਸਕਦੇ ਹੋ।",
@@ -2317,7 +2547,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਸਤੰਬਰ 2025 ਵਿੱਚ, ਸੋਸ਼ਲ ਮੀਡੀਆ ਪੋਸਟਾਂ ਨੇ ਜੈਫਰੀ ਐਪਸਟੀਨ ਦੀ 50ਵੀਂ-ਜਨਮਦਿਨ ਐਲਬਮ ਵਿੱਚ ਵੈਨਿਟੀ ਫੇਅਰ ਕਵਰੇਜ ਦਾ ਹਵਾਲਾ ਦਿੰਦੇ ਹੋਏ ਵਕੀਲ ਐਲਨ ਡੇਰਸ਼ੋਵਿਟਜ਼ ਦਾ ਇੱਕ ਨੋਟ ਦਿਖਾਇਆ।",
@@ -2337,7 +2569,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਏਅਰ ਇੰਡੀਆ ਦੀ ਫਲਾਈਟ AI 315 ਨੂੰ ਦਿੱਲੀ 'ਚ ਲੈਂਡਿੰਗ ਦੌਰਾਨ ਅੱਗ ਲੱਗ ਗਈ, ਯਾਤਰੀ ਸੁਰੱਖਿਅਤ",
@@ -2357,7 +2591,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਨਵੰਬਰ 2025 ਵਿੱਚ ਹਾਊਸ ਓਵਰਸਾਈਟ ਕਮੇਟੀ ਦੁਆਰਾ ਜਾਰੀ ਕੀਤੇ ਗਏ ਆਪਣੇ ਸਹਿਯੋਗੀ ਘਿਸਲੇਨ ਮੈਕਸਵੈੱਲ ਨਾਲ ਇੱਕ ਈਮੇਲ ਐਕਸਚੇਂਜ ਵਿੱਚ, ਸੈਕਸ ਅਪਰਾਧੀ ਜੈਫਰੀ ਐਪਸਟਾਈਨ ਨੇ ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੂੰ \"ਕੁੱਤੇ ਜੋ ਭੌਂਕਿਆ ਨਹੀਂ\" ਕਿਹਾ ਅਤੇ ਕਿਹਾ ਕਿ ਟਰੰਪ ਨੇ ਐਪਸਟੀਨ ਦੇ ਘਰ ਇੱਕ ਸੈਕਸ-ਤਸਕਰੀ ਪੀੜਤ ਨਾਲ ਕਈ ਘੰਟੇ ਬਿਤਾਏ।",
@@ -2377,7 +2613,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਕਰਿਆਨੇ ਦਾ ਸਮਾਨ ਹੇਠਾਂ ਹੈ। ਊਰਜਾ ਬਹੁਤ ਘੱਟ ਗਈ ਹੈ। ... ਇੱਕ ਗੈਲਨ ਗੈਸ ਲਈ $4 ਅਤੇ $5 ਸੀ।\"",
@@ -2397,7 +2635,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਦਿਸਾਨਾਇਕ ਨੇ ਸ਼੍ਰੀਲੰਕਾ ਦੇ ਆਫ਼ਤ ਪ੍ਰਬੰਧਨ ਕੇਂਦਰ ਨੂੰ ਅਯੋਗ ਕਰ ਦਿੱਤਾ",
@@ -2417,7 +2657,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਮਰੀਕੀ ਸਦਨ ਦੇ ਸਪੀਕਰ ਮਾਈਕ ਜੌਹਨਸਨ, ਆਰ-ਲਾ. ਨੇ ਕਿਹਾ, \"ਡੈਮੋਕਰੇਟਸ ਨੂੰ ਸਰਕਾਰ ਖੋਲ੍ਹਣ ਦੀ ਲੋੜ ਹੈ। ਉਹ ਕਹਿੰਦੇ ਰਹਿੰਦੇ ਹਨ ਕਿ ਰਿਪਬਲਿਕਨ ਸਰਕਾਰ ਦੇ ਇੰਚਾਰਜ ਹਨ। ਅਸੀਂ ਨਹੀਂ ਹਾਂ। ਸੈਨੇਟ ਵਿੱਚ ਨਹੀਂ ਹਾਂ। ਸੱਠ ਵੋਟਾਂ ਸੈਨੇਟ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਦੀਆਂ ਹਨ, ਨਾ ਕਿ ਇੱਕ ਨੰਗੀ ਬਹੁਮਤ।\"",
@@ -2437,7 +2679,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਤੁਸੀਂ ਆਪਣੇ ਸੈਨੇਟਰ ਨੂੰ 2020 ਦੀਆਂ ਚੋਣਾਂ ਤੋਂ ਬਾਅਦ ਸੁਪਰੀਮ ਕੋਰਟ ਵਿੱਚ ਰੂਥ ਬੈਡਰ ਗਿਨਸਬਰਗ ਦੀ ਥਾਂ ਨਾ ਲੈਣ ਲਈ ਦੱਸਣ ਲਈ ਇੱਕ ਪਟੀਸ਼ਨ 'ਤੇ ਦਸਤਖਤ ਕਰਨ ਲਈ RBG ਨੂੰ 50409 'ਤੇ ਟੈਕਸਟ ਕਰ ਸਕਦੇ ਹੋ।",
@@ -2457,7 +2701,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਨੈਨਸੀ ਪੇਲੋਸੀ ਦਾ ਕਹਿਣਾ ਹੈ ਕਿ ਚੀਨ ਜੋ ਬਿਡੇਨ ਨੂੰ ਤਰਜੀਹ ਦੇਵੇਗਾ।",
@@ -2477,7 +2723,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਲਗਭਗ 40% ਯੂਐਸ ਫਾਰਮਵਰਕਰ ਗੈਰ-ਦਸਤਾਵੇਜ਼ੀ ਪ੍ਰਵਾਸੀ ਹਨ।",
@@ -2497,7 +2745,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਖੋਜਕਰਤਾ ਦੀ ਗ੍ਰਿਫਤਾਰੀ ਦੇ ਬਾਵਜੂਦ, MMR ਵੈਕਸੀਨ ਅਤੇ ਔਟਿਜ਼ਮ ਵਿਚਕਾਰ ਕੋਈ ਸਬੰਧ ਨਹੀਂ ਹੈ",
@@ -2517,7 +2767,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਇੱਕ ਵਾਇਰਲ ਦਾਅਵਾ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ ਕਿ ਅਜੀਤ ਡੋਵਾਲ ਨੇ ਭਾਰਤੀਆਂ ਨੂੰ ਟੈਰਿਫ ਯੁੱਧ ਵਿੱਚ ਅਮਰੀਕਾ 'ਤੇ ਦਬਾਅ ਪਾਉਣ ਲਈ ਐਮਾਜ਼ਾਨ ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰਨ ਦੀ ਅਪੀਲ ਕੀਤੀ ਹੈ।",
@@ -2537,7 +2789,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ, ਮਿਨੀਆਪੋਲਿਸ ਵਿੱਚ ਯੂਐਸ ਇਮੀਗ੍ਰੇਸ਼ਨ ਅਤੇ ਕਸਟਮਜ਼ ਐਨਫੋਰਸਮੈਂਟ ਏਜੰਟਾਂ ਨੇ ਸੂ ਟਿੰਚਰ ਨਾਮਕ ਇੱਕ 55 ਸਾਲਾ ਅਮਰੀਕੀ ਨਾਗਰਿਕ ਨੂੰ ਗ੍ਰਿਫਤਾਰ ਕੀਤਾ ਜੋ ਉਹਨਾਂ ਦੀ ਕਾਰਵਾਈ ਨੂੰ ਦੇਖ ਰਿਹਾ ਸੀ।",
@@ -2557,7 +2811,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਭਿਨੇਤਾ ਕ੍ਰਿਸ਼ਚੀਅਨ ਬੇਲ ਕੈਲੀਫੋਰਨੀਆ ਦੇ ਪਾਮਡੇਲ ਵਿੱਚ $22 ਮਿਲੀਅਨ ਦੇ ਇੱਕ ਪਿੰਡ ਵਿੱਚ 12 ਘਰ ਬਣਾ ਰਿਹਾ ਹੈ, ਜਿਸਦਾ ਉਦੇਸ਼ ਪਾਲਣ-ਪੋਸ਼ਣ ਪ੍ਰਣਾਲੀ ਵਿੱਚ ਭੈਣਾਂ-ਭਰਾਵਾਂ ਨੂੰ ਇਕੱਠੇ ਰੱਖਣਾ ਹੈ।",
@@ -2577,7 +2833,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਫਗਾਨਿਸਤਾਨ ਦੇ ਵਿਦੇਸ਼ ਮੰਤਰੀ ਅਮੀਰ ਖਾਨ ਮੁਤਾਕੀ ਨੇ ਭਾਰਤ ਦੀ ਵਿੱਤੀ ਮਦਦ ਨਾਲ ਕਾਬੁਲ ਅਤੇ ਕੰਧਾਰ ਵਿੱਚ ਹਿੰਦੂ ਮੰਦਰ ਬਣਾਉਣ ਦੀ ਯੋਜਨਾ ਦਾ ਐਲਾਨ ਕੀਤਾ ਹੈ।",
@@ -2597,7 +2855,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਕਿਹਾ, \"ਪਿਛਲੇ ਮਹੀਨੇ, ਮੈਂ ਬਿਗ ਫਾਰਮਾ ਨੂੰ ਲਿਆ ਸੀ। ਤੁਹਾਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਇਹ ਆਸਾਨ ਹੈ? ਮੈਂ ਉਹਨਾਂ ਆਰਡਰਾਂ 'ਤੇ ਹਸਤਾਖਰ ਕੀਤੇ ਹਨ ਜੋ ਤੁਹਾਡੀ ਨੁਸਖ਼ੇ ਵਾਲੀਆਂ ਦਵਾਈਆਂ ਦੀ ਕੀਮਤ ਨੂੰ ਵੱਡੇ ਪੱਧਰ 'ਤੇ ਘੱਟ ਕਰਨਗੇ।\"",
@@ -2617,7 +2877,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਰੈਪਰ ਨਿੱਕੀ ਮਿਨਾਜ ਦਾ ਪਤੀ ਕੇਨੇਥ ਪੈਟੀ ਇੱਕ ਰਜਿਸਟਰਡ ਸੈਕਸ ਅਪਰਾਧੀ ਹੈ।",
@@ -2637,7 +2899,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "11 ਮਈ ਦੇ ਅਖੀਰ ਤੋਂ 12 ਮਈ 2026 ਦੀ ਸ਼ੁਰੂਆਤ ਤੱਕ ਤਿੰਨ ਘੰਟਿਆਂ ਦੇ ਅੰਤਰਾਲ ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਆਪਣੇ ਸੱਚ ਸੋਸ਼ਲ ਅਕਾਉਂਟ 'ਤੇ 55 ਵਾਰ ਪੋਸਟ ਕੀਤਾ।",
@@ -2657,7 +2921,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 ਵਿੱਚ, ਚੋਬਾਨੀ ਇੱਕ ਕਲਾਸ ਐਕਸ਼ਨ ਮੁਕੱਦਮੇ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਿਹਾ ਸੀ ਜਿਸ ਵਿੱਚ ਦੋਸ਼ ਲਾਇਆ ਗਿਆ ਸੀ ਕਿ ਇਸਦੇ ਦਹੀਂ ਵਿੱਚ ਫਥਾਲੇਟਸ, ਰਸਾਇਣ ਹੁੰਦੇ ਹਨ ਜੋ ਹਾਰਮੋਨ ਵਿਘਨ ਨਾਲ ਜੁੜੇ ਹੋਏ ਹਨ।",
@@ -2677,7 +2943,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਕੋਵਿਡ-19 ਵੈਕਸੀਨ “ਹਰ ਕੋਈ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ”।",
@@ -2697,7 +2965,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਫੇਸ ਮਾਸਕ ਹਾਈਪੌਕਸੀਆ ਦਾ ਕਾਰਨ ਬਣਦੇ ਹਨ।",
@@ -2717,7 +2987,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਲੈਕਸਿਸ ਕੋਸੇਟ-ਟਰੂਡੇਲ ਦੁਆਰਾ ਹੋਸਟ ਕੀਤੇ ਗਏ ਸਾਜ਼ਿਸ਼ ਨੈਟਵਰਕ, ਰੇਡੀਓ ਕਿਊਬਿਕ ਦੀ ਸਮੱਗਰੀ 'ਤੇ ਫੇਸਬੁੱਕ ਦੁਆਰਾ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।",
@@ -2737,7 +3009,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਜੈਕੀ ਮਿਸ਼ੇਲ, ਇੱਕ 17 ਸਾਲ ਦੀ ਕੁੜੀ, ਨੇ 1931 ਵਿੱਚ ਚੈਟਾਨੂਗਾ ਲੁੱਕਆਊਟਸ ਅਤੇ ਨਿਊਯਾਰਕ ਯੈਂਕੀਜ਼ ਦੇ ਵਿੱਚ ਇੱਕ ਗੇਮ ਵਿੱਚ ਬੇਸਬਾਲ ਦੇ ਮਹਾਨ ਖਿਡਾਰੀ ਬੇਬੇ ਰੂਥ ਅਤੇ ਲੂ ਗੇਹਰਿਗ ਨੂੰ ਪਿੱਛੇ ਛੱਡ ਦਿੱਤਾ।",
@@ -2757,7 +3031,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪੋਪ ਲਿਓ XIV ਨੇ ਮਈ 2026 ਵਿੱਚ ਈਰਾਨ ਦੇ ਰਾਜਦੂਤ ਮੁਹੰਮਦ ਹੁਸੈਨ ਮੋਖਤਾਰੀ ਨੂੰ ਵੈਟੀਕਨ ਦੇ ਸਰਵਉੱਚ ਕੂਟਨੀਤਕ ਸਨਮਾਨ ਨਾਲ ਸਨਮਾਨਿਤ ਕੀਤਾ।",
@@ -2777,7 +3053,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਹੁਣ: ਬਿਡੇਨ ਵਰਗੇ ਗੇ ਫਲੈਗ ਵਾਂਗ ਪ੍ਰਕਾਸ਼ਤ ਹੋਣ ਦੀ ਬਜਾਏ, ਵ੍ਹਾਈਟ ਹਾਊਸ ਅੱਜ ਰਾਤ ਨੂੰ ਲਾਲ, ਚਿੱਟੇ ਅਤੇ ਨੀਲੇ ਰੰਗਾਂ ਵਿੱਚ ਜਗਮਗਾ ਰਿਹਾ ਹੈ",
@@ -2797,7 +3075,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਏਅਰ ਫੋਰਸ ਵਨ 'ਤੇ ਇੱਕ ਪ੍ਰੈਸ ਗੈਗਲ ਦੇ ਦੌਰਾਨ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਕਿਹਾ \"ਚੁੱਪ, ਸੂਰ!\" ਜੇਫਰੀ ਐਪਸਟੀਨ ਦੀਆਂ ਫਾਈਲਾਂ ਦੀ ਰਿਹਾਈ ਬਾਰੇ ਪੁੱਛਣ ਵਾਲੇ ਇੱਕ ਰਿਪੋਰਟਰ ਨੂੰ।",
@@ -2817,7 +3097,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਮਹਿੰਗਾਈ, ਜੋ ਕਿ 2022 ਵਿੱਚ 9.6% ਸੀ, ਪਿਛਲੇ ਮਹੀਨੇ ਤੱਕ ਲਗਾਤਾਰ ਘਟ ਕੇ 4.6% ਹੋ ਗਈ ਹੈ।\"",
@@ -2837,7 +3119,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਲੇਖਕ ਐਸ਼ਲੇ ਸੇਂਟ ਕਲੇਅਰ, ਕਥਿਤ ਤੌਰ 'ਤੇ ਐਲੋਨ ਮਸਕ ਦੇ 13ਵੇਂ ਬੱਚੇ ਦੀ ਮਾਂ, ਨੇ ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੂੰ \"ਬ੍ਰੇਕਅੱਪ ਸਲਾਹ\" ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦੇ ਹੋਏ X 'ਤੇ ਪੋਸਟ ਕੀਤਾ।",
@@ -2857,7 +3141,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਤੁਹਾਨੂੰ ਡੌਨਲਡ ਟਰੰਪ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਟੈਕਸ ਕਿਉਂ ਅਦਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ? ਅਤੇ ਇਹ ਇੱਕ ਤੱਥ ਹੈ. $750। ਯਾਦ ਰੱਖੋ ਕਿ ਉਸਨੇ ਕੀ ਕਿਹਾ ਸੀ ਜਦੋਂ ਉਹ ਕੁਝ ਸਮਾਂ ਪਹਿਲਾਂ ਉਠਾਇਆ ਗਿਆ ਸੀ, ਉਹ ਕਿਵੇਂ ਭੁਗਤਾਨ ਕਰਦਾ ਹੈ ... ਉਸਨੇ ਕਿਹਾ, 'ਕਿਉਂਕਿ ਮੈਂ ਹੁਸ਼ਿਆਰ ਹਾਂ। ਮੈਂ ਜਾਣਦਾ ਹਾਂ ਕਿ ਸਿਸਟਮ ਨੂੰ ਕਿਵੇਂ ਖੇਡਣਾ ਹੈ।'",
@@ -2877,7 +3163,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਕੈਂਸਰ ਦੇ ਇਲਾਜ ਲਈ ਕੀਮੋਥੈਰੇਪੀ ਦਵਾਈਆਂ ਦੀ ਖੋਜ ਸਰ੍ਹੋਂ ਦੀ ਗੈਸ ਤੋਂ ਕੀਤੀ ਗਈ ਸੀ।",
@@ -2897,7 +3185,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਇਸ ਖੇਤਰ ਵਿੱਚ 8.8 ਤੀਬਰਤਾ ਦੇ ਭੂਚਾਲ ਤੋਂ ਇੱਕ ਦਿਨ ਪਹਿਲਾਂ, ਰੂਸ ਦੇ ਕਾਮਚਟਕਾ ਵਿੱਚ ਪੰਜ ਬੇਲੂਗਾ ਵ੍ਹੇਲ ਸਮੁੰਦਰੀ ਕੰਢੇ ਵਿੱਚ ਡੁੱਬ ਗਈਆਂ।",
@@ -2917,7 +3207,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਟਰਨਿੰਗ ਪੁਆਇੰਟ ਯੂਐਸਏ ਦੀ ਸੀਈਓ ਏਰਿਕਾ ਕਿਰਕ ਨੂੰ ਏਅਰ ਫੋਰਸ ਅਕੈਡਮੀ ਬੋਰਡ ਆਫ ਵਿਜ਼ਿਟਰਜ਼ ਵਿੱਚ ਨਿਯੁਕਤ ਕੀਤਾ ਹੈ।",
@@ -2937,7 +3229,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "11 ਅਗਸਤ, 2025 ਨੂੰ ਸਬਾਹ ਦੇ ਨੇੜੇ ਫਿਲੀਪੀਨ ਅਤੇ ਮਲੇਸ਼ੀਆ ਦੇ ਜਲ ਸੈਨਾ ਦੇ ਜਹਾਜ਼ਾਂ ਵਿੱਚ ਇੱਕ ਰੁਕਾਵਟ ਸੀ।",
@@ -2957,7 +3251,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਡੀਐਮਕੇ ਦੀ ਰੈਲੀ ਵਿੱਚ ਪਾਕਿਸਤਾਨ ਦੇ ਰਾਸ਼ਟਰੀ ਝੰਡੇ ਲਹਿਰਾਏ ਗਏ",
@@ -2977,7 +3273,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਨੇ ਇੱਕ ਪ੍ਰਸਤਾਵ ਪਾਸ ਕੀਤਾ ਜਿਸ ਵਿੱਚ ਅਮਰੀਕਾ ਨੂੰ ਵਿਦੇਸ਼ੀ ਫੌਜੀ ਠਿਕਾਣਿਆਂ ਨੂੰ ਬੰਦ ਕਰਨ ਦੀ ਮੰਗ ਕੀਤੀ ਗਈ ਸੀ",
@@ -2997,7 +3295,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਿਊਯਾਰਕ ਮੇਟਸ ਨੇ ਯੂਐਸ ਦੇ ਝੰਡੇ ਨੂੰ ਪ੍ਰਾਈਡ ਫਲੈਗ ਨਾਲ ਬਦਲ ਦਿੱਤਾ ਜਦੋਂ ਕਿ ਰਾਸ਼ਟਰੀ ਗੀਤ 13 ਜੂਨ, 2025 ਨੂੰ ਬੇਸਬਾਲ ਗੇਮ ਵਿੱਚ ਪੇਸ਼ ਕੀਤਾ ਗਿਆ ਸੀ।",
@@ -3017,7 +3317,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੂਐਸ ਹੋਮਲੈਂਡ ਸਕਿਓਰਿਟੀ ਸੈਕਟਰੀ ਕ੍ਰਿਸਟੀ ਨੋਏਮ ਨੇ ਅਮਰੀਕਾ ਵਿੱਚ 2025 ਦੇ ਤੂਫਾਨ ਦੇ ਸੀਜ਼ਨ ਲਈ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦਾ ਧੰਨਵਾਦ ਕਰਦੇ ਹੋਏ ਕਿਹਾ, \"ਤੁਸੀਂ ਤੂਫਾਨ ਨੂੰ ਦੂਰ ਰੱਖਿਆ।\"",
@@ -3037,7 +3339,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਅਪ੍ਰੈਲ 2026 ਦੇ ਅਖੀਰ ਵਿੱਚ, ਮਿਨੇਸੋਟਾ ਸੈਨੇਟ ਡੈਮੋਕਰੇਟਸ ਨੇ ਰਾਜ ਦੀਆਂ ਵੋਟਰ ਸੂਚੀਆਂ ਵਿੱਚੋਂ ਮਰੇ ਹੋਏ ਲੋਕਾਂ ਨੂੰ ਹਟਾਉਣ ਦਾ ਵਿਰੋਧ ਕਰਨ ਲਈ ਸਰਬਸੰਮਤੀ ਨਾਲ ਵੋਟ ਦਿੱਤੀ।",
@@ -3057,7 +3361,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"12.4 ਮਿਲੀਅਨ ਦੱਖਣੀ ਅਫ਼ਰੀਕੀ ਬੇਰੁਜ਼ਗਾਰ ਹਨ।\" - ਮੁਸੀ ਮੈਮਨੇ",
@@ -3077,7 +3383,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਸਟੈਨਲੀ ਟੰਬਲਰ ਵਿੱਚ ਲੀਡ ਦੇ ਖਤਰਨਾਕ ਪੱਧਰ ਹੁੰਦੇ ਹਨ ਜੋ ਆਮ ਵਰਤੋਂ ਦੌਰਾਨ ਲੀਡ ਦੇ ਜ਼ਹਿਰ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦੇ ਹਨ।",
@@ -3097,7 +3405,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੁਨੀਲ ਗਾਵਸਕਰ ਨੇ ਕਿਹਾ ਕਿ \"ਵਿਰਾਟ ਕੋਹਲੀ ਨੇ ਲੌਕਡਾਊਨ ਦੌਰਾਨ ਅਨੁਸ਼ਕਾ [ਸ਼ਰਮਾ] ਦੀਆਂ ਗੇਂਦਾਂ ਦੇ ਖਿਲਾਫ ਸਿਖਲਾਈ ਲਈ ਹੈ\"।",
@@ -3117,7 +3427,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਮਿਸ਼ੀਗਨ ਗਵਰਨਰ ਗ੍ਰੇਚੇਨ ਵਿਟਮਰ ਦੇ ਅਧੀਨ, ਉਸਦੇ ਪੂਰਵਜ ਦੇ ਮੁਕਾਬਲੇ \"ਗਰੀਬੀ ਵਿੱਚ ਰਹਿ ਰਹੇ ਘੱਟ ਪਰਿਵਾਰ\" ਹਨ।",
@@ -3137,7 +3449,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਮੈਸੀਜ਼ 2025 ਵਿੱਚ ਨਿਊਯਾਰਕ ਸਿਟੀ ਵਿੱਚ ਆਪਣੀ ਥੈਂਕਸਗਿਵਿੰਗ ਪਰੇਡ ਨੂੰ ਰੱਦ ਕਰ ਰਹੀ ਸੀ ਕਿਉਂਕਿ ਮੇਅਰ-ਚੁਣੇ ਹੋਏ ਜ਼ੋਹਰਾਨ ਮਮਦਾਨੀ ਫਿਫਥ ਐਵਨਿਊ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਡਿਪਾਰਟਮੈਂਟ ਸਟੋਰ ਤੋਂ $10 ਬਿਲੀਅਨ ਚਾਰਜ ਕਰਨਾ ਚਾਹੁੰਦੇ ਸਨ।",
@@ -3157,7 +3471,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਪੰਚ ਬਾਂਦਰ ਦੀ ਕਹਾਣੀ ਜੋ ਜਨਮ ਵੇਲੇ ਛੱਡੇ ਜਾਣ ਤੋਂ ਬਾਅਦ ਇੱਕ ਭਰੇ ਹੋਏ ਜਾਨਵਰ ਵਿੱਚ ਆਰਾਮ ਪ੍ਰਾਪਤ ਕਰਦੀ ਹੈ।",
@@ -3177,7 +3493,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਭਾਰਤ ਦੇ ਮੌਜੂਦਾ ਚੀਫ਼ ਜਸਟਿਸ, ਬੀ.ਆਰ. ਗਵਈ ਨੇ ਸੁਪਰੀਮ ਕੋਰਟ ਦੇ ਮੂਲ ਲੋਗੋ ਨੂੰ ਬਹਾਲ ਕਰ ਦਿੱਤਾ ਹੈ, ਜਿਸ ਵਿੱਚ 'ਸੱਤਿਆਮੇਵ ਜਯਤੇ' ਦਾ ਆਦਰਸ਼ ਸੀ, ਜਿਸ ਨੂੰ ਚੀਫ਼ ਜਸਟਿਸ ਚੰਦਰਚੂੜ ਦੇ ਕਾਰਜਕਾਲ ਦੌਰਾਨ 'ਯਤੋ ਧਰਮਸਤਤੋ ਜਯਹ' ਵਿੱਚ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਸੀ।",
@@ -3197,7 +3515,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੇਵ ਅਮਰੀਕਾ ਐਕਟ \"ਅਮਰੀਕਨਾਂ ਨੂੰ ਸਿਰਫ਼ ਵਿਅਕਤੀਗਤ ਤੌਰ 'ਤੇ ਰਜਿਸਟਰ (ਵੋਟ ਕਰਨ ਲਈ) ਕਰਨ ਲਈ ਮਜ਼ਬੂਰ ਕਰੇਗਾ, ਜੋ ਅੱਜ ਸਿਰਫ 5% ਅਮਰੀਕੀ ਕਰਦੇ ਹਨ।\"",
@@ -3217,7 +3537,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਨਾਸਾ ਟੈਕਨੋਲੋਜੀ ਨੇ \"ਅਜੀਬ ਸਿਗਨਲ\" ਛੱਡਣ ਵਾਲੇ \"ਸੁਪਰ-ਅਰਥ\" ਐਕਸੋਪਲੈਨੇਟ ਦੀ ਖੋਜ ਕੀਤੀ।",
@@ -3237,7 +3559,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਜੂਨ 2025 ਵਿੱਚ, ਬ੍ਰਿਟਿਸ਼ ਪ੍ਰਸਾਰਕ ਪੀਅਰਸ ਮੋਰਗਨ ਅਤੇ ਸਕਾਟਿਸ਼ ਗਾਇਕਾ ਸੂਜ਼ਨ ਬੋਇਲ ਦੀ ਮੰਗਣੀ ਹੋਈ ਸੀ ਅਤੇ ਵਿਆਹ ਕਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਈ ਗਈ ਸੀ।",
@@ -3257,7 +3581,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਬੇਬੁਨਿਆਦ ਦਾਅਵਿਆਂ ਨੇ ਬੰਗਲਾਦੇਸ਼ ਦੇ ਟਾਈਫਾਈਡ ਵੈਕਸੀਨ ਡਰਾਈਵ ਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਇਆ ਹੈ",
@@ -3277,7 +3603,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਇਜ਼ਰਾਈਲੀ ਹਵਾਈ ਹਮਲਿਆਂ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਬੁਸ਼ੇਹਰ ਵਿੱਚ ਡੇਯਰ ਬੰਦਰਗਾਹ ਨੂੰ ਸੜਦਾ ਦਿਖਾਉਂਦੇ ਹੋਏ ਈਰਾਨ ਦੇ ਦ੍ਰਿਸ਼।",
@@ -3297,7 +3625,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਨਵੰਬਰ 2025 ਵਿੱਚ ਹਾਊਸ ਓਵਰਸਾਈਟ ਕਮੇਟੀ ਦੁਆਰਾ ਜਾਰੀ ਕੀਤੇ ਗਏ ਆਪਣੇ ਸਹਿਯੋਗੀ ਘਿਸਲੇਨ ਮੈਕਸਵੈੱਲ ਨਾਲ ਇੱਕ ਈਮੇਲ ਐਕਸਚੇਂਜ ਵਿੱਚ, ਸੈਕਸ ਅਪਰਾਧੀ ਜੈਫਰੀ ਐਪਸਟਾਈਨ ਨੇ ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੂੰ \"ਕੁੱਤੇ ਜੋ ਭੌਂਕਿਆ ਨਹੀਂ\" ਕਿਹਾ ਅਤੇ ਕਿਹਾ ਕਿ ਟਰੰਪ ਨੇ ਐਪਸਟੀਨ ਦੇ ਘਰ ਇੱਕ ਸੈਕਸ-ਤਸਕਰੀ ਪੀੜਤ ਨਾਲ ਘੰਟੇ ਬਿਤਾਏ।",
@@ -3317,7 +3647,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਕ੍ਰਿਕਟ ਪਰਿਸ਼ਦ (ICC) ਨੇ ਇੱਕ ਬਿਆਨ ਜਾਰੀ ਕਰਕੇ ਪਾਕਿਸਤਾਨ ਕ੍ਰਿਕਟ ਬੋਰਡ 'ਤੇ ਇੱਕ ਸਾਲ ਲਈ ਪਾਬੰਦੀ ਲਗਾ ਦਿੱਤੀ ਹੈ।",
@@ -3337,7 +3669,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸ਼ੈਲਡ ਕਲਾਊਡ 18 ਦਸੰਬਰ, 2025 ਨੂੰ ਹਰਿਦੁਆਰ ਦੇ ਉੱਪਰ ਦੇਖਿਆ ਗਿਆ।",
@@ -3357,7 +3691,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੰਯੁਕਤ ਰਾਜ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਅਕਤੂਬਰ 2025 ਦੇ ਇੱਕ ਭਾਸ਼ਣ ਵਿੱਚ ਰਸੇਲ ਵੌਟ, ਪ੍ਰਬੰਧਨ ਅਤੇ ਬਜਟ ਦੇ ਦਫਤਰ ਦੇ ਨਿਰਦੇਸ਼ਕ, \"ਡਾਰਥ ਵੇਡਰ\" ਨੂੰ ਬੁਲਾਇਆ।",
@@ -3377,7 +3713,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਕਤੂਬਰ 2025 ਵਿੱਚ ਰੱਖਿਆ ਸਕੱਤਰ ਪੀਟ ਹੇਗਸੈਥ ਨੇ ਨੇਵੀ ਚੀਫ਼ ਆਫ਼ ਸਟਾਫ਼ ਜੌਨ ਹੈਰੀਸਨ ਨੂੰ ਬਰਖਾਸਤ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਅਧਿਕਾਰੀਆਂ ਨੇ ਹੈਰੀਸਨ ਨੂੰ ਦੇਸ਼ਧ੍ਰੋਹ ਦੇ ਸ਼ੱਕ ਵਿੱਚ ਗ੍ਰਿਫਤਾਰ ਕੀਤਾ।",
@@ -3397,7 +3735,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਪੋਸਟਾਂ ਝੂਠਾ ਦਾਅਵਾ ਕਰਦੀਆਂ ਹਨ ਕਿ IMF ਕਰਜ਼ਿਆਂ ਦਾ ਨਿਪਟਾਰਾ ਕਰਨ ਤੋਂ ਬਾਅਦ ਨਾਈਜੀਰੀਆ 'ਕਰਜ਼ਾ ਮੁਕਤ' ਸੀ",
@@ -3417,7 +3757,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "6 ਜਨਵਰੀ, 2026 ਨੂੰ, ਇੱਕ ਹਾਊਸ ਰਿਪਬਲਿਕਨ ਰਿਟਰੀਟ ਵਿੱਚ ਭਾਸ਼ਣ ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਕਿਹਾ ਕਿ ਜੇਕਰ ਉਹ 2026 ਦੀਆਂ ਮੱਧਕਾਲੀ ਚੋਣਾਂ ਜਿੱਤਦੇ ਹਨ ਤਾਂ ਡੈਮੋਕਰੇਟਸ \"ਹਰ ਕਿਸੇ ਲਈ ਟਰਾਂਸਜੈਂਡਰ\" ਨੂੰ ਮਜਬੂਰ ਕਰਨਗੇ।",
@@ -3437,7 +3779,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਸੇਵ ਅਮਰੀਕਾ ਐਕਟ \"ਹਰ ਕਿਸੇ ਨੂੰ ਵਿਅਕਤੀਗਤ ਤੌਰ 'ਤੇ ਵੋਟ ਪਾਉਣ ਲਈ ਦੁਬਾਰਾ ਰਜਿਸਟਰ ਕਰਨ ਦੀ ਲੋੜ ਹੈ ਅਤੇ ਤੁਹਾਡਾ ਡ੍ਰਾਈਵਰਜ਼ ਲਾਇਸੰਸ, ਅਸਲ ਆਈਡੀ, ਜਾਂ ਮਿਲਟਰੀ ਆਈਡੀ ਵੀ ਕਾਫ਼ੀ ਚੰਗੀ ਨਹੀਂ ਹੈ।\"",
@@ -3457,7 +3801,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਿੰਬੂ ਪਾਣੀ ਅਤੇ ਰਾਕ ਲੂਣ ਗੁਰਦੇ ਦੀ ਪੱਥਰੀ ਨੂੰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਢੰਗ ਨਾਲ ਭੰਗ ਕਰ ਸਕਦੇ ਹਨ।",
@@ -3477,7 +3823,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਪੈਟਰੋਲੀਅਮ ਅਤੇ ਕੁਦਰਤੀ ਗੈਸ ਮੰਤਰਾਲੇ ਦੇ ਇੱਕ ਅਧਿਕਾਰਤ ਆਦੇਸ਼ ਵਿੱਚ ਪੈਟਰੋਲ ਦੀ ਕੀਮਤ ਵਿੱਚ 10 ਰੁਪਏ ਪ੍ਰਤੀ ਲੀਟਰ ਅਤੇ ਡੀਜ਼ਲ ਦੀ ਕੀਮਤ 12.50 ਰੁਪਏ ਪ੍ਰਤੀ ਲੀਟਰ ਦੇ ਵਾਧੇ ਦਾ ਐਲਾਨ ਕੀਤਾ ਗਿਆ ਹੈ।",
@@ -3497,7 +3845,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਟੇਡ ਲਿਊ ਨੇ ਕਸ਼ ਪਟੇਲ ਨੂੰ ਇੱਕ ਗੁਪਤ ਐਪਸਟੀਨ ਰਿਕਾਰਡਿੰਗ ਦੇ ਨਾਲ ਸਾਮ੍ਹਣਾ ਕੀਤਾ, \"ਟਰੰਪ ਨੇ ਮੈਨੂੰ ਇਸ ਨੂੰ ਦਫ਼ਨਾਉਣ ਲਈ ਕਿਹਾ\"",
@@ -3517,7 +3867,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਇੱਕ ਰਾਸ਼ਟਰ ਵਜੋਂ ਨਾਈਜੀਰੀਆ ਦੀ ਹੋਂਦ ਦੇ 60 ਸਾਲਾਂ ਵਿੱਚੋਂ ਇੱਕ ਸੰਚਤ 29 ਲਈ, ਇਹ ਫੌਜੀ ਸ਼ਾਸਨ ਅਧੀਨ ਰਿਹਾ ਹੈ।",
@@ -3537,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਬਿਹਾਰ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਨਿਤੀਸ਼ ਕੁਮਾਰ ਨੇ ਪਟਨਾ ਵਿੱਚ ਇੱਕ ਸਰਕਾਰੀ ਸਮਾਗਮ ਦੌਰਾਨ ਇੱਕ ਔਰਤ ਦਾ ਹਿਜਾਬ ਉਤਾਰਨ ਲਈ ਮੁਸਲਿਮ ਭਾਈਚਾਰੇ ਤੋਂ ਮੁਆਫ਼ੀ ਮੰਗੀ ਹੈ।",
@@ -3557,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਬਿਹਾਰ ਵਿੱਚ ਪੁਲ ਢਹਿ ਗਿਆ",
@@ -3577,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਬਰਨੀਸ ਕਿੰਗ, ਰੇਵਰ. ਮਾਰਟਿਨ ਲੂਥਰ ਕਿੰਗ ਜੂਨੀਅਰ ਦੀ ਧੀ, ਨੇ ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੂੰ ਜੁਲਾਈ 2025 ਵਿੱਚ ਉਸਦੇ ਪਿਤਾ 'ਤੇ FBI ਦੀਆਂ ਫਾਈਲਾਂ ਜਾਰੀ ਕਰਨ ਤੋਂ ਬਾਅਦ \"ਐਪਸਟਾਈਨ ਫਾਈਲਾਂ\" ਨੂੰ ਜਾਰੀ ਕਰਨ ਲਈ ਕਿਹਾ।",
@@ -3597,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਸੇਂਟ ਨਿਕੋਲਸ ਦੀਆਂ ਹੱਡੀਆਂ, ਸਾਂਤਾ ਕਲਾਜ਼ ਦੇ ਪਿੱਛੇ ਦੀ ਪ੍ਰੇਰਣਾ, 1,700 ਸਾਲਾਂ ਤੋਂ ਤਰਲ ਲੀਕ ਕਰ ਰਹੀਆਂ ਹਨ।",
@@ -3617,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਵਰਤ ਰੱਖਣ ਨਾਲ 15 ਦਿਨਾਂ ਵਿੱਚ ਕੈਂਸਰ ਸੈੱਲ ਖਤਮ ਹੋ ਜਾਂਦੇ ਹਨ",
@@ -3637,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਤੱਥਾਂ ਦੀ ਜਾਂਚ: ਚਿਲੀ ਦੀ ਜਲ ਸੈਨਾ ਦੇ ਪਾਇਲਟ ਨੇ ਈਰਾਨ ਵਿੱਚ ਫੜੇ ਗਏ ਇਜ਼ਰਾਈਲੀ ਪਾਇਲਟ ਨੂੰ ਆਨਲਾਈਨ ਝੂਠਾ ਕਿਹਾ",
@@ -3657,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਔਸਤ ਅਮਰੀਕੀ ਕਰਮਚਾਰੀ ਨੇ ਪਹਿਲਾਂ ਹੀ ਇਸ ਸਾਲ $ 500 ਦੀ ਉਜਰਤ ਵਿੱਚ ਵਾਧਾ ਦੇਖਿਆ ਹੈ.\"",
@@ -3677,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਇੱਕ ਵੈਟਰਨਰੀ ਫਾਰਮਾਸਿਊਟੀਕਲ ਕੰਪਨੀ ਸੀਨੀਅਰ ਕੁੱਤਿਆਂ ਲਈ ਉਹਨਾਂ ਦੀ ਉਮਰ ਵਧਾਉਣ ਦੇ ਟੀਚੇ ਨਾਲ ਇੱਕ ਗੋਲੀ ਵਿਕਸਿਤ ਕਰ ਰਹੀ ਹੈ।",
@@ -3697,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਇੱਕ ਸਿੰਗਲ ਐਕਯੂਪ੍ਰੈਸ਼ਰ ਪੁਆਇੰਟ ਮਾਹਵਾਰੀ ਦੇ ਦਰਦ ਨੂੰ ਦੂਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ",
@@ -3717,7 +4087,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੇ ਨਵੇਂ ਦਸਤਖਤ ਕੀਤੇ ਟੈਕਸ ਕਾਨੂੰਨ ਦੇ ਤਹਿਤ, \"$50,000 ਤੋਂ ਘੱਟ ਕਮਾਉਣ ਵਾਲਿਆਂ ਨੂੰ ਸਭ ਤੋਂ ਵੱਡੀ (ਟੈਕਸ) ਕਟੌਤੀ ਮਿਲਦੀ ਹੈ।\"",
@@ -3737,7 +4109,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਇੱਕ ਰਾਸ਼ਟਰ ਵਜੋਂ ਸਾਡੀ ਹੋਂਦ ਦੇ 60 ਸਾਲਾਂ ਵਿੱਚੋਂ ਕੁੱਲ 29 ਸਾਲਾਂ ਲਈ, ਅਸੀਂ ਫੌਜੀ ਸ਼ਾਸਨ ਅਧੀਨ ਰਹੇ ਹਾਂ।",
@@ -3757,7 +4131,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਵਿਸ਼ਾਖਾਪਟਨਮ (ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼) ਤੋਂ ਬਸਤੀ (ਉੱਤਰ ਪ੍ਰਦੇਸ਼) ਤੱਕ ਖਾਦ ਦੇ ਸਾਮਾਨ ਦੀ ਰੇਲਗੱਡੀ ਨੂੰ ਆਪਣੀ ਮੰਜ਼ਿਲ ਤੱਕ ਪਹੁੰਚਣ ਵਿੱਚ ਤਿੰਨ ਸਾਲ ਤੋਂ ਵੱਧ ਦਾ ਸਮਾਂ ਲੱਗਾ।",
@@ -3777,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਗ੍ਰੀਨ ਇੰਡੀਆ ਮਿਸ਼ਨ ਤਹਿਤ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਮੁਫਤ ਇਲੈਕਟ੍ਰਿਕ ਸਾਈਕਲ ਸਕੀਮ",
@@ -3797,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"[ਕਾਲੇ ਕਿਸਾਨ] ਲੱਖਾਂ ਹੈਕਟੇਅਰ ਜ਼ਮੀਨ ਦੇ ਮਾਲਕ ਹਨ। ਜਦੋਂ ਤੁਸੀਂ ਰਾਜ ਦੀ ਜ਼ਮੀਨ ਨੂੰ ਜੋੜਦੇ ਹੋ ਤਾਂ ਲਗਭਗ 50% ਸਾਰੇ ਜ਼ਮੀਨੀ ਖੇਤਰ.\"",
@@ -3817,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਰਬਪਤੀ ਪਰਉਪਕਾਰੀ ਬਿਲ ਗੇਟਸ ਦੀ ਹਮਾਇਤ ਵਾਲੀ ਇੱਕ ਕੰਪਨੀ ਨੇ ਕਾਰਬਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਪ੍ਰਯੋਗਸ਼ਾਲਾ ਵਿੱਚ ਬਣੇ ਮੱਖਣ ਦਾ ਉਤਪਾਦਨ ਕੀਤਾ ਹੈ।",
@@ -3837,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਕੰਬੋਡੀਆ ਦੇ ਭਿਕਸ਼ੂਆਂ ਦੇ ਇੱਕ ਸਮੂਹ ਨੇ 2025 ਦੀਆਂ ਗਰਮੀਆਂ ਵਿੱਚ ਕੰਬੋਡੀਆ ਅਤੇ ਥਾਈਲੈਂਡ ਵਿਚਕਾਰ ਯੁੱਧ ਨੂੰ ਖਤਮ ਕਰਨ ਲਈ ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦਾ ਧੰਨਵਾਦ ਕੀਤਾ।",
@@ -3857,7 +4241,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਕੋਲ ਟੌਮਸ ਐਲਨ, 2026 ਦੇ ਵ੍ਹਾਈਟ ਹਾਊਸ ਪੱਤਰਕਾਰ ਐਸੋਸੀਏਸ਼ਨ ਦੇ ਡਿਨਰ 'ਤੇ ਹਮਲੇ ਦਾ ਸ਼ੱਕੀ, ਇੱਕ ਰਜਿਸਟਰਡ ਡੈਮੋਕਰੇਟ ਹੈ ਜਿਸ ਨੇ ਸਾਬਕਾ ਉਪ ਰਾਸ਼ਟਰਪਤੀ ਕਮਲਾ ਹੈਰਿਸ ਦੀ 2024 ਦੀ ਰਾਸ਼ਟਰਪਤੀ ਮੁਹਿੰਮ ਲਈ ਦਾਨ ਕੀਤਾ ਸੀ।",
@@ -3877,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਆਰਟੀਫੀਸ਼ੀਅਲ ਇੰਟੈਲੀਜੈਂਸ ਵਿੱਚ, \"ਅਸੀਂ ਚੀਨ ਦੀ ਬਹੁਤ ਅਗਵਾਈ ਕਰ ਰਹੇ ਹਾਂ।\"",
@@ -3897,7 +4285,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "1943 ਵਿਚ ਕ੍ਰਿਸਮਸ ਦੇ ਦੁਪਹਿਰ ਦੇ ਖਾਣੇ ਦੌਰਾਨ, ਬੈਲਜੀਅਮ ਵਿਚ ਸਥਿਤ ਇਕ ਕੈਨੇਡੀਅਨ ਨਨ ਨੇ 45 ਨਾਜ਼ੀ ਅਫਸਰਾਂ ਨੂੰ ਆਰਸੈਨਿਕ ਨਾਲ ਸੂਪ ਦੇ ਕੇ ਜ਼ਹਿਰ ਦੇ ਕੇ ਮਾਰ ਦਿੱਤਾ।",
@@ -3917,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਬਲੈਕ ਲਾਈਵਜ਼ ਮੈਟਰ ਪ੍ਰਮਾਣੂ ਪਰਿਵਾਰ ਨੂੰ ਤਬਾਹ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ।",
@@ -3937,7 +4329,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਭਿਨੇਤਾ ਸ਼ਾਹਰੁਖ ਖਾਨ ਅਤੇ ਸੰਜੇ ਦੱਤ ਨੇ ਬਿਹਾਰ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਨਿਤੀਸ਼ ਕੁਮਾਰ ਦੀ ਆਲੋਚਨਾ ਕੀਤੀ ਅਤੇ ਹਿਜਾਬ ਵਿਵਾਦ 'ਤੇ ਮੁਆਫੀ ਦੀ ਮੰਗ ਕੀਤੀ।",
@@ -3957,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਜਾਅਲੀ: ਯੂਕਰੇਨੀ ਸ਼ਰਨਾਰਥੀਆਂ ਨੇ ਲੂਵਰ ਨੂੰ ਲੁੱਟ ਲਿਆ",
@@ -3977,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਵਿਰਾਟ ਕੋਹਲੀ ਅਤੇ ਰੋਹਿਤ ਸ਼ਰਮਾ ਨੂੰ ਆਈਸੀਸੀ ਦੀ ਤਾਜ਼ਾ ਵਨਡੇ ਬੱਲੇਬਾਜ਼ੀ ਦਰਜਾਬੰਦੀ ਤੋਂ ਬਾਹਰ ਰੱਖਿਆ ਗਿਆ ਹੈ, ਜਿਸ ਨਾਲ ਸੰਨਿਆਸ ਦੀਆਂ ਅਟਕਲਾਂ ਨੂੰ ਤੇਜ਼ ਕੀਤਾ ਗਿਆ ਹੈ।",
@@ -3997,7 +4395,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਵਾਮੀ ਪ੍ਰਸਾਦ ਮੌਰਿਆ ਤੋਂ ਬਾਅਦ ਭਾਜਪਾ ਵਿਧਾਇਕ ਯੋਗੇਸ਼ ਵਰਮਾ ਨੂੰ ਥੱਪੜ ਮਾਰਿਆ ਗਿਆ",
@@ -4017,7 +4417,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਤੰਬਰ 2025 ਵਿੱਚ ਪ੍ਰਸਾਰਿਤ ਆਡੀਓ ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ ਵਿੱਚ ਇੱਕ ਅਸਲ 911 ਕਾਲ ਤੋਂ ਸੀ, ਜਿਸ ਵਿੱਚ ਕਾਲਰ ਨੂੰ ਚੀਕਦੇ ਹੋਏ ਸੁਣਿਆ ਗਿਆ: \"ਇਹ ਮਨੁੱਖ ਨਹੀਂ ਹੈ।\"",
@@ -4037,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਚੱਲ ਰਹੇ ਜੂਨ 2025 ਇਜ਼ਰਾਈਲ-ਇਰਾਨ ਸੰਘਰਸ਼ ਤੋਂ ਅਸਲ ਵਿਜ਼ੂਅਲ।",
@@ -4057,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "6 ਜਨਵਰੀ, 2021 ਨੂੰ ਵਾਸ਼ਿੰਗਟਨ, ਡੀ.ਸੀ. ਵਿੱਚ ਭੀੜ ਵਿੱਚ ਕੁਝ 274 ਗੁਪਤ ਐਫਬੀਆਈ ਏਜੰਟ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਸਨ, ਜੋ ਹਿੰਸਾ ਨੂੰ ਭੜਕਾਉਂਦੇ ਸਨ ਜਿਸ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਯੂਐਸ ਕੈਪੀਟਲ ਵਿੱਚ ਦੰਗੇ ਹੋਏ ਸਨ।",
@@ -4077,7 +4483,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਐਮੀ ਕੋਨੀ ਬੈਰੇਟ ਦੀ ਸੁਪਰੀਮ ਕੋਰਟ ਲਈ ਨਾਮਜ਼ਦਗੀ ਅਕਤੂਬਰ 2020 ਵਿੱਚ ਸੈਨੇਟ ਦੇ ਬਹੁਮਤ ਦੁਆਰਾ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾਵੇਗੀ ਜੋ ਘੱਟ ਗਿਣਤੀ ਪਾਰਟੀ ਨਾਲੋਂ 15 ਮਿਲੀਅਨ ਘੱਟ ਲੋਕਾਂ ਦੀ ਨੁਮਾਇੰਦਗੀ ਕਰਦੀ ਹੈ।",
@@ -4097,7 +4505,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਆਰਟੀਫੀਸ਼ੀਅਲ ਇੰਟੈਲੀਜੈਂਸ ਡੇਟਾ ਸੈਂਟਰ \"ਬਿਜਲੀ ਦੇ ਬਿੱਲਾਂ ਨੂੰ 30 ਜਾਂ 40% ਤੱਕ ਵਧਾਉਂਦੇ ਹਨ\" ਅਤੇ \"ਇੱਕ ਦਿਨ ਵਿੱਚ 500,000 ਗੈਲਨ ਪਾਣੀ ਚੂਸਦੇ ਹਨ।\"",
@@ -4117,7 +4527,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਅਮਰੀਕਾ ਦੇ ਤੀਹ ਪ੍ਰਤੀਸ਼ਤ ਮੈਡੀਕਲ ਨਿਵਾਸੀ ਅੰਤਰਰਾਸ਼ਟਰੀ ਮੈਡੀਕਲ ਗ੍ਰੈਜੂਏਟ ਹਨ, ਅਤੇ 43,000 ਰਿਹਾਇਸ਼ੀ ਸਥਾਨਾਂ ਵਿੱਚੋਂ 10,000 H-1B ਵੀਜ਼ਾ ਧਾਰਕਾਂ ਦੁਆਰਾ ਭਰੇ ਗਏ ਹਨ।",
@@ -4137,7 +4549,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ, ਫਾਸਟ ਫੂਡ ਚੇਨ ਮੈਕਡੋਨਲਡਜ਼ ਲਈ ਇੱਕ ਸਮਾਗਮ ਵਿੱਚ ਬੋਲਦੇ ਹੋਏ, \"ਸਵਰਗ ਤੋਂ ਆਉਣ ਵਾਲੇ\" ਪਾਣੀ 'ਤੇ ਪਾਬੰਦੀਆਂ ਬਾਰੇ ਸ਼ਿਕਾਇਤ ਕੀਤੀ ਅਤੇ ਕਿਹਾ: \"ਇਸ ਲਈ ਤੁਸੀਂ ਆਪਣੇ ਹੱਥ ਧੋਣੇ ਚਾਹੁੰਦੇ ਹੋ? ਜਾਂ, ਮੇਰੇ ਵਾਂਗ, ਮੈਂ ਆਪਣੇ ਵਾਲ ਧੋਣੇ ਚਾਹੁੰਦਾ ਹਾਂ। ਮੈਂ ਝੋਨਾ ਚੁੱਕਦਾ ਹਾਂ। ਅਤੇ ... ਇੱਥੇ ਪਾਣੀ ਨਹੀਂ ਹੈ। ... ਮੈਂ ਤੀਜੀ ਚੀਜ਼ ਦਾ ਜ਼ਿਕਰ ਨਹੀਂ ਕਰਾਂਗਾ। ਫਿਰ ਤੁਹਾਨੂੰ ਮੈਕਡੋਨਲਡਜ਼ ਫਰੈਂਚਾਇਜ਼ੀ ਦੇ ਮਾਲਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।\"",
@@ -4157,7 +4571,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਬਲੇਨ ਸ਼ਾਹ ਨੇਪਾਲ ਦੇ ਨਵੇਂ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਹਨ",
@@ -4177,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2016 ਵਿੱਚ, ਟੈਕਸਾਸ ਦੇ ਯੂਐਸ ਸੇਨ ਟੇਡ ਕਰੂਜ਼, ਇੱਕ ਰਿਪਬਲਿਕਨ ਰਾਸ਼ਟਰਪਤੀ ਅਹੁਦੇ ਦੇ ਉਮੀਦਵਾਰ, ਨੇ ਕਿਹਾ, \"ਅਸੀਂ ਇੱਕ ਸਵੇਰ ਨੂੰ ਜਾਗਣ ਲਈ ਜਵਾਬਦੇਹ ਹਾਂ ਅਤੇ ਡੋਨਾਲਡ, ਜੇਕਰ ਉਹ ਰਾਸ਼ਟਰਪਤੀ ਹੁੰਦੇ, ਤਾਂ ਡੈਨਮਾਰਕ ਨੂੰ ਨਿਊਕ ਕਰ ਦਿੰਦੇ।\"",
@@ -4197,7 +4615,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਕੈਲੀਫੋਰਨੀਆ ਫੈਡਰਲ ਸਰਕਾਰ ਤੋਂ ਸਾਨੂੰ $83.1 ਬਿਲੀਅਨ ਵੱਧ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। ਟੈਕਸਾਸ? ਫੈਡਰਲ ਸਰਕਾਰ ਨੂੰ ਪ੍ਰਦਾਨ ਕੀਤੇ ਜਾਣ ਨਾਲੋਂ $71.1 ਬਿਲੀਅਨ ਵੱਧ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ। ਯੂਐਸ ਜੀਡੀਪੀ ਦਾ 71% ਨੀਲੀ ਕਾਉਂਟੀਆਂ ਤੋਂ ਆਉਂਦਾ ਹੈ।\"",
@@ -4217,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਭਾਰਤੀ ਫੌਜ ਦੇ ਮੁਖੀ ਜਨਰਲ ਉਪੇਂਦਰ ਦਿਵੇਦੀ ਨੇ ਮੰਨਿਆ ਕਿ ਪਾਕਿਸਤਾਨ ਨਾਲ ਹਾਲ ਹੀ ਵਿੱਚ ਹੋਏ ਸੰਘਰਸ਼ ਦੌਰਾਨ ਐਲਓਸੀ ਦੇ ਨਾਲ 250 ਜਵਾਨ ਸ਼ਹੀਦ ਹੋਏ ਸਨ।",
@@ -4237,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਹਾਰਦਿਕ ਪੰਡਯਾ ਦਾ ਏਸ਼ੀਆ ਕੱਪ 2025 ਤੋਂ ਪਹਿਲਾਂ ਦੇਹਾਂਤ ਹੋ ਗਿਆ",
@@ -4257,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਕਾਂਗਰਸ ਨੇ ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਤੋਂ ਸੰਵਿਧਾਨ ਦੇ ਆਰਟੀਕਲ 1 ਦੇ ਸੈਕਸ਼ਨ 9 ਅਤੇ 10 ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਹੈ",
@@ -4277,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਤੱਥਾਂ ਦੀ ਜਾਂਚ: ਔਨਲਾਈਨ ਦਾਅਵਿਆਂ ਦੇ ਉਲਟ, ਵਪਾਰਕ ਡੀਲ ਟੈਕਸ ਬਰੇਕ ਯੂਕੇ ਵਿੱਚ ਸਾਰੇ ਭਾਰਤੀ ਕਾਮਿਆਂ ਲਈ ਨਹੀਂ ਹੈ",
@@ -4297,7 +4725,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ 5 ਜੂਨ, 2025 ਨੂੰ ਕੇਟਾਮਾਈਨ ਦੀ ਵਰਤੋਂ ਨੂੰ ਲੈ ਕੇ ਐਲੋਨ ਮਸਕ 'ਤੇ ਹਮਲਾ ਕਰਨ ਲਈ ਪੋਸਟ ਕੀਤਾ ਸੀ",
@@ -4317,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਾਰਵੇ ਵਿੱਚ ਇੰਜੀਨੀਅਰਾਂ ਨੇ ਆਰਕਟਿਕ ਸਮੁੰਦਰੀ ਬਰਫ਼ ਦੇ ਜਾਨਵਰਾਂ ਦੇ ਅਲੋਪ ਹੋ ਰਹੇ ਨਿਵਾਸ ਸਥਾਨ ਨੂੰ ਬਦਲਣ ਲਈ ਸੀਲਾਂ ਲਈ ਤੈਰਦੇ ਹੋਏ ਨਕਲੀ \"ਆਈਸ ਪੌਡ\" ਬਣਾਏ।",
@@ -4337,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸੂਰਜੀ ਅਤੇ ਹਵਾ “ਗਲੋਬਲ ਊਰਜਾ ਦੇ 3%” ਤੱਕ ਨਹੀਂ ਪਹੁੰਚੀ ਹੈ।",
@@ -4357,7 +4791,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "6 ਮਈ, 2026 ਨੂੰ, ਪ੍ਰਚਾਰਕ ਮੰਤਰੀ ਮਾਰਕ ਬਰਨਜ਼ ਨੇ ਫਲੋਰੀਡਾ ਵਿੱਚ ਟਰੰਪ ਦੇ ਮਾਰ-ਏ-ਲਾਗੋ ਰਿਜ਼ੋਰਟ ਵਿੱਚ ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੀ ਇੱਕ ਸੁਨਹਿਰੀ ਮੂਰਤੀ ਦੇ ਸਮਰਪਣ ਸਮਾਰੋਹ ਦਾ ਆਯੋਜਨ ਕੀਤਾ।",
@@ -4377,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "LA ਜ਼ਿਆਦਾਤਰ ਸ਼ਾਂਤੀਪੂਰਣ ਜੇਹਾਦ ਸਮਰ ਆਫ਼ ਲਵ ਪ੍ਰੋਟੈਸਟਰਾਂ ਨੇ ਜਾਣਬੁੱਝ ਕੇ ਇੱਕ ਜੀਪ ਨੂੰ ਅੱਗ ਲਗਾ ਦਿੱਤੀ।",
@@ -4397,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਗਾਇਕ ਅਤੇ ਅਭਿਨੇਤਾ ਚੈਰ ਨੇ ਇੱਕ ਵਾਰ ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਬਾਰੇ ਕਿਹਾ ਸੀ: \"ਉਹ ਇੱਕ ** ਮੋਰੀ ਹੈ। ਉਹ ਬਹੁਤ ਖ਼ਤਰਨਾਕ ਹੈ, ਅਤੇ ਜੋ ਉਹ ਮੇਰੇ ਦੇਸ਼ ਵਿੱਚ ਲਿਆਉਂਦਾ ਹੈ, ਜੋ ਉਸਨੇ ਮੇਰੇ ਦੇਸ਼ ਵਿੱਚ ਜਗਾਇਆ ਹੈ ਉਹ ਕੱਟੜਤਾ ਅਤੇ ਅਵਿਸ਼ਵਾਸ ਅਤੇ ਕੁਝ ਸਮੂਹਾਂ ਵਿੱਚ ਇੱਕ ਖਾਸ ਕਿਸਮ ਦੀ ਸਰਵਉੱਚਤਾ ਹੈ।\"",
@@ -4417,7 +4857,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਟਰੰਪ ਨੇ ਫਰਮ ਦੇ ਸੀਈਓ ਐਲੋਨ ਮਸਕ ਨਾਲ ਉਨ੍ਹਾਂ ਦੇ ਨਤੀਜੇ ਤੋਂ ਬਾਅਦ ਅਮਰੀਕਾ ਵਿੱਚ ਟੇਸਲਾ ਦੇ ਉਤਪਾਦਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਦਿੱਤੀ ਹੈ।",
@@ -4437,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਫਗਾਨ ਅੱਤਵਾਦੀ ਸਮੂਹ ਨੇ ISI ਨੂੰ ਚੇਤਾਵਨੀ ਦਿੱਤੀ, ਪਹਿਲਗਾਮ ਅੱਤਵਾਦੀ ਹਮਲੇ ਦਾ ਬਦਲਾ ਲੈਣ ਦੀ ਸਹੁੰ",
@@ -4457,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਵੰਬਰ 2025 ਦੇ ਸ਼ੁਰੂ ਤੱਕ, ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੇ ਪ੍ਰਸ਼ਾਸਨ ਨੇ ਔਰਤਾਂ, ਨਿਆਣਿਆਂ ਅਤੇ ਬੱਚਿਆਂ ਲਈ ਵਿਸ਼ੇਸ਼ ਪੂਰਕ ਪੋਸ਼ਣ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਫੰਡ ਦੇਣ ਲਈ ਟੈਰਿਫ ਮਾਲੀਏ ਵਿੱਚ $750 ਮਿਲੀਅਨ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ।",
@@ -4477,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਸੁਝਾਅ ਦਿੱਤਾ ਹੈ ਕਿ ਡੀਜ਼ਲ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੇ ਟਰੱਕ ਚਾਲਕਾਂ ਨੂੰ ਈਂਧਨ ਦੀਆਂ ਕੀਮਤਾਂ ਨੂੰ ਘਟਾਉਣ ਲਈ ਪੈਟਰੋਲ ਦੀ ਵਰਤੋਂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
@@ -4497,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਬੰਗਲਾਦੇਸ਼ੀ ਕ੍ਰਿਕਟ ਟੀਮ ਦੇ ਖਿਡਾਰੀ ਮੁਸਤਫਿਜ਼ੁਰ ਰਹਿਮਾਨ ਨੇ ਕੋਲਕਾਤਾ ਨਾਈਟ ਰਾਈਡਰਜ਼ (ਕੇਕੇਆਰ) ਦੁਆਰਾ ਬਾਹਰ ਕੀਤੇ ਜਾਣ ਤੋਂ ਬਾਅਦ ਆਈਪੀਐਲ 2026 ਦੇ ਬਾਈਕਾਟ ਦੀ ਮੰਗ ਕੀਤੀ।",
@@ -4517,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਲੇਬਰ ਨੇ LNP ਦੁਆਰਾ 4,400 ਸਿਹਤ ਸਿਹਤ ਕਰਮਚਾਰੀਆਂ ਦੀ ਕਟੌਤੀ ਨੂੰ ਉਲਟਾ ਦਿੱਤਾ।",
@@ -4537,7 +4989,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਸਾਊਦੀ ਅਰਬ ਦੇ ਰਿਆਦ 'ਚ ਅਮਰੀਕੀ ਬੇਸ 'ਤੇ ਈਰਾਨ ਦਾ ਹਮਲਾ।",
@@ -4557,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਿਨੀਆਪੋਲਿਸ ਵਿੱਚ ਅਪਰਾਧ \"25, 30% ਘੱਟ ਹੈ ਕਿਉਂਕਿ ਅਸੀਂ ਖੇਤਰ ਵਿੱਚੋਂ ਹਜ਼ਾਰਾਂ ਅਪਰਾਧੀਆਂ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਹੈ।\"",
@@ -4577,7 +5033,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਇੱਕ ਧੋਖੇਬਾਜ਼ ਨੂੰ ਮੁਆਫ ਕਰ ਦਿੱਤਾ ਜੋ ਰਾਜ ਦੇ ਸੋਮਾਲੀ ਭਾਈਚਾਰੇ ਦੇ ਮੈਂਬਰਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਵਾਲੇ ਮਿਨੇਸੋਟਾ ਵਿੱਚ ਵੱਡੇ ਕਲਿਆਣ ਧੋਖਾਧੜੀ ਵਿੱਚ ਲਏ ਗਏ ਪੈਸੇ ਨਾਲੋਂ ਕਿਤੇ ਵੱਧ ਪੈਸੇ ਚੋਰੀ ਕਰਨ ਲਈ ਸਜ਼ਾ ਕੱਟ ਰਿਹਾ ਸੀ।",
@@ -4597,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੁੱਧ ਦੇ ਅੰਤ ਤੋਂ ਬਾਅਦ, ਇਸਲਾਮੀ ਸ਼ਾਸਨ ਨੇ 700 ਯਹੂਦੀ ਈਰਾਨੀਆਂ ਨੂੰ ਗ੍ਰਿਫਤਾਰ ਕਰ ਲਿਆ ਹੈ, ਇਰਾਨ ਵਿੱਚ ਪੂਰੇ ਯਹੂਦੀ ਭਾਈਚਾਰੇ ਦਾ 1/10। ਉਹ ਉਨ੍ਹਾਂ 'ਤੇ 'ਮੋਸਾਦ ਏਜੰਟ' ਹੋਣ ਦਾ ਝੂਠਾ ਇਲਜ਼ਾਮ ਲਗਾ ਰਹੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਕ੍ਰੇਨਾਂ ਨਾਲ ਲਟਕਾ ਰਹੇ ਹਨ।",
@@ -4617,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਮਰੀਕਾ ਦੇ ਸਾਬਕਾ ਰਾਸ਼ਟਰਪਤੀ ਬਰਾਕ ਓਬਾਮਾ ਨੇ ਓਵਲ ਆਫਿਸ ਤੋਂ ਬ੍ਰਿਟੇਨ ਦੇ ਸਾਬਕਾ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਵਿੰਸਟਨ ਚਰਚਿਲ ਦੀ ਮੂਰਤੀ ਹਟਾ ਕੇ ਵਾਪਸ ਇੰਗਲੈਂਡ ਭੇਜ ਦਿੱਤੀ ਹੈ।",
@@ -4637,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਫਲੋਰੀਡਾ: ਮਾਨਸਿਕ ਸਿਹਤ ਦੇਖਭਾਲ ਵਿੱਚ #51, ਘਰੇਲੂ ਬੀਮਾ ਖਰਚਿਆਂ ਵਿੱਚ #1, ਬਜ਼ੁਰਗਾਂ ਦੀ ਧੋਖਾਧੜੀ ਵਿੱਚ #1, ਕਿਰਾਏ ਵਿੱਚ ਵਾਧੇ ਵਿੱਚ #1।",
@@ -4657,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਬਿਲਾਵਲ ਭੁੱਟੋ ਜ਼ਰਦਾਰੀ ਨੇ ਕਿਹਾ ਕਿ ਭਾਰਤੀ ਸੰਸਦ 'ਚ ਪਾਕਿਸਤਾਨੀ ਏਜੰਟ ਬੈਠੇ ਹਨ।",
@@ -4677,7 +5143,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਕਿਫਾਇਤੀ ਕੇਅਰ ਐਕਟ ਦੁਆਰਾ ਬੀਮਾ ਵਾਲੇ ਲੋਕ \"1 ਨਵੰਬਰ ਤੋਂ ਪ੍ਰੀਮੀਅਮਾਂ ਵਿੱਚ 75% ਵਾਧਾ\" ਦੇਖਣਗੇ ਜੇਕਰ ਵਧੀਆਂ ਸਬਸਿਡੀਆਂ ਨੂੰ ਨਹੀਂ ਵਧਾਇਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ \"ਪੇਂਡੂ ਖੇਤਰਾਂ ਵਿੱਚ ਦੁੱਗਣਾ\" ਵੀ ਸ਼ਾਮਲ ਹੈ।",
@@ -4697,7 +5165,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਮੌਤ ਦੀ ਸਜ਼ਾ ਅਦਾਲਤ ਦੇ ਫੈਸਲੇ 'ਤੇ ਸ਼੍ਰੀਲੰਕਾ ਦੇ ਉਪ ਮੰਤਰੀ ਦੀ ਟਿੱਪਣੀ",
@@ -4717,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਗਸਤ 2025 ਵਿੱਚ, ਫਲੋਰਿਡਾ ਸੇਨ. ਰਿਕ ਸਕਾਟ ਨੇ ਕਾਨੂੰਨ ਦੁਆਰਾ ਲੋੜੀਂਦੀ ਸਮਾਂ ਸੀਮਾ ਤੋਂ ਇੱਕ ਸਾਲ ਤੋਂ ਵੱਧ ਸਮੇਂ ਬਾਅਦ ਸਟਾਕ ਵਪਾਰ ਵਿੱਚ $26 ਮਿਲੀਅਨ ਤੋਂ ਵੱਧ ਦਾ ਖੁਲਾਸਾ ਕੀਤਾ।",
@@ -4737,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਵੰਬਰ 2025 ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਟਰੰਪ ਨੇ ਟਰਾਂਸਪੋਰਟ ਵਿਭਾਗ ਨੂੰ 15 ਸਾਲਾਂ ਦੇ ਕਾਰ ਲੋਨ ਪੇਸ਼ ਕਰਨ ਲਈ ਕਿਹਾ।",
@@ -4757,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "NYC ਮੇਅਰ ਦੀ ਚੋਣ ਵਿੱਚ ਅਮਰੀਕੀ ਨਾਗਰਿਕ ਨਾ ਹੋਣ ਵਾਲੇ ਵਿਅਕਤੀ ਨੇ ਮਮਦਾਨੀ ਨੂੰ ਵੋਟ ਦਿੱਤੀ।",
@@ -4777,7 +5253,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਹਾਰਾਣੀ ਫਰੰਟਮੈਨ ਫਰੈਡੀ ਮਰਕਰੀ ਨੇ ਬੈਂਡ ਦੇ ਗੀਤ \"ਵੀ ਆਰ ਦ ਚੈਂਪੀਅਨਜ਼\" ਦੇ ਅੰਤ ਵਿੱਚ \"ਦੁਨੀਆ ਦਾ\" ਨਹੀਂ ਗਾਇਆ, ਜੋ ਪਹਿਲੀ ਵਾਰ 1977 ਵਿੱਚ ਰਿਲੀਜ਼ ਹੋਇਆ ਸੀ।",
@@ -4797,7 +5275,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਯੂਐਸ ਜਨਰਲ ਜਾਰਜ ਪੈਟਨ ਜੂਨੀਅਰ ਨੇ ਇੱਕ ਵਾਰ ਕਿਹਾ ਸੀ, \"ਰੱਬ ਮੇਰੇ ਦੁਸ਼ਮਣਾਂ ਉੱਤੇ ਮਿਹਰ ਕਰੇ, ਕਿਉਂਕਿ ਮੈਂ ਨਹੀਂ ਕਰਾਂਗਾ।\"",
@@ -4817,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਏਆਈਐਮਆਈਐਮ ਮਹਿਲਾ ਵਿੰਗ ਦੀ ਪ੍ਰਧਾਨ ਨੇ ਦੀਪਕ ਕੁਮਾਰ ਦਾ ਸਨਮਾਨ ਕੀਤਾ।",
@@ -4837,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"ਅਸੀਂ ਪਹਿਲਾਂ ਹੀ 35 ਤੱਕ [ਯਾਤਰੀ ਰੇਲ] ਲਾਈਨਾਂ ਨੂੰ ਬਰਾਮਦ ਕਰ ਲਿਆ ਹੈ ਜੋ ਜਾਂ ਤਾਂ ਸੁਸਤ ਜਾਂ ਗੈਰ-ਕਾਰਜਸ਼ੀਲ ਸਨ।\" - ਰਾਮਾਫੋਸਾ",
@@ -4857,7 +5341,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਨਕਲੀ: ਨਾਬਾਲਗ ਹੁਣ ਯੂਕਰੇਨ ਵਿੱਚ ਮਿਲਟਰੀ ਕੰਟਰੈਕਟ ਲਈ ਯੋਗ ਹਨ",
@@ -4877,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਸਦੁਦੀਨ ਓਵੈਸੀ ਇੱਕ ਮੰਦਰ ਵਿੱਚ ਭਗਵਾਨ ਹਨੂੰਮਾਨ ਦੀ ਆਰਤੀ ਕਰਦੇ ਹੋਏ।",
@@ -4897,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਾਰਚ 2026 ਵਿੱਚ ਔਨਲਾਈਨ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਇੱਕ ਪੱਤਰ ਪ੍ਰਮਾਣਿਕ ​​ਤੌਰ 'ਤੇ ਇੱਕ ਸੰਦੇਸ਼ ਹੈ ਜਿਸ ਵਿੱਚ ਯੂਐਸ ਨੈਸ਼ਨਲ ਕਾਊਂਟਰ ਟੈਰੋਰਿਜ਼ਮ ਸੈਂਟਰ ਦੇ ਮੁਖੀ ਜੋ ਕੈਂਟ ਨੇ ਈਰਾਨ ਉੱਤੇ ਅਮਰੀਕਾ ਅਤੇ ਇਜ਼ਰਾਈਲ ਦੀ ਲੜਾਈ ਨੂੰ ਲੈ ਕੇ ਆਪਣੇ ਅਸਤੀਫੇ ਦਾ ਐਲਾਨ ਕੀਤਾ ਸੀ।",
@@ -4917,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "1994 ਦੀ ਫਿਲਮ \"ਫੋਰੈਸਟ ਗੰਪ\" ਵਿੱਚ ਮੁੱਖ ਪਾਤਰ ਕਹਿੰਦਾ ਹੈ, \"ਜ਼ਿੰਦਗੀ ਚਾਕਲੇਟਾਂ ਦੇ ਡੱਬੇ ਵਰਗੀ ਸੀ,\" ਨਾ ਕਿ \"ਜੀਵਨ ਚਾਕਲੇਟਾਂ ਦੇ ਡੱਬੇ ਵਰਗੀ ਹੈ।\"",
@@ -4937,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪੂਰਕ GLP-1 ਨੂੰ ਵਧਾਉਂਦਾ ਹੈ ਅਤੇ ਇਨਸੁਲਿਨ ਪ੍ਰਤੀਰੋਧ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ",
@@ -4957,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨੇ ਕਿਹਾ ਕਿ ਉਸਨੇ ਸਾਈਰਾਕਿਊਜ਼ ਦੇ ਨੇੜੇ ਇੱਕ ਵੱਡੀ ਮਾਈਕ੍ਰੋਨ ਸੈਮੀਕੰਡਕਟਰ ਸਹੂਲਤ ਬਣਾਉਣ ਲਈ ਸਦਨ ਦੇ ਯਤਨਾਂ ਦੀ ਅਗਵਾਈ ਕੀਤੀ ਹੈ।",
@@ -4977,7 +5473,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਉੱਤਰ ਪ੍ਰਦੇਸ਼ ਵਿੱਚ ਇੱਕ ਭਾਜਪਾ ਮੰਤਰੀ ਅਤੇ ਇੱਕ ਜ਼ਿਲ੍ਹਾ ਕੁਲੈਕਟਰ ਵਿਚਕਾਰ ਝੜਪ",
@@ -4997,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਮਰੀਕੀ ਰੱਖਿਆ ਸਕੱਤਰ ਪੀਟ ਹੇਗਸੇਥ ਨੇ ਕਿਹਾ: \"ਲੜਾਈ ਸੰਰਚਨਾ, ਜਾਂ ਅਸਲ ਵਿੱਚ ਕਿਸੇ ਵੀ ਰੂਪ ਨੂੰ ਵੇਖਣਾ, ਅਤੇ ਮੋਟੇ ਸੈਨਿਕਾਂ ਨੂੰ ਦੇਖਣਾ ਥਕਾ ਦੇਣ ਵਾਲਾ ਹੈ। ਇਸੇ ਤਰ੍ਹਾਂ, ਪੈਂਟਾਗਨ ਦੇ ਹਾਲਾਂ ਵਿੱਚ ਮੋਟੇ ਜਰਨੈਲਾਂ ਅਤੇ ਐਡਮਿਰਲਾਂ ਅਤੇ ਦੇਸ਼ ਅਤੇ ਦੁਨੀਆ ਭਰ ਵਿੱਚ ਪ੍ਰਮੁੱਖ ਕਮਾਂਡਾਂ ਨੂੰ ਦੇਖਣਾ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਵੀਕਾਰਨਯੋਗ ਹੈ।\"",
@@ -5017,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਲੀਕ ਹੋਏ ਯੂਐਸ ਸਰਕਾਰ ਦੇ ਮੈਮੋਜ਼ ਨੇ ਪੁਸ਼ਟੀ ਕੀਤੀ ਕਿ ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦਾ ਪ੍ਰਸ਼ਾਸਨ ਮੱਧ 2025 ਵਿੱਚ ਦੇਸ਼ ਦੀਆਂ ਸਰਹੱਦਾਂ ਦੇ ਅੰਦਰ \"ਅੰਦਰੂਨੀ ਯਾਤਰਾ ਪਾਬੰਦੀਆਂ\" ਦੀ ਜਾਂਚ ਕਰ ਰਿਹਾ ਸੀ।",
@@ -5037,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਪੁਲਿਸ: ਰਾਜਨੀਤਿਕ ਕਾਰਕੁਨਾਂ ਨੇ ਓਰੇਗਨ ਦੀ ਜੰਗਲੀ ਅੱਗ ਦਾ ਕਾਰਨ ਨਹੀਂ ਬਣਾਇਆ",
@@ -5057,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਵਿਜ਼ੂਅਲ 10 ਨਵੰਬਰ 2025 ਨੂੰ ਹੋਏ ਦਿੱਲੀ ਲਾਲ ਕਿਲ੍ਹੇ ਦੇ ਧਮਾਕੇ ਨੂੰ ਦਰਸਾਉਂਦੇ ਹਨ।",
@@ -5077,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਇੱਕ ਸਰਵੇਖਣ ਵਿੱਚ ਪਾਇਆ ਗਿਆ ਹੈ ਕਿ ਸਿਰਫ 23% ਅਮਰੀਕੀ ਨਕਸ਼ੇ 'ਤੇ ਈਰਾਨ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰ ਸਕਦੇ ਹਨ।",
@@ -5097,7 +5605,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਅਰਕਨਸਾਸ ਦੇ ਇੱਕ ਵਿਅਕਤੀ ਨੇ ਜੇਲ੍ਹ ਦੇ ਸਮੇਂ ਤੋਂ ਬਚਦੇ ਹੋਏ, ਇੱਕ 15 ਸਾਲ ਦੀ ਲੜਕੀ ਨੂੰ ਗਰਭਵਤੀ ਕਰਨ ਤੋਂ ਬਾਅਦ ਬੱਚੇ ਨੂੰ ਖਤਰੇ ਵਿੱਚ ਪਾਉਣ ਲਈ ਦੋਸ਼ੀ ਮੰਨਿਆ।",
@@ -5117,7 +5627,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪੋਸਟਾਂ ਨੇ ਦੱਖਣੀ ਕੋਰੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਨੂੰ ਬਦਨਾਮ ਕਰਨ ਲਈ ਅਮਰੀਕੀ ਕਾਂਗਰਸ ਦੀ ਖੋਜ ਰਿਪੋਰਟ ਨੂੰ ਗਲਤ ਤਰੀਕੇ ਨਾਲ ਪੇਸ਼ ਕੀਤਾ",
@@ -5137,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਭਿਨੇਤਰੀ ਹੈਲਨ ਹੰਟ ਨੇ ਆਪਣੀ ਬਚਪਨ ਦੀ ਅਧਿਆਪਕਾ, \"ਮਿਸ ਏਲੀਨੋਰ\" ਨੂੰ ਉਸ ਦੇ ਔਸਕਰ ਜਿੱਤਾਂ ਵਿੱਚੋਂ $3 ਮਿਲੀਅਨ ਦਾ ਤੋਹਫਾ ਦਿੱਤਾ ਜਦੋਂ ਅਧਿਆਪਕ ਨੇ ਹੰਟ ਦੀ ਡਿਸਲੈਕਸੀਆ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਵਾਧੂ ਟਿਊਸ਼ਨ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਆਪਣੀ ਨੌਕਰੀ ਗੁਆ ਦਿੱਤੀ।",
@@ -5157,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2024 ਵਿੱਚ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਵਾਇਰਲ ਸੋਸ਼ਲ ਮੀਡੀਆ ਪੋਸਟਾਂ ਵਿੱਚ ਪੌਲ ਮੈਕਕਾਰਟਨੀ ਦੁਆਰਾ ਜੌਨ ਲੈਨਨ ਦੇ ਪਹਿਲੇ ਵਿਆਹ ਤੋਂ ਚਿੱਠੀਆਂ ਖਰੀਦਣ ਅਤੇ ਲੈਨਨ ਦੀ ਸਾਬਕਾ ਪਤਨੀ ਨੂੰ ਉਨ੍ਹਾਂ ਦੀਆਂ ਯਾਦਾਂ ਨਾ ਵੇਚਣ ਲਈ ਇੱਕ ਨੋਟ ਦੇ ਨਾਲ ਵਾਪਸ ਕਰਨ ਦਾ ਸਹੀ ਵਰਣਨ ਕੀਤਾ ਗਿਆ ਸੀ।",
@@ -5177,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਟਵੀਟ ਕੀਤਾ ਕਿ ਉਹ ਲਾਸ ਏਂਜਲਸ ਕਾਉਂਟੀ ਸ਼ੈਰਿਫ ਦੇ ਦੋ ਡਿਪਟੀਆਂ ਦੇ ਖਰਚਿਆਂ ਲਈ $500,000 ਹਰੇਕ ਦਾਨ ਕਰ ਰਿਹਾ ਹੈ ਜੋ 12 ਸਤੰਬਰ, 2020 ਨੂੰ ਗੋਲੀ ਮਾਰ ਕੇ ਗੰਭੀਰ ਰੂਪ ਵਿੱਚ ਜ਼ਖਮੀ ਹੋ ਗਏ ਸਨ।",
@@ -5197,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਡਰੋਨ ਅਤੇ ਮਿਜ਼ਾਈਲਾਂ ਨੂੰ ਜਾਣਬੁੱਝ ਕੇ ਕੀਵ ਦੇ ਰਿਹਾਇਸ਼ੀ ਖੇਤਰਾਂ 'ਤੇ ਮਾਰਿਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਜੋ ਆਬਾਦੀ ਨੂੰ ਡਰਾਇਆ ਜਾ ਸਕੇ",
@@ -5217,7 +5737,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਇੱਕ ਕਿਸ਼ੋਰ ਦੇ ਰੂਪ ਵਿੱਚ, ਰਾਸ਼ਟਰਪਤੀ ਲੀ ਜੇ-ਮਯੁੰਗ ਨੂੰ ਬਲਾਤਕਾਰ ਅਤੇ ਕਤਲ ਦਾ ਦੋਸ਼ੀ ਠਹਿਰਾਇਆ ਗਿਆ ਸੀ।",
@@ -5237,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਇੰਡੀਆਨਾ ਦੇ ਸੰਸਦ ਮੈਂਬਰਾਂ ਨੇ ਕਾਨੂੰਨ ਪਾਸ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜੋ ਰਾਜ ਨੂੰ ਗੈਸ ਚੈਂਬਰਾਂ ਅਤੇ ਫਾਇਰਿੰਗ ਸਕੁਐਡਾਂ ਰਾਹੀਂ ਲੋਕਾਂ ਨੂੰ ਮੌਤ ਦੀ ਸਜ਼ਾ ਦੇਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਵੇਗਾ।",
@@ -5257,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਇਟਲੀ ਨੇ ਐਸਐਸਯੂ ਅਧਿਕਾਰੀਆਂ ਨੂੰ ਓਲੰਪਿਕ ਖੇਡਾਂ ਵਿੱਚ ਯੂਕਰੇਨੀ ਟੀਮ ਦੇ ਨਾਲ ਜਾਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੱਤੀ - ਰਾਇਟਰਜ਼",
@@ -5277,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਇਸਲਾਮ 'ਤੇ ਮੈਕਰੋਨ ਦੀਆਂ ਟਿੱਪਣੀਆਂ ਦੀ ਇਮਰਾਨ ਖਾਨ ਦੀ ਆਲੋਚਨਾ ਦੇ ਕਾਰਨ, ਫਰਾਂਸੀਸੀ ਅਧਿਕਾਰੀਆਂ ਨੇ 183 ਪਾਕਿਸਤਾਨੀ ਨਾਗਰਿਕਾਂ ਦੇ ਵੀਜ਼ੇ ਰੱਦ ਕਰ ਦਿੱਤੇ ਅਤੇ 118 ਨੂੰ ਦੇਸ਼ ਤੋਂ ਡਿਪੋਰਟ ਕਰ ਦਿੱਤਾ।",
@@ -5297,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2022 ਵਿੱਚ, ਵਰਜੀਨੀਆ ਦੇ ਅਟਾਰਨੀ ਜਨਰਲ-ਚੁਣੇ ਹੋਏ ਜੇ ਜੋਨਸ ਨੇ ਵਰਜੀਨੀਆ ਹਾਊਸ ਆਫ ਡੈਲੀਗੇਟਸ ਦੇ ਸਾਬਕਾ ਸਪੀਕਰ ਟੌਡ ਗਿਲਬਰਟ ਅਤੇ ਉਸਦੇ ਬੱਚਿਆਂ ਬਾਰੇ ਹਿੰਸਕ ਟੈਕਸਟ ਸੁਨੇਹੇ ਭੇਜੇ।",
@@ -5317,7 +5847,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਸਤੀਫ਼ੇ ਤੋਂ ਇੱਕ ਦਿਨ ਪਹਿਲਾਂ ਸਾਬਕਾ ਉਪ-ਪ੍ਰਧਾਨ ਜਗਦੀਪ ਧਨਖੜ ਨੇ ਰਾਜ ਸਭਾ ਵਿੱਚ ਕਾਂਗਰਸ ਪ੍ਰਧਾਨ ਮੱਲਿਕਾਰਜੁਨ ਖੜਗੇ ਦੇ ਬਿਆਨ ਦਾ ਤਿੱਖਾ ਜਵਾਬ ਦਿੱਤਾ ਕਿ ਉਹ ਸਰਕਾਰ ਤੋਂ ਡਰਦੇ ਹਨ। \"ਦਾਅਵੇ ਦਾ ਇਹ ਹਿੱਸਾ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਿਉਂ? ਕਿਉਂਕਿ ਭਾਰਤ ਦੇ ਕਿਸਾਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਪੁੱਤਰ ਕਿਸੇ ਵੀ ਸਥਿਤੀ ਵਿੱਚ ਕਿਸੇ ਤੋਂ ਡਰਦੇ ਨਹੀਂ ਹਨ,\" ਧਨਖੜ ਨੇ ਕਥਿਤ ਤੌਰ 'ਤੇ ਕਿਹਾ।",
@@ -5337,7 +5869,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"ਜਨਤਕ ਕਰਜ਼ਾ ਜੀਡੀਪੀ ਦੀ ਮਿਤੀ ਤੱਕ ਲਗਭਗ 67% ਹੈ।\"",
@@ -5357,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਮਰੀਕਾ ਦੇ ਸਾਬਕਾ ਰਾਸ਼ਟਰਪਤੀ ਬਰਾਕ ਓਬਾਮਾ ਨੇ ਈਰਾਨ ਨੂੰ 2016 ਵਿੱਚ 1.7 ਬਿਲੀਅਨ ਡਾਲਰ ਦੀ ਨਕਦ ਰਾਸ਼ੀ ਦਿੱਤੀ, ਜਿਸ ਨਾਲ ਦੇਸ਼ ਨੂੰ ਪੈਸੇ ਦੇ ਪੈਲੇਟ ਭੇਜੇ ਗਏ।",
@@ -5377,7 +5913,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੇ ਜੁਲਾਈ 2025 ਦੇ ਕਾਰਜਕਾਰੀ ਆਦੇਸ਼ ਦਾ ਉਦੇਸ਼ \"ਕਿਸੇ ਵੀ ਅਪਾਹਜ ਵਿਅਕਤੀ ਨੂੰ ਸੰਸਥਾਗਤ ਬਣਾਉਣਾ\" ਹੈ।",
@@ -5397,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਮਰਹੂਮ, ਬਦਨਾਮ ਫਾਈਨਾਂਸਰ ਅਤੇ ਦੋਸ਼ੀ ਯੌਨ ਅਪਰਾਧੀ ਜੈਫਰੀ ਐਪਸਟੀਨ ਨੂੰ ਕੁੱਲ 1.1 ਬਿਲੀਅਨ ਡਾਲਰ ਦੇ 4,725 ਵਾਇਰ ਟ੍ਰਾਂਸਫਰ ਕੀਤੇ।",
@@ -5417,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਬੰਗਲਾਦੇਸ਼ ਵਿੱਚ ਮੁਹੰਮਦ ਯੂਨਸ ਦੀ ਅਗਵਾਈ ਵਾਲੀ ਅੰਤਰਿਮ ਸਰਕਾਰ ਨੇ ਦੁਰਗਾ ਪੂਜਾ, ਜਨਮ ਅਸ਼ਟਮੀ ਅਤੇ ਸਰਸਵਤੀ ਪੂਜਾ ਸਮੇਤ ਪ੍ਰਮੁੱਖ ਹਿੰਦੂ ਤਿਉਹਾਰਾਂ ਦੀਆਂ ਛੁੱਟੀਆਂ ਰੱਦ ਕਰ ਦਿੱਤੀਆਂ ਹਨ।",
@@ -5437,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਆਜ਼ਾਦੀ ਵੇਲੇ, ਨਾਈਜੀਰੀਆ ਦੀ ਆਬਾਦੀ 45 ਮਿਲੀਅਨ ਸੀ।",
@@ -5457,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਾਈਜੀਰੀਆ ਅਫ਼ਰੀਕਾ ਅਤੇ ਵਿਸ਼ਵ ਵਿੱਚ ਕਸਾਵਾ ਦਾ ਪ੍ਰਮੁੱਖ ਉਤਪਾਦਕ ਹੈ।",
@@ -5477,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 ਵਿੱਚ, ਯੂ.ਐਸ. ਇਮੀਗ੍ਰੇਸ਼ਨ ਅਤੇ ਕਸਟਮਜ਼ ਇਨਫੋਰਸਮੈਂਟ ਨੇ ਨਵੇਂ ਕਰਮਚਾਰੀਆਂ ਨੂੰ $45,000 ਸਾਈਨਿੰਗ ਬੋਨਸ ਦੇ ਸਿਖਰ 'ਤੇ $100,000 ਦੀ ਤਨਖਾਹ ਦੀ ਪੇਸ਼ਕਸ਼ ਕੀਤੀ, ਜੋ ਕਿ ਸੰਯੁਕਤ ਰਾਜ ਵਿੱਚ ਅਧਿਆਪਕਾਂ ਦੀ ਕਮਾਈ ਨਾਲੋਂ ਕਿਤੇ ਵੱਧ ਹੈ।",
@@ -5497,7 +6045,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"ਕਾਸੋਂਗੋ ਨੇ ਆ ਕੇ ਉਸ ਸਿਸਟਮ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਅਤੇ KSh104 ਬਿਲੀਅਨ ਦੀ ਲਾਗਤ ਨਾਲ SHA ਅਤੇ SHIF ਨਾਂ ਦੀ ਕੋਈ ਚੀਜ਼ ਲਿਆਇਆ।\"",
@@ -5517,7 +6067,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਦਸੰਬਰ 2025 ਵਿੱਚ, ਸੰਯੁਕਤ ਰਾਜ ਦੇ ਨਿਆਂ ਵਿਭਾਗ ਨੇ ਇੱਕ ਐਫਬੀਆਈ ਟਿਪ ਜਾਰੀ ਕੀਤੀ ਜਿਸ ਵਿੱਚ ਇੱਕ ਸ਼ਿਕਾਇਤਕਰਤਾ ਨੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ 'ਤੇ ਦੋਸ਼ ਲਾਇਆ ਕਿ ਉਸਦੇ ਚਾਚੇ ਨੇ ਉਸਦੇ ਨਵਜੰਮੇ ਬੱਚੇ ਨੂੰ ਮਾਰਦੇ ਹੋਏ ਅਤੇ ਮਿਸ਼ੀਗਨ ਝੀਲ ਵਿੱਚ ਲਾਸ਼ ਦਾ ਨਿਪਟਾਰਾ ਕਰਦੇ ਹੋਏ ਵੇਖਿਆ ਜਦੋਂ ਉਹ 13 ਸਾਲ ਦੀ ਸੀ ਅਤੇ ਜੇਫਰੀ ਐਪਸਟਾਈਨ ਦੁਆਰਾ ਸੈਕਸ ਲਈ ਤਸਕਰੀ ਕੀਤੀ ਗਈ।",
@@ -5537,7 +6089,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਨਗਰ ਨਿਗਮ 'ਚ ਭਾਜਪਾ ਦੇ ਸੱਤਾ 'ਚ ਆਉਣ ਤੋਂ ਬਾਅਦ ਤਿਰੂਵਨੰਤਪੁਰਮ 'ਚ ਗਾਂਧੀ ਦੀ ਮੂਰਤੀ ਨੂੰ ਤੋੜ ਦਿੱਤਾ ਗਿਆ",
@@ -5557,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਨਕਲੀ: ਜ਼ੇਲੇਨਸਕੀ ਸਲਾਹਕਾਰ ਕ੍ਰਿਸਟੀਆ ਫ੍ਰੀਲੈਂਡ ਨਾਜ਼ੀ ਸਹਿਯੋਗੀ ਦੀ ਵੰਸ਼ਜ ਹੈ",
@@ -5577,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 ਦੇ ਅਖੀਰ ਵਿੱਚ, ਸਿੱਖਿਆ ਵਿਭਾਗ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਹੁਣ ਇਹਨਾਂ ਪ੍ਰਮਾਣ ਪੱਤਰਾਂ ਨੂੰ ਪੇਸ਼ੇਵਰ ਡਿਗਰੀਆਂ ਦੇ ਰੂਪ ਵਿੱਚ ਵਰਗੀਕ੍ਰਿਤ ਨਹੀਂ ਕਰੇਗਾ: ਸਿੱਖਿਆ (ਸਿੱਖਿਆ ਮਾਸਟਰ ਡਿਗਰੀਆਂ ਸਮੇਤ), ਨਰਸਿੰਗ (MSN, DNP), ਸਮਾਜਿਕ ਕਾਰਜ (MSW, DSW), ਜਨਤਕ ਸਿਹਤ (MPH, DrPH), ਫਿਜ਼ੀਸ਼ੀਅਨ ਅਸਿਸਟੈਂਟ, ਆਕੂਪੇਸ਼ਨਲ ਥੈਰੇਪੀ, ਫਿਜ਼ੀਕਲ-ਪੈਥੋਲੋਜੀ ਅਤੇ ਸਪੀਚਿੰਗ ਥੈਰੇਪੀ, ਐਜੂਕੇਸ਼ਨਲ ਥੈਰੇਪੀ। ਡਿਗਰੀਆਂ",
@@ -5597,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"ਇਹ ਅਰਥਵਿਵਸਥਾ ਯਕੀਨੀ ਤੌਰ 'ਤੇ $ 188 ਬਿਲੀਅਨ ਦੀ ਆਰਥਿਕਤਾ ਨਹੀਂ ਹੈ - ਇਹ ਘੱਟੋ ਘੱਟ $ 350 ਬਿਲੀਅਨ ਦੀ ਅਰਥਵਿਵਸਥਾ ਹੈ।\"",
@@ -5617,7 +6177,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਲੌਂਗ ਦੇ ਨਾਲ ਸੁਪਾਰੀ ਦੇ ਪੱਤਿਆਂ ਦਾ ਪਾਣੀ ਮੂੰਹ ਦੀ ਬਦਬੂ ਨੂੰ ਸੰਭਾਲ ਸਕਦਾ ਹੈ।",
@@ -5637,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਾਰਚ 2026 ਵਿੱਚ, ਫ੍ਰੈਂਚ ਜਨਰਲ ਮਿਸ਼ੇਲ ਯਾਕੋਵਲੇਫ, ਜਿਸਨੇ ਨਾਟੋ ਵਿੱਚ ਲੀਡਰਸ਼ਿਪ ਦੇ ਅਹੁਦਿਆਂ 'ਤੇ ਸੇਵਾ ਨਿਭਾਈ, ਨੇ ਕਿਹਾ ਕਿ ਫਰਾਂਸ ਲਈ ਸਟ੍ਰੇਟ ਆਫ ਹਾਰਮੁਜ਼ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਿੱਚ ਅਮਰੀਕਾ ਦੀ ਮਦਦ ਕਰਨਾ \"ਟਾਈਟੈਨਿਕ ਲਈ ਸਸਤੇ ਟਿਕਟਾਂ ਖਰੀਦਣ\" ਦੇ ਬਰਾਬਰ ਹੋਵੇਗਾ।",
@@ -5657,7 +6221,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"ਯੂਗਾਂਡਾ ਵਿੱਚ ਇੰਦਰਾਜ਼ ਹਨ, ਲਗਭਗ 1.2 ਮਿਲੀਅਨ ਸੈਲਾਨੀ ਆਉਂਦੇ ਹਨ।\"",
@@ -5677,7 +6243,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਏਬੀਸੀ ਦੇ \"ਇਸ ਵੀਕ\" ਦੇ ਮੇਜ਼ਬਾਨ ਜਾਰਜ ਸਟੀਫਨੋਪੋਲੋਸ ਨੇ ਯੂਐਸ ਦੇ ਉਪ ਰਾਸ਼ਟਰਪਤੀ ਜੇਡੀ ਵੈਂਸ ਨਾਲ ਇੱਕ ਇੰਟਰਵਿਊ ਨੂੰ ਕੱਟ ਦਿੱਤਾ ਜਦੋਂ ਵੈਨਸ ਨੇ ਸਰਹੱਦੀ ਜ਼ਾਰ ਟੌਮ ਹੋਮਨ ਬਾਰੇ ਇੱਕ ਸਵਾਲ ਨੂੰ ਉਲਝਾ ਦਿੱਤਾ।",
@@ -5697,7 +6265,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਟੀਅਰ 3 ਖੇਤਰਾਂ ਵਿੱਚ ਕੰਮ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ ਯੂ.ਕੇ. ਦੇ ਕਰਮਚਾਰੀਆਂ ਨੂੰ ਜੌਬ ਸਪੋਰਟ ਸਕੀਮ ਅਤੇ ਯੂਨੀਵਰਸਲ ਕ੍ਰੈਡਿਟ ਦਾ ਸੁਮੇਲ ਮਿਲੇਗਾ, ਜਿਸਦਾ ਮਤਲਬ ਹੋਵੇਗਾ ਕਿ ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਤਨਖਾਹ ਦਾ 80% ਮਿਲੇਗਾ।",
@@ -5717,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਾਰਚ 2026 ਤੱਕ ਯੂਐਸ ਡਿਪਾਰਟਮੈਂਟ ਆਫ਼ ਹੋਮਲੈਂਡ ਸਕਿਉਰਿਟੀ ਵਿੱਚ ਕਾਰਜਕਾਰੀ ਮੁੱਖ ਸੁਰੱਖਿਆ ਅਧਿਕਾਰੀ ਦਾ ਨਾਮ ਇਵੋਨਾ ਬੀ. ਹੋਰੀਨ ਸੀ।",
@@ -5737,7 +6309,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਨਾਈਜੀਰੀਆ ਵਿੱਚ ਈਡੋ ਰਾਜ ਵਿੱਚ 19% ਬੇਰੁਜ਼ਗਾਰੀ ਦਰ ਹੈ।",
@@ -5757,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਪਹਿਲੀ ਮਹਿਲਾ ਮੇਲਾਨੀਆ ਟਰੰਪ ਦੇ ਮਾਤਾ-ਪਿਤਾ ਪਰਿਵਾਰ-ਅਧਾਰਤ ਸਪਾਂਸਰਸ਼ਿਪ ਰਾਹੀਂ ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ ਆਏ ਸਨ, ਜਿਸ ਨੂੰ ਅਪਮਾਨਜਨਕ ਤੌਰ 'ਤੇ \"ਚੇਨ ਮਾਈਗ੍ਰੇਸ਼ਨ\" ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
@@ -5777,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਚੀਨ ਨੇ ਏਮਬੇਡਡ 'ਅਣ ਹਟਾਉਣਯੋਗ ਇਜ਼ਰਾਈਲੀ ਸਪਾਈਵੇਅਰ' ਤੇ ਸੈਮਸੰਗ ਫੋਨਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਦੀ ਯੋਜਨਾ ਬਣਾਈ ਹੈ",
@@ -5797,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਵਿਜ਼ੂਅਲ ਨੇਪਾਲ ਦੇ ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੂੰ ਮੋਦੀ ਦੇ ਸਮਰਥਨ ਵਿੱਚ ਮਾਰਚ ਕਰਦੇ ਦਿਖਾਇਆ ਗਿਆ ਹੈ",
@@ -5817,7 +6397,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਓਨਟਾਰੀਓ, ਕੈਨੇਡਾ ਦੀ ਸਰਕਾਰ ਦਾ ਇੱਕ ਵਿਗਿਆਪਨ, ਰਾਸ਼ਟਰਪਤੀ ਰੋਨਾਲਡ ਰੀਗਨ ਦੇ 25 ਅਪ੍ਰੈਲ, 1987 ਨੂੰ ਟੈਰਿਫਾਂ ਬਾਰੇ ਸੰਬੋਧਨ \"ਗਲਤ ਪੇਸ਼ਕਾਰੀ\" ਕਰਦਾ ਹੈ।",
@@ -5837,7 +6419,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "ਗਵਰਨਰ ਹੋਚੁਲ ਦੇ ਕਾਰਜਕਾਲ ਦੌਰਾਨ, \"ਸਾਡੀਆਂ ਸੜਕਾਂ 'ਤੇ ਵਧੇਰੇ ਅਪਰਾਧ\" ਹੋਏ ਹਨ।",
@@ -5857,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਅਮਿਤ ਸ਼ਾਹ ਨੇ ਕਿਹਾ ਕਿ ਸਾਰੀਆਂ ਪਾਰਟੀਆਂ ਦੇ ਸੋਸ਼ਲ ਮੀਡੀਆ ਪ੍ਰਭਾਵਕ ਆਪਣੇ 5 ਕਿਲੋ ਰਾਸ਼ਨ 'ਤੇ ਗੁਜ਼ਾਰਾ ਕਰ ਰਹੇ ਹਨ।",
@@ -5877,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਯੂਐਸ ਇਮੀਗ੍ਰੇਸ਼ਨ ਅਤੇ ਕਸਟਮਜ਼ ਇਨਫੋਰਸਮੈਂਟ ਏਜੰਟ ਜਿਸਨੇ 7 ਜਨਵਰੀ, 2026 ਨੂੰ ਮਿਨੀਆਪੋਲਿਸ ਵਿੱਚ ਰੇਨੀ ਨਿਕੋਲ ਗੁੱਡ ਨੂੰ ਗੋਲੀ ਮਾਰ ਕੇ ਮਾਰ ਦਿੱਤਾ ਸੀ, ਦਾ ਨਾਮ ਸਟੀਵ ਗਰੋਵ ਸੀ।",
@@ -5897,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਕੰਜ਼ਰਵੇਟਿਵ ਗੈਰ-ਲਾਭਕਾਰੀ ਸੰਗਠਨ ਟਰਨਿੰਗ ਪੁਆਇੰਟ ਯੂਐਸਏ ਨੇ ਇੱਕ ਵਿਕਲਪਿਕ 2026 ਸੁਪਰ ਬਾਊਲ ਹਾਫਟਾਈਮ ਸ਼ੋਅ ਦੀ ਘੋਸ਼ਣਾ ਕੀਤੀ।",
@@ -5917,7 +6507,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਮੇਗਨ ਬਾਇਰਨ, ਸਾਬਕਾ ਖਗੋਲ ਵਿਗਿਆਨੀ ਸੀਈਓ ਐਂਡੀ ਬਾਇਰਨ ਦੀ ਪਤਨੀ, ਜਿਸਦਾ ਕਥਿਤ ਅਫੇਅਰ ਜੁਲਾਈ 2025 ਵਿੱਚ ਇੱਕ ਕੋਲਡਪਲੇ ਸੰਗੀਤ ਸਮਾਰੋਹ ਦੌਰਾਨ ਇੱਕ ਚੁੰਮਣ ਕੈਮ ਡਿਸਪਲੇ ਦੁਆਰਾ ਪ੍ਰਗਟ ਕੀਤਾ ਗਿਆ ਸੀ, ਨੇ ਇੱਕ ਬਿਆਨ ਜਾਰੀ ਕੀਤਾ ਜਿਸ ਵਿੱਚ ਸੀਈਓ ਉਸ ਦੀਆਂ ਕਾਰਵਾਈਆਂ ਨੂੰ \"ਮਹਿਸੂਸ\" ਕਰੇਗਾ।",
@@ -5937,7 +6529,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"ਸਿਵਲੀਅਨ ਪਾਵਰ ਬੁਨਿਆਦੀ ਢਾਂਚੇ 'ਤੇ ਬੰਬਾਰੀ ਕਰਨਾ ਇੱਕ ਜੰਗੀ ਅਪਰਾਧ ਹੈ।\"",
@@ -5957,7 +6551,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ਨਿਊਯਾਰਕ ਰਾਜ ਵਿੱਚ ਪ੍ਰਸਤਾਵਿਤ ਡਾਟਾ ਸੈਂਟਰ \"ਰਾਜ ਦੇ ਸਾਰੇ ਘਰਾਂ ਦੀ ਸੰਯੁਕਤ ਊਰਜਾ ਦੀ ਵਰਤੋਂ ਦਾ ਲਗਭਗ ਦੁੱਗਣਾ\" ਵਰਤੋਂ ਕਰਨਗੇ।",
@@ -5977,7 +6573,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ਮਾਰਚ 2026 ਵਿੱਚ, ਯੂਐਸ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਨੇ ਸਾਊਦੀ ਅਰਬ ਦੇ ਕ੍ਰਾਊਨ ਪ੍ਰਿੰਸ ਮੁਹੰਮਦ ਬਿਨ ਸਲਮਾਨ ਬਾਰੇ ਕਿਹਾ, \"ਉਸ ਨੇ ਇਹ ਨਹੀਂ ਸੋਚਿਆ ਸੀ ਕਿ ਉਹ ਮੇਰੇ ਏ** ਨੂੰ ਚੁੰਮ ਰਿਹਾ ਹੋਵੇਗਾ।\"",
@@ -5997,6 +6595,8 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]
