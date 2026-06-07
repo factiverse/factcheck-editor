@@ -3889,7 +3889,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "बिहार के मुख्यमंत्री नीतीश कुमार ने पटना में एक सरकारी कार्यक्रम के दौरान एक महिला का हिजाब खींचकर नीचे कर देने के लिए मुस्लिम समुदाय से माफी मांगी।",
@@ -3909,7 +3911,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "बिहार में पुल ढहने की घटना",
@@ -3929,7 +3933,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "रेव. मार्टिन लूथर किंग जूनियर की बेटी बर्निस किंग ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प से “एपस्टीन फाइलें” जारी करने की मांग की, जब उनके प्रशासन ने जुलाई 2025 में उनके पिता पर एफबीआई की फाइलें जारी कीं।",
@@ -3949,7 +3955,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "सांता क्लॉज़ के पीछे की प्रेरणा संत निकोलस की हड्डियों से 1,700 वर्षों से तरल पदार्थ रिसता आ रहा है।",
@@ -3969,7 +3977,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "15 दिनों के उपवास से कैंसर कोशिकाएँ मर जाती हैं",
@@ -3989,7 +3999,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "तथ्य-जांच: चिली नौसेना की पायलट को ऑनलाइन झूठे तौर पर ईरान में पकड़ी गई इज़राइली पायलट बताया गया",
@@ -4009,7 +4021,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“औसत अमेरिकी कामगार की इस साल पहले ही 500 डॉलर की वेतन-वृद्धि हो चुकी है।”",
@@ -4029,7 +4043,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "एक पशु-चिकित्सीय दवा कंपनी वरिष्ठ कुत्तों के लिए एक गोली विकसित कर रही है, जिसका लक्ष्य उनकी आयु बढ़ाना है।",
@@ -4049,7 +4065,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "एक ही एक्यूप्रेशर बिंदु मासिक धर्म के दर्द से राहत दिलाने में मदद कर सकता है",
@@ -4069,7 +4087,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "राष्ट्रपति डोनाल्ड ट्रंप के नए हस्ताक्षरित कर कानून के तहत, “जो लोग $50,000 से कम कमाते हैं, उन्हें सबसे बड़ी (कर) कटौतियाँ मिलती हैं।”",
@@ -4089,7 +4109,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "एक राष्ट्र के रूप में अपने अस्तित्व के 60 वर्षों में से कुल 29 वर्षों तक हम सैन्य शासन के अधीन रहे हैं।",
@@ -4109,7 +4131,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "विशाखापत्तनम (आंध्र प्रदेश) से बस्ती (उत्तर प्रदेश) जाने वाली एक उर्वरक मालगाड़ी को अपने गंतव्य तक पहुँचने में तीन साल से अधिक समय लगा।",
@@ -4129,7 +4153,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ग्रीन इंडिया मिशन के तहत छात्रों के लिए मुफ्त इलेक्ट्रिक साइकिल योजना",
@@ -4149,7 +4175,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"[अश्वेत किसान] लाखों हेक्टेयर भूमि के मालिक हैं। जब आप राज्य की भूमि जोड़ते हैं, तो कुल भूमि क्षेत्र का लगभग 50%।\"",
@@ -4169,7 +4197,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अरबपति परोपकारी बिल गेट्स द्वारा समर्थित एक कंपनी ने कार्बन का उपयोग करके लैब में बनाया गया मक्खन तैयार किया है।",
@@ -4189,7 +4219,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "कंबोडियाई भिक्षुओं के एक समूह ने 2025 की गर्मियों में कंबोडिया और थाईलैंड के बीच युद्ध समाप्त कराने के लिए अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप को धन्यवाद दिया।",
@@ -4209,7 +4241,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "2026 के व्हाइट हाउस कॉरेस्पॉन्डेंट्स एसोसिएशन डिनर पर हुए हमले के संदिग्ध कोल टोमस एलन एक पंजीकृत डेमोक्रेट हैं, जिन्होंने पूर्व उपराष्ट्रपति कमला हैरिस के 2024 के राष्ट्रपति अभियान को दान दिया था।",
@@ -4229,7 +4263,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "कृत्रिम बुद्धिमत्ता में, “हम चीन से बहुत आगे हैं।”",
@@ -4249,7 +4285,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "1943 में क्रिसमस लंच के दौरान, बेल्जियम में तैनात एक कनाडाई नन ने सूप में आर्सेनिक मिलाकर 45 नाज़ी अधिकारियों को ज़हर देकर मार डाला।",
@@ -4269,7 +4307,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "ब्लैक लाइव्स मैटर पारंपरिक एकल (न्यूक्लियर) परिवार को नष्ट करना चाहता है।",
@@ -4289,7 +4329,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अभिनेता शाहरुख़ ख़ान और संजय दत्त ने हिजाब विवाद को लेकर बिहार के मुख्यमंत्री नीतीश कुमार की आलोचना की और उनसे माफ़ी माँगने की मांग की।",
@@ -4309,7 +4351,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "फर्जी: यूक्रेनी शरणार्थियों ने लौव्र को लूटा",
@@ -4329,7 +4373,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "विराट कोहली और रोहित शर्मा नवीनतम आईसीसी वनडे बल्लेबाजी रैंकिंग से बाहर, संन्यास की अटकलों को हवा।",
@@ -4349,7 +4395,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "स्वामी प्रसाद मौर्य के बाद भाजपा विधायक योगेश वर्मा को पड़ा थप्पड़",
@@ -4369,7 +4417,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "सितंबर 2025 में प्रसारित हो रही ऑडियो नॉर्थ कैरोलाइना की एक वास्तविक 911 कॉल से थी, जिसमें कॉल करने वाले को चिल्लाते हुए सुना गया: \"वो इंसान नहीं है।\"",
@@ -4389,7 +4439,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "जून 2025 में जारी इज़राइल–ईरान संघर्ष के वास्तविक दृश्य।",
@@ -4409,7 +4461,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "6 जनवरी, 2021 को वाशिंगटन, डी.सी. में भीड़ के बीच लगभग 274 अंडरकवर एफबीआई एजेंट तैनात थे, जिन्होंने हिंसा भड़काई, जिसके परिणामस्वरूप अमेरिकी कैपिटल में दंगा हुआ।",
@@ -4429,7 +4483,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "एमी कोनी बैरेट का सुप्रीम कोर्ट के लिए नामांकन अक्टूबर 2020 में पुष्टि किया जाना था, ऐसे सीनेट बहुमत द्वारा जो अल्पसंख्यक पार्टी की तुलना में 1.5 करोड़ कम लोगों का प्रतिनिधित्व करता है।",
@@ -4449,7 +4505,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "कृत्रिम बुद्धिमत्ता डेटा सेंटर “बिजली के बिल 30 या 40% तक बढ़ा देते हैं” और “दिन में 5,00,000 गैलन पानी खींच लेते हैं।”",
@@ -4469,7 +4527,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "अमेरिका के मेडिकल रेज़िडेंट्स में से 30% अंतरराष्ट्रीय मेडिकल स्नातक हैं, और 43,000 में से 10,000 रेज़िडेंसी सीटें H-1B वीज़ा धारकों द्वारा भरी जाती हैं।",
@@ -4489,7 +4549,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने फास्ट फूड चेन मैकडॉनल्ड्स के एक कार्यक्रम में बोलते हुए “स्वर्ग से आने वाले” पानी पर लगी पाबंदियों की शिकायत की और कहा: “तो आप अपने हाथ धोना चाहते हैं? या, मेरी तरह, मैं अपने बाल धोना चाहता हूँ। मैं झाग बनाता हूँ। और… पानी ही नहीं है। … मैं बाथरूम की तीसरी चीज़ का ज़िक्र नहीं करूंगा क्योंकि मुझे हमेशा आलोचना झेलनी पड़ती है। … अगर आपको नहीं पता कि मैं किस बारे में बात कर रहा हूँ, तो आपको मैकडॉनल्ड्स की फ्रैंचाइज़ का मालिक नहीं होना चाहिए।”",
@@ -4509,7 +4571,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "बालेन शाह नेपाल के नए प्रधानमंत्री हैं",
@@ -4529,7 +4593,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2016 में, टेक्सास के अमेरिकी सीनेटर टेड क्रूज़ ने, जो उस समय रिपब्लिकन राष्ट्रपति पद के उम्मीदवार थे, कहा था, “मुमकिन है कि हम किसी सुबह जागें और डोनाल्ड ने, अगर वह राष्ट्रपति होते, तो डेनमार्क पर परमाणु हमला कर दिया होता।”",
@@ -4549,7 +4615,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "“कैलिफ़ोर्निया संघीय सरकार से जितना प्राप्त करता है, उससे $83.1 अरब अधिक देता है। टेक्सास? संघीय सरकार को जितना देता है, उससे $71.1 अरब अधिक प्राप्त करता है। अमेरिका के GDP का 71% ब्लू काउंटियों से आता है।”",
@@ -4569,7 +4637,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "भारतीय सेना प्रमुख जनरल उपेंद्र द्विवेदी ने स्वीकार किया कि पाकिस्तान के साथ हालिया संघर्ष के दौरान एलओसी पर 250 सैनिक शहीद हुए।",
@@ -4589,7 +4659,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "एशिया कप 2025 से पहले हार्दिक पांड्या का निधन",
@@ -4609,7 +4681,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "कांग्रेस ने अपने वेबसाइट से संविधान के अनुच्छेद 1 की धाराएँ 9 और 10 हटा दीं",
@@ -4629,7 +4703,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "तथ्य-जांच: व्यापार समझौते के तहत कर छूट, ऑनलाइन दावों के विपरीत, ब्रिटेन में सभी भारतीय कामगारों के लिए नहीं है",
@@ -4649,7 +4725,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "डोनाल्ड ट्रंप ने 5 जून, 2025 को केटामाइन के इस्तेमाल को लेकर एलन मस्क पर हमला करने के लिए पोस्ट किया",
@@ -4669,7 +4747,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "नॉर्वे के इंजीनियरों ने सीलों के लिए तैरते हुए कृत्रिम “आइस पॉड्स” बनाए, ताकि आर्कटिक समुद्री बर्फ के रूप में जानवरों के लुप्त होते आवास की जगह ली जा सके।",
@@ -4689,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "सौर और पवन ऊर्जा “वैश्विक ऊर्जा” के 3% तक नहीं पहुँची हैं।",
@@ -4709,7 +4791,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "6 मई, 2026 को, इवेंजेलिकल मंत्री मार्क बर्न्स ने फ्लोरिडा में ट्रंप के मार-ए-लागो रिसॉर्ट में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की एक सुनहरी प्रतिमा का समर्पण समारोह आयोजित किया।",
@@ -4729,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "LA Mostly Peaceful Jihad Summer of Love Protesters Intentionally sets a Jeep on fire.",
@@ -4749,7 +4835,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "गायिका और अभिनेत्री शेर ने एक बार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के बारे में कहा था: “वह एक a**hole है। वह बहुत ख़तरनाक है, और वह मेरे देश में जो लेकर आता है, उसने मेरे देश में जो जगाया है, वह कट्टरता और अविश्वास है और कुछ समूहों में एक ख़ास तरह की श्रेष्ठतावाद की भावना है।”",
@@ -4769,7 +4857,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अमेरिकी राष्ट्रपति ट्रंप ने टेस्ला के सीईओ एलन मस्क के साथ विवाद के बाद अमेरिका में टेस्ला के उत्पादन पर प्रतिबंध लगा दिया।",
@@ -4789,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Afghan militant group warns ISI, vows to avenge Pahalgam terror attack.",
@@ -4809,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "नवंबर 2025 की शुरुआत तक, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के प्रशासन ने महिलाओं, शिशुओं और बच्चों के लिए विशेष पूरक पोषण कार्यक्रम (WIC) को वित्तपोषित करने के लिए टैरिफ से प्राप्त राजस्व में से 750 मिलियन डॉलर का उपयोग किया था।",
@@ -4829,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने सुझाव दिया कि जो ट्रक चालक डीज़ल का इस्तेमाल करते हैं, वे ईंधन लागत घटाने के लिए पेट्रोल पर स्विच कर लें।",
@@ -4849,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "कोलकाता नाइट राइडर्स (केकेआर) द्वारा बाहर किए जाने के बाद बांग्लादेशी क्रिकेट टीम के खिलाड़ी मुस्तफिजुर रहमान ने आईपीएल 2026 के बहिष्कार की अपील की।",
@@ -4869,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "लेबर ने एलएनपी द्वारा किए गए 4,400 स्वास्थ्यकर्मी पदों में कटौती को पलट दिया।",
@@ -4889,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "सऊदी अरब के रियाद में अमेरिकी अड्डे पर ईरान का हमला।",
@@ -4909,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "मिनियापोलिस में अपराध “25, 30% कम है क्योंकि हमने इलाके से हजारों अपराधियों को हटा दिया है।”",
@@ -4929,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक ठग को माफ़ कर दिया, जो मिनेसोटा में राज्य के सोमाली समुदाय के सदस्यों से जुड़े बड़े पैमाने के कल्याण (वेलफेयर) धोखाधड़ी मामले में चुराई गई राशि से कहीं अधिक पैसा चुराने के लिए सज़ा काट रहा था।",
@@ -4949,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "युद्ध के अंत के बाद से, इस्लामी शासन ने 700 यहूदी ईरानियों को गिरफ्तार किया है, जो ईरान में पूरे यहूदी समुदाय का 1/10 हिस्सा है। उन पर झूठा आरोप लगाया जा रहा है कि वे ‘मोसाद एजेंट’ हैं और उन्हें क्रेनों से लटकाकर फांसी दी जा रही है।",
@@ -4969,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "पूर्व अमेरिकी राष्ट्रपति बराक ओबामा ने ओवल ऑफिस से पूर्व ब्रिटिश प्रधानमंत्री विंस्टन चर्चिल की एक प्रतिमा (बस्ट) हटाकर उसे वापस इंग्लैंड भेज दिया।",
@@ -4989,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "फ्लोरिडा: मानसिक स्वास्थ्य देखभाल में #51, गृह बीमा लागत में #1, बुज़ुर्गों से धोखाधड़ी में #1, किराए में बढ़ोतरी में #1।",
@@ -5009,7 +5121,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "बिलावल भुट्टो ज़रदारी ने कहा कि पाकिस्तानी एजेंट भारतीय संसद में बैठे हैं।",
@@ -5029,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अफोर्डेबल केयर एक्ट के तहत बीमा लेने वाले लोगों को, यदि बढ़ी हुई सब्सिडी का विस्तार नहीं किया गया, तो “1 नवंबर से प्रीमियम में 75% की बढ़ोतरी” देखने को मिलेगी—जिसमें “ग्रामीण इलाकों में यह दोगुनी” होगी।",
@@ -5049,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "मौत की सज़ा संबंधी अदालत के फ़ैसले पर श्रीलंकाई उप मंत्री की टिप्पणी",
@@ -5069,7 +5187,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अगस्त 2025 में, फ्लोरिडा के सीनेटर रिक स्कॉट ने कानून द्वारा निर्धारित समय-सीमा के मुकाबले एक साल से भी अधिक देर से 2.6 करोड़ डॉलर से अधिक के स्टॉक ट्रेडों का खुलासा किया।",
@@ -5089,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "नवंबर 2025 में, अमेरिकी राष्ट्रपति ट्रंप ने परिवहन विभाग से 15-वर्षीय कार ऋण शुरू करने को कहा।",
@@ -5109,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अमेरिकी नागरिक नहीं होने वाला व्यक्ति एनवाईसी मेयर चुनाव में ममदानी को वोट देता है।",
@@ -5129,7 +5253,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "क्वीन के फ्रंटमैन फ़्रेडी मर्करी ने बैंड के गीत “We Are the Champions” के अंत में “of the world” नहीं गाया था, जो पहली बार 1977 में रिलीज़ हुआ था।",
@@ -5149,7 +5275,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अमेरिकी जनरल जॉर्ज पैटन जूनियर ने एक बार कहा था, \"ईश्वर मेरे दुश्मनों पर दया करे, क्योंकि मैं नहीं करूँगा।\"",
@@ -5169,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "AIMIM महिला विंग की अध्यक्ष दीपक कुमार को सम्मानित करती हैं।",
@@ -5189,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"हमने पहले से निष्क्रिय या गैर-कार्यात्मक रही [यात्री रेल] लाइनों में से अब तक 35 तक को पहले ही बहाल कर लिया है।\" – रामाफोसा",
@@ -5209,7 +5341,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "फर्जी: यूक्रेन में अब नाबालिग सैन्य अनुबंधों के लिए पात्र",
@@ -5229,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "एक मंदिर में असदुद्दीन ओवैसी भगवान हनुमान की आरती करते हुए।",
@@ -5249,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "मार्च 2026 में ऑनलाइन साझा किया गया एक पत्र वास्तव में एक प्रामाणिक संदेश है, जिसमें अमेरिकी राष्ट्रीय आतंकवाद-रोधी केंद्र के प्रमुख जो केंट ने ईरान पर अमेरिका और इज़राइल के युद्ध के विरोध में अपने इस्तीफे की घोषणा की थी।",
@@ -5269,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "In the 1994 film \"Forrest Gump,\" the main character says, \"Life was like a box of chocolates,\" not \"Life is like a box of chocolates.\"",
@@ -5289,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "सप्लीमेंट GLP-1 बढ़ाता है और इंसुलिन प्रतिरोध में मदद करता है",
@@ -5309,7 +5451,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "उन्होंने कहा कि उन्होंने सिरैक्यूज़ के पास माइक्रोन की एक बड़ी सेमीकंडक्टर सुविधा बनाने के लिए सदन में किए गए प्रयास का नेतृत्व किया है।",
@@ -5329,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "उत्तर प्रदेश में एक भाजपा मंत्री और एक ज़िला कलेक्टर के बीच झड़प",
@@ -5349,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अमेरिकी रक्षा सचिव पीट हेगसेथ ने कहा: \"लड़ाकू टुकड़ियों की पंक्तियों—या सच कहें तो किसी भी तरह की पंक्ति—की ओर देखना और मोटे सैनिकों को देखना थकाने वाला है। इसी तरह, पेंटागन के गलियारों में और देश व दुनिया भर में कमान संभालने वाले पदों पर मोटे जनरलों और एडमिरलों को देखना पूरी तरह अस्वीकार्य है।\"",
@@ -5369,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "लीक हुए अमेरिकी सरकारी मेमो से पुष्टि हुई कि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का प्रशासन 2025 के मध्य में देश की सीमाओं के भीतर “आंतरिक यात्रा प्रतिबंधों” का परीक्षण कर रहा था।",
@@ -5389,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "पुलिस: राजनीतिक कार्यकर्ताओं ने ओरेगन की जंगल की आग नहीं लगाई",
@@ -5409,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "ये दृश्य 10 नवंबर 2025 को हुए दिल्ली के लाल किले के विस्फोट को दिखाते हैं।",
@@ -5429,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "एक सर्वेक्षण में पाया गया कि केवल 23% अमेरिकी लोग नक्शे पर ईरान की ओर इशारा कर सकते हैं।",
@@ -5449,7 +5605,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अर्कांसस के एक व्यक्ति ने 15 वर्षीय लड़की को गर्भवती करने के बाद बच्चे को खतरे में डालने के मामले में दोष स्वीकार किया और जेल की सज़ा से बच गया।",
@@ -5469,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "पोस्टों ने दक्षिण कोरिया के राष्ट्रपति को बदनाम करने के लिए अमेरिकी कांग्रेस की शोध रिपोर्ट को तोड़-मरोड़कर पेश किया",
@@ -5489,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अभिनेत्री हेलेन हंट ने अपनी बचपन की शिक्षिका “मिस एलेनोर” को अपने ऑस्कर जीतने से मिले 30 लाख डॉलर उपहार में दिए, जब उस शिक्षिका ने हंट की डिस्लेक्सिया में मदद के लिए अतिरिक्त ट्यूशन देने के कारण अपनी नौकरी खो दी थी।",
@@ -5509,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2024 में साझा की गई वायरल सोशल मीडिया पोस्टों में यह सही बताया गया था कि पॉल मैककार्टनी ने जॉन लेनन की पहली शादी के पत्र खरीदे और उन्हें लेनन की पूर्व पत्नी को यह कहते हुए एक नोट के साथ लौटा दिया कि वह अपनी यादें न बेचे।",
@@ -5529,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "डोनाल्ड ट्रंप ने ट्वीट किया कि वह 12 सितंबर, 2020 को गोली लगने से गंभीर रूप से घायल हुए लॉस एंजेलिस काउंटी के शेरिफ विभाग के दो डिप्टी अधिकारियों के खर्चों के लिए प्रत्येक को 5,00,000 डॉलर दान कर रहे हैं।",
@@ -5549,7 +5715,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": " Drones and missiles are deliberately shot down over residential areas of Kyiv to keep the population in fear",
@@ -5569,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "किशोरावस्था में, राष्ट्रपति ली जे-म्युंग को बलात्कार और हत्या के लिए दोषी ठहराया गया था।",
@@ -5589,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "इंडियाना के विधायकों ने ऐसा कानून पारित कराने की कोशिश की, जिससे राज्य को गैस चैंबर और फायरिंग स्क्वॉड के जरिए लोगों को फांसी देने की अनुमति मिल जाती।",
@@ -5609,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "इटली ने ओलंपिक खेलों में यूक्रेनी टीम के साथ एसएसयू अधिकारियों को जाने की अनुमति नहीं दी — रॉयटर्स",
@@ -5629,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "इस्लाम पर मैक्रों की टिप्पणियों की इमरान ख़ान द्वारा आलोचना किए जाने के कारण, फ्रांसीसी अधिकारियों ने 183 पाकिस्तानी नागरिकों के वीज़ा रद्द कर दिए और 118 को देश से निर्वासित कर दिया।",
@@ -5649,7 +5825,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "2022 में, वर्जीनिया के अटॉर्नी जनरल-निर्वाचित जे जोन्स ने वर्जीनिया हाउस ऑफ डेलीगेट्स के पूर्व स्पीकर टॉड गिल्बर्ट और उनके बच्चों के बारे में हिंसक टेक्स्ट संदेश भेजे।",
@@ -5669,7 +5847,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अपने चौंकाने वाले इस्तीफे से एक दिन पहले, पूर्व उपराष्ट्रपति जगदीप धनखड़ ने राज्यसभा में कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के उस बयान पर तीखी प्रतिक्रिया दी, जिसमें उन्होंने कहा था कि धनखड़ सरकार से डरते हैं। “इस कथन का यह हिस्सा हटाया जाएगा। क्यों? क्योंकि भारत के किसान और उनके बेटे किसी भी परिस्थिति में किसी से नहीं डरते,” धनखड़ ने कथित तौर पर कहा।",
@@ -5689,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"सार्वजनिक ऋण आज की तारीख तक जीडीपी का लगभग 67% के आसपास है।\"",
@@ -5709,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "पूर्व अमेरिकी राष्ट्रपति बराक ओबामा ने 2016 में ईरान को नकद में 1.7 अरब डॉलर “दिए”, और देश को पैसों से भरे पैलेट भेजे।",
@@ -5729,7 +5913,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "जुलाई 2025 में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप द्वारा जारी एक कार्यकारी आदेश का उद्देश्य “किसी भी विकलांग व्यक्ति को संस्थागत करना” है।",
@@ -5749,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने दिवंगत, बदनाम वित्तपोषक और दोषसिद्ध यौन अपराधी जेफ़्री एपस्टीन को कुल 1.1 अरब डॉलर की 4,725 वायर ट्रांसफ़र किए।",
@@ -5769,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "बांग्लादेश में मुहम्मद यूनुस के नेतृत्व वाली अंतरिम सरकार ने दुर्गा पूजा, जन्माष्टमी और सरस्वती पूजा सहित प्रमुख हिंदू त्योहारों की छुट्टियाँ रद्द कर दी हैं।",
@@ -5789,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "स्वतंत्रता के समय नाइजीरिया की जनसंख्या 4.5 करोड़ थी।",
@@ -5809,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "नाइजीरिया अफ्रीका और विश्व में कसावा का अग्रणी उत्पादक है।",
@@ -5829,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 में, अमेरिकी इमिग्रेशन एंड कस्टम्स एनफोर्समेंट (ICE) ने नए कर्मचारियों को $45,000 के साइनिंग बोनस के अलावा $100,000 का वेतन ऑफर किया—जो संयुक्त राज्य में शिक्षकों की कमाई से कहीं अधिक है।",
@@ -5849,7 +6045,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"कासोंगो आया और उसने उस सिस्टम को खत्म कर दिया और SHA और SHIF नाम की चीज़ ले आया, जिसकी लागत KSh104 अरब थी।\"",
@@ -5869,7 +6067,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "दिसंबर 2025 में, अमेरिकी न्याय विभाग ने एफबीआई को दी गई एक सूचना जारी की, जिसमें एक शिकायतकर्ता ने आरोप लगाया कि राष्ट्रपति डोनाल्ड ट्रंप ने उसके चाचा को उसके नवजात बच्चे की हत्या करते और शव को लेक मिशिगन में ठिकाने लगाते हुए देखा था, जब वह 13 वर्ष की थी और जेफ़्री एपस्टीन द्वारा सेक्स तस्करी का शिकार बनाई जा रही थी।",
@@ -5889,7 +6089,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "शहर निगम में भाजपा के सत्ता में आने के बाद तिरुवनंतपुरम में गांधी की एक प्रतिमा को नष्ट कर दिया गया।",
@@ -5909,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "फर्जी: ज़ेलेंस्की की सलाहकार क्रिस्टिया फ्रीलैंड नाज़ी सहयोगी की वंशज हैं",
@@ -5929,7 +6133,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "2025 के अंत में, शिक्षा विभाग ने कहा कि वह इन प्रमाण-पत्रों को अब पेशेवर डिग्रियों के रूप में वर्गीकृत नहीं करेगा: शिक्षा (जिसमें शिक्षण में मास्टर डिग्रियाँ भी शामिल हैं), नर्सिंग (MSN, DNP), सामाजिक कार्य (MSW, DSW), सार्वजनिक स्वास्थ्य (MPH, DrPH), फिज़िशियन असिस्टेंट, ऑक्युपेशनल थेरेपी, फिजिकल थेरेपी, ऑडियोलॉजी, स्पीच-लैंग्वेज पैथोलॉजी तथा काउंसलिंग और थेरेपी की डिग्रियाँ।",
@@ -5949,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "\"यह अर्थव्यवस्था निश्चित रूप से 188 अरब डॉलर की अर्थव्यवस्था नहीं है—यह कम से कम 350 अरब डॉलर की अर्थव्यवस्था है।\"",
@@ -5969,7 +6177,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "लौंग के साथ पान के पत्ते का पानी मुँह की दुर्गंध को दूर कर सकता है।",
@@ -5989,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "मार्च 2026 में, नाटो में नेतृत्व पदों पर रह चुके फ्रांसीसी जनरल मिशेल याकोवलेफ़ ने कहा कि फ्रांस द्वारा अमेरिका को होर्मुज़ जलडमरूमध्य को सुरक्षित करने में मदद करना “टाइटैनिक के लिए सस्ते टिकट खरीदने” के बराबर होगा।",
@@ -6009,7 +6221,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"युगांडा में लगभग 12 लाख पर्यटक आते हैं।\"",
@@ -6029,7 +6243,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "एबीसी के “दिस वीक” के होस्ट जॉर्ज स्टेफानोपोलस ने अमेरिकी उपराष्ट्रपति जेडी वेंस के साथ एक इंटरव्यू बीच में ही रोक दिया, जब वेंस ने बॉर्डर ज़ार टॉम होमन के बारे में पूछे गए सवाल को टाल दिया।",
@@ -6049,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "टियर 3 क्षेत्रों में काम करने में असमर्थ यूके कर्मचारियों को जॉब सपोर्ट स्कीम और यूनिवर्सल क्रेडिट का संयुक्त लाभ मिलेगा, जिसका अर्थ है कि उन्हें अपनी मजदूरी का 80% मिलेगा।",
@@ -6069,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "मार्च 2026 तक अमेरिकी होमलैंड सिक्योरिटी विभाग में कार्यवाहक मुख्य सुरक्षा अधिकारी का नाम इवोना बी. होरिन था।",
@@ -6089,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "नाइजीरिया के एदो राज्य में बेरोज़गारी दर 19% है।",
@@ -6109,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "प्रथम महिला मेलानिया ट्रंप के माता-पिता संयुक्त राज्य अमेरिका में परिवार-आधारित प्रायोजन के जरिए आए थे, जिसे अपमानजनक रूप से “चेन माइग्रेशन” भी कहा जाता है।",
@@ -6129,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "चीन ने अंतर्निहित ‘हटाया न जा सकने वाला इज़राइली स्पाइवेयर’ होने के कारण सैमसंग फोन पर प्रतिबंध लगाने की योजना बनाई",
@@ -6149,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "दृश्यों में नेपाल के प्रदर्शनकारी मोदी के समर्थन में मार्च करते दिख रहे हैं",
@@ -6169,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "कनाडा के ओंटारियो प्रांत की सरकार का एक विज्ञापन, राष्ट्रपति रोनाल्ड रीगन के 25 अप्रैल, 1987 के टैरिफ़ संबंधी संबोधन को “गलत तरीके से प्रस्तुत” करता है।",
@@ -6189,7 +6419,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "गवर्नर होचुल के कार्यकाल के दौरान, हमारी सड़कों पर “अपराध बढ़ा है।”",
@@ -6209,7 +6441,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "अमित शाह ने कहा कि सभी दलों के सोशल मीडिया इन्फ्लुएंसर अपने 5 किलो राशन पर जी रहे हैं।",
@@ -6229,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "7 जनवरी, 2026 को मिनियापोलिस में रेनी निकोल गुड को गोली मारकर हत्या करने वाले अमेरिकी इमिग्रेशन एंड कस्टम्स एनफोर्समेंट (ICE) एजेंट का नाम स्टीव ग्रोव था।",
@@ -6249,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "रूढ़िवादी गैर-लाभकारी संगठन टर्निंग पॉइंट यूएसए ने 2026 के सुपर बाउल के हाफटाइम शो के लिए एक वैकल्पिक कार्यक्रम की घोषणा की।",
@@ -6269,7 +6507,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "पूर्व Astronomer के सीईओ एंडी बायरन की पत्नी मेगन बायरन—जिनके कथित अफेयर का खुलासा जुलाई 2025 में कोल्डप्ले कॉन्सर्ट के दौरान किस-कैम डिस्प्ले में हुआ था—ने एक बयान जारी किया, जिसमें उन्होंने कहा कि सीईओ को अपने किए का “अहसास” होगा।",
@@ -6289,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"नागरिक बिजली अवसंरचना पर बमबारी करना एक युद्ध अपराध है।\"",
@@ -6309,7 +6551,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "न्यूयॉर्क राज्य में प्रस्तावित डेटा सेंटर “राज्य के सभी घरों की संयुक्त ऊर्जा खपत की तुलना में लगभग दोगुनी ऊर्जा” का उपयोग करेंगे।",
@@ -6329,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "मार्च 2026 में, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सऊदी अरब के क्राउन प्रिंस मोहम्मद बिन सलमान के बारे में कहा, “उसे नहीं लगा था कि वह मेरी चाटुकारिता करेगा।”",
@@ -6349,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]

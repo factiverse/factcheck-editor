@@ -4769,7 +4769,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Aurinko- ja tuulivoima eivät ole saavuttaneet \"kolmeaa prosenttia maailmanlaajuisesta energiasta\".",
@@ -4789,7 +4791,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Evankelinen ministeri Mark Burns piti 6. toukokuuta 2026 Yhdysvaltain presidentti Donald Trumpin kultaisen patsaan vihkiäisseremonian Trumpin Mar-a-Lago-lomakohteessa Floridassa.",
@@ -4809,7 +4813,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Los Angelesin enimmäkseen rauhanomaisen jihadin rakkauden kesän mielenosoittajat sytyttävät tahallaan jeepin tuleen.",
@@ -4829,7 +4835,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Laulaja ja näyttelijä Cher sanoi kerran Yhdysvaltain presidentistä Donald Trumpista: \"Hän on kusipää. Hän on niin vaarallinen, ja se mitä hän tuo maahani, mitä hän on herättänyt maassani, on suvaitsemattomuutta ja epäluottamusta ja tietynlaista ylivaltaa tietyissä ryhmissä.\"",
@@ -4849,7 +4857,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Yhdysvaltain presidentti Trump kielsi Teslan tuotannon Yhdysvalloissa riidan jälkeen yhtiön toimitusjohtajan Elon Muskin kanssa.",
@@ -4869,7 +4879,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Afganistanilainen terroristiryhmä varoittaa ISI:tä ja vannoo kostavansa Pahalgamin terrori-iskun.",
@@ -4889,7 +4901,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Marraskuun 2025 alkuun mennessä Yhdysvaltain presidentti Donald Trumpin hallinto oli käyttänyt 750 miljoonaa dollaria tullituloja naisten, imeväisten ja lasten erityistä lisäravitsemusohjelmaa rahoittamaan.",
@@ -4909,7 +4923,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Yhdysvaltain presidentti Donald Trump on ehdottanut, että dieseliä käyttävät rekkakuskit siirtyisivät bensiiniin polttoainekustannusten leikkaamiseksi.",
@@ -4929,7 +4945,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Bangladeshin krikettijoukkueen pelaaja Mustafizur Rahman vaatii IPL 2026 -kisojen boikottia sen jälkeen, kun Kolkata Knight Riders (KKR) hylkäsi hänet.",
@@ -4949,7 +4967,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Työväenpuolue perui LNP:n tekemät 4 400 terveydenhuollon työntekijän leikkaukset.",
@@ -4969,7 +4989,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Iranin isku Yhdysvaltain tukikohtaan Riadissa, Saudi-Arabiassa.",
@@ -4989,7 +5011,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Rikollisuus Minneapolisissa ”on laskenut 25, 30 %, koska olemme poistaneet alueelta tuhansia rikollisia.”",
@@ -5009,7 +5033,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Yhdysvaltain presidentti Donald Trump armahti huijarin, joka suoritti tuomiotaan paljon suuremman rahamäärän varastamisesta kuin oli saatu Minnesotassa tapahtuneessa laajassa sosiaaliturvapetoksessa, johon osallistui osavaltion somaliyhteisön jäseniä.",
@@ -5029,7 +5055,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sodan päättymisen jälkeen islamilainen hallinto on pidättänyt 700 juutalaista iranilaista, mikä on 1/10 koko Iranin juutalaisyhteisöstä. Heitä syytetään väärin perustein \"Mossadin agenteiksi\" ja ripustetaan nostureihin.",
@@ -5049,7 +5077,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Yhdysvaltain entinen presidentti Barack Obama poisti Britannian entisen pääministerin Winston Churchillin rintakuvan Valkoisesta työhuoneesta ja lähetti sen takaisin Englantiin.",
@@ -5069,7 +5099,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Florida: Mielenterveyshuollossa sija 51, kotivakuutuskustannuksissa sija 1, vanhustenhoitopetoksissa sija 1, vuokrankorotuksissa sija 1.",
@@ -5089,7 +5121,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Bilawal Bhutto Zardari sanoi, että pakistanilaiset agentit istuvat Intian parlamentissa.",
@@ -5109,7 +5143,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kohtuuhintaisen terveydenhuoltolain kautta vakuutettujen vakuutusmaksut nousevat \"75 prosenttia 1. marraskuuta alkaen\", jos tehostettuja tukia ei jatketa, mukaan lukien \"kaksinkertaiset maaseudulla\".",
@@ -5129,7 +5165,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Sri Lankan varaministerin kommentti kuolemantuomiotuomioistuimen päätöksestä",
@@ -5149,7 +5187,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Elokuussa 2025 Floridan senaattori Rick Scott paljasti yli 26 miljoonan dollarin arvosta osakekauppoja yli vuoden lain edellyttämän määräajan jälkeen.",
@@ -5169,7 +5209,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Marraskuussa 2025 Yhdysvaltain presidentti Trump pyysi liikenneministeriötä ottamaan käyttöön 15 vuoden autolainat.",
@@ -5189,7 +5231,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Mies, joka ei ole Yhdysvaltain kansalainen, äänestää Mamdania NYC:n pormestarin vaaleissa.",
@@ -5209,7 +5253,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Queenin keulahahmo Freddie Mercury ei laulanut \"maailman\" lopussa yhtyeen kappaleessa \"We Are the Champions\", joka julkaistiin ensimmäisen kerran vuonna 1977.",
@@ -5229,7 +5275,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Yhdysvaltain kenraali George Patton Jr. sanoi kerran: \"Jumala armahtakoon vihollisiani, koska en minä armahda.\"",
@@ -5249,7 +5297,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "AIMIMin naissiiven puheenjohtaja onnittelee Deepak Kumaria.",
@@ -5269,7 +5319,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Olemme jo saaneet takaisin jopa 35 [henkilöliikenne]rataa, jotka olivat joko lepotilassa tai toimimattomia.\" – Ramaphosa",
@@ -5289,7 +5341,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Väärennös: Alaikäiset ovat nyt oikeutettuja asesopimuksiin Ukrainassa",
@@ -5309,7 +5363,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Asaduddin Owaisi esittämässä aartia Lord Hanumanille temppelissä.",
@@ -5329,7 +5385,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Maaliskuussa 2026 verkossa jaettu kirje on aito viesti, jossa Yhdysvaltain kansallisen terrorisminvastaisen keskuksen johtaja Joe Kent ilmoitti eroavansa Yhdysvaltojen ja Israelin Iranin vastaisen sodan vuoksi.",
@@ -5349,7 +5407,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Vuoden 1994 elokuvassa \"Forrest Gump\" päähenkilö sanoo: \"Elämä oli kuin suklaarasia\", ei \"Elämä on kuin suklaarasia\".",
@@ -5369,7 +5429,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Lisäravinne tehostaa GLP-1:tä ja auttaa insuliiniresistenssiin",
@@ -5389,7 +5451,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Sanoi johtaneensa edustajainhuoneen pyrkimyksiä rakentaa suuri Micronin puolijohdetehdas Syracusen lähelle.",
@@ -5409,7 +5473,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "BJP-ministerin ja piirikunnanvalvojan välinen yhteenotto Uttar Pradeshissa",
@@ -5429,7 +5495,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Yhdysvaltain puolustusministeri Pete Hegseth sanoi: \"On väsyttävää katsella taistelumuodostelmia, tai oikeastaan mitä tahansa muodostelmaa, ja nähdä lihavia joukkoja. Samoin on täysin mahdotonta hyväksyä nähdä lihavia kenraaleja ja amiraaleja Pentagonin käytävillä ja johtamassa komentoja ympäri maata ja maailmaa.\"",
@@ -5449,7 +5517,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Vuodetut Yhdysvaltain hallituksen muistiot vahvistivat, että Yhdysvaltain presidentti Donald Trumpin hallinto testasi \"sisäisiä matkustusrajoituksia\" maan rajojen sisällä vuoden 2025 puolivälissä.",
@@ -5469,7 +5539,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Poliisi: Poliittiset aktivistit eivät aiheuttaneet Oregonin metsäpaloja",
@@ -5489,7 +5561,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Visuaaliset kuvat näyttävät Delhin Punaisen linnoituksen räjähdyksen, joka tapahtui 10. marraskuuta 2025.",
@@ -5509,7 +5583,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Tutkimuksen mukaan vain 23 prosenttia amerikkalaisista osaa osoittaa Iranin kartalla.",
@@ -5529,7 +5605,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Arkansasilainen mies tunnusti syyllisyytensä lapsen vaarantamiseen saatuaan 15-vuotiaan tytön raskaaksi ja välttyi vankeusrangaistukselta.",
@@ -5549,7 +5627,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Yhdysvaltain kongressin tutkimusraporttia vääristellään Etelä-Korean presidentin mustamaalaamiseksi – julkaisut",
@@ -5569,7 +5649,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Näyttelijä Helen Hunt lahjoitti lapsuudenopettajalleen, \"Neiti Eleanorin\", kolme miljoonaa dollaria Oscar-voitoistaan sen jälkeen, kun opettaja menetti työpaikkansa tarjottuaan ylimääräistä opetusta Huntin lukihäiriölle.",
@@ -5589,7 +5671,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Vuonna 2024 jaetut viraalit sosiaalisen median julkaisut kuvailivat tarkasti, kuinka Paul McCartney osti kirjeitä John Lennonin ensimmäisestä avioliitosta ja palautti ne Lennonin entiselle vaimolle viestin kera, jossa tätä kehotettiin olemaan myymättä muistojaan.",
@@ -5609,7 +5693,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Donald Trump twiittasi lahjoittavansa 500 000 dollaria kahden Los Angelesin piirikunnan sheriffin apulaissheriffin kuluihin. Heidät ammuttiin ja he loukkaantuivat kriittisesti 12. syyskuuta 2020.",
@@ -5651,7 +5737,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Presidentti Lee Jae-myung tuomittiin teini-ikäisenä raiskauksesta ja murhasta.",
@@ -5671,7 +5759,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Indianan lainsäätäjät yrittivät säätää lain, joka sallisi osavaltion teloittaa ihmisiä kaasukammioiden ja teloitusryhmien avulla.",
@@ -5691,7 +5781,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Italia ei sallinut SSU:n upseerien seurata Ukrainan joukkuetta olympialaisissa — Reuters",
@@ -5711,7 +5803,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Imran Khanin kritisoitua Macronin islamia koskeviin kommentteihin Ranskan viranomaiset peruuttivat 183 Pakistanin kansalaisen viisumit ja karkottivat 118 maasta.",
@@ -5731,7 +5825,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Vuonna 2022 Virginian vastavalittu oikeusministeri Jay Jones lähetti väkivaltaisia tekstiviestejä Virginian edustajainhuoneen entisestä puhemiehestä Todd Gilbertistä ja hänen lapsistaan.",
@@ -5751,7 +5847,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Päivää ennen järkyttävää eroamistaan entinen varapresidentti Jagdeep Dhankhar vastasi jyrkästi kongressin puheenjohtajan Mallikarjun Khagen Rajya Sabhassa antamaan lausuntoon, jossa hän pelkäsi hallitusta. \"Tämä osa väitteestä poistetaan. Miksi? Koska Intian maanviljelijät ja heidän poikansa eivät pelkää ketään missään olosuhteissa\", Dhankharin kerrotaan sanoneen.",
@@ -5771,7 +5869,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Julkisen velan taso on tällä hetkellä noin 67 prosenttia bruttokansantuotteesta.\"",
@@ -5791,7 +5891,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Yhdysvaltain entinen presidentti Barack Obama \"antoi\" Iranille 1,7 miljardia dollaria käteistä vuonna 2016 lähettäen maahan valtavan määrän rahaa.",
@@ -5811,7 +5913,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Yhdysvaltain presidentti Donald Trumpin heinäkuussa 2025 antaman toimeenpanomääräyksen tavoitteena on \"laitostaa kaikki vammaiset\".",
@@ -5831,7 +5935,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Yhdysvaltain presidentti Donald Trump teki 4 725 tilisiirtoa edesmenneelle, häpeään joutuneelle rahoittajalle ja tuomitulle seksuaalirikolliselle Jeffrey Epsteinille yhteensä 1,1 miljardin dollarin arvosta.",
@@ -5851,7 +5957,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Bangladeshin Muhammad Yunusin johtama väliaikainen hallitus on perunut merkittävien hindufestivaalien, kuten Durga Pujan, Janmashtamin ja Saraswati Pujan, lomapäivät.",
@@ -5871,7 +5979,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Itsenäistyessään Nigeriassa oli 45 miljoonaa asukasta.",
@@ -5891,7 +6001,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Nigeria on Afrikan ja maailman johtava maniokin tuottaja.",
@@ -5911,7 +6023,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Vuonna 2025 Yhdysvaltain maahanmuutto- ja tulliviranomaiset tarjosivat uusille työntekijöille 100 000 dollarin palkkaa 45 000 dollarin allekirjoitusbonuksen lisäksi, mikä on paljon enemmän kuin mitä opettajat tienaavat Yhdysvalloissa.",
@@ -5931,7 +6045,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Kasongo tuli ja hylkäsi tuon järjestelmän ja toi mukanaan jotain nimeltä SHA ja SHIF 104 miljardin Kenian šillingin hinnalla.\"",
@@ -5951,7 +6067,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Joulukuussa 2025 Yhdysvaltain oikeusministeriö julkaisi FBI:n vihjeen, jossa kantelija väitti presidentti Donald Trumpin nähneen setänsä tappavan vastasyntyneen lapsensa ja hävittävän ruumiin Michiganjärvessä, kun hän oli 13-vuotias ja Jeffrey Epstein ihmiskaupasi häntä seksuaaliseen hyväksikäyttöön.",
@@ -5971,7 +6089,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Gandhin patsas tuhottiin Thiruvananthapuramissa sen jälkeen, kun BJP nousi valtaan kaupungissa.",
@@ -5991,7 +6111,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Väärennös: Zelenskyin neuvonantaja Chrystia Freeland on natsiyhteistyökumppanin jälkeläinen",
@@ -6011,7 +6133,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Vuoden 2025 lopulla opetusministeriö ilmoitti, ettei se enää luokittele seuraavia pätevyyksiä ammatillisiksi tutkintoiksi: kasvatustieteen (mukaan lukien opettajan maisterin tutkinnot), hoitotieteen (MSN, DNP), sosiaalityön (MSW, DSW), kansanterveystieteen (MPH, DrPH), lääkärin avustajan, toimintaterapian, fysioterapian, audiologian, puheterapian sekä neuvonnan ja terapian tutkinnot.",
@@ -6031,7 +6155,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"This economy is certainly not a $188 billion economy – it is at least a $350 billion economy.\"",
@@ -6051,7 +6177,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Betel leaf water with cloves can handle oral malodour.",
@@ -6071,7 +6199,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "In March 2026, French Gen. Michel Yakovleff, who served in leadership positions at NATO, said that for France to help the U.S. to secure the Strait of Hormuz would be the equivalent of \"buying cheap tickets to the Titanic.\"",
@@ -6091,7 +6221,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "\"Uganda has entries, about 1.2 million tourists who come in.\"",
@@ -6111,7 +6243,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "George Stephanopoulos, host of ABC’s \"This Week,\" cut off an interview with U.S. Vice President JD Vance after Vance deflected a question about border czar Tom Homan.",
@@ -6131,7 +6265,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "UK Employees unable to work in tier 3 areas will get a combination of Job Support Scheme and Universal Credit, which will mean they get 80% of their wages.",
@@ -6151,7 +6287,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "The acting chief security officer at the U.S Department of Homeland Security as of March 2026 was named Iwona B. Horyn.",
@@ -6171,7 +6309,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Edo State in Nigeria has a 19% unemployment rate.",
@@ -6191,7 +6331,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "First lady Melania Trump’s parents came to the United States through a family-based sponsorship, also referred to derogatorily as “chain migration.”",
@@ -6211,7 +6353,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "China plans to ban Samsung phones over embedded ‘unremovable Israeli spyware",
@@ -6231,7 +6375,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Videomateriaalia Nepalin mielenosoittajien marssista Modin tueksi",
@@ -6251,7 +6397,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Kanadan Ontarion hallituksen mainos \"vääristelee\" presidentti Ronald Reaganin 25. huhtikuuta 1987 pitämää puhetta tulleista.",
@@ -6271,7 +6419,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "Kuvernööri Hochulin virkakaudella kaduillamme on ollut \"enemmän rikollisuutta\".",
@@ -6291,7 +6441,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "MIXED",
-    "gpt5_int_label": 2
+    "gpt5_int_label": 2,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Amit Shah sanoi, että kaikkien puolueiden somevaikuttajat elävät viiden kilon ruoka-annoksellaan.",
@@ -6311,7 +6463,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Yhdysvaltain maahanmuutto- ja tulliviranomaisen agentti, joka ampui ja tappoi Renee Nicole Goodin Minneapolisissa 7. tammikuuta 2026, oli nimeltään Steve Grove.",
@@ -6331,7 +6485,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Konservatiivinen voittoa tavoittelematon järjestö Turning Point USA ilmoitti vaihtoehtoisesta vuoden 2026 Super Bowlin puoliaikashow'sta.",
@@ -6351,7 +6507,9 @@
     "ollama/qwen3:8b_label": "MIXED",
     "ollama/qwen3:8b_int_label": 2,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   },
   {
     "claim": "Megan Byron, Astronomerin entisen toimitusjohtajan Andy Byronin vaimo, jonka väitetty suhde paljastui suudelmakameranäytöllä Coldplayn konsertissa heinäkuussa 2025, julkaisi lausunnon, jossa hän vannoi toimitusjohtajan \"tuntevan\" tekonsa.",
@@ -6371,7 +6529,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "\"Siviilivoimainfrastruktuurin pommittaminen on sotarikos.\"",
@@ -6391,7 +6551,9 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "MIXED",
+    "claude-opus-4-6_int_label": 2
   },
   {
     "claim": "New Yorkin osavaltioon suunnitellut datakeskukset käyttäisivät \"noin kaksinkertaisen määrän energiaa osavaltion kaikkien kotitalouksien yhteenlaskettuun energiankulutukseen verrattuna\".",
@@ -6411,7 +6573,9 @@
     "ollama/qwen3:8b_label": "REFUTES",
     "ollama/qwen3:8b_int_label": 0,
     "gpt5_label": "REFUTES",
-    "gpt5_int_label": 0
+    "gpt5_int_label": 0,
+    "claude-opus-4-6_label": "REFUTES",
+    "claude-opus-4-6_int_label": 0
   },
   {
     "claim": "Maaliskuussa 2026 Yhdysvaltain presidentti Donald Trump sanoi Saudi-Arabian kruununprinssistä Mohammed bin Salmanista: \"Hän ei uskonut suutelevansa persettäni.\"",
@@ -6431,6 +6595,8 @@
     "ollama/qwen3:8b_label": "SUPPORTS",
     "ollama/qwen3:8b_int_label": 1,
     "gpt5_label": "SUPPORTS",
-    "gpt5_int_label": 1
+    "gpt5_int_label": 1,
+    "claude-opus-4-6_label": "SUPPORTS",
+    "claude-opus-4-6_int_label": 1
   }
 ]
