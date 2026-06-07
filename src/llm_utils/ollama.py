@@ -23,7 +23,8 @@ class Ollama:
         load_dotenv()
         self._ollama_client = Client(
             host=os.environ.get("OLLAMA_HOST", "http://localhost:11434"),
-            timeout=20,
+            # Thinking models (e.g. qwen3) can take well over 20s; allow plenty.
+            timeout=int(os.environ.get("OLLAMA_TIMEOUT", "300")),
         )
         self._config_path = config_path
         self._config = self._load_config()
@@ -33,31 +34,47 @@ class Ollama:
         self._llm_options = self._get_llm_config()
         # print("Ollama LLM options:", self._llm_options)
 
-    def generate(self, prompt: str, model: str = None) -> str:
+    def generate(self, prompt: str, model: str = None, think: bool = None) -> str:
         """Generate text using Ollama LLM for the given prompt.
 
         Args:
             prompt: Prompt for the LLM.
             model: Optional model name to override the default config model.
+            think: Set False to disable reasoning for thinking models (qwen3).
 
         Returns:
             Response text from an Ollama LLM.
         """
-        return self.generate_full(prompt, model)["response"].strip()
+        return self.generate_full(prompt, model, think)["response"].strip()
 
-    def generate_full(self, prompt: str, model: str = None) -> Dict[str, Any]:
+    def generate_full(self, prompt: str, model: str = None, think: bool = None) -> Dict[str, Any]:
         """Return the full Ollama response dict (response, model, timings, etc.).
 
         Useful when callers want to log token counts, eval_count,
         total_duration, etc. alongside the text — without re-running.
+
+        ``think=False`` disables the reasoning trace for thinking models
+        (e.g. qwen3). For non-thinking models — or older ollama-python without
+        the ``think`` kwarg — we transparently fall back to a plain call.
         """
         model_name = model or self._model_name
-        response = self._ollama_client.generate(
+        kwargs = dict(
             model=model_name,
             prompt=prompt,
             options=self._llm_options,
             stream=self._stream,
         )
+        if think is not None:
+            kwargs["think"] = think
+        try:
+            response = self._ollama_client.generate(**kwargs)
+        except Exception:
+            # `think` unsupported (old client) or rejected (non-thinking model):
+            # retry without it. For qwen-style models, also nudge via /no_think.
+            kwargs.pop("think", None)
+            if think is False and "/no_think" not in prompt:
+                kwargs["prompt"] = prompt + " /no_think"
+            response = self._ollama_client.generate(**kwargs)
         # ollama-python returns either a dict or a GenerateResponse pydantic
         # model depending on version; normalise to dict so downstream
         # json.dump works cleanly.

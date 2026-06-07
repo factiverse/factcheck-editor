@@ -1,9 +1,21 @@
-"""Translate a JSONL claim-detection file to multiple languages using NLLB-200.
+"""Translate claim/veracity data files to multiple languages using NLLB-200.
 
 Uses facebook/nllb-200-distilled-600M for fast GPU inference.
-Outputs one JSONL file per target language in the same directory.
+Supports both JSONL and JSON-array input files.
+Outputs one translated file per target language in the same directory.
 
 Usage:
+    # Auto-resolve input from task/split:
+    uv run python scripts/translate_nllb.py \
+        --task claim_detection \
+        --split test \
+        --langs fr de es ar hi zh ja ko ru
+
+    uv run python scripts/translate_nllb.py \
+        --task veracity \
+        --split test \
+        --langs fr de es ar hi zh ja ko ru
+
     uv run python scripts/translate_nllb.py \
         --input data/claim_detection/en_clean_test.jsonl \
         --langs fr de es ar hi zh ja ko ru \
@@ -12,13 +24,18 @@ Usage:
     # All XLM-R languages (intersection with NLLB):
     uv run python scripts/translate_nllb.py \
         --input data/claim_detection/en_clean_test.jsonl \
-        --all-xlmr \
+        --all-lang-codes \
         --batch-size 64
+
+    # Veracity prediction test split (translates claim + evidence):
+    uv run python scripts/translate_nllb.py \
+        --input data/veracity_prediction/en_test.json \
+        --langs fr de es ar hi zh ja ko ru \
+        --batch-size 32
 """
 
 import argparse
 import json
-import os
 from pathlib import Path
 
 import torch
@@ -84,30 +101,85 @@ TARGET_LANGS = {
 }
 
 
+def load_lang_codes(path: Path):
+    """Load ISO language codes from lang_codes.json and drop English."""
+    with open(path, "r") as f:
+        data = json.load(f)
+    return sorted(lang for lang in data.keys() if lang != "en")
+
+
 def get_target_langs(args):
     """Return list of ISO codes to translate to."""
-    if args.all_xlmr:
-        # All target langs, minus English
-        return sorted(lang for lang in TARGET_LANGS if lang != "en")
+    if args.all_lang_codes or args.all_xlmr:
+        # Backward compatible: --all-xlmr now behaves like --all-lang-codes.
+        return load_lang_codes(Path(args.lang_codes_file))
     return [l for l in args.langs if l != "en"]
 
 
 def load_data(path: str):
-    """Load JSONL (one JSON per line) or JSON array."""
+    """Load JSONL (one JSON per line) or JSON array.
+
+    Returns:
+        tuple[list[dict], str]: Data rows and input format ("jsonl" or "json").
+    """
     with open(path, "r") as f:
         first_char = f.read(1)
         f.seek(0)
         if first_char == "[":
-            return json.load(f)
+            return json.load(f), "json"
         else:
-            return [json.loads(line) for line in f if line.strip()]
+            return [json.loads(line) for line in f if line.strip()], "jsonl"
 
 
-def get_text_key(row: dict) -> str:
-    for k in ("text", "claim", "sentence"):
-        if k in row:
-            return k
-    raise KeyError(f"No text field found in row: {list(row.keys())}")
+def resolve_input_path(task: str, split: str):
+    """Resolve input file from task/split using known naming conventions."""
+    task_dir_map = {
+        "claim_detection": "data/claim_detection",
+        "veracity": "data/veracity_prediction",
+    }
+    task_dir = Path(task_dir_map[task])
+
+    if task == "claim_detection":
+        candidates = [
+            task_dir / f"en_clean_{split}.jsonl",
+            task_dir / f"en_{split}.jsonl",
+            task_dir / f"en_{split}.json",
+        ]
+    else:
+        candidates = [
+            task_dir / f"en_{split}.json",
+            task_dir / f"en_{split}.jsonl",
+        ]
+
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+
+    raise FileNotFoundError(
+        "Could not resolve input file for task/split. Checked: "
+        + ", ".join(str(c) for c in candidates)
+    )
+
+
+def get_text_keys(row: dict, requested_text_keys):
+    """Return text keys to translate for a row schema.
+
+    If --text-keys is provided, only those keys are used (and validated).
+    Otherwise, all known text fields present in the row are translated.
+    """
+    candidate_keys = ("text", "claim", "sentence", "evidence")
+    if requested_text_keys:
+        missing = [k for k in requested_text_keys if k not in row]
+        if missing:
+            raise KeyError(
+                f"Requested text key(s) not found: {missing}; available keys: {list(row.keys())}"
+            )
+        return requested_text_keys
+
+    detected = [k for k in candidate_keys if k in row]
+    if not detected:
+        raise KeyError(f"No text field found in row: {list(row.keys())}")
+    return detected
 
 
 def translate_batch(texts, tokenizer, model, tgt_nllb_code, max_length=256):
@@ -129,33 +201,65 @@ def translate_batch(texts, tokenizer, model, tgt_nllb_code, max_length=256):
 
 def main():
     parser = argparse.ArgumentParser(description="Translate JSONL with NLLB-200")
-    parser.add_argument("--input", required=True, help="Input JSONL/JSON file")
+    parser.add_argument(
+        "--task",
+        choices=["claim_detection", "veracity"],
+        default="claim_detection",
+        help="Task to translate (used to auto-resolve input when --input is omitted)",
+    )
+    parser.add_argument(
+        "--split",
+        default="test",
+        help="Data split name used with --task when --input is omitted",
+    )
+    parser.add_argument(
+        "--input",
+        default=None,
+        help="Optional explicit input JSONL/JSON file; overrides --task/--split resolution",
+    )
     parser.add_argument("--output-dir", default=None,
                         help="Output directory (default: same as input)")
     parser.add_argument("--langs", nargs="+", default=[],
                         help="Target ISO 639-1 language codes")
+    parser.add_argument(
+        "--all-lang-codes",
+        action="store_true",
+        help="Translate to all languages from src/utils/lang_codes.json",
+    )
     parser.add_argument("--all-xlmr", action="store_true",
-                        help="Translate to all XLM-R supported languages")
+                        help="Deprecated alias for --all-lang-codes")
+    parser.add_argument(
+        "--lang-codes-file",
+        default=str(Path(__file__).resolve().parent.parent / "src" / "utils" / "lang_codes.json"),
+        help="Path to lang_codes.json used by --all-lang-codes",
+    )
     parser.add_argument("--batch-size", type=int, default=64)
     parser.add_argument("--model", default="facebook/nllb-200-distilled-600M",
                         help="NLLB model to use")
+    parser.add_argument(
+        "--text-keys",
+        nargs="+",
+        default=None,
+        help="Optional text fields to translate (e.g. --text-keys claim evidence). "
+        "Default: auto-detect from first row.",
+    )
     args = parser.parse_args()
 
     target_langs = get_target_langs(args)
     if not target_langs:
-        print("No target languages specified. Use --langs or --all-xlmr")
+        print("No target languages specified. Use --langs or --all-lang-codes")
         return
 
-    # Determine output directory
-    input_path = Path(args.input)
+    # Determine input/output paths
+    input_path = Path(args.input) if args.input else resolve_input_path(args.task, args.split)
+    print(f"Using input: {input_path}")
     output_dir = Path(args.output_dir) if args.output_dir else input_path.parent
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Load data
-    data = load_data(args.input)
-    text_key = get_text_key(data[0])
-    texts = [row[text_key] for row in data]
-    print(f"Loaded {len(texts)} rows from {args.input} (text_key={text_key!r})")
+    data, input_format = load_data(str(input_path))
+    text_keys = get_text_keys(data[0], args.text_keys)
+    print(f"Loaded {len(data)} rows from {input_path} (text_keys={text_keys!r}, format={input_format})")
 
     # Load model
     print(f"Loading {args.model} ...")
@@ -190,19 +294,28 @@ def main():
             continue
 
         print(f"  [{lang}] Translating → {out_path} ...")
-        translated_texts = []
-        for i in tqdm(range(0, len(texts), args.batch_size), desc=f"  {lang}", leave=False):
-            batch = texts[i:i + args.batch_size]
-            translated = translate_batch(batch, tokenizer, model, nllb_code)
-            translated_texts.extend(translated)
+        out_rows = [dict(row) for row in data]
+        for text_key in text_keys:
+            texts = [str(row.get(text_key, "")) for row in data]
+            translated_texts = []
+            for i in tqdm(range(0, len(texts), args.batch_size), desc=f"  {lang}:{text_key}", leave=False):
+                batch = texts[i:i + args.batch_size]
+                translated = translate_batch(batch, tokenizer, model, nllb_code)
+                translated_texts.extend(translated)
 
-        # Write output
-        with open(out_path, "w") as f:
-            for row, trans in zip(data, translated_texts):
-                out_row = dict(row)
+            for out_row, trans in zip(out_rows, translated_texts):
                 out_row[text_key] = trans
-                out_row["lang"] = lang
-                f.write(json.dumps(out_row, ensure_ascii=False) + "\n")
+
+        for out_row in out_rows:
+            out_row["lang"] = lang
+
+        # Preserve the same file format as input.
+        with open(out_path, "w") as f:
+            if input_format == "json":
+                json.dump(out_rows, f, ensure_ascii=False, indent=2)
+            else:
+                for row in out_rows:
+                    f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
     print("\nDone!")
 

@@ -262,11 +262,13 @@ class OpenAIUtils:
             logger.debug(f"Using API version: {api_version} for model: {model}")
             
             if model == "claude-opus-4-6":
-                # For Anthropic Claude, the API call structure is different
+                # Anthropic Claude requires `messages` and `max_tokens`
+                # (not the Responses-API `input=`).
                 api_params = {
                     "model": model,
-                    "input": [{"role": "user", "content": prompt}],
+                    "messages": [{"role": "user", "content": prompt}],
                     "system": system_message,
+                    "max_tokens": max_tokens,
                     "temperature": 0.0,
                 }
                 logger.debug(f"API call parameters: {api_params}")

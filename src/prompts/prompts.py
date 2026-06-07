@@ -19,13 +19,13 @@ IDENTIFY_STANCE_PROMPT = """Given a claim and it's associated evidence, both in 
 SUPPORTS: The evidence supports the claim.
 REFUTES: The evidence refutes the claim.
 MIXED: The evidence contains both supporting and refuting information.
-NOT_ENOUGH_INFO: The evidence does not provide enough information to determine the stance.
+
+Respond with exactly one of: SUPPORTS, REFUTES, MIXED.
 
 Examples:
 Claim: "India has the largest population in the world.", Evidence: "When did India overtake China in population? In 2023 India overtook China to become the most populous country." You should return "SUPPORTS".
 Claim: "The earth is flat.", Evidence: "Numerous scientific studies and satellite images have confirmed that the earth is spherical." You should return "REFUTES".
 Claim: "The new policy will improve healthcare.", Evidence: "The new policy has some provisions that enhance healthcare access, but it also has budget cuts that may negatively impact services." You should return "MIXED".
-Claim: "Ivermectin is a treatment for coronavirus.", Evidence: "There is no conclusive evidence that ivermectin is effective in treating COVID-19, and health authorities do not recommend its use for this purpose." You should return "NOT_ENOUGH_INFO".
 
 Claim: {claim}
 Evidence: {evidence}"""
