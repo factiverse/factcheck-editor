@@ -38,9 +38,9 @@ if __name__ == "__main__":
     with open("src/utils/lang_codes.json") as iso639_file:
         ISO639_FILE = json.load(iso639_file)
 
-    # Backup existing f1_scores.tsv before overwriting
+    # Backup existing claim_detection_f1_scores.tsv before overwriting
     import shutil
-    tsv_path = f"{data_folder}/f1_scores.tsv"
+    tsv_path = f"{data_folder}/claim_detection_f1_scores.tsv"
     if os.path.exists(tsv_path):
         backup_path = f"{tsv_path}.backup"
         shutil.copy(tsv_path, backup_path)
@@ -95,7 +95,7 @@ if __name__ == "__main__":
                 continue
 
     # ── Plotting ─────────────────────────────────────────────────────────────
-    data = pd.read_csv(f"{data_folder}/f1_scores.tsv", delimiter="\t")
+    data = pd.read_csv(f"{data_folder}/claim_detection_f1_scores.tsv", delimiter="\t")
 
     lang_names = {
         lang: (meta["name"] if isinstance(meta, dict) else meta)
