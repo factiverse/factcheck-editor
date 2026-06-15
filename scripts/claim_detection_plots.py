@@ -48,11 +48,11 @@ if __name__ == "__main__":
 
     with open(tsv_path, "w") as f1_file:
         f1_file.write(
-            "lang\tollama_macro\tollama_micro\t"
-            "claude_macro\tclaude_micro\t"
+            "lang\tqwen3_8b_macro\tqwen3_8b_micro\t"
+            "opus_4_6_macro\topus_4_6_micro\t"
             "gpt52_macro\tgpt52_micro\t"
             "facti_macro\tfacti_micro\t"
-            "openrouter_macro\topenrouter_micro\n"
+            "gemini_3_5_macro\tgemini_3_5_micro\n"
         )
         for lang in ISO639_FILE.keys():
             data = load_claim_pred_data(lang)
@@ -76,26 +76,46 @@ if __name__ == "__main__":
                         f1_score(list(gt), list(preds), average="micro",  zero_division=0),
                     )
 
-                ollama_macro,     ollama_micro     = _f1(_pairs("ollama_pred"))
-                claude_macro,     claude_micro     = _f1(_pairs("claude_opus_4_6_pred"))
+                qwen3_8b_macro,   qwen3_8b_micro   = _f1(_pairs("ollama_pred"))
+                opus_4_6_macro,   opus_4_6_micro   = _f1(_pairs("claude_opus_4_6_pred"))
                 gpt52_macro,      gpt52_micro      = _f1(_pairs("gpt52_pred"))
                 facti_macro,      facti_micro      = _f1(_pairs("facti_local_pred"))
-                openrouter_macro, openrouter_micro = _f1(_pairs("openrouter_pred"))
+                gemini_3_5_macro, gemini_3_5_micro = _f1(_pairs("openrouter_pred"))
 
                 f1_file.write(
                     f"{lang}\t"
-                    f"{ollama_macro}\t{ollama_micro}\t"
-                    f"{claude_macro}\t{claude_micro}\t"
+                    f"{qwen3_8b_macro}\t{qwen3_8b_micro}\t"
+                    f"{opus_4_6_macro}\t{opus_4_6_micro}\t"
                     f"{gpt52_macro}\t{gpt52_micro}\t"
                     f"{facti_macro}\t{facti_micro}\t"
-                    f"{openrouter_macro}\t{openrouter_micro}\n"
+                    f"{gemini_3_5_macro}\t{gemini_3_5_micro}\n"
                 )
             except Exception as e:
                 print(f"Failed to process {lang}: {e}")
                 continue
 
-    # ── Plotting ─────────────────────────────────────────────────────────────
+    # ── Create separate macro and micro files ────────────────────────────────
     data = pd.read_csv(f"{data_folder}/claim_detection_f1_scores.tsv", delimiter="\t")
+
+    # Extract macro columns
+    macro_cols = ["lang"] + [col for col in data.columns if "macro" in col]
+    data_macro = data[macro_cols].copy()
+    # Rename columns to remove _macro suffix for cleaner output
+    data_macro.columns = [col.replace("_macro", "") for col in data_macro.columns]
+    macro_path = f"{data_folder}/claim_detection_f1_scores_macro.tsv"
+    data_macro.to_csv(macro_path, sep="\t", index=False)
+    print(f"Saved {macro_path}")
+
+    # Extract micro columns
+    micro_cols = ["lang"] + [col for col in data.columns if "micro" in col]
+    data_micro = data[micro_cols].copy()
+    # Rename columns to remove _micro suffix for cleaner output
+    data_micro.columns = [col.replace("_micro", "") for col in data_micro.columns]
+    micro_path = f"{data_folder}/claim_detection_f1_scores_micro.tsv"
+    data_micro.to_csv(micro_path, sep="\t", index=False)
+    print(f"Saved {micro_path}")
+
+    # ── Plotting ─────────────────────────────────────────────────────────────
 
     lang_names = {
         lang: (meta["name"] if isinstance(meta, dict) else meta)
@@ -112,10 +132,10 @@ if __name__ == "__main__":
     fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
-    ax.bar(index - 2.0*bar_width, data_sorted["ollama_micro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
-    ax.bar(index - 1.0*bar_width, data_sorted["claude_micro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
+    ax.bar(index - 2.0*bar_width, data_sorted["qwen3_8b_micro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
+    ax.bar(index - 1.0*bar_width, data_sorted["opus_4_6_micro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
     ax.bar(index + 0.0*bar_width, data_sorted["gpt52_micro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
-    ax.bar(index + 2.0*bar_width, data_sorted["openrouter_micro"], bar_width, alpha=opacity, label="Gemini 3.5 Flash", color="purple")
+    ax.bar(index + 2.0*bar_width, data_sorted["gemini_3_5_micro"], bar_width, alpha=opacity, label="Gemini 3.5 Flash", color="purple")
     ax.bar(index + 1.0*bar_width, data_sorted["facti_micro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
     
 
@@ -135,11 +155,11 @@ if __name__ == "__main__":
     fig, ax = plt.subplots(figsize=(20, 10))
     index = np.arange(len(data_sorted))
 
-    ax.bar(index - 2.0*bar_width, data_sorted["ollama_macro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
-    ax.bar(index - 1.0*bar_width, data_sorted["claude_macro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
+    ax.bar(index - 2.0*bar_width, data_sorted["qwen3_8b_macro"], bar_width, alpha=opacity, label="Qwen3-8B",       color="green")
+    ax.bar(index - 1.0*bar_width, data_sorted["opus_4_6_macro"], bar_width, alpha=opacity, label="Claude Opus 4.6",color="yellow")
     ax.bar(index + 0.0*bar_width, data_sorted["gpt52_macro"],  bar_width, alpha=opacity, label="GPT-5.2",        color="red")
     ax.bar(index + 1.0*bar_width, data_sorted["facti_macro"],  bar_width, alpha=opacity, label="XLM-RoBERTa-Large (fine-tuned)",     color="blue")
-    ax.bar(index + 2.0*bar_width, data_sorted["openrouter_macro"], bar_width, alpha=opacity, label="Gemini 3.5 Flash", color="purple")
+    ax.bar(index + 2.0*bar_width, data_sorted["gemini_3_5_macro"], bar_width, alpha=opacity, label="Gemini 3.5 Flash", color="purple")
 
     ax.set_xlabel("Language", fontsize=16)
     ax.set_ylabel("Macro F1 Score", fontsize=16)
@@ -153,16 +173,16 @@ if __name__ == "__main__":
 
     # ── Averages ──────────────────────────────────────────────────────────────
     for col, label in [
-        ("ollama_micro",  "Qwen3-8B     Micro-F1"),
-        ("ollama_macro",  "Qwen3-8B     Macro-F1"),
-        ("claude_micro",  "Claude Opus  Micro-F1"),
-        ("claude_macro",  "Claude Opus  Macro-F1"),
+        ("qwen3_8b_micro",  "Qwen3-8B     Micro-F1"),
+        ("qwen3_8b_macro",  "Qwen3-8B     Macro-F1"),
+        ("opus_4_6_micro",  "Claude Opus  Micro-F1"),
+        ("opus_4_6_macro",  "Claude Opus  Macro-F1"),
         ("gpt52_micro",   "GPT-5.2      Micro-F1"),
         ("gpt52_macro",   "GPT-5.2      Macro-F1"),
         ("facti_micro",   "XLM-RoBERTa-Large (fine-tuned)   Micro-F1"),
         ("facti_macro",   "XLM-RoBERTa-Large (fine-tuned)   Macro-F1"),
-        ("openrouter_micro", "Gemini 3.5 Flash Micro-F1"),
-        ("openrouter_macro", "Gemini 3.5 Flash Macro-F1"),
+        ("gemini_3_5_micro", "Gemini 3.5 Flash Micro-F1"),
+        ("gemini_3_5_macro", "Gemini 3.5 Flash Macro-F1"),
     ]:
         if col in data.columns:
             print(f"{label}: {data[col].mean():.4f}")
